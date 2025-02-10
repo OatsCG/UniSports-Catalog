@@ -1,0 +1,10 @@
+{
+  "catalog": [
+    {
+      "title": "University of Toronto Mississauga",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png",
+      "version_url": "https://raw.githubusercontent.com/OatsCG/UTM-Drop-Ins-Schedule/refs/heads/main/version.txt",
+      "schedule_url": "https://raw.githubusercontent.com/OatsCG/UTM-Drop-Ins-Schedule/refs/heads/main/events.json"
+    }
+  ]
+}
