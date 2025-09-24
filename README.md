@@ -3,16 +3,16 @@
 
 
 ## Schema
-```ts
-{
-  "catalog": [
-    {
-      "title": String,
-      "icon": String, // Image URL
-      "version_url": String, // .TXT URL
-      "schedule_url": String // .JSON URL
-    },
-    ...
-  ]
-}
+```
+.
+├── meta.json
+├── UTM
+│   ├── events.json
+│   ├── version.txt
+├── MM
+│   ├── events.json
+│   ├── version.txt
+
+...
+
 ```
