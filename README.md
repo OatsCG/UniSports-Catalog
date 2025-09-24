@@ -1,4 +1,4 @@
-# Drop-In Sports Catalog
+# UniSports Catalog
 #### A catalog of university drop-in sports schedules that support the Drop-In Sports app.
 
 
