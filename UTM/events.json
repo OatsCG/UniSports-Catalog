@@ -65981,26 +65981,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 322212527,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pool Closed for Scheduled Maintenance",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-07 11:07:00",
-            "end_date": "2025-12-23 11:07:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": true,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2259805373,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Climbs: Indoor Climbing Adventure",
