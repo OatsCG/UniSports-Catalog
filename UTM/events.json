@@ -85,6 +85,12 @@
             "isMedal": false
         },
         {
+            "title": "Golf",
+            "symbol": "figure.golf",
+            "isChip": false,
+            "isMedal": false
+        },
+        {
             "title": "Swim",
             "symbol": "water.waves",
             "isChip": true,
