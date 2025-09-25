@@ -17,9 +17,9 @@
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png"
         },
         {
-            "schoolID": "MG",
-            "schoolName": "McGill University",
-            "schoolNameShort": "McGill University",
+            "schoolID": "MM",
+            "schoolName": "McMaster University",
+            "schoolNameShort": "McMaster",
             "colourPrimary": {
                 "r": 20,
                 "g": 10,
