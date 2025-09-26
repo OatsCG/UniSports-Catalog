@@ -37,16 +37,16 @@
             "schoolName": "University of Waterloo",
             "schoolNameShort": "Waterloo",
             "colourDark": {
-                "r": 111,
-                "g": 19,
-                "b": 60
+                "r": 248,
+                "g": 216,
+                "b": 103
             },
             "colourLight": {
                 "r": 192,
                 "g": 33,
                 "b": 104
             },
-            "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/6/6f/Uni_mcmaster_logo.svg/500px-Uni_mcmaster_logo.svg.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"
         }
     ]
 }
