@@ -47,6 +47,22 @@
                 "b": 104
             },
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"
+        },
+        {
+            "schoolID": "QU",
+            "schoolName": "Queens University",
+            "schoolNameShort": "Queens",
+            "colourDark": {
+                "r": 170,
+                "g": 38,
+                "b": 56
+            },
+            "colourLight": {
+                "r": 192,
+                "g": 33,
+                "b": 104
+            },
+            "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/QueensU_Crest.svg"
         }
     ]
 }
