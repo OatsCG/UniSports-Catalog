@@ -4,15 +4,15 @@
             "schoolID": "UTM",
             "schoolName": "University of Toronto Mississauga",
             "schoolNameShort": "UofT Mississauga",
-            "colourPrimary": {
-                "r": 20,
-                "g": 10,
-                "b": 255
-            },
-            "colourSecondary": {
+            "colourDark": {
                 "r": 0,
-                "g": 50,
-                "b": 200
+                "g": 42,
+                "b": 92
+            },
+            "colourLight": {
+                "r": 206,
+                "g": 227,
+                "b": 253
             },
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png"
         },
@@ -20,15 +20,15 @@
             "schoolID": "MM",
             "schoolName": "McMaster University",
             "schoolNameShort": "McMaster",
-            "colourPrimary": {
-                "r": 20,
-                "g": 10,
-                "b": 255
+            "colourDark": {
+                "r": 111,
+                "g": 19,
+                "b": 60
             },
-            "colourSecondary": {
-                "r": 0,
-                "g": 50,
-                "b": 200
+            "colourLight": {
+                "r": 255,
+                "g": 255,
+                "b": 255
             },
             "logo": ""
         }
