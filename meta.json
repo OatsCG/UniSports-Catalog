@@ -62,7 +62,23 @@
                 "g": 33,
                 "b": 104
             },
-            "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/QueensU_Crest.svg"
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/QueensU_Crest.svg/1280px-QueensU_Crest.svg.png"
+        },
+        {
+            "schoolID": "WU",
+            "schoolName": "Western University",
+            "schoolNameShort": "Western",
+            "colourDark": {
+                "r": 74,
+                "g": 40,
+                "b": 126
+            },
+            "colourLight": {
+                "r": 192,
+                "g": 33,
+                "b": 104
+            },
+            "logo": "https://play-lh.googleusercontent.com/8-W6qPF9Xv1C5NzPGJH9wvdH1SxXys7IAdtXcWSI09-jg1VDi_mKqqp4o-tHi20D8i8"
         }
     ]
 }
