@@ -10,9 +10,9 @@
                 "b": 92
             },
             "colourLight": {
-                "r": 206,
-                "g": 227,
-                "b": 253
+                "r": 0,
+                "g": 96,
+                "b": 214
             },
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png"
         },
@@ -26,9 +26,25 @@
                 "b": 60
             },
             "colourLight": {
-                "r": 252,
-                "g": 215,
-                "b": 232
+                "r": 192,
+                "g": 33,
+                "b": 104
+            },
+            "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/6/6f/Uni_mcmaster_logo.svg/500px-Uni_mcmaster_logo.svg.png"
+        },
+        {
+            "schoolID": "UW",
+            "schoolName": "University of Waterloo",
+            "schoolNameShort": "Waterloo",
+            "colourDark": {
+                "r": 111,
+                "g": 19,
+                "b": 60
+            },
+            "colourLight": {
+                "r": 192,
+                "g": 33,
+                "b": 104
             },
             "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/6/6f/Uni_mcmaster_logo.svg/500px-Uni_mcmaster_logo.svg.png"
         }
