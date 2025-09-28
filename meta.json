@@ -118,6 +118,40 @@
                 "b": 104
             },
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy8uHp7Ytb-ukZfNusier9PdMciKFVLpMkAQ&s"
+        },
+        {
+            "schoolID": "YUK",
+            "schoolName": "York University: Keele Campus",
+            "schoolNameShort": "YorkU Keele",
+            "location": "Toronto, Ontario, CA",
+            "colourDark": {
+                "r": 208,
+                "g": 52,
+                "b": 61
+            },
+            "colourLight": {
+                "r": 192,
+                "g": 33,
+                "b": 104
+            },
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/York-icon.png"
+        },
+        {
+            "schoolID": "YUM",
+            "schoolName": "York University: Markham Campus",
+            "schoolNameShort": "YorkU Markham",
+            "location": "Markham, Ontario, CA",
+            "colourDark": {
+                "r": 208,
+                "g": 52,
+                "b": 61
+            },
+            "colourLight": {
+                "r": 192,
+                "g": 33,
+                "b": 104
+            },
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/York-icon.png"
         }
     ]
 }
