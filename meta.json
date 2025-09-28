@@ -84,6 +84,23 @@
                 "b": 104
             },
             "logo": "https://play-lh.googleusercontent.com/8-W6qPF9Xv1C5NzPGJH9wvdH1SxXys7IAdtXcWSI09-jg1VDi_mKqqp4o-tHi20D8i8"
+        },
+        {
+            "schoolID": "UWN",
+            "schoolName": "University of Windsor",
+            "schoolNameShort": "Windsor",
+            "location": "Windsor, Ontario, CA",
+            "colourDark": {
+                "r": 34,
+                "g": 84,
+                "b": 145
+            },
+            "colourLight": {
+                "r": 192,
+                "g": 33,
+                "b": 104
+            },
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk667F-w3yNhNCbZYmOHItq1sd-te0vne_rw&s"
         }
     ]
 }
