@@ -4,6 +4,7 @@
             "schoolID": "UTM",
             "schoolName": "University of Toronto Mississauga",
             "schoolNameShort": "UofT Mississauga",
+            "location": "Mississauga, Ontario, CA",
             "colourDark": {
                 "r": 0,
                 "g": 42,
@@ -20,6 +21,7 @@
             "schoolID": "MM",
             "schoolName": "McMaster University",
             "schoolNameShort": "McMaster",
+            "location": "Hamilton, Ontario, CA",
             "colourDark": {
                 "r": 111,
                 "g": 19,
@@ -36,6 +38,7 @@
             "schoolID": "UW",
             "schoolName": "University of Waterloo",
             "schoolNameShort": "Waterloo",
+            "location": "Waterloo, Ontario, CA",
             "colourDark": {
                 "r": 248,
                 "g": 216,
@@ -52,6 +55,7 @@
             "schoolID": "QU",
             "schoolName": "Queens University",
             "schoolNameShort": "Queens",
+            "location": "Kingston, Ontario, CA",
             "colourDark": {
                 "r": 170,
                 "g": 38,
@@ -68,6 +72,7 @@
             "schoolID": "WU",
             "schoolName": "Western University",
             "schoolNameShort": "Western",
+            "location": "London, Ontario, CA",
             "colourDark": {
                 "r": 74,
                 "g": 40,
