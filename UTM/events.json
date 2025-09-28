@@ -23391,26 +23391,6 @@
             ]
         },
         {
-            "id": 538661733,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals: Open Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-26 16:30:00",
-            "end_date": "2025-09-26 20:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3615395342,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Basketball",
@@ -23431,6 +23411,26 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 538661733,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Intramurals: Open Cricket",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-26 16:30:00",
+            "end_date": "2025-09-26 20:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Cricket",
+            "symbol": "cricket.ball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 2229346327,
@@ -23693,16 +23693,16 @@
             ]
         },
         {
-            "id": 3317611524,
+            "id": 568089970,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
+            "title": "*Canecelled* UTM RUNS",
             "description": "",
             "image": "",
             "start_date": "2025-09-27 10:30:00",
             "end_date": "2025-09-27 10:30:00",
             "venue": "RAWC Lobby",
-            "ticket_label": "Reserve Your Spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=49a4a9c7-994b-4caa-8396-d41df0f97585",
+            "ticket_label": "",
+            "ticket_url": "",
             "sortCategory": "Recreation",
             "symbol": "figure.run",
             "womens": false,
@@ -23710,9 +23710,7 @@
             "bipoc": false,
             "intramurals": false,
             "closure": false,
-            "weeklyRepetitions": [
-                "sa"
-            ]
+            "weeklyRepetitions": []
         },
         {
             "id": 3311979964,
@@ -65434,26 +65432,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 979236649,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Ascends: Treetop Trekking Adventure",
-            "description": "Zip, climb, and conquer the canopy! Navigate through a treetop obstacle course filled with ziplines, rope bridges, and forest views \u2014 perfect for thrill-seekers and beginners alike.",
-            "image": "",
-            "start_date": "2025-09-27 09:30:00",
-            "end_date": "2025-09-27 16:00:00",
-            "venue": "Off-Campus",
-            "ticket_label": "Learn more & Register",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-moves/utm-outdoor-adventures/utm-ascends-treetop-trekking-adventure",
-            "sortCategory": "Recreation",
-            "symbol": "figure.climbing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 2928946235,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
