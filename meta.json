@@ -101,6 +101,23 @@
                 "b": 104
             },
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk667F-w3yNhNCbZYmOHItq1sd-te0vne_rw&s"
+        },
+        {
+            "schoolID": "DOT",
+            "schoolName": "Ontario Tech University",
+            "schoolNameShort": "Ontario Tech",
+            "location": "Oshawa, Ontario, CA",
+            "colourDark": {
+                "r": 225,
+                "g": 113,
+                "b": 75
+            },
+            "colourLight": {
+                "r": 192,
+                "g": 33,
+                "b": 104
+            },
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy8uHp7Ytb-ukZfNusier9PdMciKFVLpMkAQ&s"
         }
     ]
 }
