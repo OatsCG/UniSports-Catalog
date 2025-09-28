@@ -22844,7 +22844,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -23024,7 +23024,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -27424,7 +27424,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -27744,7 +27744,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -27984,7 +27984,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -32544,7 +32544,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -33144,7 +33144,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -39064,7 +39064,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -39144,7 +39144,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -39264,7 +39264,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -39604,7 +39604,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -39904,7 +39904,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -39944,7 +39944,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -43764,7 +43764,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -45764,7 +45764,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -46244,7 +46244,7 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -46444,7 +46444,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -46544,7 +46544,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -52284,7 +52284,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -52604,7 +52604,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -52644,7 +52644,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -53044,7 +53044,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -58444,7 +58444,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -59064,7 +59064,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -59184,7 +59184,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -59464,7 +59464,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -59504,7 +59504,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -62324,7 +62324,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -63944,7 +63944,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -64024,7 +64024,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -70104,7 +70104,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -70784,7 +70784,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
