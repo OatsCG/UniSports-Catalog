@@ -11,9 +11,9 @@
                 "b": 92
             },
             "colourLight": {
-                "r": 0,
-                "g": 96,
-                "b": 214
+                "r": 255,
+                "g": 255,
+                "b": 255
             },
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png"
         },
@@ -28,9 +28,9 @@
                 "b": 60
             },
             "colourLight": {
-                "r": 192,
-                "g": 33,
-                "b": 104
+                "r": 255,
+                "g": 255,
+                "b": 255
             },
             "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/6/6f/Uni_mcmaster_logo.svg/500px-Uni_mcmaster_logo.svg.png"
         },
@@ -45,9 +45,9 @@
                 "b": 103
             },
             "colourLight": {
-                "r": 192,
-                "g": 33,
-                "b": 104
+                "r": 255,
+                "g": 255,
+                "b": 255
             },
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"
         },
@@ -62,9 +62,9 @@
                 "b": 56
             },
             "colourLight": {
-                "r": 192,
-                "g": 33,
-                "b": 104
+                "r": 255,
+                "g": 255,
+                "b": 255
             },
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/QueensU_Crest.svg/1280px-QueensU_Crest.svg.png"
         },
@@ -79,9 +79,9 @@
                 "b": 126
             },
             "colourLight": {
-                "r": 192,
-                "g": 33,
-                "b": 104
+                "r": 255,
+                "g": 255,
+                "b": 255
             },
             "logo": "https://play-lh.googleusercontent.com/8-W6qPF9Xv1C5NzPGJH9wvdH1SxXys7IAdtXcWSI09-jg1VDi_mKqqp4o-tHi20D8i8"
         },
@@ -96,9 +96,9 @@
                 "b": 145
             },
             "colourLight": {
-                "r": 192,
-                "g": 33,
-                "b": 104
+                "r": 255,
+                "g": 255,
+                "b": 255
             },
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk667F-w3yNhNCbZYmOHItq1sd-te0vne_rw&s"
         },
@@ -113,9 +113,9 @@
                 "b": 75
             },
             "colourLight": {
-                "r": 192,
-                "g": 33,
-                "b": 104
+                "r": 255,
+                "g": 255,
+                "b": 255
             },
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy8uHp7Ytb-ukZfNusier9PdMciKFVLpMkAQ&s"
         },
@@ -130,9 +130,9 @@
                 "b": 61
             },
             "colourLight": {
-                "r": 192,
-                "g": 33,
-                "b": 104
+                "r": 255,
+                "g": 255,
+                "b": 255
             },
             "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/York-icon.png"
         },
@@ -147,11 +147,28 @@
                 "b": 61
             },
             "colourLight": {
-                "r": 192,
-                "g": 33,
-                "b": 104
+                "r": 255,
+                "g": 255,
+                "b": 255
             },
             "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/York-icon.png"
+        },
+        {
+            "schoolID": "CU",
+            "schoolName": "Carleton University",
+            "schoolNameShort": "Carleton",
+            "location": "Ottawa, Ontario, CA",
+            "colourDark": {
+                "r": 216,
+                "g": 55,
+                "b": 49
+            },
+            "colourLight": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3bpaajdKNjrOgyHtoX5J2kGA-t0nVZeaYQ&s"
         }
     ]
 }
