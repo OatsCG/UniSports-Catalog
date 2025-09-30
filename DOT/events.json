@@ -3291,26 +3291,6 @@
     ],
     "featured": [
         {
-            "id": 3537701579,
-            "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
-            "title": "Open Gym Time - Badminton & Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-29 07:00:00",
-            "end_date": "2025-09-29 19:00:00",
-            "venue": "Gym 3",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3388962798,
             "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
             "title": "Open Gym Time - Badminton",
