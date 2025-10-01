@@ -25201,6 +25201,26 @@
             ]
         },
         {
+            "id": 600783777,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-30 07:00:00",
+            "end_date": "2025-09-30 15:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 4250741785,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -25287,26 +25307,6 @@
             "weeklyRepetitions": [
                 "tu"
             ]
-        },
-        {
-            "id": 600783777,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-30 07:00:00",
-            "end_date": "2025-09-30 15:00:00",
-            "venue": "Tennis Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Tennis",
-            "symbol": "tennisball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 2935332923,
@@ -25901,7 +25901,7 @@
         {
             "id": 4025517734,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals Open Badminton Singles",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-09-30 19:00:00",
@@ -25914,7 +25914,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": true,
+            "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
                 "tu"
@@ -30399,7 +30399,7 @@
         {
             "id": 2838686168,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals Open Badminton Singles",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 19:00:00",
@@ -30412,7 +30412,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": true,
+            "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
                 "tu"
@@ -34311,7 +34311,7 @@
         {
             "id": 4277862975,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals Open Badminton Singles",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-10-14 19:00:00",
@@ -34324,7 +34324,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": true,
+            "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
                 "tu"
@@ -38825,7 +38825,7 @@
         {
             "id": 1562736698,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals Open Badminton Singles",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-10-21 19:00:00",
@@ -38838,7 +38838,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": true,
+            "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
                 "tu"
