@@ -1,5 +1,5 @@
 # UniSports Catalog
-#### A catalog of university drop-in sports schedules that support the Drop-In Sports app.
+#### A catalog of universities' drop-in sports schedules. Used in the UniSports app.
 
 
 ## Schema
