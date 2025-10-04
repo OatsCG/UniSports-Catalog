@@ -48311,26 +48311,6 @@
     ],
     "featured": [
         {
-            "id": 2285511586,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Event- Glow in the Dark Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-03 19:00:00",
-            "end_date": "2025-10-03 22:00:00",
-            "venue": "Gymnasia",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1021912774,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Public Order Unit (POU) Training - Jeff Burke LPS",
