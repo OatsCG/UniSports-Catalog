@@ -27325,6 +27325,28 @@
             ]
         },
         {
+            "id": 2274553695,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-03 07:00:00",
+            "end_date": "2025-10-03 14:00:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 4001994353,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -27391,28 +27413,6 @@
             ]
         },
         {
-            "id": 2274553695,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-03 07:00:00",
-            "end_date": "2025-10-03 14:00:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3594836808,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pilates & Barre",
@@ -27457,6 +27457,26 @@
             ]
         },
         {
+            "id": 869015307,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Walks: Fall Colours and Salmon Migration",
+            "description": "(Faciliated by The Riverwood Conservancy, at Erindale Park)Explore the beautiful Erindale Park, a short walk from the UTM campus. On this guided walk, we'll soak in the blazing fall colours of Erindale's forest canopy, observing many aspects of the changing season. Fall is also the time of the annual salmon migration. We'll walk along the Credit River in the park, and learn more about the incredible salmon as they take their last leg of the journey from Lake Ontario all the way up the Credit River to spawn the next generation. This walk will be guided by nature guides from The Riverwood Conservancy.",
+            "image": "",
+            "start_date": "2025-10-03 10:00:00",
+            "end_date": "2025-10-03 12:00:00",
+            "venue": "Off-Campus",
+            "ticket_label": "Learn More & Register",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-walks-fall-colours-and-salmon-migration-erindale-park",
+            "sortCategory": "Recreation",
+            "symbol": "figure.walk",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3622504314,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Learn to Swim",
@@ -27477,26 +27497,6 @@
             "weeklyRepetitions": [
                 "fr"
             ]
-        },
-        {
-            "id": 869015307,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Walks: Fall Colours and Salmon Migration",
-            "description": "(Faciliated by The Riverwood Conservancy, at Erindale Park)Explore the beautiful Erindale Park, a short walk from the UTM campus. On this guided walk, we'll soak in the blazing fall colours of Erindale's forest canopy, observing many aspects of the changing season. Fall is also the time of the annual salmon migration. We'll walk along the Credit River in the park, and learn more about the incredible salmon as they take their last leg of the journey from Lake Ontario all the way up the Credit River to spawn the next generation. This walk will be guided by nature guides from The Riverwood Conservancy.",
-            "image": "",
-            "start_date": "2025-10-03 10:00:00",
-            "end_date": "2025-10-03 12:00:00",
-            "venue": "Off-Campus",
-            "ticket_label": "Learn More & Register",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-walks-fall-colours-and-salmon-migration-erindale-park",
-            "sortCategory": "Recreation",
-            "symbol": "figure.walk",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 6504563,
@@ -30661,6 +30661,26 @@
             ]
         },
         {
+            "id": 3424412879,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "SCC - Grand Opening",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-08 14:00:00",
+            "end_date": "2025-10-08 16:00:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1429993136,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Professor Pickleball",
@@ -31825,6 +31845,28 @@
             ]
         },
         {
+            "id": 1240522672,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-10 07:00:00",
+            "end_date": "2025-10-10 14:00:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 470561396,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -31881,28 +31923,6 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 1240522672,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-10 07:00:00",
-            "end_date": "2025-10-10 14:00:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -35801,6 +35821,28 @@
             ]
         },
         {
+            "id": 185650626,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-17 07:00:00",
+            "end_date": "2025-10-17 14:00:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 1010020441,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -35857,28 +35899,6 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 185650626,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-17 07:00:00",
-            "end_date": "2025-10-17 14:00:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -37471,6 +37491,26 @@
             "weeklyRepetitions": [
                 "mo"
             ]
+        },
+        {
+            "id": 3186967429,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Walks: Guided Fall Photography",
+            "description": "Join us for a relaxing walk, learn photography tips from the RAWC Communications Team, and capture the beautiful autumn colours around campus!",
+            "image": "",
+            "start_date": "2025-10-20 14:00:00",
+            "end_date": "2025-10-20 15:00:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f5517e32-b3fd-432e-bb40-0951afb9fb0f",
+            "sortCategory": "Recreation",
+            "symbol": "figure.walk",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 4269569583,
@@ -40227,6 +40267,28 @@
             ]
         },
         {
+            "id": 1688278666,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-24 07:00:00",
+            "end_date": "2025-10-24 14:00:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 3495787333,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -40283,28 +40345,6 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 1688278666,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-24 07:00:00",
-            "end_date": "2025-10-24 14:00:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -65297,18 +65337,18 @@
     ],
     "featured": [
         {
-            "id": 869015307,
+            "id": 3424412879,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Walks: Fall Colours and Salmon Migration",
-            "description": "(Faciliated by The Riverwood Conservancy, at Erindale Park)Explore the beautiful Erindale Park, a short walk from the UTM campus. On this guided walk, we'll soak in the blazing fall colours of Erindale's forest canopy, observing many aspects of the changing season. Fall is also the time of the annual salmon migration. We'll walk along the Credit River in the park, and learn more about the incredible salmon as they take their last leg of the journey from Lake Ontario all the way up the Credit River to spawn the next generation. This walk will be guided by nature guides from The Riverwood Conservancy.",
+            "title": "SCC - Grand Opening",
+            "description": "",
             "image": "",
-            "start_date": "2025-10-03 10:00:00",
-            "end_date": "2025-10-03 12:00:00",
-            "venue": "Off-Campus",
-            "ticket_label": "Learn More & Register",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-walks-fall-colours-and-salmon-migration-erindale-park",
-            "sortCategory": "Recreation",
-            "symbol": "figure.walk",
+            "start_date": "2025-10-08 14:00:00",
+            "end_date": "2025-10-08 16:00:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -65369,6 +65409,26 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-dances-learn-bhangra-sifat-canada",
             "sortCategory": "Dance",
             "symbol": "figure.dance",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3186967429,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Walks: Guided Fall Photography",
+            "description": "Join us for a relaxing walk, learn photography tips from the RAWC Communications Team, and capture the beautiful autumn colours around campus!",
+            "image": "",
+            "start_date": "2025-10-20 14:00:00",
+            "end_date": "2025-10-20 15:00:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f5517e32-b3fd-432e-bb40-0951afb9fb0f",
+            "sortCategory": "Recreation",
+            "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
