@@ -27457,26 +27457,6 @@
             ]
         },
         {
-            "id": 869015307,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Walks: Fall Colours and Salmon Migration",
-            "description": "(Faciliated by The Riverwood Conservancy, at Erindale Park)Explore the beautiful Erindale Park, a short walk from the UTM campus. On this guided walk, we'll soak in the blazing fall colours of Erindale's forest canopy, observing many aspects of the changing season. Fall is also the time of the annual salmon migration. We'll walk along the Credit River in the park, and learn more about the incredible salmon as they take their last leg of the journey from Lake Ontario all the way up the Credit River to spawn the next generation. This walk will be guided by nature guides from The Riverwood Conservancy.",
-            "image": "",
-            "start_date": "2025-10-03 10:00:00",
-            "end_date": "2025-10-03 12:00:00",
-            "venue": "Off-Campus",
-            "ticket_label": "Learn More & Register",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-walks-fall-colours-and-salmon-migration-erindale-park",
-            "sortCategory": "Recreation",
-            "symbol": "figure.walk",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3622504314,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Learn to Swim",
@@ -27497,6 +27477,26 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 869015307,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Walks: Fall Colours and Salmon Migration",
+            "description": "(Faciliated by The Riverwood Conservancy, at Erindale Park)Explore the beautiful Erindale Park, a short walk from the UTM campus. On this guided walk, we'll soak in the blazing fall colours of Erindale's forest canopy, observing many aspects of the changing season. Fall is also the time of the annual salmon migration. We'll walk along the Credit River in the park, and learn more about the incredible salmon as they take their last leg of the journey from Lake Ontario all the way up the Credit River to spawn the next generation. This walk will be guided by nature guides from The Riverwood Conservancy.",
+            "image": "",
+            "start_date": "2025-10-03 10:00:00",
+            "end_date": "2025-10-03 12:00:00",
+            "venue": "Off-Campus",
+            "ticket_label": "Learn More & Register",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-walks-fall-colours-and-salmon-migration-erindale-park",
+            "sortCategory": "Recreation",
+            "symbol": "figure.walk",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 6504563,
@@ -27919,6 +27919,26 @@
             ]
         },
         {
+            "id": 2177664733,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Beach Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-04 10:00:00",
+            "end_date": "2025-10-04 17:00:00",
+            "venue": "Beach Volleyball Court",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2698331147,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -27939,26 +27959,6 @@
             "weeklyRepetitions": [
                 "sa"
             ]
-        },
-        {
-            "id": 2177664733,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Beach Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-04 10:00:00",
-            "end_date": "2025-10-04 17:00:00",
-            "venue": "Beach Volleyball Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 296482073,
@@ -28030,7 +28030,7 @@
         {
             "id": 1569489172,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals Tennis Tournament",
+            "title": "Drop-in Tennis",
             "description": "",
             "image": "",
             "start_date": "2025-10-05 10:00:00",
@@ -28043,7 +28043,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": true,
+            "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
         },
