@@ -2171,26 +2171,6 @@
     ],
     "featured": [
         {
-            "id": 2450630484,
-            "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
-            "title": "Ontario Fencing",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-04 07:00:00",
-            "end_date": "2025-10-04 22:00:00",
-            "venue": "Gym 3",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3764848578,
             "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
             "title": "Open Gym Time - Basketball",
