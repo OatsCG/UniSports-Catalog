@@ -48331,6 +48331,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2580661314,
+            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
+            "title": "IA Soccer Games",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-11 17:00:00",
+            "end_date": "2025-10-11 23:00:00",
+            "venue": "Don Wright Track",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1944072186,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Event - Seated Volleyball",
