@@ -31129,26 +31129,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2444829786,
-            "url": "https://macreconline.ca/Facility/GetSchedule",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-05 09:00:00",
-            "end_date": "2025-10-05 11:30:00",
-            "venue": "Therese Quigley Sport Hall",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 956241725,
             "url": "https://macreconline.ca/Facility/GetSchedule",
             "title": "Intramural Sports - Outdoor Soccer (11v11)",
