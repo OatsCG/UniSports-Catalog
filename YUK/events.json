@@ -789,9 +789,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3537181947,
+            "id": 3276133351,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
             "description": "",
             "image": "",
             "start_date": "2025-09-03 13:30:00",
@@ -809,9 +809,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3276133351,
+            "id": 3537181947,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
             "description": "",
             "image": "",
             "start_date": "2025-09-03 13:30:00",
@@ -1049,9 +1049,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1723063031,
+            "id": 829254288,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
             "description": "",
             "image": "",
             "start_date": "2025-09-04 08:30:00",
@@ -1069,9 +1069,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 829254288,
+            "id": 1723063031,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-09-04 08:30:00",
@@ -1169,9 +1169,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1724437080,
+            "id": 1522911509,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2025-09-04 10:00:00",
@@ -1189,9 +1189,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1522911509,
+            "id": 1724437080,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2025-09-04 10:00:00",
@@ -2569,9 +2569,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2724373345,
+            "id": 798777589,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
             "description": "",
             "image": "",
             "start_date": "2025-09-08 13:30:00",
@@ -2589,9 +2589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 798777589,
+            "id": 2724373345,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
             "description": "",
             "image": "",
             "start_date": "2025-09-08 13:30:00",
@@ -3069,9 +3069,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 189875654,
+            "id": 3706949582,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-09-09 10:00:00",
@@ -3089,9 +3089,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3706949582,
+            "id": 189875654,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
             "description": "",
             "image": "",
             "start_date": "2025-09-09 10:00:00",
@@ -4089,9 +4089,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2992229048,
+            "id": 62849419,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
             "description": "",
             "image": "",
             "start_date": "2025-09-11 08:30:00",
@@ -4109,9 +4109,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 62849419,
+            "id": 2992229048,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-09-11 08:30:00",
@@ -4229,9 +4229,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 849646434,
+            "id": 2789782840,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2025-09-11 10:00:00",
@@ -4249,9 +4249,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2789782840,
+            "id": 849646434,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2025-09-11 10:00:00",
@@ -5749,9 +5749,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 122198456,
+            "id": 2520287046,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
             "description": "",
             "image": "",
             "start_date": "2025-09-15 13:30:00",
@@ -5769,9 +5769,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2520287046,
+            "id": 122198456,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
             "description": "",
             "image": "",
             "start_date": "2025-09-15 13:30:00",
@@ -6709,9 +6709,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3486634620,
+            "id": 782708288,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-09-16 10:00:00",
@@ -6729,9 +6729,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 782708288,
+            "id": 3486634620,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
             "description": "",
             "image": "",
             "start_date": "2025-09-16 10:00:00",
@@ -7709,9 +7709,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2564405612,
+            "id": 316265837,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
             "description": "",
             "image": "",
             "start_date": "2025-09-17 13:30:00",
@@ -7729,9 +7729,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 316265837,
+            "id": 2564405612,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
             "description": "",
             "image": "",
             "start_date": "2025-09-17 13:30:00",
@@ -8149,9 +8149,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1441903915,
+            "id": 3807794005,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
             "description": "",
             "image": "",
             "start_date": "2025-09-18 08:30:00",
@@ -8169,9 +8169,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3807794005,
+            "id": 1441903915,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-09-18 08:30:00",
@@ -8289,9 +8289,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3523780467,
+            "id": 2996958836,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2025-09-18 10:00:00",
@@ -8309,9 +8309,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2996958836,
+            "id": 3523780467,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2025-09-18 10:00:00",
@@ -10589,9 +10589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2146122554,
+            "id": 1540636159,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
             "description": "",
             "image": "",
             "start_date": "2025-09-22 13:30:00",
@@ -10609,9 +10609,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1540636159,
+            "id": 2146122554,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
             "description": "",
             "image": "",
             "start_date": "2025-09-22 13:30:00",
@@ -11669,9 +11669,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2512853744,
+            "id": 4097388087,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-09-23 10:00:00",
@@ -11689,9 +11689,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4097388087,
+            "id": 2512853744,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
             "description": "",
             "image": "",
             "start_date": "2025-09-23 10:00:00",
@@ -13169,9 +13169,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2863206303,
+            "id": 4114146216,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
             "description": "",
             "image": "",
             "start_date": "2025-09-24 13:30:00",
@@ -13189,9 +13189,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4114146216,
+            "id": 2863206303,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
             "description": "",
             "image": "",
             "start_date": "2025-09-24 13:30:00",
@@ -13669,9 +13669,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 828528345,
+            "id": 183622828,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-09-24 18:45:00",
@@ -13689,9 +13689,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 183622828,
+            "id": 828528345,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-09-24 18:45:00",
@@ -14029,9 +14029,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3077576320,
+            "id": 1131489259,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
             "description": "",
             "image": "",
             "start_date": "2025-09-25 08:30:00",
@@ -14049,9 +14049,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1131489259,
+            "id": 3077576320,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-09-25 08:30:00",
@@ -14169,9 +14169,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3985573484,
+            "id": 3302566437,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2025-09-25 10:00:00",
@@ -14189,9 +14189,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3302566437,
+            "id": 3985573484,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2025-09-25 10:00:00",
@@ -17789,9 +17789,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3692976244,
+            "id": 538828682,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
             "description": "",
             "image": "",
             "start_date": "2025-09-29 13:30:00",
@@ -17809,9 +17809,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 538828682,
+            "id": 3692976244,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
             "description": "",
             "image": "",
             "start_date": "2025-09-29 13:30:00",
@@ -18229,26 +18229,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1413183684,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Game # 1 | William and Udit VC vs Logan and Ryan SC",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-29 17:00:00",
-            "end_date": "2025-09-29 17:45:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1495025060,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Complete | Game # 2 | Richer and Rishabh BC vs Woohyeok and Chip BC",
@@ -18261,6 +18241,26 @@
             "ticket_url": "",
             "sortCategory": "Workout",
             "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1413183684,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Complete | Game # 1 | William and Udit VC vs Logan and Ryan SC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-29 17:00:00",
+            "end_date": "2025-09-29 17:45:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -18969,9 +18969,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3728410212,
+            "id": 1604046659,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-09-30 10:00:00",
@@ -18989,9 +18989,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1604046659,
+            "id": 3728410212,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
             "description": "",
             "image": "",
             "start_date": "2025-09-30 10:00:00",
@@ -20649,9 +20649,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3160918501,
+            "id": 3125641939,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
             "description": "",
             "image": "",
             "start_date": "2025-10-01 13:30:00",
@@ -20669,9 +20669,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3125641939,
+            "id": 3160918501,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
             "description": "",
             "image": "",
             "start_date": "2025-10-01 13:30:00",
@@ -21189,9 +21189,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1864669272,
+            "id": 1104667494,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-01 18:45:00",
@@ -21209,9 +21209,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1104667494,
+            "id": 1864669272,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-01 18:45:00",
@@ -21529,9 +21529,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1554861988,
+            "id": 1293147005,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 08:30:00",
@@ -21549,9 +21549,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1293147005,
+            "id": 1554861988,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 08:30:00",
@@ -21669,9 +21669,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2513140060,
+            "id": 2191874989,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 10:00:00",
@@ -21689,9 +21689,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2191874989,
+            "id": 2513140060,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 10:00:00",
@@ -22529,9 +22529,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2273617753,
+            "id": 134023799,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Game # 4 | Dinithi Rajaguru vs Chantelle Ocampo BC",
+            "title": "Complete | Game # 4 | Mahipal Rana vs Brandon Myrbo SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 16:30:00",
@@ -22549,9 +22549,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 134023799,
+            "id": 2273617753,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Game # 4 | Mahipal Rana vs Brandon Myrbo SC",
+            "title": "Complete | Game # 4 | Dinithi Rajaguru vs Chantelle Ocampo BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 16:30:00",
@@ -22629,9 +22629,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2521062745,
+            "id": 1719489770,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Game # 1 | Hansika Mali BC vs Yu Zhang",
+            "title": "Complete | Game # 3 | Xuchen Tan (Lassonde) vs Junan Zhoi BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 16:30:00",
@@ -22649,9 +22649,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1719489770,
+            "id": 2521062745,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Game # 3 | Xuchen Tan (Lassonde) vs Junan Zhoi BC",
+            "title": "Complete | Game # 1 | Hansika Mali BC vs Yu Zhang",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 16:30:00",
@@ -25829,9 +25829,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4267633293,
+            "id": 3977231072,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 13:30:00",
@@ -25849,9 +25849,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3977231072,
+            "id": 4267633293,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 13:30:00",
@@ -26209,9 +26209,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2534340724,
+            "id": 3274436481,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "ravens vs Alley-Oops MC",
+            "title": "Cade Cunningham elite vs Ridgeway Backseat Demons BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 16:20:00",
@@ -26229,9 +26229,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3274436481,
+            "id": 2534340724,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Cade Cunningham elite vs Ridgeway Backseat Demons BC",
+            "title": "ravens vs Alley-Oops MC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 16:20:00",
@@ -26629,9 +26629,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1130020828,
+            "id": 273085296,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | How I Set Your Mother BC vs Set to Win VC",
+            "title": "Default | Safe Sets vs Meow BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 18:00:00",
@@ -26649,9 +26649,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 273085296,
+            "id": 1130020828,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Default | Safe Sets vs Meow BC",
+            "title": "Complete | How I Set Your Mother BC vs Set to Win VC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 18:00:00",
@@ -26889,6 +26889,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 24468392,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Complete | Servivors BC vs Kiss My Ace SC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-06 19:00:00",
+            "end_date": "2025-10-06 20:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1794239846,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Complete | Our Knees Hurt BC vs Nice balls FC",
@@ -26912,26 +26932,6 @@
             "id": 630533976,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Default | Abudhabi vs You Better Serve BC",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-06 19:00:00",
-            "end_date": "2025-10-06 20:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 24468392,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Servivors BC vs Kiss My Ace SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 19:00:00",
@@ -26989,26 +26989,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3423760430,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Rice Bombs SC vs Nekoma BC",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-06 20:00:00",
-            "end_date": "2025-10-06 21:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1316035696,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Complete | Servivors BC vs David calls me dada BC",
@@ -27049,9 +27029,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 306425123,
+            "id": 3423760430,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Default | Abudhabi vs The Krusty Krabs",
+            "title": "Complete | Rice Bombs SC vs Nekoma BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 20:00:00",
@@ -27072,6 +27052,26 @@
             "id": 1082991711,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Complete | Speds CC vs ANGO COMP",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-06 20:00:00",
+            "end_date": "2025-10-06 21:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 306425123,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Default | Abudhabi vs The Krusty Krabs",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 20:00:00",
@@ -27149,6 +27149,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 108196696,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Default | Safe Sets vs How I Set Your Mother BC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-06 21:00:00",
+            "end_date": "2025-10-06 22:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3629727820,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Complete | You Better Serve BC vs Wash My Belly BC",
@@ -27172,26 +27192,6 @@
             "id": 35327556,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Complete | Sloppy Sets SC vs David calls me dada BC",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-06 21:00:00",
-            "end_date": "2025-10-06 22:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 108196696,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Default | Safe Sets vs How I Set Your Mother BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 21:00:00",
@@ -27569,9 +27569,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1709704070,
+            "id": 3192655455,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 10:00:00",
@@ -27589,9 +27589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3192655455,
+            "id": 1709704070,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 10:00:00",
@@ -28229,9 +28229,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3733543743,
+            "id": 1032866151,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Default | Upstreame vs Ben's Big Babies",
+            "title": "Default | FTC vs Swish Kebabs",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 19:15:00",
@@ -28249,9 +28249,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1032866151,
+            "id": 3733543743,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Default | FTC vs Swish Kebabs",
+            "title": "Default | Upstreame vs Ben's Big Babies",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 19:15:00",
@@ -28431,7 +28431,7 @@
         {
             "id": 1701764705,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Bedany FC BC vs Bethune Dragons BC",
+            "title": " | Bedany FC BC vs Bethune Dragons BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 20:00:00",
@@ -28451,7 +28451,7 @@
         {
             "id": 2978743584,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Perras Saint-German BC vs RUH HEE SC",
+            "title": "Complete | Perras Saint-German BC vs RUH HEE SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 20:00:00",
@@ -28611,7 +28611,7 @@
         {
             "id": 773711151,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Roaring Thunder BC vs Los Gorillas BC",
+            "title": "Complete | Roaring Thunder BC vs Los Gorillas BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 20:45:00",
@@ -28711,7 +28711,7 @@
         {
             "id": 1616189506,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Bethune Wyverns BC vs Founders BC",
+            "title": "Complete | Bethune Wyverns BC vs Founders BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 21:30:00",
@@ -28731,7 +28731,7 @@
         {
             "id": 3104601602,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Guppies BC vs Brexit Ball",
+            "title": "Complete | Guppies BC vs Brexit Ball",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 21:30:00",
@@ -29209,9 +29209,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4284152128,
+            "id": 3737410986,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 13:30:00",
@@ -29229,9 +29229,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3737410986,
+            "id": 4284152128,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 13:30:00",
@@ -29411,7 +29411,7 @@
         {
             "id": 1493712073,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Glazers SC vs Sugar and Spikes CC",
+            "title": "Complete | Glazers SC vs Sugar and Spikes CC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 16:00:00",
@@ -29451,7 +29451,7 @@
         {
             "id": 2403531884,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Osgoode Owls vs Trinco mali",
+            "title": "Complete | Osgoode Owls vs Trinco mali",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 16:30:00",
@@ -29471,7 +29471,7 @@
         {
             "id": 4127043816,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "4 Guys One Cup SC vs gangbang demons SC",
+            "title": "Complete | 4 Guys One Cup SC vs Bang Bus Bros SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 17:00:00",
@@ -29491,7 +29491,7 @@
         {
             "id": 2368943252,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Over the Net Worth vs Reysen's Team SC",
+            "title": "Complete | Over the Net Worth vs Reysen's Team SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 17:00:00",
@@ -29531,7 +29531,7 @@
         {
             "id": 2809812967,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "OnlyHands BC vs Flag Around and Find Out BC",
+            "title": "Complete | OnlyHands BC vs Flag Around and Find Out BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 17:20:00",
@@ -29611,7 +29611,7 @@
         {
             "id": 3811423480,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "YNS BC vs 4Sum BC",
+            "title": "Complete | YNS BC vs 4Sum BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 18:00:00",
@@ -29631,7 +29631,7 @@
         {
             "id": 2505381539,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "The STEGA BC vs Beachless Ballers BC",
+            "title": "Complete | The STEGA BC vs Beachless Ballers BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 18:00:00",
@@ -29651,7 +29651,7 @@
         {
             "id": 943641475,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "The Ordinary BC vs 4skins SC",
+            "title": "Complete | The Ordinary BC vs 4skins SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 18:00:00",
@@ -29671,7 +29671,7 @@
         {
             "id": 3784817151,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Balls Deep SC vs Volleyball players who love Jesus FC",
+            "title": "Complete | Balls Deep SC vs Volleyball players who love Jesus FC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 18:00:00",
@@ -29691,7 +29691,7 @@
         {
             "id": 2537149453,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Big Dig Lovers BC vs Big Digs SC",
+            "title": "Complete | Big Dig Lovers BC vs Big Digs SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 18:00:00",
@@ -29771,7 +29771,7 @@
         {
             "id": 3391864986,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lino's Cookie Factory SC vs Hot Wheels Resurrection SC",
+            "title": "Complete | Lino's Cookie Factory SC vs Hot Wheels Resurrection SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 18:10:00",
@@ -29849,26 +29849,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2968916139,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-08 18:45:00",
-            "end_date": "2025-10-08 19:30:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3486367288,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
@@ -29889,9 +29869,29 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2968916139,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-08 18:45:00",
+            "end_date": "2025-10-08 19:30:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2873202169,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Sets on the Beach BC vs Bed Bath and Beyond SC",
+            "title": "Complete | Sets on the Beach BC vs Bed Bath and Beyond SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 19:00:00",
@@ -29911,7 +29911,7 @@
         {
             "id": 649864748,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "One Hit Wonders CC vs Lions",
+            "title": "Default | One Hit Wonders CC vs Lions",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 19:00:00",
@@ -29931,7 +29931,7 @@
         {
             "id": 137763631,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Safe sets SC vs Hits and Giggles BC",
+            "title": "Default | Safe sets SC vs Hits and Giggles BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 19:00:00",
@@ -29951,7 +29951,7 @@
         {
             "id": 3066873597,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "YNS BC vs Volleyball players who love Jesus FC",
+            "title": "Complete | YNS BC vs Volleyball players who love Jesus FC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 19:00:00",
@@ -29971,7 +29971,7 @@
         {
             "id": 4125641802,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Don't Dink and Dive BC vs Sixty sevens FC",
+            "title": "Complete | Don't Dink and Dive BC vs Sixty sevens FC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 19:00:00",
@@ -30031,7 +30031,7 @@
         {
             "id": 3718131105,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Goon Squad SC vs The Phantoms BC",
+            "title": "Complete | Goon Squad SC vs The Phantoms BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 19:00:00",
@@ -30111,7 +30111,7 @@
         {
             "id": 5529595,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "BlackOut vs No Punt Intended SC",
+            "title": "Default | BlackOut vs No Punt Intended SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 19:50:00",
@@ -30131,7 +30131,7 @@
         {
             "id": 1208980146,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Patrick Mahomes MC vs First &amp; Param",
+            "title": "Default | Patrick Mahomes MC vs First &amp; Param",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 19:50:00",
@@ -30151,7 +30151,7 @@
         {
             "id": 1704191650,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Rero vb vs Lions",
+            "title": "Default | Rero vb vs Lions",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 20:00:00",
@@ -30171,27 +30171,7 @@
         {
             "id": 3060590269,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "4Sum BC vs The STEGA BC",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-08 20:00:00",
-            "end_date": "2025-10-08 21:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 2455243242,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Founders BC vs Sets on the Beach BC",
+            "title": "Complete | 4Sum BC vs The STEGA BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 20:00:00",
@@ -30211,7 +30191,27 @@
         {
             "id": 2784501333,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "The Four YN SC vs Balls Deep SC",
+            "title": "Complete | The Four YN SC vs Balls Deep SC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-08 20:00:00",
+            "end_date": "2025-10-08 21:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2455243242,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Complete | Founders BC vs Sets on the Beach BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 20:00:00",
@@ -30231,7 +30231,7 @@
         {
             "id": 1225053109,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Beachless Ballers BC vs Sixty sevens FC",
+            "title": "Complete | Beachless Ballers BC vs Sixty sevens FC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 20:00:00",
@@ -30291,7 +30291,7 @@
         {
             "id": 2109078754,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "NC BOMBER vs San Francisco 69ers BC",
+            "title": "Complete | NC BOMBER vs San Francisco 69ers BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 20:40:00",
@@ -30351,7 +30351,7 @@
         {
             "id": 4079502785,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Don't Dink and Dive BC vs Safe sets SC",
+            "title": "Forfeit | Don't Dink and Dive BC vs Safe sets SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 21:00:00",
@@ -30371,7 +30371,7 @@
         {
             "id": 415842423,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Bed Bath and Beyond SC vs The Four YN SC",
+            "title": "Complete | Bed Bath and Beyond SC vs The Four YN SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 21:00:00",
@@ -30381,26 +30381,6 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 3436234009,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "One Hit Wonders CC vs Hits and Giggles BC",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-08 21:00:00",
-            "end_date": "2025-10-08 22:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -30421,6 +30401,26 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3436234009,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Complete | One Hit Wonders CC vs Hits and Giggles BC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-08 21:00:00",
+            "end_date": "2025-10-08 22:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -30509,9 +30509,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1746278842,
+            "id": 197738257,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 08:30:00",
@@ -30529,9 +30529,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 197738257,
+            "id": 1746278842,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 08:30:00",
@@ -30629,9 +30629,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1196034922,
+            "id": 2778275851,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 10:00:00",
@@ -30649,9 +30649,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2778275851,
+            "id": 1196034922,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 10:00:00",
@@ -32589,9 +32589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3701149395,
+            "id": 877316701,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Hits &amp; Giggles CC vs LIFO Goonerz NC",
+            "title": "Kiss My Ace MC vs Its My Bedtime BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 21:00:00",
@@ -32609,9 +32609,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 877316701,
+            "id": 3701149395,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Kiss My Ace MC vs Its My Bedtime BC",
+            "title": "Hits &amp; Giggles CC vs LIFO Goonerz NC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 21:00:00",
@@ -33109,6 +33109,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 804963740,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-10 19:00:00",
+            "end_date": "2025-10-10 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 789201394,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Fall 2025 - Adult 4 - Adult 4 Friday 7:30 - 8:15 pm",
@@ -33489,26 +33509,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1853594963,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "KEELE - Drop-In Futsal (Indoor Soccer)",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-14 07:30:00",
-            "end_date": "2025-10-14 21:30:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Soccer",
-            "symbol": "soccerball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1282467957,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "KEELE - Drop-In Badminton",
@@ -33521,6 +33521,26 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1853594963,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Futsal (Indoor Soccer)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-14 07:30:00",
+            "end_date": "2025-10-14 21:30:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -33705,6 +33725,26 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2807622481,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-14 19:30:00",
+            "end_date": "2025-10-14 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -34469,6 +34509,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 1787405154,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-17 19:00:00",
+            "end_date": "2025-10-17 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 4139024884,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "KEELE - Drop-In Lane and Leisure Swim",
@@ -34489,26 +34549,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2402600514,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "KEELE - Drop-In Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-18 09:30:00",
-            "end_date": "2025-10-18 15:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4135584978,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "KEELE - Drop-In Futsal (Indoor Soccer)",
@@ -34521,6 +34561,26 @@
             "ticket_url": "",
             "sortCategory": "Soccer",
             "symbol": "soccerball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2402600514,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-18 09:30:00",
+            "end_date": "2025-10-18 15:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -35809,9 +35869,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3599328483,
+            "id": 2265095456,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
             "description": "",
             "image": "",
             "start_date": "2025-10-20 13:30:00",
@@ -35829,9 +35889,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2265095456,
+            "id": 3599328483,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
             "description": "",
             "image": "",
             "start_date": "2025-10-20 13:30:00",
@@ -36569,9 +36629,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2529821441,
+            "id": 2952571283,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-10-21 10:00:00",
@@ -36589,9 +36649,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2952571283,
+            "id": 2529821441,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
             "description": "",
             "image": "",
             "start_date": "2025-10-21 10:00:00",
@@ -37409,6 +37469,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3782479143,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-21 19:30:00",
+            "end_date": "2025-10-21 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2014082313,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Roaring Thunder BC vs Perras Saint-German BC",
@@ -38149,9 +38229,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4050522411,
+            "id": 2777914555,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
             "description": "",
             "image": "",
             "start_date": "2025-10-22 13:30:00",
@@ -38169,9 +38249,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2777914555,
+            "id": 4050522411,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
             "description": "",
             "image": "",
             "start_date": "2025-10-22 13:30:00",
@@ -38629,9 +38709,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 299372106,
+            "id": 130654659,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-22 18:45:00",
@@ -38649,9 +38729,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 130654659,
+            "id": 299372106,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-22 18:45:00",
@@ -39009,9 +39089,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2454277877,
+            "id": 189101931,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
             "description": "",
             "image": "",
             "start_date": "2025-10-23 08:30:00",
@@ -39029,9 +39109,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 189101931,
+            "id": 2454277877,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-10-23 08:30:00",
@@ -39129,9 +39209,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2258698029,
+            "id": 564016765,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2025-10-23 10:00:00",
@@ -39149,9 +39229,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 564016765,
+            "id": 2258698029,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2025-10-23 10:00:00",
@@ -40229,26 +40309,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1241665743,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Playoff HOLDS",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-24 10:00:00",
-            "end_date": "2025-10-24 23:00:00",
-            "venue": "YLS - (1) North Half",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2795650423,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 26",
@@ -40529,6 +40589,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3966014655,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-24 19:00:00",
+            "end_date": "2025-10-24 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3684732395,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Fall 2025 - Adult 4 - Adult 4 Friday 7:30 - 8:15 pm",
@@ -40765,26 +40845,6 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 677215877,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Playoff HOLD",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-25 10:00:00",
-            "end_date": "2025-10-25 23:00:00",
-            "venue": "YLS - (1) North Half",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -42009,9 +42069,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4265776773,
+            "id": 832897905,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
             "description": "",
             "image": "",
             "start_date": "2025-10-27 13:30:00",
@@ -42029,9 +42089,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 832897905,
+            "id": 4265776773,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
             "description": "",
             "image": "",
             "start_date": "2025-10-27 13:30:00",
@@ -42709,9 +42769,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2161715517,
+            "id": 1760921882,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-10-28 10:00:00",
@@ -42729,9 +42789,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1760921882,
+            "id": 2161715517,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
             "description": "",
             "image": "",
             "start_date": "2025-10-28 10:00:00",
@@ -43421,6 +43481,26 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3133767372,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-28 19:30:00",
+            "end_date": "2025-10-28 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -44169,9 +44249,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3264260432,
+            "id": 1023100590,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
             "description": "",
             "image": "",
             "start_date": "2025-10-29 13:30:00",
@@ -44189,9 +44269,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1023100590,
+            "id": 3264260432,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
             "description": "",
             "image": "",
             "start_date": "2025-10-29 13:30:00",
@@ -44649,9 +44729,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3648552541,
+            "id": 2666539444,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-29 18:45:00",
@@ -44669,9 +44749,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2666539444,
+            "id": 3648552541,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-29 18:45:00",
@@ -45049,9 +45129,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2580383565,
+            "id": 150148708,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
             "description": "",
             "image": "",
             "start_date": "2025-10-30 08:30:00",
@@ -45069,9 +45149,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 150148708,
+            "id": 2580383565,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-10-30 08:30:00",
@@ -45169,9 +45249,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1163340465,
+            "id": 1638528710,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2025-10-30 10:00:00",
@@ -45189,9 +45269,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1638528710,
+            "id": 1163340465,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2025-10-30 10:00:00",
@@ -46289,26 +46369,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4150917,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Playoff HOLD",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-31 10:00:00",
-            "end_date": "2025-10-31 23:30:00",
-            "venue": "YLS - (1) North Half",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 129369024,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 26",
@@ -46549,6 +46609,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2894517678,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-31 19:00:00",
+            "end_date": "2025-10-31 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2762457495,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Fall 2025 - Adult 4 - Adult 4 Friday 7:30 - 8:15 pm",
@@ -46761,26 +46841,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 2504285057,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Playoff HOLD",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-01 10:00:00",
-            "end_date": "2025-11-01 23:30:00",
-            "venue": "YLS - (1) North Half",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -47282,26 +47342,6 @@
             "sortCategory": "Workout",
             "symbol": "figure.run",
             "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 836487817,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Playoff HOLD",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-02 08:00:00",
-            "end_date": "2025-11-02 23:30:00",
-            "venue": "YLS - (1) North Half",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -47909,9 +47949,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2263623216,
+            "id": 1201428163,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
             "description": "",
             "image": "",
             "start_date": "2025-11-03 13:30:00",
@@ -47929,9 +47969,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1201428163,
+            "id": 2263623216,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
             "description": "",
             "image": "",
             "start_date": "2025-11-03 13:30:00",
@@ -48529,9 +48569,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 950451720,
+            "id": 2288553584,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-11-04 10:00:00",
@@ -48549,9 +48589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2288553584,
+            "id": 950451720,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
             "description": "",
             "image": "",
             "start_date": "2025-11-04 10:00:00",
@@ -49001,6 +49041,26 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 730038858,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-04 19:30:00",
+            "end_date": "2025-11-04 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -49509,9 +49569,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 200043227,
+            "id": 4078212487,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
             "description": "",
             "image": "",
             "start_date": "2025-11-05 13:30:00",
@@ -49529,9 +49589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4078212487,
+            "id": 200043227,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
             "description": "",
             "image": "",
             "start_date": "2025-11-05 13:30:00",
@@ -49909,9 +49969,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 94997018,
+            "id": 164343050,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-11-05 18:45:00",
@@ -49929,9 +49989,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 164343050,
+            "id": 94997018,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-11-05 18:45:00",
@@ -50189,9 +50249,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 312782390,
+            "id": 3224072936,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
             "description": "",
             "image": "",
             "start_date": "2025-11-06 08:30:00",
@@ -50209,9 +50269,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3224072936,
+            "id": 312782390,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-11-06 08:30:00",
@@ -50309,9 +50369,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4138333636,
+            "id": 2992229697,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2025-11-06 10:00:00",
@@ -50329,9 +50389,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2992229697,
+            "id": 4138333636,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2025-11-06 10:00:00",
@@ -50989,26 +51049,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 150576097,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Playoff HOLDS",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-07 08:00:00",
-            "end_date": "2025-11-07 23:30:00",
-            "venue": "YLS - (1) North Half",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1637764342,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "PHED 4000 A - Teaching Phys.Ed. in the I/S Division ",
@@ -51261,6 +51301,26 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3993277866,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-07 19:00:00",
+            "end_date": "2025-11-07 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -52529,9 +52589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 646781656,
+            "id": 2343495797,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
             "description": "",
             "image": "",
             "start_date": "2025-11-10 13:30:00",
@@ -52549,9 +52609,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2343495797,
+            "id": 646781656,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
             "description": "",
             "image": "",
             "start_date": "2025-11-10 13:30:00",
@@ -53069,9 +53129,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1928699661,
+            "id": 1081100919,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-11-11 10:00:00",
@@ -53089,9 +53149,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1081100919,
+            "id": 1928699661,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
             "description": "",
             "image": "",
             "start_date": "2025-11-11 10:00:00",
@@ -53421,6 +53481,26 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1580590212,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-11 19:30:00",
+            "end_date": "2025-11-11 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -53829,9 +53909,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 215177149,
+            "id": 3944336682,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
             "description": "",
             "image": "",
             "start_date": "2025-11-12 13:30:00",
@@ -53849,9 +53929,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3944336682,
+            "id": 215177149,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
             "description": "",
             "image": "",
             "start_date": "2025-11-12 13:30:00",
@@ -54189,9 +54269,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2865726650,
+            "id": 707272195,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-11-12 18:45:00",
@@ -54209,9 +54289,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 707272195,
+            "id": 2865726650,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-11-12 18:45:00",
@@ -54489,9 +54569,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1177415715,
+            "id": 2983728250,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 08:30:00",
@@ -54509,9 +54589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2983728250,
+            "id": 1177415715,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 08:30:00",
@@ -54589,9 +54669,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3053583456,
+            "id": 3853634998,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 10:00:00",
@@ -54609,9 +54689,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3853634998,
+            "id": 3053583456,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 10:00:00",
@@ -56869,9 +56949,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3401137771,
+            "id": 4086077046,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
             "description": "",
             "image": "",
             "start_date": "2025-11-17 13:30:00",
@@ -56889,9 +56969,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4086077046,
+            "id": 3401137771,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
             "description": "",
             "image": "",
             "start_date": "2025-11-17 13:30:00",
@@ -57369,9 +57449,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 492619717,
+            "id": 1900547597,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-11-18 10:00:00",
@@ -57389,9 +57469,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1900547597,
+            "id": 492619717,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
             "description": "",
             "image": "",
             "start_date": "2025-11-18 10:00:00",
@@ -57681,6 +57761,26 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 58913515,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-18 19:30:00",
+            "end_date": "2025-11-18 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -58049,9 +58149,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2379703318,
+            "id": 3326341041,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
             "description": "",
             "image": "",
             "start_date": "2025-11-19 13:30:00",
@@ -58069,9 +58169,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3326341041,
+            "id": 2379703318,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
             "description": "",
             "image": "",
             "start_date": "2025-11-19 13:30:00",
@@ -58329,9 +58429,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1820166067,
+            "id": 2358959464,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
             "description": "",
             "image": "",
             "start_date": "2025-11-20 08:30:00",
@@ -58349,9 +58449,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2358959464,
+            "id": 1820166067,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-11-20 08:30:00",
@@ -58429,9 +58529,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 139999667,
+            "id": 148710218,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2025-11-20 10:00:00",
@@ -58449,9 +58549,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 148710218,
+            "id": 139999667,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2025-11-20 10:00:00",
@@ -59069,6 +59169,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2343565651,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-21 19:00:00",
+            "end_date": "2025-11-21 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1885978393,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "KEELE - Drop-In Lane and Leisure Swim",
@@ -59569,9 +59689,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1639104716,
+            "id": 2485554645,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
             "description": "",
             "image": "",
             "start_date": "2025-11-24 13:30:00",
@@ -59589,9 +59709,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2485554645,
+            "id": 1639104716,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 8",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 7",
             "description": "",
             "image": "",
             "start_date": "2025-11-24 13:30:00",
@@ -60029,9 +60149,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4248265464,
+            "id": 2824941103,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-11-25 10:00:00",
@@ -60049,9 +60169,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2824941103,
+            "id": 4248265464,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life - Lab 6",
             "description": "",
             "image": "",
             "start_date": "2025-11-25 10:00:00",
@@ -60321,6 +60441,26 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2773637067,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-25 19:30:00",
+            "end_date": "2025-11-25 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -60649,9 +60789,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2957485296,
+            "id": 3622186259,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
             "description": "",
             "image": "",
             "start_date": "2025-11-26 13:30:00",
@@ -60669,9 +60809,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3622186259,
+            "id": 2957485296,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
             "description": "",
             "image": "",
             "start_date": "2025-11-26 13:30:00",
@@ -60889,9 +61029,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 275046759,
+            "id": 3928805408,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
             "description": "",
             "image": "",
             "start_date": "2025-11-27 08:30:00",
@@ -60909,9 +61049,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3928805408,
+            "id": 275046759,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 17",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 14",
             "description": "",
             "image": "",
             "start_date": "2025-11-27 08:30:00",
@@ -60989,9 +61129,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3777503909,
+            "id": 4084579604,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2025-11-27 10:00:00",
@@ -61009,9 +61149,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4084579604,
+            "id": 3777503909,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2025-11-27 10:00:00",
@@ -61589,6 +61729,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3894424520,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "KEELE - Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-28 19:00:00",
+            "end_date": "2025-11-28 22:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1712461159,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "KEELE - Drop-In Lane and Leisure Swim",
@@ -61844,6 +62004,26 @@
             "sortCategory": "Hockey",
             "symbol": "hockey.puck",
             "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 494901103,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Playoff HOLD",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-26 08:00:00",
+            "end_date": "2025-10-26 23:30:00",
+            "venue": "YLS - (1) North Half",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
