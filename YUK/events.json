@@ -10189,6 +10189,46 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2071740252,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Complete | Game # 1 | Pickle Brook BC vs ADMIN TEAM",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-21 15:00:00",
+            "end_date": "2025-09-21 15:30:00",
+            "venue": "Pickleball",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2598741217,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Complete | Game # 2 | Pickle Brook BC vs Pickle Dhruv BC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-21 15:30:00",
+            "end_date": "2025-09-21 16:00:00",
+            "venue": "Pickleball",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3422670328,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Marketing & Communications",
@@ -31031,7 +31071,7 @@
         {
             "id": 3901852214,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Pickle Me Fancy vs Pickleton",
+            "title": "Default | Pickle Me Fancy vs Pickleton",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 15:00:00",
@@ -31051,7 +31091,7 @@
         {
             "id": 2845297922,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Double A vs Middle Pickle CC",
+            "title": "Double A SC vs Middle Pickle CC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 15:00:00",
@@ -31071,7 +31111,7 @@
         {
             "id": 3243184050,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Big Dill Energy vs Migle Monsters NC",
+            "title": "Default | Big Dill Energy vs Migle Monsters NC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 15:00:00",
@@ -31091,7 +31131,7 @@
         {
             "id": 2063026396,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Net Ninjas BC vs Old Heads SC",
+            "title": "Complete | Net Ninjas BC vs Old Heads SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 15:00:00",
@@ -31111,7 +31151,7 @@
         {
             "id": 3611960985,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Dill NC vs Hoang Mach NC",
+            "title": "Complete | Dill NC vs Hoang Mach NC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 15:00:00",
@@ -31131,7 +31171,7 @@
         {
             "id": 332413790,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Touch My Pickle SC vs Dill With It BC",
+            "title": "Default | Touch My Pickle SC vs Dill With It BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 15:40:00",
@@ -31151,7 +31191,7 @@
         {
             "id": 3884962111,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Ggs vs Tickle My Pickle BC",
+            "title": "Default | Ggs vs Tickle My Pickle BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 15:40:00",
@@ -31171,7 +31211,7 @@
         {
             "id": 3405484142,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Big Backs NC vs Dill With It SC",
+            "title": "Default | Big Backs NC vs Dill With It SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 15:40:00",
@@ -31191,7 +31231,7 @@
         {
             "id": 3947717730,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "The Ball Handlers MC vs Team Mango",
+            "title": "Default | The Ball Handlers MC vs Team Mango",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 15:40:00",
@@ -31211,7 +31251,7 @@
         {
             "id": 2970393217,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Pickleball SC vs One of Us Belongs in the Kitchen BC",
+            "title": "Default | Pickleball SC vs One of Us Belongs in the Kitchen BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 15:40:00",
@@ -31231,7 +31271,7 @@
         {
             "id": 631769653,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Spicy Pickles SC vs The Bleeding Blue Boys",
+            "title": "Complete | Spicy Pickles SC vs The Bleeding Blue Boys",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 15:40:00",
@@ -31251,7 +31291,7 @@
         {
             "id": 2701368711,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Small Pickles CC vs NC Pickles",
+            "title": "Default | Small Pickles CC vs NC Pickles",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 15:40:00",
@@ -31291,7 +31331,7 @@
         {
             "id": 3676366343,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Calu-Meowers CC vs Yeahhhh Buddy SC",
+            "title": "Default | Calu-Meowers CC vs Yeahhhh Buddy SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 16:00:00",
@@ -31311,7 +31351,7 @@
         {
             "id": 3605699159,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Kiss My Ace BC vs Schulich's finest",
+            "title": "Default | Kiss My Ace BC vs Schulich's finest",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 16:00:00",
@@ -31371,7 +31411,7 @@
         {
             "id": 260883334,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "JV n Stev SC vs Reysen's Team SC",
+            "title": "Default | JV n Stev SC vs Reysen's Team SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 16:20:00",
@@ -31391,7 +31431,7 @@
         {
             "id": 3476708146,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Pickle Eaters SC vs Touch My Pickle SC",
+            "title": "Default | Pickle Eaters SC vs Touch My Pickle SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 16:20:00",
@@ -31411,7 +31451,7 @@
         {
             "id": 1198732384,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Gherkin Pickles vs Tickle My Pickle BC",
+            "title": "Complete | Gherkin Pickles vs Tickle My Pickle BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 16:20:00",
@@ -31431,7 +31471,7 @@
         {
             "id": 299269640,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Pickadle pickoodle VC vs Dill With It SC",
+            "title": "Default | Pickadle pickoodle VC vs Dill With It SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 16:20:00",
@@ -31451,7 +31491,7 @@
         {
             "id": 3451408673,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Jasmine FC vs Amina BC",
+            "title": "Default | Jasmine FC vs Amina BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 16:20:00",
@@ -31471,7 +31511,7 @@
         {
             "id": 811572619,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Migle Monsters NC vs One of Us Belongs in the Kitchen BC",
+            "title": "Default | Migle Monsters NC vs One of Us Belongs in the Kitchen BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 16:20:00",
@@ -31511,7 +31551,7 @@
         {
             "id": 1074167333,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "The Big Dills BC vs Hoang Mach NC",
+            "title": "Complete | The Big Dills BC vs Hoang Mach NC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 16:20:00",
@@ -31531,7 +31571,7 @@
         {
             "id": 3330120791,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Foosball On Grass SC vs Lions FC",
+            "title": "Complete | Foosball On Grass SC vs Lions FC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 16:50:00",
@@ -31551,7 +31591,7 @@
         {
             "id": 3547345972,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Reysen's Team SC vs KINGS XI BC",
+            "title": "Complete | Reysen's Team SC vs KINGS XI BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 16:50:00",
@@ -31571,7 +31611,7 @@
         {
             "id": 306960783,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Yeahhhh Buddy SC vs Schulich's finest",
+            "title": "Default | Yeahhhh Buddy SC vs Schulich's finest",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:00:00",
@@ -31591,7 +31631,7 @@
         {
             "id": 1095934179,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Calu-Meowers CC vs Little Bounces SC",
+            "title": "Complete | Calu-Meowers CC vs Little Bounces SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:00:00",
@@ -31611,7 +31651,7 @@
         {
             "id": 4201935983,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Net Assets vs BBoyz BC",
+            "title": "Forfeit | Net Assets vs BBoyz BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:00:00",
@@ -31631,7 +31671,7 @@
         {
             "id": 4236086761,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Pickle Ticklers vs Dill With It BC",
+            "title": "Default | Pickle Ticklers vs Dill With It BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:00:00",
@@ -31651,7 +31691,7 @@
         {
             "id": 3945206069,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Ggs vs Pickleton",
+            "title": "Default | Ggs vs Pickleton",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:00:00",
@@ -31671,7 +31711,7 @@
         {
             "id": 1313542500,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Middle Pickle CC vs Big Backs NC",
+            "title": "Default | Middle Pickle CC vs Big Backs NC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:00:00",
@@ -31691,7 +31731,7 @@
         {
             "id": 1386678338,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Ashlee Shvarts VC vs Cassandra BC",
+            "title": "Complete | Ashlee Shvarts VC vs Cassandra BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:00:00",
@@ -31711,7 +31751,7 @@
         {
             "id": 3984328241,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "DD Party vs Big Dill Energy",
+            "title": "Default | DD Party vs Big Dill Energy",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:00:00",
@@ -31731,7 +31771,7 @@
         {
             "id": 1998610227,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Net Ninjas BC vs The Bleeding Blue Boys",
+            "title": "Complete | Net Ninjas BC vs The Bleeding Blue Boys",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:00:00",
@@ -31751,7 +31791,7 @@
         {
             "id": 2010133580,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Dill NC vs NC Pickles",
+            "title": "Default | Dill NC vs NC Pickles",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:00:00",
@@ -31771,7 +31811,7 @@
         {
             "id": 3485664756,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Pyramids &amp; Curls BC vs Man Chest Hair FC UBS",
+            "title": "Complete | Pyramids &amp; Curls BC vs Man Chest Hair FC UBS",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:40:00",
@@ -31791,7 +31831,7 @@
         {
             "id": 2252611372,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Reysen's Team SC vs BBoyz BC",
+            "title": "Forfeit | Reysen's Team SC vs BBoyz BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:40:00",
@@ -31811,7 +31851,7 @@
         {
             "id": 966730736,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Pickle Eaters SC vs Big Pickles CC",
+            "title": "Default | Pickle Eaters SC vs Big Pickles CC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:40:00",
@@ -31831,7 +31871,7 @@
         {
             "id": 2677723434,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Gherkin Pickles vs Pickle Me Fancy",
+            "title": "Default | Gherkin Pickles vs Pickle Me Fancy",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:40:00",
@@ -31851,7 +31891,7 @@
         {
             "id": 30958368,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Pickadle pickoodle VC vs Double A",
+            "title": "Default | Pickadle pickoodle VC vs Double A SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:40:00",
@@ -31871,7 +31911,7 @@
         {
             "id": 1028701404,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Ava Vafaie SC vs Ayya BC",
+            "title": "Default | Ava Vafaie SC vs Ayya BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:40:00",
@@ -31891,7 +31931,7 @@
         {
             "id": 227149144,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Pickleball SC vs DD Party",
+            "title": "Default | Pickleball SC vs DD Party",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:40:00",
@@ -31911,7 +31951,7 @@
         {
             "id": 239626130,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Salty Cucumbers SC vs Spicy Pickles SC",
+            "title": "Complete | Salty Cucumbers SC vs Spicy Pickles SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:40:00",
@@ -31931,7 +31971,7 @@
         {
             "id": 811019387,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "The Big Dills BC vs Small Pickles CC",
+            "title": "Default | The Big Dills BC vs Small Pickles CC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:40:00",
@@ -31951,7 +31991,7 @@
         {
             "id": 522587567,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Bombaclat FC vs Gbezome Gees MC",
+            "title": "Complete | Bombaclat FC vs Gbezome Gees MC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 17:40:00",
@@ -31971,7 +32011,7 @@
         {
             "id": 1026389761,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Step Brothers BC vs Allison's Dwarves SC",
+            "title": "Complete | Step Brothers BC vs Allison's Dwarves SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 18:00:00",
@@ -31991,7 +32031,7 @@
         {
             "id": 4252952999,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Kiss My Ace BC vs Little Bounces SC",
+            "title": "Complete | Kiss My Ace BC vs Little Bounces SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 18:00:00",
@@ -32011,7 +32051,7 @@
         {
             "id": 3226162350,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Net Assets vs JV n Stev SC",
+            "title": "Default | Net Assets vs JV n Stev SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 18:20:00",
@@ -32031,7 +32071,7 @@
         {
             "id": 3389683139,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Perras Saint-German BC vs Bethune Wyverns BC",
+            "title": "Complete | Perras Saint-German BC vs Bethune Wyverns BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 18:30:00",
@@ -32051,7 +32091,7 @@
         {
             "id": 3380913782,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "KINGS XI BC vs Ball Busters FC BC",
+            "title": "Complete | KINGS XI BC vs Ball Busters FC BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 18:30:00",
@@ -32091,7 +32131,7 @@
         {
             "id": 2136919223,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Setting Ducks BC vs Ball Busters BC",
+            "title": "Complete | Setting Ducks BC vs Ball Busters BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 19:00:00",
@@ -32111,7 +32151,7 @@
         {
             "id": 1740693213,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Step Brothers BC vs Shrimps SC",
+            "title": "Default | Step Brothers BC vs Shrimps SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 19:00:00",
@@ -32131,7 +32171,7 @@
         {
             "id": 3125633880,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "67ers SC vs Shot O'Clock BC",
+            "title": "Complete | 67ers SC vs Shot O'Clock BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 19:00:00",
@@ -32151,7 +32191,7 @@
         {
             "id": 2009880950,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "We dig for fun! vs 5 Night's at Diddys BC",
+            "title": "Default | We dig for fun! vs 5 Night's at Diddys BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 19:00:00",
@@ -32211,7 +32251,7 @@
         {
             "id": 2770507764,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "A Labubu MC vs Bumcell United SC",
+            "title": "Complete | A Labubu MC vs Bumcell United SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 19:20:00",
@@ -32231,7 +32271,7 @@
         {
             "id": 1414161100,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Paykan FC vs Shush VC",
+            "title": "Complete | Paykan FC vs Shush VC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 19:20:00",
@@ -32311,7 +32351,7 @@
         {
             "id": 689322748,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Big Back Baddies SC vs Over The Net Worth",
+            "title": "Default | Big Back Baddies SC vs Over The Net Worth",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 20:00:00",
@@ -32331,7 +32371,7 @@
         {
             "id": 1911269829,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Hit &amp; Run NC vs Markham Foxes MK",
+            "title": "Default | Hit &amp; Run NC vs Markham Foxes MK",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 20:00:00",
@@ -32351,7 +32391,7 @@
         {
             "id": 3461638219,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Balls Deep BC vs Schulich Storm",
+            "title": "Complete | Balls Deep BC vs Schulich Storm",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 20:00:00",
@@ -32371,7 +32411,7 @@
         {
             "id": 4162581054,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Nekoma BC vs David's my son BC",
+            "title": "Complete | Nekoma BC vs David's my son BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 20:00:00",
@@ -32391,7 +32431,7 @@
         {
             "id": 2052398518,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Hits and Giggles BC vs Allison's Dwarves SC",
+            "title": "Complete | Hits and Giggles BC vs Allison's Dwarves SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 20:00:00",
@@ -32431,7 +32471,7 @@
         {
             "id": 693501394,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "AMSA BC vs Kicking Up A Storm BC",
+            "title": "Complete | AMSA BC vs Kicking Up A Storm BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 20:10:00",
@@ -32451,7 +32491,7 @@
         {
             "id": 1800000159,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "9900 keele st PT 2 vs Paykan FC",
+            "title": "Complete | 9900 keele st PT 2 vs Paykan FC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 20:10:00",
@@ -32531,7 +32571,7 @@
         {
             "id": 1688922336,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Hits and Giggles BC vs Shrimps SC",
+            "title": "Complete | Hits and Giggles BC vs Shrimps SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 21:00:00",
@@ -32551,7 +32591,7 @@
         {
             "id": 2124916401,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "See You In Court vs Balls",
+            "title": "Complete | See You In Court vs Balls",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 21:00:00",
@@ -32571,7 +32611,7 @@
         {
             "id": 3946616033,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Net Ninjas vs Dat's What She Set",
+            "title": "Default | Net Ninjas vs Dat's What She Set",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 21:00:00",
@@ -32591,7 +32631,7 @@
         {
             "id": 877316701,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Kiss My Ace MC vs Its My Bedtime BC",
+            "title": "Complete | Kiss My Ace MC vs Its My Bedtime BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 21:00:00",
@@ -32611,7 +32651,7 @@
         {
             "id": 3701149395,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Hits &amp; Giggles CC vs LIFO Goonerz NC",
+            "title": "Complete | Hits &amp; Giggles CC vs LIFO Goonerz NC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 21:00:00",
@@ -32631,7 +32671,7 @@
         {
             "id": 3958434346,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "AMSA BC vs Los Gorillas BC",
+            "title": "Complete | AMSA BC vs Los Gorillas BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 21:00:00",
@@ -32671,7 +32711,7 @@
         {
             "id": 920008710,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Bethune Dragons BC vs Wastemans United F.C.",
+            "title": "Default | Bethune Dragons BC vs Wastemans United F.C.",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 21:00:00",
@@ -36191,7 +36231,7 @@
         {
             "id": 2608840897,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Backhand Me BC vs Bulldog Nation",
+            "title": "Default | Backhand Me BC vs Bulldog Nation",
             "description": "",
             "image": "",
             "start_date": "2025-10-20 18:40:00",
