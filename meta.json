@@ -16,6 +16,159 @@
                 "b": 255
             },
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png"
+        },
+        {
+            "schoolID": "MM",
+            "schoolName": "McMaster University",
+            "schoolNameShort": "McMaster",
+            "location": "Hamilton, Ontario, CA",
+            "colourDark": {
+                "r": 111,
+                "g": 19,
+                "b": 60
+            },
+            "colourLight": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/6/6f/Uni_mcmaster_logo.svg/500px-Uni_mcmaster_logo.svg.png"
+        },
+        {
+            "schoolID": "UW",
+            "schoolName": "University of Waterloo",
+            "schoolNameShort": "Waterloo",
+            "location": "Waterloo, Ontario, CA",
+            "colourDark": {
+                "r": 248,
+                "g": 216,
+                "b": 103
+            },
+            "colourLight": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"
+        },
+        {
+            "schoolID": "QU",
+            "schoolName": "Queens University",
+            "schoolNameShort": "Queens",
+            "location": "Kingston, Ontario, CA",
+            "colourDark": {
+                "r": 170,
+                "g": 38,
+                "b": 56
+            },
+            "colourLight": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/QueensU_Crest.svg/1280px-QueensU_Crest.svg.png"
+        },
+        {
+            "schoolID": "WU",
+            "schoolName": "Western University",
+            "schoolNameShort": "Western",
+            "location": "London, Ontario, CA",
+            "colourDark": {
+                "r": 74,
+                "g": 40,
+                "b": 126
+            },
+            "colourLight": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "logo": "https://play-lh.googleusercontent.com/8-W6qPF9Xv1C5NzPGJH9wvdH1SxXys7IAdtXcWSI09-jg1VDi_mKqqp4o-tHi20D8i8"
+        },
+        {
+            "schoolID": "UWN",
+            "schoolName": "University of Windsor",
+            "schoolNameShort": "Windsor",
+            "location": "Windsor, Ontario, CA",
+            "colourDark": {
+                "r": 34,
+                "g": 84,
+                "b": 145
+            },
+            "colourLight": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk667F-w3yNhNCbZYmOHItq1sd-te0vne_rw&s"
+        },
+        {
+            "schoolID": "DOT",
+            "schoolName": "Ontario Tech University",
+            "schoolNameShort": "Ontario Tech",
+            "location": "Oshawa, Ontario, CA",
+            "colourDark": {
+                "r": 225,
+                "g": 113,
+                "b": 75
+            },
+            "colourLight": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy8uHp7Ytb-ukZfNusier9PdMciKFVLpMkAQ&s"
+        },
+        {
+            "schoolID": "YUK",
+            "schoolName": "York University: Keele Campus",
+            "schoolNameShort": "YorkU Keele",
+            "location": "Toronto, Ontario, CA",
+            "colourDark": {
+                "r": 208,
+                "g": 52,
+                "b": 61
+            },
+            "colourLight": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/York-icon.png"
+        },
+        {
+            "schoolID": "YUM",
+            "schoolName": "York University: Markham Campus",
+            "schoolNameShort": "YorkU Markham",
+            "location": "Markham, Ontario, CA",
+            "colourDark": {
+                "r": 208,
+                "g": 52,
+                "b": 61
+            },
+            "colourLight": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/York-icon.png"
+        },
+        {
+            "schoolID": "CU",
+            "schoolName": "Carleton University",
+            "schoolNameShort": "Carleton",
+            "location": "Ottawa, Ontario, CA",
+            "colourDark": {
+                "r": 216,
+                "g": 55,
+                "b": 49
+            },
+            "colourLight": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3bpaajdKNjrOgyHtoX5J2kGA-t0nVZeaYQ&s"
         }
     ]
 }
