@@ -28829,6 +28829,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 174441224,
+            "url": "https://macreconline.ca/Facility/GetSchedule",
+            "title": "McMaster Neuroscience Graduate Program Bonfire",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-02 15:30:00",
+            "end_date": "2025-10-02 19:00:00",
+            "venue": "Bon Fire",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2775581359,
             "url": "https://macreconline.ca/Facility/GetSchedule",
             "title": "WBB",
@@ -85555,7 +85575,7 @@
         {
             "id": 220250925,
             "title": "New Update",
-            "body": "Version 1.4 is out, with a new home page for your favourite sports. Update UTM Sports in the App Store!",
+            "body": "**UTM Sports is now UniSports!** Version 2.0 is out, with a new home page and schedules from universities across Ontario. Update now in the App Store!",
             "type": 2
         }
     ]
