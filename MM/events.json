@@ -47029,6 +47029,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 674524425,
+            "url": "https://macreconline.ca/Facility/GetSchedule",
+            "title": "Marching Band",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-21 19:30:00",
+            "end_date": "2025-10-21 22:30:00",
+            "venue": "Burridge East",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 283274555,
             "url": "https://macreconline.ca/Facility/GetSchedule",
             "title": "Marching Band",
