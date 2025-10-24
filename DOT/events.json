@@ -2871,26 +2871,6 @@
     ],
     "featured": [
         {
-            "id": 2941935828,
-            "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
-            "title": "Open Gym Time - Badminton & Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-23 09:30:00",
-            "end_date": "2025-10-23 16:30:00",
-            "venue": "Gym 5",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 299957668,
             "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
             "title": "Open Gym Time - Badminton",
