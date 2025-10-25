@@ -547,28 +547,6 @@
             ]
         },
         {
-            "id": 2949648835,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-09-02 19:10:00",
-            "end_date": "2025-09-02 19:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3723112511,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -847,28 +825,6 @@
             "symbol": "basketball",
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2898803023,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-09-03 17:10:00",
-            "end_date": "2025-09-03 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -1721,7 +1677,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-09-06 13:00:00",
-            "end_date": "2025-09-06 17:00:00",
+            "end_date": "2025-09-06 15:00:00",
             "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
@@ -2377,28 +2333,6 @@
             ]
         },
         {
-            "id": 3260219625,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-09-09 19:10:00",
-            "end_date": "2025-09-09 19:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 216257531,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -2749,28 +2683,6 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 3058002695,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-09-10 17:10:00",
-            "end_date": "2025-09-10 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -3663,7 +3575,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-09-13 13:00:00",
-            "end_date": "2025-09-13 17:00:00",
+            "end_date": "2025-09-13 15:00:00",
             "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
@@ -4517,28 +4429,6 @@
             ]
         },
         {
-            "id": 1857116414,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-09-16 19:10:00",
-            "end_date": "2025-09-16 19:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3354700760,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -4953,28 +4843,6 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 1769750092,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-09-17 17:10:00",
-            "end_date": "2025-09-17 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
                 "we"
@@ -5869,7 +5737,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-09-20 13:00:00",
-            "end_date": "2025-09-20 17:00:00",
+            "end_date": "2025-09-20 15:00:00",
             "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
@@ -6811,28 +6679,6 @@
             ]
         },
         {
-            "id": 2312051877,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-09-23 19:10:00",
-            "end_date": "2025-09-23 19:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 596421717,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -7269,28 +7115,6 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 280705064,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-09-24 17:10:00",
-            "end_date": "2025-09-24 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
                 "we"
@@ -8317,7 +8141,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-09-27 13:00:00",
-            "end_date": "2025-09-27 17:00:00",
+            "end_date": "2025-09-27 15:00:00",
             "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
@@ -9435,28 +9259,6 @@
             ]
         },
         {
-            "id": 3412878155,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-09-30 19:10:00",
-            "end_date": "2025-09-30 19:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4011380414,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -9943,28 +9745,6 @@
             ]
         },
         {
-            "id": 3267179724,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-10-01 17:10:00",
-            "end_date": "2025-10-01 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1209810955,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Women's Only Badminton and Basketball",
@@ -10097,28 +9877,6 @@
             ]
         },
         {
-            "id": 3146234551,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-02 07:00:00",
-            "end_date": "2025-10-02 15:00:00",
-            "venue": "Tennis Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Tennis",
-            "symbol": "tennisball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 2674452492,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -10175,6 +9933,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 3146234551,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-02 07:00:00",
+            "end_date": "2025-10-02 15:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -10691,28 +10471,6 @@
             ]
         },
         {
-            "id": 2274553695,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-03 07:00:00",
-            "end_date": "2025-10-03 14:00:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 4001994353,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -10769,6 +10527,28 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 2274553695,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-03 07:00:00",
+            "end_date": "2025-10-03 14:00:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -11205,7 +10985,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-10-04 13:00:00",
-            "end_date": "2025-10-04 17:00:00",
+            "end_date": "2025-10-04 15:00:00",
             "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
@@ -12345,28 +12125,6 @@
             ]
         },
         {
-            "id": 1921799326,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-10-07 19:10:00",
-            "end_date": "2025-10-07 19:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 277138557,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -12963,28 +12721,6 @@
             ]
         },
         {
-            "id": 1545337954,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-10-08 17:10:00",
-            "end_date": "2025-10-08 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 868218544,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Women's Only Badminton and Basketball",
@@ -13117,28 +12853,6 @@
             ]
         },
         {
-            "id": 48347721,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-09 07:00:00",
-            "end_date": "2025-10-09 15:00:00",
-            "venue": "Tennis Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Tennis",
-            "symbol": "tennisball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 3567370781,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -13195,6 +12909,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 48347721,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-09 07:00:00",
+            "end_date": "2025-10-09 15:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -13315,28 +13051,6 @@
             ]
         },
         {
-            "id": 1261813478,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-09 11:00:00",
-            "end_date": "2025-10-09 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 320269003,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Swim (Students Only)",
@@ -13349,6 +13063,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1261813478,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-09 11:00:00",
+            "end_date": "2025-10-09 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -13777,28 +13513,6 @@
             ]
         },
         {
-            "id": 1240522672,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-10 07:00:00",
-            "end_date": "2025-10-10 14:00:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 470561396,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -13855,6 +13569,28 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 1240522672,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-10 07:00:00",
+            "end_date": "2025-10-10 14:00:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -14423,7 +14159,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-10-11 13:00:00",
-            "end_date": "2025-10-11 17:00:00",
+            "end_date": "2025-10-11 15:00:00",
             "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
@@ -15629,28 +15365,6 @@
             ]
         },
         {
-            "id": 797902007,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-10-14 19:10:00",
-            "end_date": "2025-10-14 19:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 965410035,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -16269,28 +15983,6 @@
             ]
         },
         {
-            "id": 2679379216,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-10-15 17:10:00",
-            "end_date": "2025-10-15 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2676075510,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Women's Only Badminton and Basketball",
@@ -16423,28 +16115,6 @@
             ]
         },
         {
-            "id": 1988995185,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-16 07:00:00",
-            "end_date": "2025-10-16 15:00:00",
-            "venue": "Tennis Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Tennis",
-            "symbol": "tennisball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 1147201403,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -16501,6 +16171,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1988995185,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-16 07:00:00",
+            "end_date": "2025-10-16 15:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -16621,28 +16313,6 @@
             ]
         },
         {
-            "id": 1907086299,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-16 11:00:00",
-            "end_date": "2025-10-16 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 2885271757,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Swim (Students Only)",
@@ -16655,6 +16325,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1907086299,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-16 11:00:00",
+            "end_date": "2025-10-16 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -17039,28 +16731,6 @@
             ]
         },
         {
-            "id": 4171847057,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-17 07:00:00",
-            "end_date": "2025-10-17 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2394147023,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -17105,18 +16775,18 @@
             ]
         },
         {
-            "id": 185650626,
+            "id": 4171847057,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2025-10-17 07:00:00",
-            "end_date": "2025-10-17 14:00:00",
-            "venue": "North Field",
+            "end_date": "2025-10-17 10:30:00",
+            "venue": "",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -17183,6 +16853,28 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 185650626,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-17 07:00:00",
+            "end_date": "2025-10-17 14:00:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -17773,7 +17465,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-10-18 13:00:00",
-            "end_date": "2025-10-18 17:00:00",
+            "end_date": "2025-10-18 15:00:00",
             "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
@@ -18701,6 +18393,28 @@
             ]
         },
         {
+            "id": 3765391958,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights (WOW)",
+            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
+            "image": "",
+            "start_date": "2025-10-20 16:10:00",
+            "end_date": "2025-10-20 16:55:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 380316793,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights (WOW)",
@@ -18722,28 +18436,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 3765391958,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights (WOW)",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
-            "image": "",
-            "start_date": "2025-10-20 16:10:00",
-            "end_date": "2025-10-20 16:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
             ]
         },
         {
@@ -18951,28 +18643,6 @@
             "symbol": "dumbbell",
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 4117160350,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Rainbow Rhythm",
-            "description": "ainbow Rhythm is a lively aerobics class that centers around the 2SLGBTQ+ community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rhythm is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
-            "image": "",
-            "start_date": "2025-10-20 19:10:00",
-            "end_date": "2025-10-20 19:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
-            "sortCategory": "Workout",
-            "symbol": "heart",
-            "womens": false,
-            "lgbt": true,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -19789,28 +19459,6 @@
             ]
         },
         {
-            "id": 1612989304,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-10-21 19:10:00",
-            "end_date": "2025-10-21 19:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 663120163,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -20473,28 +20121,6 @@
             ]
         },
         {
-            "id": 797361464,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-10-22 17:10:00",
-            "end_date": "2025-10-22 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1171124680,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Women's Only Badminton and Basketball",
@@ -20583,6 +20209,28 @@
             ]
         },
         {
+            "id": 2824814283,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-23 07:00:00",
+            "end_date": "2025-10-23 10:30:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 2418659120,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -20624,72 +20272,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "th"
-            ]
-        },
-        {
-            "id": 130417754,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-23 07:00:00",
-            "end_date": "2025-10-23 15:00:00",
-            "venue": "Tennis Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Tennis",
-            "symbol": "tennisball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 3705652368,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-23 07:00:00",
-            "end_date": "2025-10-23 15:00:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2824814283,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-23 07:00:00",
-            "end_date": "2025-10-23 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -20749,6 +20331,50 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 130417754,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-23 07:00:00",
+            "end_date": "2025-10-23 15:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 3705652368,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-23 07:00:00",
+            "end_date": "2025-10-23 15:00:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -20891,28 +20517,6 @@
             ]
         },
         {
-            "id": 3031355840,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-23 11:00:00",
-            "end_date": "2025-10-23 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 2443885198,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Swim (Students Only)",
@@ -20925,6 +20529,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 3031355840,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-23 11:00:00",
+            "end_date": "2025-10-23 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -21371,28 +20997,6 @@
             ]
         },
         {
-            "id": 808756813,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-24 07:00:00",
-            "end_date": "2025-10-24 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3809901690,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -21437,18 +21041,18 @@
             ]
         },
         {
-            "id": 1688278666,
+            "id": 808756813,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2025-10-24 07:00:00",
-            "end_date": "2025-10-24 14:00:00",
-            "venue": "North Field",
+            "end_date": "2025-10-24 10:30:00",
+            "venue": "",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -21515,6 +21119,28 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 1688278666,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-24 07:00:00",
+            "end_date": "2025-10-24 14:00:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -21723,26 +21349,6 @@
             ]
         },
         {
-            "id": 4141635635,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Walks",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-24 13:00:00",
-            "end_date": "2025-10-24 14:00:00",
-            "venue": "RAWC Lobby",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.walk",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4027120481,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -21763,6 +21369,26 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 4141635635,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Walks",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-24 13:00:00",
+            "end_date": "2025-10-24 14:00:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.walk",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 1438910683,
@@ -21921,22 +21547,42 @@
             ]
         },
         {
-            "id": 2699812856,
+            "id": 2467562204,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals: Open Cricket",
+            "title": "Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-10-24 16:30:00",
-            "end_date": "2025-10-24 18:30:00",
-            "venue": "Gym A/B",
+            "end_date": "2025-10-24 21:30:00",
+            "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 24195021,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-24 16:30:00",
+            "end_date": "2025-10-24 21:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -22161,36 +21807,13 @@
             ]
         },
         {
-            "id": 3199714302,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC WOD (Workout of the Day)",
-            "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
-            "image": "",
-            "start_date": "2025-10-25 12:10:00",
-            "end_date": "2025-10-25 12:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "sa",
-                "su"
-            ]
-        },
-        {
             "id": 150534903,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
             "description": "",
             "image": "",
             "start_date": "2025-10-25 13:00:00",
-            "end_date": "2025-10-25 17:00:00",
+            "end_date": "2025-10-25 15:00:00",
             "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
@@ -22564,7 +22187,7 @@
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
             "start_date": "2025-10-26 12:10:00",
-            "end_date": "2025-10-26 12:55:00",
+            "end_date": "2025-10-26 12:10:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
@@ -23171,6 +22794,28 @@
             ]
         },
         {
+            "id": 352394571,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights (WOW)",
+            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
+            "image": "",
+            "start_date": "2025-10-27 16:10:00",
+            "end_date": "2025-10-27 16:55:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 3795069027,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights (WOW)",
@@ -23192,28 +22837,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 352394571,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights (WOW)",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
-            "image": "",
-            "start_date": "2025-10-27 16:10:00",
-            "end_date": "2025-10-27 16:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
             ]
         },
         {
@@ -23365,28 +22988,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 1770458382,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Rainbow Rhythm",
-            "description": "ainbow Rhythm is a lively aerobics class that centers around the 2SLGBTQ+ community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rhythm is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
-            "image": "",
-            "start_date": "2025-10-27 19:10:00",
-            "end_date": "2025-10-27 19:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
-            "sortCategory": "Workout",
-            "symbol": "heart",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
         },
         {
             "id": 1842878150,
@@ -24109,28 +23710,6 @@
             ]
         },
         {
-            "id": 1417419856,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-10-28 19:10:00",
-            "end_date": "2025-10-28 19:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3649352097,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -24563,28 +24142,6 @@
             ]
         },
         {
-            "id": 4265715207,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-10-29 17:10:00",
-            "end_date": "2025-10-29 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1076212093,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": " Beginner Boxing",
@@ -24691,6 +24248,28 @@
             ]
         },
         {
+            "id": 246654570,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-30 07:00:00",
+            "end_date": "2025-10-30 10:30:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 649955321,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -24732,28 +24311,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "th"
-            ]
-        },
-        {
-            "id": 246654570,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-30 07:00:00",
-            "end_date": "2025-10-30 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -25323,28 +24880,6 @@
             ]
         },
         {
-            "id": 3677375185,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-31 07:00:00",
-            "end_date": "2025-10-31 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2729271721,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -25379,6 +24914,28 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 3677375185,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-31 07:00:00",
+            "end_date": "2025-10-31 10:30:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -26009,7 +25566,7 @@
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
             "start_date": "2025-11-01 12:10:00",
-            "end_date": "2025-11-01 12:55:00",
+            "end_date": "2025-11-01 12:10:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
@@ -26316,7 +25873,7 @@
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
             "start_date": "2025-11-02 12:10:00",
-            "end_date": "2025-11-02 12:55:00",
+            "end_date": "2025-11-02 12:10:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
@@ -27029,6 +26586,28 @@
             ]
         },
         {
+            "id": 3710939377,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights (WOW)",
+            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
+            "image": "",
+            "start_date": "2025-11-03 16:10:00",
+            "end_date": "2025-11-03 16:55:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 3320111352,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights (WOW)",
@@ -27050,28 +26629,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 3710939377,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights (WOW)",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
-            "image": "",
-            "start_date": "2025-11-03 16:10:00",
-            "end_date": "2025-11-03 16:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
             ]
         },
         {
@@ -27299,7 +26856,7 @@
             "description": "ainbow Rhythm is a lively aerobics class that centers around the 2SLGBTQ+ community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rhythm is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
             "image": "",
             "start_date": "2025-11-03 19:10:00",
-            "end_date": "2025-11-03 19:55:00",
+            "end_date": "2025-11-03 19:10:00",
             "venue": "Dance Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
@@ -28021,7 +27578,7 @@
             "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
             "image": "",
             "start_date": "2025-11-04 19:10:00",
-            "end_date": "2025-11-04 19:55:00",
+            "end_date": "2025-11-04 20:00:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
@@ -28455,28 +28012,6 @@
             ]
         },
         {
-            "id": 2230335305,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-11-05 17:10:00",
-            "end_date": "2025-11-05 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 4082785415,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": " Beginner Boxing",
@@ -28491,6 +28026,28 @@
             "symbol": "figure.boxing",
             "womens": false,
             "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2230335305,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pride Pump",
+            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
+            "image": "",
+            "start_date": "2025-11-05 17:10:00",
+            "end_date": "2025-11-05 17:10:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": true,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -28587,28 +28144,6 @@
             ]
         },
         {
-            "id": 3047094970,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-06 07:00:00",
-            "end_date": "2025-11-06 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 3821848364,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -28628,6 +28163,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 3047094970,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-06 07:00:00",
+            "end_date": "2025-11-06 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -29269,28 +28826,6 @@
             ]
         },
         {
-            "id": 2187107247,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-07 07:00:00",
-            "end_date": "2025-11-07 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 68334924,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -29303,6 +28838,28 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 2187107247,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-07 07:00:00",
+            "end_date": "2025-11-07 10:30:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -30019,7 +29576,7 @@
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
             "start_date": "2025-11-08 12:10:00",
-            "end_date": "2025-11-08 12:55:00",
+            "end_date": "2025-11-08 12:10:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
@@ -30326,7 +29883,7 @@
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
             "start_date": "2025-11-09 12:10:00",
-            "end_date": "2025-11-09 12:55:00",
+            "end_date": "2025-11-09 12:10:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
@@ -31039,6 +30596,28 @@
             ]
         },
         {
+            "id": 3822622489,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights (WOW)",
+            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
+            "image": "",
+            "start_date": "2025-11-10 16:10:00",
+            "end_date": "2025-11-10 16:55:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 2086089478,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights (WOW)",
@@ -31060,28 +30639,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 3822622489,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights (WOW)",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
-            "image": "",
-            "start_date": "2025-11-10 16:10:00",
-            "end_date": "2025-11-10 16:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
             ]
         },
         {
@@ -31289,7 +30846,7 @@
             "description": "ainbow Rhythm is a lively aerobics class that centers around the 2SLGBTQ+ community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rhythm is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
             "image": "",
             "start_date": "2025-11-10 19:10:00",
-            "end_date": "2025-11-10 19:55:00",
+            "end_date": "2025-11-10 19:10:00",
             "venue": "Dance Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
@@ -31971,7 +31528,7 @@
             "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
             "image": "",
             "start_date": "2025-11-11 19:10:00",
-            "end_date": "2025-11-11 19:55:00",
+            "end_date": "2025-11-11 20:00:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
@@ -32385,28 +31942,6 @@
             ]
         },
         {
-            "id": 27855181,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-11-12 17:10:00",
-            "end_date": "2025-11-12 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 986435327,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": " Beginner Boxing",
@@ -32421,6 +31956,28 @@
             "symbol": "figure.boxing",
             "womens": false,
             "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 27855181,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pride Pump",
+            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
+            "image": "",
+            "start_date": "2025-11-12 17:10:00",
+            "end_date": "2025-11-12 17:10:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": true,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -32517,28 +32074,6 @@
             ]
         },
         {
-            "id": 1932334075,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-13 07:00:00",
-            "end_date": "2025-11-13 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 2749518912,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -32558,6 +32093,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 1932334075,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-13 07:00:00",
+            "end_date": "2025-11-13 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -33199,28 +32756,6 @@
             ]
         },
         {
-            "id": 2836918652,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-14 07:00:00",
-            "end_date": "2025-11-14 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 863645579,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -33233,6 +32768,28 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 2836918652,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-14 07:00:00",
+            "end_date": "2025-11-14 10:30:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -33397,6 +32954,26 @@
             ]
         },
         {
+            "id": 1056225400,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Skates",
+            "description": "Registration is strongly recommended due to event's popularity.",
+            "image": "",
+            "start_date": "2025-11-14 11:00:00",
+            "end_date": "2025-11-14 15:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.ice.skating",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3277201017,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Cricket",
@@ -33417,26 +32994,6 @@
             "weeklyRepetitions": [
                 "fr"
             ]
-        },
-        {
-            "id": 1056225400,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Skates",
-            "description": "Registration is strongly recommended due to event's popularity.",
-            "image": "",
-            "start_date": "2025-11-14 11:00:00",
-            "end_date": "2025-11-14 15:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.ice.skating",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 2701687894,
@@ -33865,7 +33422,7 @@
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
             "start_date": "2025-11-15 12:10:00",
-            "end_date": "2025-11-15 12:55:00",
+            "end_date": "2025-11-15 12:10:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
@@ -34152,7 +33709,7 @@
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
             "start_date": "2025-11-16 12:10:00",
-            "end_date": "2025-11-16 12:55:00",
+            "end_date": "2025-11-16 12:10:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
@@ -34785,6 +34342,28 @@
             ]
         },
         {
+            "id": 85435289,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights (WOW)",
+            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
+            "image": "",
+            "start_date": "2025-11-17 16:10:00",
+            "end_date": "2025-11-17 16:55:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 1839719096,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights (WOW)",
@@ -34806,28 +34385,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 85435289,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights (WOW)",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
-            "image": "",
-            "start_date": "2025-11-17 16:10:00",
-            "end_date": "2025-11-17 16:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
             ]
         },
         {
@@ -35033,7 +34590,7 @@
             "description": "ainbow Rhythm is a lively aerobics class that centers around the 2SLGBTQ+ community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rhythm is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
             "image": "",
             "start_date": "2025-11-17 19:10:00",
-            "end_date": "2025-11-17 19:55:00",
+            "end_date": "2025-11-17 19:10:00",
             "venue": "Dance Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
@@ -35671,7 +35228,7 @@
             "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
             "image": "",
             "start_date": "2025-11-18 19:10:00",
-            "end_date": "2025-11-18 19:55:00",
+            "end_date": "2025-11-18 20:00:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
@@ -36081,28 +35638,6 @@
             ]
         },
         {
-            "id": 1470765983,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-11-19 17:10:00",
-            "end_date": "2025-11-19 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1861912370,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": " Beginner Boxing",
@@ -36117,6 +35652,28 @@
             "symbol": "figure.boxing",
             "womens": false,
             "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1470765983,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pride Pump",
+            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
+            "image": "",
+            "start_date": "2025-11-19 17:10:00",
+            "end_date": "2025-11-19 17:10:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": true,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -36213,28 +35770,6 @@
             ]
         },
         {
-            "id": 2784882727,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-20 07:00:00",
-            "end_date": "2025-11-20 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 3120175068,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -36254,6 +35789,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 2784882727,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-20 07:00:00",
+            "end_date": "2025-11-20 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -36829,28 +36386,6 @@
             ]
         },
         {
-            "id": 2019407812,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-21 07:00:00",
-            "end_date": "2025-11-21 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3175864174,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -36863,6 +36398,28 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 2019407812,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-21 07:00:00",
+            "end_date": "2025-11-21 10:30:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -37473,7 +37030,7 @@
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
             "start_date": "2025-11-22 12:10:00",
-            "end_date": "2025-11-22 12:55:00",
+            "end_date": "2025-11-22 12:10:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
@@ -37780,7 +37337,7 @@
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
             "start_date": "2025-11-23 12:10:00",
-            "end_date": "2025-11-23 12:55:00",
+            "end_date": "2025-11-23 12:10:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
@@ -38473,6 +38030,28 @@
             ]
         },
         {
+            "id": 3528837704,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights (WOW)",
+            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
+            "image": "",
+            "start_date": "2025-11-24 16:10:00",
+            "end_date": "2025-11-24 16:55:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 1600756237,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights (WOW)",
@@ -38494,28 +38073,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 3528837704,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights (WOW)",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
-            "image": "",
-            "start_date": "2025-11-24 16:10:00",
-            "end_date": "2025-11-24 16:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
             ]
         },
         {
@@ -38723,7 +38280,7 @@
             "description": "ainbow Rhythm is a lively aerobics class that centers around the 2SLGBTQ+ community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rhythm is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
             "image": "",
             "start_date": "2025-11-24 19:10:00",
-            "end_date": "2025-11-24 19:55:00",
+            "end_date": "2025-11-24 19:10:00",
             "venue": "Dance Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
@@ -39405,7 +38962,7 @@
             "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
             "image": "",
             "start_date": "2025-11-25 19:10:00",
-            "end_date": "2025-11-25 19:55:00",
+            "end_date": "2025-11-25 20:00:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
@@ -39797,28 +39354,6 @@
             ]
         },
         {
-            "id": 1530383997,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-11-26 17:10:00",
-            "end_date": "2025-11-26 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2743602931,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": " Beginner Boxing",
@@ -39833,6 +39368,28 @@
             "symbol": "figure.boxing",
             "womens": false,
             "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1530383997,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pride Pump",
+            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
+            "image": "",
+            "start_date": "2025-11-26 17:10:00",
+            "end_date": "2025-11-26 17:10:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": true,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -39929,28 +39486,6 @@
             ]
         },
         {
-            "id": 3095244874,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-27 07:00:00",
-            "end_date": "2025-11-27 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 832495414,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -39970,6 +39505,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 3095244874,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-27 07:00:00",
+            "end_date": "2025-11-27 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -40543,28 +40100,6 @@
             ]
         },
         {
-            "id": 121457828,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-28 07:00:00",
-            "end_date": "2025-11-28 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3719833463,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -40577,6 +40112,28 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 121457828,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-28 07:00:00",
+            "end_date": "2025-11-28 10:30:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -41203,7 +40760,7 @@
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
             "start_date": "2025-11-29 12:10:00",
-            "end_date": "2025-11-29 12:55:00",
+            "end_date": "2025-11-29 12:10:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
@@ -41490,7 +41047,7 @@
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
             "start_date": "2025-11-30 12:10:00",
-            "end_date": "2025-11-30 12:55:00",
+            "end_date": "2025-11-30 12:10:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
@@ -42141,6 +41698,28 @@
             ]
         },
         {
+            "id": 2437008597,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights (WOW)",
+            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
+            "image": "",
+            "start_date": "2025-12-01 16:10:00",
+            "end_date": "2025-12-01 16:55:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 1672622976,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights (WOW)",
@@ -42162,28 +41741,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 2437008597,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights (WOW)",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
-            "image": "",
-            "start_date": "2025-12-01 16:10:00",
-            "end_date": "2025-12-01 16:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
             ]
         },
         {
@@ -42343,7 +41900,7 @@
             "description": "ainbow Rhythm is a lively aerobics class that centers around the 2SLGBTQ+ community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rhythm is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
             "image": "",
             "start_date": "2025-12-01 19:10:00",
-            "end_date": "2025-12-01 19:55:00",
+            "end_date": "2025-12-01 19:10:00",
             "venue": "Dance Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
@@ -43003,7 +42560,7 @@
             "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
             "image": "",
             "start_date": "2025-12-02 19:10:00",
-            "end_date": "2025-12-02 19:55:00",
+            "end_date": "2025-12-02 20:00:00",
             "venue": "Strength & Conditioning Centre (SCC)",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
@@ -43239,28 +42796,6 @@
             ]
         },
         {
-            "id": 3883999184,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pride Pump",
-            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
-            "image": "",
-            "start_date": "2025-12-03 17:10:00",
-            "end_date": "2025-12-03 17:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3980737426,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": " Beginner Boxing",
@@ -43275,6 +42810,28 @@
             "symbol": "figure.boxing",
             "womens": false,
             "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3883999184,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pride Pump",
+            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
+            "image": "",
+            "start_date": "2025-12-03 17:10:00",
+            "end_date": "2025-12-03 17:10:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": true,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -43305,28 +42862,6 @@
             ]
         },
         {
-            "id": 404298623,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-04 07:00:00",
-            "end_date": "2025-12-04 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 3270953217,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -43346,6 +42881,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 404298623,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-04 07:00:00",
+            "end_date": "2025-12-04 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -43655,28 +43212,6 @@
             ]
         },
         {
-            "id": 1945385849,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-05 07:00:00",
-            "end_date": "2025-12-05 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2154982985,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -43689,6 +43224,28 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 1945385849,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-05 07:00:00",
+            "end_date": "2025-12-05 10:30:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -44907,28 +44464,6 @@
             ]
         },
         {
-            "id": 334513766,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-11 07:00:00",
-            "end_date": "2025-12-11 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 1305351331,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -44948,6 +44483,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 334513766,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-11 07:00:00",
+            "end_date": "2025-12-11 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -45215,28 +44772,6 @@
             ]
         },
         {
-            "id": 3696206679,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-12 07:00:00",
-            "end_date": "2025-12-12 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 320001616,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -45249,6 +44784,28 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 3696206679,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-12 07:00:00",
+            "end_date": "2025-12-12 10:30:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -46205,28 +45762,6 @@
             ]
         },
         {
-            "id": 3828192434,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-18 07:00:00",
-            "end_date": "2025-12-18 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 1605886132,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -46246,6 +45781,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 3828192434,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-18 07:00:00",
+            "end_date": "2025-12-18 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -46469,28 +46026,6 @@
             ]
         },
         {
-            "id": 3082117012,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-19 07:00:00",
-            "end_date": "2025-12-19 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 4046033519,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -46503,6 +46038,28 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 3082117012,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-19 07:00:00",
+            "end_date": "2025-12-19 10:30:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
