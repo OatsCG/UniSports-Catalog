@@ -48251,26 +48251,6 @@
     ],
     "featured": [
         {
-            "id": 3370355762,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Event - Yard Games Social",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-24 19:00:00",
-            "end_date": "2025-10-24 22:00:00",
-            "venue": "Gymnasia",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3203930273,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "IA Football - Playoff Game",
