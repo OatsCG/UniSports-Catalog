@@ -48251,26 +48251,6 @@
     ],
     "featured": [
         {
-            "id": 3203930273,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "IA Football - Playoff Game",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-25 08:00:00",
-            "end_date": "2025-10-25 18:00:00",
-            "venue": "Don Wright Track",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Football",
-            "symbol": "american.football",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3617721347,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "MYM",
