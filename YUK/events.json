@@ -1089,9 +1089,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3584126641,
+            "id": 1461996856,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-09-04 08:30:00",
@@ -1109,9 +1109,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1461996856,
+            "id": 3584126641,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
             "description": "",
             "image": "",
             "start_date": "2025-09-04 08:30:00",
@@ -3569,9 +3569,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3415552658,
+            "id": 2070899740,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 16",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 18",
             "description": "",
             "image": "",
             "start_date": "2025-09-10 10:30:00",
@@ -3589,9 +3589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2070899740,
+            "id": 3415552658,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 18",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-09-10 10:30:00",
@@ -4149,9 +4149,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 887638828,
+            "id": 1753818769,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-09-11 08:30:00",
@@ -4169,9 +4169,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1753818769,
+            "id": 887638828,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
             "description": "",
             "image": "",
             "start_date": "2025-09-11 08:30:00",
@@ -8209,9 +8209,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2207165251,
+            "id": 3708290483,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-09-18 08:30:00",
@@ -8229,9 +8229,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3708290483,
+            "id": 2207165251,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
             "description": "",
             "image": "",
             "start_date": "2025-09-18 08:30:00",
@@ -13749,9 +13749,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 183622828,
+            "id": 828528345,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-09-24 18:45:00",
@@ -13769,9 +13769,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 828528345,
+            "id": 183622828,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-09-24 18:45:00",
@@ -14149,9 +14149,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4291866704,
+            "id": 2164297928,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-09-25 08:30:00",
@@ -14169,9 +14169,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2164297928,
+            "id": 4291866704,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
             "description": "",
             "image": "",
             "start_date": "2025-09-25 08:30:00",
@@ -17049,9 +17049,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3048359665,
+            "id": 4187368602,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
+            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
             "description": "",
             "image": "",
             "start_date": "2025-09-27 16:00:00",
@@ -17069,9 +17069,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4187368602,
+            "id": 3048359665,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
+            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
             "description": "",
             "image": "",
             "start_date": "2025-09-27 16:00:00",
@@ -21269,9 +21269,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1104667494,
+            "id": 1864669272,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-01 18:45:00",
@@ -21289,9 +21289,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1864669272,
+            "id": 1104667494,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-01 18:45:00",
@@ -21649,9 +21649,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 860212493,
+            "id": 2369322574,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 08:30:00",
@@ -21669,9 +21669,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2369322574,
+            "id": 860212493,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 08:30:00",
@@ -22609,26 +22609,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 134023799,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Game # 4 | Mahipal Rana vs Brandon Myrbo SC",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-02 16:30:00",
-            "end_date": "2025-10-02 17:05:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2273617753,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Complete | Game # 4 | Dinithi Rajaguru vs Chantelle Ocampo BC",
@@ -22649,9 +22629,49 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 134023799,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Complete | Game # 4 | Mahipal Rana vs Brandon Myrbo SC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-02 16:30:00",
+            "end_date": "2025-10-02 17:05:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2205985549,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Complete | Game # 1 | William Cheung VC vs Gian Rhyner VC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-02 16:30:00",
+            "end_date": "2025-10-02 17:05:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2521062745,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Complete | Game # 1 | Hansika Mali BC vs Yu Zhang",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 16:30:00",
@@ -22712,26 +22732,6 @@
             "id": 3913375472,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Complete | Game # 2 | Yolanda Wu WC vs Lishu Chen WC",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-02 16:30:00",
-            "end_date": "2025-10-02 17:05:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 2521062745,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Game # 1 | Hansika Mali BC vs Yu Zhang",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 16:30:00",
@@ -23029,9 +23029,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2202510842,
+            "id": 3717220763,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Game # 5 | Himanshu Singh BC vs William Cheung VC",
+            "title": "Complete | Game # 5 | Lishu Chen WC vs Yu Zhang",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 17:05:00",
@@ -23049,9 +23049,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3717220763,
+            "id": 2202510842,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Game # 5 | Lishu Chen WC vs Yu Zhang",
+            "title": "Complete | Game # 5 | Himanshu Singh BC vs William Cheung VC",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 17:05:00",
@@ -25149,9 +25149,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 683763471,
+            "id": 1078097765,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
+            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-04 16:00:00",
@@ -25169,9 +25169,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1078097765,
+            "id": 683763471,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
+            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
             "description": "",
             "image": "",
             "start_date": "2025-10-04 16:00:00",
@@ -26469,9 +26469,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 273085296,
+            "id": 1130020828,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Default | Safe Sets vs Meow BC",
+            "title": "Complete | How I Set Your Mother BC vs Set to Win VC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 18:00:00",
@@ -26489,9 +26489,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1130020828,
+            "id": 273085296,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | How I Set Your Mother BC vs Set to Win VC",
+            "title": "Default | Safe Sets vs Meow BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 18:00:00",
@@ -26669,26 +26669,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1822192794,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Nekoma BC vs Order in the Court",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-06 19:00:00",
-            "end_date": "2025-10-06 20:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 630533976,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Default | Abudhabi vs You Better Serve BC",
@@ -26709,9 +26689,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1794239846,
+            "id": 1822192794,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Our Knees Hurt BC vs Nice balls FC",
+            "title": "Complete | Nekoma BC vs Order in the Court",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 19:00:00",
@@ -26732,6 +26712,26 @@
             "id": 24468392,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Complete | Servivors BC vs Kiss My Ace SC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-06 19:00:00",
+            "end_date": "2025-10-06 20:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1794239846,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Complete | Our Knees Hurt BC vs Nice balls FC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 19:00:00",
@@ -26809,9 +26809,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1082991711,
+            "id": 1316035696,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Speds CC vs ANGO COMP",
+            "title": "Complete | Servivors BC vs David calls me dada BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 20:00:00",
@@ -26829,9 +26829,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1316035696,
+            "id": 1082991711,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Servivors BC vs David calls me dada BC",
+            "title": "Complete | Speds CC vs ANGO COMP",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 20:00:00",
@@ -26949,9 +26949,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3629727820,
+            "id": 35327556,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | You Better Serve BC vs Wash My Belly BC",
+            "title": "Complete | Sloppy Sets SC vs David calls me dada BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 21:00:00",
@@ -26969,9 +26969,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 35327556,
+            "id": 3629727820,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Sloppy Sets SC vs David calls me dada BC",
+            "title": "Complete | You Better Serve BC vs Wash My Belly BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 21:00:00",
@@ -29649,9 +29649,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3486367288,
+            "id": 2968916139,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 18:45:00",
@@ -29669,9 +29669,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2968916139,
+            "id": 3486367288,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 18:45:00",
@@ -29729,6 +29729,26 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 137763631,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Default | Safe sets SC vs Hits and Giggles BC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-08 19:00:00",
+            "end_date": "2025-10-08 20:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3066873597,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Complete | YNS BC vs Volleyball players who love Jesus FC",
@@ -29752,26 +29772,6 @@
             "id": 4125641802,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Complete | Don't Dink and Dive BC vs Sixty sevens FC",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-08 19:00:00",
-            "end_date": "2025-10-08 20:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 137763631,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Default | Safe sets SC vs Hits and Giggles BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 19:00:00",
@@ -30349,9 +30349,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2757739413,
+            "id": 1312706490,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 08:30:00",
@@ -30369,9 +30369,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1312706490,
+            "id": 2757739413,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 08:30:00",
@@ -32329,9 +32329,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1688922336,
+            "id": 2124916401,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Hits and Giggles BC vs Shrimps SC",
+            "title": "Complete | See You In Court vs Balls",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 21:00:00",
@@ -32349,9 +32349,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2124916401,
+            "id": 1688922336,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | See You In Court vs Balls",
+            "title": "Complete | Hits and Giggles BC vs Shrimps SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 21:00:00",
@@ -34909,9 +34909,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2358741224,
+            "id": 2925810179,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
+            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-18 16:00:00",
@@ -34929,9 +34929,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2925810179,
+            "id": 2358741224,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
+            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
             "description": "",
             "image": "",
             "start_date": "2025-10-18 16:00:00",
@@ -36109,9 +36109,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2504625691,
+            "id": 165374318,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Rainmakers MC vs Cade Cunningham elite",
+            "title": "Default | Red team vs 67 Elite",
             "description": "",
             "image": "",
             "start_date": "2025-10-20 16:40:00",
@@ -36129,9 +36129,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 165374318,
+            "id": 2504625691,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Default | Red team vs 67 Elite",
+            "title": "Complete | Rainmakers MC vs Cade Cunningham elite",
             "description": "",
             "image": "",
             "start_date": "2025-10-20 16:40:00",
@@ -36449,9 +36449,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1244562526,
+            "id": 2266315771,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | How I Set Your Mother BC vs Meow BC",
+            "title": "Complete | Big Digs SC vs Sloppy Sets SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-20 18:00:00",
@@ -36469,9 +36469,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2266315771,
+            "id": 1244562526,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Complete | Big Digs SC vs Sloppy Sets SC",
+            "title": "Complete | How I Set Your Mother BC vs Meow BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-20 18:00:00",
@@ -39329,9 +39329,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1569601253,
+            "id": 260615958,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Game # 1 | Jaser and Satyam BC vs Jack and Vincent BC",
+            "title": "Game # 2 | Kevin and Jacob SC vs Logan and Ryan SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-22 16:30:00",
@@ -39349,9 +39349,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 260615958,
+            "id": 1569601253,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Game # 2 | Kevin and Jacob SC vs Logan and Ryan SC",
+            "title": "Game # 1 | Jaser and Satyam BC vs Jack and Vincent BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-22 16:30:00",
@@ -39489,9 +39489,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1652147957,
+            "id": 551030579,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Game # 6 | Udit and Aditya BC vs Reysen and William VC",
+            "title": "Game # 7 | Jaser and Satyam BC vs Udit and Aditya BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-22 17:20:00",
@@ -39509,9 +39509,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 551030579,
+            "id": 1652147957,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Game # 7 | Jaser and Satyam BC vs Udit and Aditya BC",
+            "title": "Game # 6 | Udit and Aditya BC vs Reysen and William VC",
             "description": "",
             "image": "",
             "start_date": "2025-10-22 17:20:00",
@@ -39829,9 +39829,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 130654659,
+            "id": 299372106,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-22 18:45:00",
@@ -39849,9 +39849,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 299372106,
+            "id": 130654659,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-22 18:45:00",
@@ -40309,26 +40309,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4211557614,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Rero vb vs Volleyball players who love Jesus FC",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-22 21:00:00",
-            "end_date": "2025-10-22 22:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1539567725,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "4Sum BC vs Beachless Ballers BC",
@@ -40341,6 +40321,26 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 4211557614,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Rero vb vs Volleyball players who love Jesus FC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-22 21:00:00",
+            "end_date": "2025-10-22 22:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -40469,9 +40469,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3607021072,
+            "id": 2647109335,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-10-23 08:30:00",
@@ -40489,9 +40489,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2647109335,
+            "id": 3607021072,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
             "description": "",
             "image": "",
             "start_date": "2025-10-23 08:30:00",
@@ -41529,26 +41529,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2142208347,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Balls vs Dat's What She Set",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-23 20:00:00",
-            "end_date": "2025-10-23 21:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2558926056,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Hit &amp; Run NC vs Ball Busters BC",
@@ -41572,6 +41552,26 @@
             "id": 2441568316,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Big Back Baddies SC vs David's my son BC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-23 20:00:00",
+            "end_date": "2025-10-23 21:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2142208347,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Balls vs Dat's What She Set",
             "description": "",
             "image": "",
             "start_date": "2025-10-23 20:00:00",
@@ -41729,9 +41729,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 545597874,
+            "id": 1100683066,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Setting Ducks BC vs We dig for fun!",
+            "title": "Schulich Storm vs LIFO Goonerz NC",
             "description": "",
             "image": "",
             "start_date": "2025-10-23 21:00:00",
@@ -41749,9 +41749,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1100683066,
+            "id": 545597874,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Schulich Storm vs LIFO Goonerz NC",
+            "title": "Setting Ducks BC vs We dig for fun!",
             "description": "",
             "image": "",
             "start_date": "2025-10-23 21:00:00",
@@ -43269,9 +43269,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2428620556,
+            "id": 2684924387,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
+            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-25 16:00:00",
@@ -43289,9 +43289,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2684924387,
+            "id": 2428620556,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
+            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
             "description": "",
             "image": "",
             "start_date": "2025-10-25 16:00:00",
@@ -44269,9 +44269,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 971395652,
+            "id": 3323639580,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Red team vs Teague time",
+            "title": "Eagles NC vs AMSA BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-27 16:00:00",
@@ -44289,9 +44289,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3323639580,
+            "id": 971395652,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Eagles NC vs AMSA BC",
+            "title": "Red team vs Teague time",
             "description": "",
             "image": "",
             "start_date": "2025-10-27 16:00:00",
@@ -44429,9 +44429,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3661646885,
+            "id": 2206735185,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Benz Boys SC vs Big Ballers SC",
+            "title": "AMSA BC vs Alley-Oops MC",
             "description": "",
             "image": "",
             "start_date": "2025-10-27 17:00:00",
@@ -44449,9 +44449,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2206735185,
+            "id": 3661646885,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "AMSA BC vs Alley-Oops MC",
+            "title": "Benz Boys SC vs Big Ballers SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-27 17:00:00",
@@ -44789,9 +44789,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1107583176,
+            "id": 3747650610,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "How I Set Your Mother BC vs Nice balls FC",
+            "title": "The Krusty Krabs vs Sloppy Sets SC",
             "description": "",
             "image": "",
             "start_date": "2025-10-27 19:00:00",
@@ -44809,9 +44809,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3747650610,
+            "id": 1107583176,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "The Krusty Krabs vs Sloppy Sets SC",
+            "title": "How I Set Your Mother BC vs Nice balls FC",
             "description": "",
             "image": "",
             "start_date": "2025-10-27 19:00:00",
@@ -47269,9 +47269,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3066541734,
+            "id": 2717516900,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "4 Guys One Cup SC vs Big Dig Lovers BC",
+            "title": "Reysen's Team SC vs Sugar and Spikes CC",
             "description": "",
             "image": "",
             "start_date": "2025-10-29 16:00:00",
@@ -47289,9 +47289,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2717516900,
+            "id": 3066541734,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Reysen's Team SC vs Sugar and Spikes CC",
+            "title": "4 Guys One Cup SC vs Big Dig Lovers BC",
             "description": "",
             "image": "",
             "start_date": "2025-10-29 16:00:00",
@@ -47709,9 +47709,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2666539444,
+            "id": 3648552541,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-29 18:45:00",
@@ -47729,9 +47729,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3648552541,
+            "id": 2666539444,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-10-29 18:45:00",
@@ -48329,9 +48329,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 187334664,
+            "id": 1609155886,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-10-30 08:30:00",
@@ -48349,9 +48349,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1609155886,
+            "id": 187334664,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
             "description": "",
             "image": "",
             "start_date": "2025-10-30 08:30:00",
@@ -51229,9 +51229,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 676265979,
+            "id": 2036729119,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
+            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
             "description": "",
             "image": "",
             "start_date": "2025-11-01 16:00:00",
@@ -51249,9 +51249,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2036729119,
+            "id": 676265979,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
+            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
             "description": "",
             "image": "",
             "start_date": "2025-11-01 16:00:00",
@@ -52749,26 +52749,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3509620526,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Servivors BC vs Volleyballers who love Jesus SC",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-03 20:00:00",
-            "end_date": "2025-11-03 21:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3745921294,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Wash My Belly BC vs Speds CC",
@@ -52781,6 +52761,26 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3509620526,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Servivors BC vs Volleyballers who love Jesus SC",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-03 20:00:00",
+            "end_date": "2025-11-03 21:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -55309,9 +55309,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 164343050,
+            "id": 94997018,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-11-05 18:45:00",
@@ -55329,9 +55329,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 94997018,
+            "id": 164343050,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-11-05 18:45:00",
@@ -55909,9 +55909,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3348245550,
+            "id": 2850481406,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-11-06 08:30:00",
@@ -55929,9 +55929,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2850481406,
+            "id": 3348245550,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
             "description": "",
             "image": "",
             "start_date": "2025-11-06 08:30:00",
@@ -58149,9 +58149,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3714947004,
+            "id": 2628830503,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
+            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
             "description": "",
             "image": "",
             "start_date": "2025-11-08 16:00:00",
@@ -58169,9 +58169,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2628830503,
+            "id": 3714947004,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
+            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
             "description": "",
             "image": "",
             "start_date": "2025-11-08 16:00:00",
@@ -59409,9 +59409,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3326030314,
+            "id": 1043023974,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Safe Sets vs Meow BC",
+            "title": "Nekoma BC vs Kiss My Ace SC",
             "description": "",
             "image": "",
             "start_date": "2025-11-10 19:00:00",
@@ -59429,9 +59429,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1043023974,
+            "id": 3326030314,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Nekoma BC vs Kiss My Ace SC",
+            "title": "Safe Sets vs Meow BC",
             "description": "",
             "image": "",
             "start_date": "2025-11-10 19:00:00",
@@ -59569,9 +59569,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 703493637,
+            "id": 1785840535,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Our Knees Hurt BC vs Nice balls FC",
+            "title": "easy digs vs Big Digs SC",
             "description": "",
             "image": "",
             "start_date": "2025-11-10 20:00:00",
@@ -59589,9 +59589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1785840535,
+            "id": 703493637,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "easy digs vs Big Digs SC",
+            "title": "Our Knees Hurt BC vs Nice balls FC",
             "description": "",
             "image": "",
             "start_date": "2025-11-10 20:00:00",
@@ -61429,9 +61429,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4113054473,
+            "id": 1081764932,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Beachless Ballers BC vs YNS BC",
+            "title": "Bang Bus Bros SC vs Big Digs SC",
             "description": "",
             "image": "",
             "start_date": "2025-11-12 18:00:00",
@@ -61469,9 +61469,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1081764932,
+            "id": 4113054473,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Bang Bus Bros SC vs Big Digs SC",
+            "title": "Beachless Ballers BC vs YNS BC",
             "description": "",
             "image": "",
             "start_date": "2025-11-12 18:00:00",
@@ -61629,9 +61629,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 707272195,
+            "id": 2865726650,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-11-12 18:45:00",
@@ -61649,9 +61649,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2865726650,
+            "id": 707272195,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Adult 1 - Adult 1 Wednesday 6:45 - 7:30 pm",
+            "title": "Fall 2025 - Adult 2 - Adult 2 Wednesday 6:45 - 7:30 pm",
             "description": "",
             "image": "",
             "start_date": "2025-11-12 18:45:00",
@@ -62209,9 +62209,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3894538632,
+            "id": 167621041,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 08:30:00",
@@ -62229,9 +62229,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 167621041,
+            "id": 3894538632,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 08:30:00",
@@ -62869,9 +62869,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 361384440,
+            "id": 1313769227,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Dat's What She Set vs Net Ninjas",
+            "title": "Ball Busters BC vs We dig for fun!",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 19:00:00",
@@ -62889,9 +62889,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1313769227,
+            "id": 361384440,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Ball Busters BC vs We dig for fun!",
+            "title": "Dat's What She Set vs Net Ninjas",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 19:00:00",
@@ -63089,9 +63089,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3368365890,
+            "id": 3748135273,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Balls Deep BC vs LIFO Goonerz NC",
+            "title": "Big Back Baddies SC vs Nekoma BC",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 20:00:00",
@@ -63109,9 +63109,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3748135273,
+            "id": 3368365890,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Big Back Baddies SC vs Nekoma BC",
+            "title": "Balls Deep BC vs LIFO Goonerz NC",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 20:00:00",
@@ -63249,9 +63249,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4059806854,
+            "id": 5232760,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "67ers SC vs Schulich Storm",
+            "title": "Balls vs See You In Court",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 21:00:00",
@@ -63269,9 +63269,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 5232760,
+            "id": 4059806854,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Balls vs See You In Court",
+            "title": "67ers SC vs Schulich Storm",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 21:00:00",
@@ -64009,26 +64009,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3196593325,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "HOLD - Internal Rental",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-15 09:00:00",
-            "end_date": "2025-11-15 16:00:00",
-            "venue": "Upper Gym (Room 312)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 457377219,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "KEELE - Drop-In Table Tennis",
@@ -64161,6 +64141,26 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1169145419,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "HOLD - Internal Rental",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-15 12:00:00",
+            "end_date": "2025-11-15 16:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -64469,9 +64469,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1937884571,
+            "id": 3600889457,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
+            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
             "description": "",
             "image": "",
             "start_date": "2025-11-15 16:00:00",
@@ -64489,9 +64489,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3600889457,
+            "id": 1937884571,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fall 2025 - Women's Only 1/2 - Womens Only 1 Saturday 4:00 - 4:45 pm",
+            "title": "Fall 2025 - Women's Only 3/4 - Womens Only 3/4 Saturday 4:00 - 4:45 pm ",
             "description": "",
             "image": "",
             "start_date": "2025-11-15 16:00:00",
@@ -66249,9 +66249,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 897951203,
+            "id": 4218752339,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Game # 6 | Winner of 3 vs Winner of 4",
+            "title": "Game # 5 | Winner of 2 vs Winner of 1",
             "description": "",
             "image": "",
             "start_date": "2025-11-18 20:00:00",
@@ -66269,9 +66269,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4218752339,
+            "id": 897951203,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Game # 5 | Winner of 2 vs Winner of 1",
+            "title": "Game # 6 | Winner of 3 vs Winner of 4",
             "description": "",
             "image": "",
             "start_date": "2025-11-18 20:00:00",
@@ -66969,9 +66969,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3203805818,
+            "id": 2030426399,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-11-20 08:30:00",
@@ -66989,9 +66989,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2030426399,
+            "id": 3203805818,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
             "description": "",
             "image": "",
             "start_date": "2025-11-20 08:30:00",
@@ -68049,13 +68049,13 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1089300939,
+            "id": 2045118960,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "KEELE - Drop-In Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-11-24 07:30:00",
-            "end_date": "2025-11-24 14:30:00",
+            "end_date": "2025-11-24 15:30:00",
             "venue": "Field House (Room 207)",
             "ticket_label": "",
             "ticket_url": "",
@@ -68369,14 +68369,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4033226928,
+            "id": 3116780847,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Intramurals",
             "description": "",
             "image": "",
-            "start_date": "2025-11-24 15:00:00",
-            "end_date": "2025-11-24 23:00:00",
-            "venue": "Field House (Room 207)",
+            "start_date": "2025-11-24 18:00:00",
+            "end_date": "2025-11-24 22:00:00",
+            "venue": "Main Gym (Room 212)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Other",
@@ -68915,7 +68915,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-11-25 12:00:00",
-            "end_date": "2025-11-25 14:30:00",
+            "end_date": "2025-11-25 15:30:00",
             "venue": "Field House (Room 207)",
             "ticket_label": "",
             "ticket_url": "",
@@ -68935,7 +68935,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-11-25 12:30:00",
-            "end_date": "2025-11-25 14:30:00",
+            "end_date": "2025-11-25 15:30:00",
             "venue": "Field House (Room 207)",
             "ticket_label": "",
             "ticket_url": "",
@@ -69049,14 +69049,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 756317930,
+            "id": 1348650871,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Intramurals",
             "description": "",
             "image": "",
-            "start_date": "2025-11-25 15:00:00",
-            "end_date": "2025-11-25 23:00:00",
-            "venue": "Field House (Room 207)",
+            "start_date": "2025-11-25 18:00:00",
+            "end_date": "2025-11-25 22:00:00",
+            "venue": "Main Gym (Room 212)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Other",
@@ -69209,14 +69209,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2732000405,
+            "id": 3265442005,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "PKIN 0332 A  Volleyball I",
             "description": "",
             "image": "",
             "start_date": "2025-11-26 08:30:00",
             "end_date": "2025-11-26 09:30:00",
-            "venue": "Main Gym (Room 212)",
+            "venue": "Field House (Room 207)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Volleyball",
@@ -69249,14 +69249,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1817525305,
+            "id": 1073859240,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "PKIN 0332 B  Volleyball I",
             "description": "",
             "image": "",
             "start_date": "2025-11-26 09:30:00",
             "end_date": "2025-11-26 10:30:00",
-            "venue": "Main Gym (Room 212)",
+            "venue": "Field House (Room 207)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Volleyball",
@@ -69269,14 +69269,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2066924381,
+            "id": 4144137490,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-11-26 10:30:00",
             "end_date": "2025-11-26 12:00:00",
-            "venue": "Main Gym (Room 212)",
+            "venue": "Field House (Room 207)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Other",
@@ -69289,14 +69289,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4272513141,
+            "id": 376647922,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 18",
             "description": "",
             "image": "",
             "start_date": "2025-11-26 10:30:00",
             "end_date": "2025-11-26 12:00:00",
-            "venue": "Main Gym (Room 212)",
+            "venue": "Field House (Room 207)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Other",
@@ -69369,14 +69369,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1234737206,
+            "id": 3825910603,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 19",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 21",
             "description": "",
             "image": "",
             "start_date": "2025-11-26 12:00:00",
             "end_date": "2025-11-26 13:30:00",
-            "venue": "Main Gym (Room 212)",
+            "venue": "Field House (Room 207)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Other",
@@ -69389,14 +69389,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 524805501,
+            "id": 445511096,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 21",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 19",
             "description": "",
             "image": "",
             "start_date": "2025-11-26 12:00:00",
             "end_date": "2025-11-26 13:30:00",
-            "venue": "Main Gym (Room 212)",
+            "venue": "Field House (Room 207)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Other",
@@ -69429,14 +69429,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2957485296,
+            "id": 2152321110,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
             "description": "",
             "image": "",
             "start_date": "2025-11-26 13:30:00",
             "end_date": "2025-11-26 15:00:00",
-            "venue": "Main Gym (Room 212)",
+            "venue": "Field House (Room 207)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Other",
@@ -69449,14 +69449,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3622186259,
+            "id": 2844479550,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 24",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 22",
             "description": "",
             "image": "",
             "start_date": "2025-11-26 13:30:00",
             "end_date": "2025-11-26 15:00:00",
-            "venue": "Main Gym (Room 212)",
+            "venue": "Field House (Room 207)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Other",
@@ -69529,14 +69529,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 923043358,
+            "id": 1176722120,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Intramurals",
             "description": "",
             "image": "",
-            "start_date": "2025-11-26 15:00:00",
-            "end_date": "2025-11-26 23:00:00",
-            "venue": "Field House (Room 207)",
+            "start_date": "2025-11-26 19:00:00",
+            "end_date": "2025-11-26 22:00:00",
+            "venue": "Main Gym (Room 212)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Other",
@@ -69689,9 +69689,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2355855946,
+            "id": 2151590035,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
             "description": "",
             "image": "",
             "start_date": "2025-11-27 08:30:00",
@@ -69709,9 +69709,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2151590035,
+            "id": 2355855946,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 16",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 13",
             "description": "",
             "image": "",
             "start_date": "2025-11-27 08:30:00",
@@ -70029,14 +70029,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3952766148,
+            "id": 2693802164,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Intramurals",
             "description": "",
             "image": "",
-            "start_date": "2025-11-27 15:00:00",
-            "end_date": "2025-11-27 23:00:00",
-            "venue": "Field House (Room 207)",
+            "start_date": "2025-11-27 18:00:00",
+            "end_date": "2025-11-27 22:00:00",
+            "venue": "Main Gym (Room 212)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Other",
@@ -70651,12 +70651,12 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3196593325,
+            "id": 1169145419,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "HOLD - Internal Rental",
             "description": "",
             "image": "",
-            "start_date": "2025-11-15 09:00:00",
+            "start_date": "2025-11-15 12:00:00",
             "end_date": "2025-11-15 16:00:00",
             "venue": "Upper Gym (Room 312)",
             "ticket_label": "",
