@@ -3725,28 +3725,6 @@
             ]
         },
         {
-            "id": 366072163,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Beach Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-16 07:00:00",
-            "end_date": "2025-09-16 19:00:00",
-            "venue": "Beach Volleyball Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1123277838,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -3781,6 +3759,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 366072163,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Beach Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-16 07:00:00",
+            "end_date": "2025-09-16 19:00:00",
+            "venue": "Beach Volleyball Court",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -5821,28 +5821,6 @@
             ]
         },
         {
-            "id": 1083404030,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Beach Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-23 07:00:00",
-            "end_date": "2025-09-23 19:00:00",
-            "venue": "Beach Volleyball Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 804942941,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -5877,6 +5855,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1083404030,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Beach Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-23 07:00:00",
+            "end_date": "2025-09-23 19:00:00",
+            "venue": "Beach Volleyball Court",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -8159,28 +8159,6 @@
             ]
         },
         {
-            "id": 4247283989,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Beach Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-30 07:00:00",
-            "end_date": "2025-09-30 19:00:00",
-            "venue": "Beach Volleyball Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3372631200,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -8215,6 +8193,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 4247283989,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Beach Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-30 07:00:00",
+            "end_date": "2025-09-30 19:00:00",
+            "venue": "Beach Volleyball Court",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -10827,28 +10827,6 @@
             ]
         },
         {
-            "id": 190138375,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Beach Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-07 07:00:00",
-            "end_date": "2025-10-07 19:00:00",
-            "venue": "Beach Volleyball Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3090616001,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -10883,6 +10861,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 190138375,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Beach Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-07 07:00:00",
+            "end_date": "2025-10-07 19:00:00",
+            "venue": "Beach Volleyball Court",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -13869,28 +13869,6 @@
             ]
         },
         {
-            "id": 2351662951,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Beach Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-14 07:00:00",
-            "end_date": "2025-10-14 19:00:00",
-            "venue": "Beach Volleyball Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2356645032,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -13925,6 +13903,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2351662951,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Beach Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-14 07:00:00",
+            "end_date": "2025-10-14 19:00:00",
+            "venue": "Beach Volleyball Court",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -17723,50 +17723,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3166333745,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-21 07:00:00",
-            "end_date": "2025-10-21 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 433551697,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Beach Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-21 07:00:00",
-            "end_date": "2025-10-21 19:00:00",
-            "venue": "Beach Volleyball Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2860192608,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -17786,6 +17742,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 3166333745,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-21 07:00:00",
+            "end_date": "2025-10-21 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -17823,6 +17801,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 433551697,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Beach Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-21 07:00:00",
+            "end_date": "2025-10-21 19:00:00",
+            "venue": "Beach Volleyball Court",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -18403,28 +18403,6 @@
             ]
         },
         {
-            "id": 3048664852,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-22 07:00:00",
-            "end_date": "2025-10-22 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2024138709,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Tennis",
@@ -18447,28 +18425,6 @@
             ]
         },
         {
-            "id": 2882562947,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-22 07:00:00",
-            "end_date": "2025-10-22 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3480485390,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -18481,6 +18437,50 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3048664852,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-22 07:00:00",
+            "end_date": "2025-10-22 10:30:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 2882562947,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-22 07:00:00",
+            "end_date": "2025-10-22 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -21846,50 +21846,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2423457589,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-28 07:00:00",
-            "end_date": "2025-10-28 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3268390116,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Beach Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-28 07:00:00",
-            "end_date": "2025-10-28 19:00:00",
-            "venue": "Beach Volleyball Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1842878150,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -21909,6 +21865,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 2423457589,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-28 07:00:00",
+            "end_date": "2025-10-28 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -21946,6 +21924,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3268390116,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Beach Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-28 07:00:00",
+            "end_date": "2025-10-28 19:00:00",
+            "venue": "Beach Volleyball Court",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -22478,28 +22478,6 @@
             ]
         },
         {
-            "id": 3866042907,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-29 07:00:00",
-            "end_date": "2025-10-29 10:30:00",
-            "venue": "",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2150757137,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Tennis",
@@ -22522,28 +22500,6 @@
             ]
         },
         {
-            "id": 1206129346,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-29 07:00:00",
-            "end_date": "2025-10-29 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1098524904,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -22556,6 +22512,50 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3866042907,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-29 07:00:00",
+            "end_date": "2025-10-29 10:30:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 1206129346,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-29 07:00:00",
+            "end_date": "2025-10-29 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -22758,6 +22758,26 @@
             ]
         },
         {
+            "id": 1540996036,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Intramurals Table Tennis Tournament",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-29 13:00:00",
+            "end_date": "2025-10-29 18:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 117281300,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Ultimate Frisbee",
@@ -22778,26 +22798,6 @@
             "weeklyRepetitions": [
                 "we"
             ]
-        },
-        {
-            "id": 1540996036,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals Table Tennis Tournament",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-29 13:00:00",
-            "end_date": "2025-10-29 18:00:00",
-            "venue": "Multi-Purpose Room A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 4252084279,
@@ -22950,6 +22950,26 @@
             "weeklyRepetitions": [
                 "we"
             ]
+        },
+        {
+            "id": 2782747742,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-29 19:30:00",
+            "end_date": "2025-10-29 21:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 246654570,
@@ -25660,28 +25680,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 999036774,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-04 07:00:00",
-            "end_date": "2025-11-04 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 778341837,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -25701,6 +25699,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 999036774,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-04 07:00:00",
+            "end_date": "2025-11-04 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -29610,28 +29630,6 @@
             ]
         },
         {
-            "id": 4112860776,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-11 07:00:00",
-            "end_date": "2025-11-11 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 813968041,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -29651,6 +29649,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 4112860776,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-11 07:00:00",
+            "end_date": "2025-11-11 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -33332,28 +33352,6 @@
             ]
         },
         {
-            "id": 3566979080,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-18 07:00:00",
-            "end_date": "2025-11-18 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2263205283,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -33373,6 +33371,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 3566979080,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-18 07:00:00",
+            "end_date": "2025-11-18 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -37044,28 +37064,6 @@
             ]
         },
         {
-            "id": 2957279078,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-25 07:00:00",
-            "end_date": "2025-11-25 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1783387993,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -37085,6 +37083,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 2957279078,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-25 07:00:00",
+            "end_date": "2025-11-25 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -40642,28 +40662,6 @@
             ]
         },
         {
-            "id": 2600061872,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-02 07:00:00",
-            "end_date": "2025-12-02 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3508016336,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -40683,6 +40681,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 2600061872,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-02 07:00:00",
+            "end_date": "2025-12-02 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -42706,28 +42726,6 @@
             ]
         },
         {
-            "id": 285555682,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-09 07:00:00",
-            "end_date": "2025-12-09 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3139868143,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -42747,6 +42745,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 285555682,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-09 07:00:00",
+            "end_date": "2025-12-09 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -44070,28 +44090,6 @@
             ]
         },
         {
-            "id": 1625146099,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-16 07:00:00",
-            "end_date": "2025-12-16 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3411737728,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -44111,6 +44109,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 1625146099,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-16 07:00:00",
+            "end_date": "2025-12-16 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -45324,28 +45344,6 @@
             ]
         },
         {
-            "id": 3843126782,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-23 07:00:00",
-            "end_date": "2025-12-23 22:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2298442960,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -45365,6 +45363,28 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 3843126782,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-23 07:00:00",
+            "end_date": "2025-12-23 22:00:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -47765,26 +47785,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 163174684,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "MoveU Refresh & Recharge: Tri-Campus Hart House Farm Trip",
-            "description": "Escape the books with a daytrip to experience caving, cider making, archery, s'mores and more!\u00a0This getaway is all about having fun, making friends, and enjoying nature's beauty with peers from across all three UofT campuses. Bus transportation is included. Buses will depart UTM at 9:15 AM and return to campus by 6 PM.",
-            "image": "",
-            "start_date": "2025-10-29 09:00:00",
-            "end_date": "2025-10-29 18:00:00",
-            "venue": "Off-Campus",
-            "ticket_label": "Learn more & register",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-moves/utm-outdoor-adventures/moveu-refresh-recharge-tri-campus-hart-house-farm-trip",
-            "sortCategory": "Recreation",
-            "symbol": "figure.walk",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 4050104051,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
