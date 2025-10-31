@@ -31029,26 +31029,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2806615357,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Core & More",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-31 13:00:00",
-            "end_date": "2025-10-31 13:45:00",
-            "venue": "Studio 1 (Double)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1724124063,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "IA Track & Field - Practice",
@@ -47150,6 +47130,26 @@
         }
     ],
     "featured": [
+        {
+            "id": 1724124063,
+            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
+            "title": "IA Track & Field - Practice",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-31 15:30:00",
+            "end_date": "2025-10-31 18:00:00",
+            "venue": "Don Wright Track",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
         {
             "id": 3647657370,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
