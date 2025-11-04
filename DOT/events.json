@@ -1249,12 +1249,12 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1288842161,
+            "id": 3475067184,
             "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
             "title": "Open Gym Time - Badminton & Table Tennis",
             "description": "",
             "image": "",
-            "start_date": "2025-11-11 07:00:00",
+            "start_date": "2025-11-11 09:00:00",
             "end_date": "2025-11-11 16:30:00",
             "venue": "Gym 5",
             "ticket_label": "",
@@ -1275,7 +1275,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-11-11 14:00:00",
-            "end_date": "2025-11-11 15:15:00",
+            "end_date": "2025-11-11 15:00:00",
             "venue": "Gym 4",
             "ticket_label": "",
             "ticket_url": "",
