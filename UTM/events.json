@@ -7613,7 +7613,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-09-28 10:00:00",
-            "end_date": "2025-09-28 13:00:00",
+            "end_date": "2025-09-28 12:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -10215,7 +10215,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-10-05 10:00:00",
-            "end_date": "2025-10-05 13:00:00",
+            "end_date": "2025-10-05 12:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -13123,7 +13123,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-10-12 10:00:00",
-            "end_date": "2025-10-12 13:00:00",
+            "end_date": "2025-10-12 12:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -16049,28 +16049,6 @@
             ]
         },
         {
-            "id": 722709013,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-18 13:00:00",
-            "end_date": "2025-10-18 15:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "sa"
-            ]
-        },
-        {
             "id": 4279192283,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -16143,7 +16121,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-10-19 10:00:00",
-            "end_date": "2025-10-19 13:00:00",
+            "end_date": "2025-10-19 12:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -19957,28 +19935,6 @@
             ]
         },
         {
-            "id": 3367160420,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-25 13:00:00",
-            "end_date": "2025-10-25 15:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "sa"
-            ]
-        },
-        {
             "id": 150534903,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -20051,7 +20007,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-10-26 10:00:00",
-            "end_date": "2025-10-26 13:00:00",
+            "end_date": "2025-10-26 12:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -23439,28 +23395,6 @@
             ]
         },
         {
-            "id": 2966669149,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-01 13:00:00",
-            "end_date": "2025-11-01 15:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "sa"
-            ]
-        },
-        {
             "id": 735028274,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -23511,7 +23445,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-11-02 10:00:00",
-            "end_date": "2025-11-02 13:00:00",
+            "end_date": "2025-11-02 12:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -23982,28 +23916,6 @@
             ]
         },
         {
-            "id": 3273049609,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-03 11:00:00",
-            "end_date": "2025-11-03 14:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 1976596377,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -24016,6 +23928,28 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3273049609,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-03 11:00:00",
+            "end_date": "2025-11-03 14:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -24158,28 +24092,6 @@
             ]
         },
         {
-            "id": 542510408,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Meditation & Movement",
-            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
-            "image": "",
-            "start_date": "2025-11-03 13:30:00",
-            "end_date": "2025-11-03 14:00:00",
-            "venue": "HUB - DV2207",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.mind.and.body",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 2801318165,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in BIPOC Basketball",
@@ -24195,6 +24107,28 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 542510408,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Meditation & Movement",
+            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
+            "image": "",
+            "start_date": "2025-11-03 13:30:00",
+            "end_date": "2025-11-03 14:00:00",
+            "venue": "HUB - DV2207",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.mind.and.body",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -25824,6 +25758,26 @@
             ]
         },
         {
+            "id": 1117816688,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Facilitated Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-05 18:00:00",
+            "end_date": "2025-11-05 21:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1735238541,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pilates",
@@ -26110,6 +26064,26 @@
             ]
         },
         {
+            "id": 3319042141,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-06 11:00:00",
+            "end_date": "2025-11-06 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 626182108,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -26262,6 +26236,46 @@
             "weeklyRepetitions": [
                 "th"
             ]
+        },
+        {
+            "id": 1724431414,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Volleyball & Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-06 13:30:00",
+            "end_date": "2025-11-06 15:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 425759383,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Facilitated Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-06 15:15:00",
+            "end_date": "2025-11-06 17:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 1405479879,
@@ -27401,28 +27415,6 @@
             ]
         },
         {
-            "id": 251300254,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-08 13:00:00",
-            "end_date": "2025-11-08 15:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "sa"
-            ]
-        },
-        {
             "id": 4162900453,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -27473,7 +27465,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-11-09 10:00:00",
-            "end_date": "2025-11-09 13:00:00",
+            "end_date": "2025-11-09 12:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -27922,28 +27914,6 @@
             ]
         },
         {
-            "id": 1875869831,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-10 10:30:00",
-            "end_date": "2025-11-10 13:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3869588583,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Indoor Soccer",
@@ -27966,18 +27936,18 @@
             ]
         },
         {
-            "id": 1761564352,
+            "id": 1875869831,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
-            "start_date": "2025-11-10 11:00:00",
-            "end_date": "2025-11-10 14:00:00",
-            "venue": "Pool",
+            "start_date": "2025-11-10 10:30:00",
+            "end_date": "2025-11-10 13:30:00",
+            "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -28000,6 +27970,28 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1761564352,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-10 11:00:00",
+            "end_date": "2025-11-10 14:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -28142,28 +28134,6 @@
             ]
         },
         {
-            "id": 2133269827,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Meditation & Movement",
-            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
-            "image": "",
-            "start_date": "2025-11-10 13:30:00",
-            "end_date": "2025-11-10 14:00:00",
-            "venue": "HUB - DV2207",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.mind.and.body",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3612751241,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in BIPOC Basketball",
@@ -28179,6 +28149,28 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 2133269827,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Meditation & Movement",
+            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
+            "image": "",
+            "start_date": "2025-11-10 13:30:00",
+            "end_date": "2025-11-10 14:00:00",
+            "venue": "HUB - DV2207",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.mind.and.body",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -31203,28 +31195,6 @@
             ]
         },
         {
-            "id": 1131902009,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-15 13:00:00",
-            "end_date": "2025-11-15 15:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "sa"
-            ]
-        },
-        {
             "id": 2335698283,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -31275,7 +31245,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-11-16 10:00:00",
-            "end_date": "2025-11-16 13:00:00",
+            "end_date": "2025-11-16 12:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -31666,28 +31636,6 @@
             ]
         },
         {
-            "id": 2307473239,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-17 10:30:00",
-            "end_date": "2025-11-17 13:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 751498396,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Indoor Soccer",
@@ -31710,18 +31658,18 @@
             ]
         },
         {
-            "id": 1011576803,
+            "id": 2307473239,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
-            "start_date": "2025-11-17 11:00:00",
-            "end_date": "2025-11-17 14:00:00",
-            "venue": "Pool",
+            "start_date": "2025-11-17 10:30:00",
+            "end_date": "2025-11-17 13:30:00",
+            "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -31744,6 +31692,28 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1011576803,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-17 11:00:00",
+            "end_date": "2025-11-17 14:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -31886,28 +31856,6 @@
             ]
         },
         {
-            "id": 1833514418,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Meditation & Movement",
-            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
-            "image": "",
-            "start_date": "2025-11-17 13:30:00",
-            "end_date": "2025-11-17 14:00:00",
-            "venue": "HUB - DV2207",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.mind.and.body",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3274549718,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in BIPOC Basketball",
@@ -31923,6 +31871,28 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1833514418,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Meditation & Movement",
+            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
+            "image": "",
+            "start_date": "2025-11-17 13:30:00",
+            "end_date": "2025-11-17 14:00:00",
+            "venue": "HUB - DV2207",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.mind.and.body",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -34811,28 +34781,6 @@
             ]
         },
         {
-            "id": 916110486,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-22 13:00:00",
-            "end_date": "2025-11-22 15:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "sa"
-            ]
-        },
-        {
             "id": 2246224515,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -34883,7 +34831,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-11-23 10:00:00",
-            "end_date": "2025-11-23 13:00:00",
+            "end_date": "2025-11-23 12:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -35354,28 +35302,6 @@
             ]
         },
         {
-            "id": 61458769,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-24 10:30:00",
-            "end_date": "2025-11-24 13:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 1291669398,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Indoor Soccer",
@@ -35398,18 +35324,18 @@
             ]
         },
         {
-            "id": 3893195304,
+            "id": 61458769,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
-            "start_date": "2025-11-24 11:00:00",
-            "end_date": "2025-11-24 14:00:00",
-            "venue": "Pool",
+            "start_date": "2025-11-24 10:30:00",
+            "end_date": "2025-11-24 13:30:00",
+            "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -35432,6 +35358,28 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3893195304,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-24 11:00:00",
+            "end_date": "2025-11-24 14:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -35574,28 +35522,6 @@
             ]
         },
         {
-            "id": 2628344818,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Meditation & Movement",
-            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
-            "image": "",
-            "start_date": "2025-11-24 13:30:00",
-            "end_date": "2025-11-24 14:00:00",
-            "venue": "HUB - DV2207",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.mind.and.body",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 2947214761,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in BIPOC Basketball",
@@ -35611,6 +35537,28 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 2628344818,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Meditation & Movement",
+            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
+            "image": "",
+            "start_date": "2025-11-24 13:30:00",
+            "end_date": "2025-11-24 14:00:00",
+            "venue": "HUB - DV2207",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.mind.and.body",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -38497,28 +38445,6 @@
             ]
         },
         {
-            "id": 590794077,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-29 13:00:00",
-            "end_date": "2025-11-29 15:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "sa"
-            ]
-        },
-        {
             "id": 1025290038,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -38569,7 +38495,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-11-30 10:00:00",
-            "end_date": "2025-11-30 13:00:00",
+            "end_date": "2025-11-30 12:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -38960,28 +38886,6 @@
             ]
         },
         {
-            "id": 664286254,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-01 10:30:00",
-            "end_date": "2025-12-01 13:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 1954446441,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Indoor Soccer",
@@ -39004,18 +38908,18 @@
             ]
         },
         {
-            "id": 185703961,
+            "id": 664286254,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
-            "start_date": "2025-12-01 11:00:00",
-            "end_date": "2025-12-01 14:00:00",
-            "venue": "Pool",
+            "start_date": "2025-12-01 10:30:00",
+            "end_date": "2025-12-01 13:30:00",
+            "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -39038,6 +38942,28 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 185703961,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-01 11:00:00",
+            "end_date": "2025-12-01 14:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -39180,28 +39106,6 @@
             ]
         },
         {
-            "id": 1896914580,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Meditation & Movement",
-            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
-            "image": "",
-            "start_date": "2025-12-01 13:30:00",
-            "end_date": "2025-12-01 14:00:00",
-            "venue": "HUB - DV2207",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.mind.and.body",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 2920145040,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in BIPOC Basketball",
@@ -39217,6 +39121,28 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1896914580,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Meditation & Movement",
+            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
+            "image": "",
+            "start_date": "2025-12-01 13:30:00",
+            "end_date": "2025-12-01 14:00:00",
+            "venue": "HUB - DV2207",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.mind.and.body",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -44133,12 +44059,6 @@
         }
     ],
     "announcements": [
-        {
-            "id": 3347550234,
-            "title": "Students Only Sundays (6:00 PM - 9:00 PM)",
-            "body": "Every Sunday, all registered U of T students have additional access hours at the RAWC from 6:00 PM - 9:00 PM. Students can take advantage of the extra hours by working out at the Fitness Centre, jump in Fun Swim at the Pool or participate in sports programs in Gym A/B.\nWeekly schedule can be found in [**our online calendar**](https://www.utm.utoronto.ca/athletics/schedule).",
-            "type": 0
-        },
         {
             "id": 220250925,
             "title": "New Update",
