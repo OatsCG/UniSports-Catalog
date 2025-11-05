@@ -829,9 +829,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3711751165,
+            "id": 505227891,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Monday Drop-in Volleyball",
+            "title": "Fall 2025 - Basketball (Open 3v3) Tournament - 3v3 Basketball Tournament Open Division",
             "description": "",
             "image": "",
             "start_date": "2025-11-24 19:00:00",
@@ -839,8 +839,8 @@
             "venue": "Gym 3",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
