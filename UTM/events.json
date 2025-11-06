@@ -44098,26 +44098,6 @@
     ],
     "featured": [
         {
-            "id": 4050104051,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Walks: Campus Birdwatching",
-            "description": "Join us for a birdwatching walk led by UTM Biology Professor Sanja Hinic-Frlog! Explore campus trails and observe local birdlife while connecting with other UTM students, no experience or equipment required.Meet at RAWC Lobby, we depart no later than 10 minutes past the hour.",
-            "image": "",
-            "start_date": "2025-11-05 12:00:00",
-            "end_date": "2025-11-05 13:00:00",
-            "venue": "Off-Campus",
-            "ticket_label": "LEARN MORE & REGISTER",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-walks-campus-birdwatching",
-            "sortCategory": "Recreation",
-            "symbol": "figure.walk",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4189512686,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Rides: Horseback Riding Adventure",
