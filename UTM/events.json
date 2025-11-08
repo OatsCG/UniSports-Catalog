@@ -1185,28 +1185,6 @@
             ]
         },
         {
-            "id": 1893967678,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-05 07:00:00",
-            "end_date": "2025-09-05 10:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2115357185,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -1219,6 +1197,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 1893967678,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-05 07:00:00",
+            "end_date": "2025-09-05 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1251,13 +1251,13 @@
             ]
         },
         {
-            "id": 3469566980,
+            "id": 1575080725,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-09-05 10:00:00",
-            "end_date": "2025-09-05 11:50:00",
+            "end_date": "2025-09-05 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -1273,13 +1273,13 @@
             ]
         },
         {
-            "id": 1575080725,
+            "id": 3469566980,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-09-05 10:00:00",
-            "end_date": "2025-09-05 11:00:00",
+            "end_date": "2025-09-05 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -2929,28 +2929,6 @@
             ]
         },
         {
-            "id": 1266887638,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-12 07:00:00",
-            "end_date": "2025-09-12 10:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 991246830,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -2963,6 +2941,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 1266887638,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-12 07:00:00",
+            "end_date": "2025-09-12 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2995,13 +2995,13 @@
             ]
         },
         {
-            "id": 3887157028,
+            "id": 3306001127,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-09-12 10:00:00",
-            "end_date": "2025-09-12 11:50:00",
+            "end_date": "2025-09-12 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -3017,13 +3017,13 @@
             ]
         },
         {
-            "id": 3306001127,
+            "id": 3887157028,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-09-12 10:00:00",
-            "end_date": "2025-09-12 11:00:00",
+            "end_date": "2025-09-12 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -4959,28 +4959,6 @@
             ]
         },
         {
-            "id": 2138192803,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-19 07:00:00",
-            "end_date": "2025-09-19 10:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 434858946,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -4993,6 +4971,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 2138192803,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-19 07:00:00",
+            "end_date": "2025-09-19 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -5025,13 +5025,13 @@
             ]
         },
         {
-            "id": 3027251326,
+            "id": 13751811,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-09-19 10:00:00",
-            "end_date": "2025-09-19 11:50:00",
+            "end_date": "2025-09-19 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -5047,13 +5047,13 @@
             ]
         },
         {
-            "id": 13751811,
+            "id": 3027251326,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-09-19 10:00:00",
-            "end_date": "2025-09-19 11:00:00",
+            "end_date": "2025-09-19 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -7121,28 +7121,6 @@
             ]
         },
         {
-            "id": 322277327,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-26 07:00:00",
-            "end_date": "2025-09-26 10:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 368905948,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -7155,6 +7133,28 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 322277327,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-26 07:00:00",
+            "end_date": "2025-09-26 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -7187,13 +7187,13 @@
             ]
         },
         {
-            "id": 793222854,
+            "id": 2706622849,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-09-26 10:00:00",
-            "end_date": "2025-09-26 11:50:00",
+            "end_date": "2025-09-26 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -7209,13 +7209,13 @@
             ]
         },
         {
-            "id": 2706622849,
+            "id": 793222854,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-09-26 10:00:00",
-            "end_date": "2025-09-26 11:00:00",
+            "end_date": "2025-09-26 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -9613,28 +9613,6 @@
             ]
         },
         {
-            "id": 4084887430,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-03 07:00:00",
-            "end_date": "2025-10-03 10:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1329788902,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -9701,6 +9679,28 @@
             ]
         },
         {
+            "id": 4084887430,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-03 07:00:00",
+            "end_date": "2025-10-03 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 2274553695,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Field Sports",
@@ -9745,13 +9745,13 @@
             ]
         },
         {
-            "id": 4195308384,
+            "id": 3622504314,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-10-03 10:00:00",
-            "end_date": "2025-10-03 11:50:00",
+            "end_date": "2025-10-03 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -9767,13 +9767,13 @@
             ]
         },
         {
-            "id": 3622504314,
+            "id": 4195308384,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-10-03 10:00:00",
-            "end_date": "2025-10-03 11:00:00",
+            "end_date": "2025-10-03 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -12413,28 +12413,6 @@
             ]
         },
         {
-            "id": 2194694078,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-10 07:00:00",
-            "end_date": "2025-10-10 10:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1691056762,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -12501,6 +12479,28 @@
             ]
         },
         {
+            "id": 2194694078,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-10 07:00:00",
+            "end_date": "2025-10-10 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 1240522672,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Field Sports",
@@ -12545,13 +12545,13 @@
             ]
         },
         {
-            "id": 2659474215,
+            "id": 494829268,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-10-10 10:00:00",
-            "end_date": "2025-10-10 11:50:00",
+            "end_date": "2025-10-10 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -12567,13 +12567,13 @@
             ]
         },
         {
-            "id": 494829268,
+            "id": 2659474215,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-10-10 10:00:00",
-            "end_date": "2025-10-10 11:00:00",
+            "end_date": "2025-10-10 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -12733,28 +12733,6 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 3201199843,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-10-10 13:10:00",
-            "end_date": "2025-10-10 13:10:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -15409,28 +15387,6 @@
             ]
         },
         {
-            "id": 2492217475,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-17 07:00:00",
-            "end_date": "2025-10-17 10:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2641618341,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -15497,6 +15453,28 @@
             ]
         },
         {
+            "id": 2492217475,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-17 07:00:00",
+            "end_date": "2025-10-17 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 185650626,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Field Sports",
@@ -15541,13 +15519,13 @@
             ]
         },
         {
-            "id": 1846579634,
+            "id": 181643694,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-10-17 10:00:00",
-            "end_date": "2025-10-17 11:50:00",
+            "end_date": "2025-10-17 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -15563,13 +15541,13 @@
             ]
         },
         {
-            "id": 181643694,
+            "id": 1846579634,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-10-17 10:00:00",
-            "end_date": "2025-10-17 11:00:00",
+            "end_date": "2025-10-17 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -15729,28 +15707,6 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 2971416296,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-10-17 13:10:00",
-            "end_date": "2025-10-17 13:10:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -19191,28 +19147,6 @@
             ]
         },
         {
-            "id": 3257127391,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-24 07:00:00",
-            "end_date": "2025-10-24 10:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1303128392,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -19279,6 +19213,28 @@
             ]
         },
         {
+            "id": 3257127391,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-24 07:00:00",
+            "end_date": "2025-10-24 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 1688278666,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Field Sports",
@@ -19323,13 +19279,13 @@
             ]
         },
         {
-            "id": 2987570583,
+            "id": 2765441210,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-10-24 10:00:00",
-            "end_date": "2025-10-24 11:50:00",
+            "end_date": "2025-10-24 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -19345,13 +19301,13 @@
             ]
         },
         {
-            "id": 2765441210,
+            "id": 2987570583,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-10-24 10:00:00",
-            "end_date": "2025-10-24 11:00:00",
+            "end_date": "2025-10-24 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -19539,28 +19495,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 2632190002,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-10-24 13:10:00",
-            "end_date": "2025-10-24 13:10:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
         },
         {
             "id": 1438910683,
@@ -22652,28 +22586,6 @@
             ]
         },
         {
-            "id": 3819895437,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-31 07:00:00",
-            "end_date": "2025-10-31 10:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1106575891,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -22740,6 +22652,28 @@
             ]
         },
         {
+            "id": 3819895437,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-31 07:00:00",
+            "end_date": "2025-10-31 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 3814655779,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -22782,13 +22716,13 @@
             ]
         },
         {
-            "id": 3846591417,
+            "id": 2600808918,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-10-31 10:00:00",
-            "end_date": "2025-10-31 11:50:00",
+            "end_date": "2025-10-31 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -22804,13 +22738,13 @@
             ]
         },
         {
-            "id": 2600808918,
+            "id": 3846591417,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-10-31 10:00:00",
-            "end_date": "2025-10-31 11:00:00",
+            "end_date": "2025-10-31 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -22970,28 +22904,6 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 612093447,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-10-31 13:10:00",
-            "end_date": "2025-10-31 13:10:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -26530,28 +26442,6 @@
             ]
         },
         {
-            "id": 3453729701,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-07 07:00:00",
-            "end_date": "2025-11-07 10:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2580932325,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -26618,6 +26508,28 @@
             ]
         },
         {
+            "id": 3453729701,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-07 07:00:00",
+            "end_date": "2025-11-07 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 160685109,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pilates & Barre",
@@ -26662,13 +26574,13 @@
             ]
         },
         {
-            "id": 334833796,
+            "id": 40915231,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-11-07 10:00:00",
-            "end_date": "2025-11-07 11:50:00",
+            "end_date": "2025-11-07 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -26684,13 +26596,13 @@
             ]
         },
         {
-            "id": 40915231,
+            "id": 334833796,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-11-07 10:00:00",
-            "end_date": "2025-11-07 11:00:00",
+            "end_date": "2025-11-07 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -26878,28 +26790,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 3722334507,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-11-07 13:10:00",
-            "end_date": "2025-11-07 13:10:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
         },
         {
             "id": 2848371689,
@@ -30630,13 +30520,13 @@
             ]
         },
         {
-            "id": 2071653885,
+            "id": 578858688,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-11-14 10:00:00",
-            "end_date": "2025-11-14 11:50:00",
+            "end_date": "2025-11-14 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -30652,13 +30542,13 @@
             ]
         },
         {
-            "id": 578858688,
+            "id": 2071653885,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-11-14 10:00:00",
-            "end_date": "2025-11-14 11:00:00",
+            "end_date": "2025-11-14 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -30794,28 +30684,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=dca1eb10-65e2-4568-a8b7-26482eff0415",
             "sortCategory": "Mind & Body",
             "symbol": "figure.pilates",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 1085070011,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-11-14 13:10:00",
-            "end_date": "2025-11-14 13:10:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -34300,13 +34168,13 @@
             ]
         },
         {
-            "id": 3570373316,
+            "id": 3112143097,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-11-21 10:00:00",
-            "end_date": "2025-11-21 11:50:00",
+            "end_date": "2025-11-21 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -34322,13 +34190,13 @@
             ]
         },
         {
-            "id": 3112143097,
+            "id": 3570373316,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-11-21 10:00:00",
-            "end_date": "2025-11-21 11:00:00",
+            "end_date": "2025-11-21 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -34450,28 +34318,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 1403103853,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-11-21 13:10:00",
-            "end_date": "2025-11-21 13:10:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
         },
         {
             "id": 3887674841,
@@ -37488,26 +37334,6 @@
             ]
         },
         {
-            "id": 3200506550,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Puppy Yoga",
-            "description": "Registration is required. Hurry, spots are extremely limited!",
-            "image": "",
-            "start_date": "2025-11-27 11:00:00",
-            "end_date": "2025-11-27 16:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "LEARN MORE & REGISTER",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-moves/wellness-events/puppy-yoga",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4084107998,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Swim (Students Only)",
@@ -37528,6 +37354,26 @@
             "weeklyRepetitions": [
                 "th"
             ]
+        },
+        {
+            "id": 3200506550,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Puppy Yoga",
+            "description": "Registration is required. Hurry, spots are extremely limited!",
+            "image": "",
+            "start_date": "2025-11-27 11:00:00",
+            "end_date": "2025-11-27 16:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "LEARN MORE & REGISTER",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-moves/wellness-events/puppy-yoga",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 626652029,
@@ -38054,13 +37900,13 @@
             ]
         },
         {
-            "id": 4183823311,
+            "id": 4180013383,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-11-28 10:00:00",
-            "end_date": "2025-11-28 11:50:00",
+            "end_date": "2025-11-28 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -38076,13 +37922,13 @@
             ]
         },
         {
-            "id": 4180013383,
+            "id": 4183823311,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-11-28 10:00:00",
-            "end_date": "2025-11-28 11:00:00",
+            "end_date": "2025-11-28 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -38222,28 +38068,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 23740063,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-11-28 13:10:00",
-            "end_date": "2025-11-28 13:10:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
         },
         {
             "id": 1809091012,
@@ -40860,13 +40684,13 @@
             ]
         },
         {
-            "id": 185118346,
+            "id": 2437040104,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-12-05 10:00:00",
-            "end_date": "2025-12-05 11:50:00",
+            "end_date": "2025-12-05 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -40882,13 +40706,13 @@
             ]
         },
         {
-            "id": 2437040104,
+            "id": 185118346,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-12-05 10:00:00",
-            "end_date": "2025-12-05 11:00:00",
+            "end_date": "2025-12-05 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -40938,28 +40762,6 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 1220908156,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-12-05 13:10:00",
-            "end_date": "2025-12-05 13:10:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -42244,13 +42046,13 @@
             ]
         },
         {
-            "id": 1888087691,
+            "id": 1308899667,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-12-12 10:00:00",
-            "end_date": "2025-12-12 11:50:00",
+            "end_date": "2025-12-12 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -42266,13 +42068,13 @@
             ]
         },
         {
-            "id": 1308899667,
+            "id": 1888087691,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-12-12 10:00:00",
-            "end_date": "2025-12-12 11:00:00",
+            "end_date": "2025-12-12 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -43344,13 +43146,13 @@
             ]
         },
         {
-            "id": 3316933218,
+            "id": 1971730934,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
+            "title": "Women's Only: Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-12-19 10:00:00",
-            "end_date": "2025-12-19 11:50:00",
+            "end_date": "2025-12-19 11:00:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -43366,13 +43168,13 @@
             ]
         },
         {
-            "id": 1971730934,
+            "id": 3316933218,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Learn to Swim",
+            "title": "Women's Only: Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2025-12-19 10:00:00",
-            "end_date": "2025-12-19 11:00:00",
+            "end_date": "2025-12-19 11:50:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
