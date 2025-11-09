@@ -43828,26 +43828,6 @@
     ],
     "featured": [
         {
-            "id": 4189512686,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Rides: Horseback Riding Adventure",
-            "description": "Saddle up and ride! Take in the beauty of nature on horseback with this scenic trail ride experience. No prior riding experience needed \u2014 just a love of the outdoors.",
-            "image": "",
-            "start_date": "2025-11-08 09:30:00",
-            "end_date": "2025-11-08 16:00:00",
-            "venue": "Off-Campus",
-            "ticket_label": "Learn more & register",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-moves/utm-outdoor-adventures/utm-rides-horseback-riding-adventure",
-            "sortCategory": "Recreation",
-            "symbol": "figure.equestrian.sports",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1056225400,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Skates",
