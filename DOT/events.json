@@ -141,11 +141,7 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -166,11 +162,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -191,11 +183,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -216,11 +204,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -241,11 +225,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -266,11 +246,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -291,11 +267,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -316,11 +288,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -341,11 +309,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -366,11 +330,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -391,11 +351,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -416,11 +372,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -441,11 +393,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -466,11 +414,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -491,11 +435,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -516,11 +456,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -541,11 +477,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -566,11 +498,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -591,11 +519,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -616,11 +540,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -641,11 +561,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -666,11 +582,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -691,11 +603,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -716,11 +624,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -741,11 +645,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -766,11 +666,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -791,11 +687,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -816,11 +708,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -841,11 +729,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -866,11 +750,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -891,11 +771,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -916,11 +792,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -941,11 +813,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -966,11 +834,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -991,11 +855,7 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1016,11 +876,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1041,11 +897,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1066,11 +918,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1091,11 +939,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1116,11 +960,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1141,11 +981,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1166,11 +1002,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1191,11 +1023,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1216,11 +1044,7 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1241,11 +1065,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1266,11 +1086,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1291,11 +1107,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1316,11 +1128,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1341,11 +1149,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1366,11 +1170,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1391,11 +1191,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1416,11 +1212,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1441,11 +1233,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1466,11 +1254,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1491,11 +1275,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1516,11 +1296,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1541,11 +1317,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1566,11 +1338,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1591,11 +1359,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1616,11 +1380,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1641,11 +1401,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1666,11 +1422,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1691,11 +1443,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1716,11 +1464,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1741,11 +1485,7 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1766,11 +1506,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1791,11 +1527,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1816,11 +1548,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1841,11 +1569,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1866,11 +1590,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1891,11 +1611,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1916,11 +1632,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1941,11 +1653,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1966,11 +1674,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1991,11 +1695,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2016,11 +1716,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2041,11 +1737,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2066,11 +1758,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2091,11 +1779,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2116,11 +1800,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2141,11 +1821,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2166,11 +1842,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2191,11 +1863,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2216,11 +1884,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2241,11 +1905,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2266,11 +1926,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2291,11 +1947,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2316,11 +1968,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2341,11 +1989,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2366,11 +2010,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2391,11 +2031,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2416,11 +2052,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2441,11 +2073,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2466,11 +2094,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2491,11 +2115,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2516,11 +2136,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2541,11 +2157,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2566,11 +2178,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2591,11 +2199,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2616,11 +2220,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2641,11 +2241,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2666,11 +2262,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2691,11 +2283,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2716,11 +2304,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2741,11 +2325,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2766,11 +2346,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2791,11 +2367,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2816,11 +2388,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2841,11 +2409,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2866,11 +2430,7 @@
             "ticket_url": "",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2891,11 +2451,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2916,11 +2472,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2943,11 +2495,7 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2968,11 +2516,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
