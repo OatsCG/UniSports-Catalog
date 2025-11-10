@@ -131,7 +131,7 @@
         {
             "id": 2528304869,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Wednesday Drop-in Volleyball",
+            "title": "Wednesday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-10-01 13:30:00",
@@ -141,11 +141,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -156,7 +152,7 @@
         {
             "id": 1826428789,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 13:30:00",
@@ -166,11 +162,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -181,7 +173,7 @@
         {
             "id": 1268861626,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Monday Drop-in Volleyball",
+            "title": "Monday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 19:00:00",
@@ -191,11 +183,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -206,7 +194,7 @@
         {
             "id": 489747971,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Badminton",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 13:30:00",
@@ -216,11 +204,7 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -231,7 +215,7 @@
         {
             "id": 3362989783,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Pickleball",
+            "title": "Drop-in Pickleball",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 13:30:00",
@@ -241,11 +225,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -256,7 +236,7 @@
         {
             "id": 2907033006,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Wednesday Drop-in Volleyball",
+            "title": "Wednesday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 13:30:00",
@@ -266,11 +246,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -281,7 +257,7 @@
         {
             "id": 1787672257,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Badminton",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-10-14 13:30:00",
@@ -291,11 +267,7 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -306,7 +278,7 @@
         {
             "id": 2299234810,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Pickleball",
+            "title": "Drop-in Pickleball",
             "description": "",
             "image": "",
             "start_date": "2025-10-14 13:30:00",
@@ -316,11 +288,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -331,7 +299,7 @@
         {
             "id": 745574162,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Wednesday Drop-in Volleyball",
+            "title": "Wednesday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-10-15 13:30:00",
@@ -341,11 +309,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -356,7 +320,7 @@
         {
             "id": 1365965305,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2025-10-16 13:30:00",
@@ -366,11 +330,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -381,7 +341,7 @@
         {
             "id": 33276206,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Monday Drop-in Volleyball",
+            "title": "Monday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-10-20 19:00:00",
@@ -391,11 +351,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -406,7 +362,7 @@
         {
             "id": 410657587,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Badminton",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-10-21 13:30:00",
@@ -416,11 +372,7 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -431,7 +383,7 @@
         {
             "id": 1936626064,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Pickleball",
+            "title": "Drop-in Pickleball",
             "description": "",
             "image": "",
             "start_date": "2025-10-21 13:30:00",
@@ -441,11 +393,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -456,7 +404,7 @@
         {
             "id": 1220164499,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Wednesday Drop-in Volleyball",
+            "title": "Wednesday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-10-22 13:30:00",
@@ -466,11 +414,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -481,7 +425,7 @@
         {
             "id": 3788429562,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2025-10-23 13:30:00",
@@ -491,11 +435,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -506,7 +446,7 @@
         {
             "id": 1607032896,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Monday Drop-in Volleyball",
+            "title": "Monday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-10-27 19:00:00",
@@ -516,11 +456,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -531,7 +467,7 @@
         {
             "id": 102376418,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Badminton",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-10-28 13:30:00",
@@ -541,11 +477,7 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -556,7 +488,7 @@
         {
             "id": 381936913,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Pickleball",
+            "title": "Drop-in Pickleball",
             "description": "",
             "image": "",
             "start_date": "2025-10-28 13:30:00",
@@ -566,11 +498,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -581,7 +509,7 @@
         {
             "id": 3665153938,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Wednesday Drop-in Volleyball",
+            "title": "Wednesday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-10-29 13:30:00",
@@ -591,11 +519,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -606,7 +530,7 @@
         {
             "id": 2955794007,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2025-10-30 13:30:00",
@@ -616,11 +540,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -631,7 +551,7 @@
         {
             "id": 2647486803,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Monday Drop-in Volleyball",
+            "title": "Monday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-11-03 19:00:00",
@@ -641,11 +561,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -656,7 +572,7 @@
         {
             "id": 1750123916,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Badminton",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-11-04 13:30:00",
@@ -666,11 +582,7 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -681,7 +593,7 @@
         {
             "id": 534124494,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Pickleball",
+            "title": "Drop-in Pickleball",
             "description": "",
             "image": "",
             "start_date": "2025-11-04 13:30:00",
@@ -691,11 +603,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -706,7 +614,7 @@
         {
             "id": 355481101,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Wednesday Drop-in Volleyball",
+            "title": "Wednesday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-11-05 13:30:00",
@@ -716,11 +624,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -731,7 +635,7 @@
         {
             "id": 2744606438,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2025-11-06 13:30:00",
@@ -741,11 +645,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -756,7 +656,7 @@
         {
             "id": 1322902978,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Monday Drop-in Volleyball",
+            "title": "Monday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-11-10 19:00:00",
@@ -766,11 +666,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -781,7 +677,7 @@
         {
             "id": 2567899372,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Badminton",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-11-11 13:30:00",
@@ -791,11 +687,7 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -806,7 +698,7 @@
         {
             "id": 1103878100,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Pickleball",
+            "title": "Drop-in Pickleball",
             "description": "",
             "image": "",
             "start_date": "2025-11-11 13:30:00",
@@ -816,11 +708,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -831,7 +719,7 @@
         {
             "id": 3063037306,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Wednesday Drop-in Volleyball",
+            "title": "Wednesday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-11-12 13:30:00",
@@ -841,11 +729,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -856,7 +740,7 @@
         {
             "id": 248977281,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 13:30:00",
@@ -866,11 +750,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -881,7 +761,7 @@
         {
             "id": 1724051122,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Monday Drop-in Volleyball",
+            "title": "Monday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-11-17 19:00:00",
@@ -891,11 +771,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -906,7 +782,7 @@
         {
             "id": 176994962,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Badminton",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-11-18 13:30:00",
@@ -916,11 +792,7 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -931,7 +803,7 @@
         {
             "id": 667582569,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Pickleball",
+            "title": "Drop-in Pickleball",
             "description": "",
             "image": "",
             "start_date": "2025-11-18 13:30:00",
@@ -941,11 +813,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -956,7 +824,7 @@
         {
             "id": 1503641441,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Wednesday Drop-in Volleyball",
+            "title": "Wednesday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-11-19 13:30:00",
@@ -966,11 +834,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -981,7 +845,7 @@
         {
             "id": 2019353622,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2025-11-20 13:30:00",
@@ -991,11 +855,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1016,11 +876,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1031,7 +887,7 @@
         {
             "id": 165057635,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Badminton",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-11-25 13:30:00",
@@ -1041,11 +897,7 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1056,7 +908,7 @@
         {
             "id": 2325852780,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Pickleball",
+            "title": "Drop-in Pickleball",
             "description": "",
             "image": "",
             "start_date": "2025-11-25 13:30:00",
@@ -1066,11 +918,7 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1081,7 +929,7 @@
         {
             "id": 3777427375,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Wednesday Drop-in Volleyball",
+            "title": "Wednesday Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2025-11-26 13:30:00",
@@ -1091,11 +939,7 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1106,7 +950,7 @@
         {
             "id": 2792736587,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "MARKHAM - Drop-in Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2025-11-27 13:30:00",
@@ -1116,11 +960,7 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": {
-                "title": "Other",
-                "sfsymbol": "sportscourt",
-                "comparables": []
-            },
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
