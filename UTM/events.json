@@ -1386,7 +1386,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -1649,29 +1649,6 @@
             ]
         },
         {
-            "id": 817595073,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-07 10:00:00",
-            "end_date": "2025-09-07 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 432965365,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -1707,29 +1684,6 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 3697398940,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-07 18:00:00",
-            "end_date": "2025-09-07 21:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -3209,7 +3163,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -3495,29 +3449,6 @@
             ]
         },
         {
-            "id": 3458246278,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-14 10:00:00",
-            "end_date": "2025-09-14 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 1857862298,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -3553,98 +3484,6 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 974700687,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-14 11:30:00",
-            "end_date": "2025-09-14 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 3159200115,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-14 12:00:00",
-            "end_date": "2025-09-14 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 4106176033,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-14 13:30:00",
-            "end_date": "2025-09-14 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 1172948832,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-14 18:00:00",
-            "end_date": "2025-09-14 21:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -5331,7 +5170,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -5617,29 +5456,6 @@
             ]
         },
         {
-            "id": 703009922,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-21 10:00:00",
-            "end_date": "2025-09-21 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 3530198079,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -5675,98 +5491,6 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 1876630088,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-21 11:30:00",
-            "end_date": "2025-09-21 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 368094639,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-21 12:00:00",
-            "end_date": "2025-09-21 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 3261467120,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-21 13:30:00",
-            "end_date": "2025-09-21 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 316798482,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-21 18:00:00",
-            "end_date": "2025-09-21 21:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -7591,7 +7315,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -7923,29 +7647,6 @@
             ]
         },
         {
-            "id": 1239489426,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-28 10:00:00",
-            "end_date": "2025-09-28 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 591664768,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -8050,98 +7751,6 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 1473544716,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-28 11:30:00",
-            "end_date": "2025-09-28 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 910104162,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-28 12:00:00",
-            "end_date": "2025-09-28 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 1483137511,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-28 13:30:00",
-            "end_date": "2025-09-28 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 1081600149,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-28 18:00:00",
-            "end_date": "2025-09-28 21:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -10288,7 +9897,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -10643,29 +10252,6 @@
             ]
         },
         {
-            "id": 1935914528,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-05 10:00:00",
-            "end_date": "2025-10-05 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 3559529806,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -10770,98 +10356,6 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 3221445423,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-05 11:30:00",
-            "end_date": "2025-10-05 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 4121167772,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-05 12:00:00",
-            "end_date": "2025-10-05 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 2027502047,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-05 13:30:00",
-            "end_date": "2025-10-05 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 2083784702,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-05 18:00:00",
-            "end_date": "2025-10-05 21:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -13261,7 +12755,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -13660,29 +13154,6 @@
             ]
         },
         {
-            "id": 2658864711,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-12 10:00:00",
-            "end_date": "2025-10-12 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 1030447470,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -13810,98 +13281,6 @@
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 2289717785,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-12 11:30:00",
-            "end_date": "2025-10-12 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 3274487387,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-12 12:00:00",
-            "end_date": "2025-10-12 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 2058020203,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-12 13:30:00",
-            "end_date": "2025-10-12 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 2882163263,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-12 18:00:00",
-            "end_date": "2025-10-12 21:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -16370,7 +15749,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -16748,29 +16127,6 @@
             ]
         },
         {
-            "id": 726154351,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-19 10:00:00",
-            "end_date": "2025-10-19 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 206389245,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -16909,98 +16265,6 @@
             ]
         },
         {
-            "id": 2502368675,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-19 11:30:00",
-            "end_date": "2025-10-19 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 1183807165,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-19 12:00:00",
-            "end_date": "2025-10-19 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 95484945,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-19 13:30:00",
-            "end_date": "2025-10-19 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 1871313415,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-19 18:00:00",
-            "end_date": "2025-10-19 21:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 2507632098,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Residence Night",
@@ -17047,29 +16311,6 @@
             ]
         },
         {
-            "id": 2613142341,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-20 07:00:00",
-            "end_date": "2025-10-20 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 1031949233,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -17105,6 +16346,29 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 2613142341,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-20 07:00:00",
+            "end_date": "2025-10-20 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -20302,7 +19566,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -20766,29 +20030,6 @@
             ]
         },
         {
-            "id": 1968729396,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-26 10:00:00",
-            "end_date": "2025-10-26 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 3492678652,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -20996,52 +20237,6 @@
             ]
         },
         {
-            "id": 3953213363,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-26 11:30:00",
-            "end_date": "2025-10-26 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 875338845,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-26 12:00:00",
-            "end_date": "2025-10-26 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 722108519,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
@@ -21062,52 +20257,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "sa",
-                "su"
-            ]
-        },
-        {
-            "id": 1022466630,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-26 13:30:00",
-            "end_date": "2025-10-26 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 2000277100,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-26 18:00:00",
-            "end_date": "2025-10-26 21:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "su"
             ]
         },
@@ -21158,29 +20307,6 @@
             ]
         },
         {
-            "id": 2101024649,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-10-27 07:00:00",
-            "end_date": "2025-10-27 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3274032891,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -21216,6 +20342,29 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 2101024649,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-10-27 07:00:00",
+            "end_date": "2025-10-27 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -21537,7 +20686,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -23897,7 +23046,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -24316,29 +23465,6 @@
             ]
         },
         {
-            "id": 970816347,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-02 10:00:00",
-            "end_date": "2025-11-02 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 354731083,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -24429,52 +23555,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1703662698,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-02 11:30:00",
-            "end_date": "2025-11-02 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 3300114047,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-02 12:00:00",
-            "end_date": "2025-11-02 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 2062905509,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
@@ -24520,29 +23600,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2945285509,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-02 13:30:00",
-            "end_date": "2025-11-02 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 3516697072,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Basketball: UTM vs. UTSG-BLUE",
@@ -24585,29 +23642,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4162243776,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-02 18:00:00",
-            "end_date": "2025-11-02 21:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 2563694842,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Residence Night",
@@ -24643,29 +23677,6 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 711394609,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-03 07:00:00",
-            "end_date": "2025-11-03 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -24758,6 +23769,29 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 711394609,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-03 07:00:00",
+            "end_date": "2025-11-03 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -25081,7 +24115,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -27931,7 +26965,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -28119,27 +27153,6 @@
             ]
         },
         {
-            "id": 2089631491,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals: Open Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-07 16:30:00",
-            "end_date": "2025-11-07 18:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1575548463,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Basketball",
@@ -28161,6 +27174,27 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 2089631491,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Intramurals: Open Cricket",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-07 16:30:00",
+            "end_date": "2025-11-07 18:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Cricket",
+            "symbol": "cricket.ball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 101184291,
@@ -28484,29 +27518,6 @@
             ]
         },
         {
-            "id": 3752761990,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-09 10:00:00",
-            "end_date": "2025-11-09 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 866215553,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -28597,52 +27608,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3268527073,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-09 11:30:00",
-            "end_date": "2025-11-09 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 1084417592,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-09 12:00:00",
-            "end_date": "2025-11-09 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 1034747081,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
@@ -28688,29 +27653,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3604805216,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-09 13:30:00",
-            "end_date": "2025-11-09 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 795073295,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Basketball: UTM vs. UTSG-RED",
@@ -28753,29 +27695,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 693965224,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-09 18:00:00",
-            "end_date": "2025-11-09 21:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 339054207,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Residence Night",
@@ -28811,29 +27730,6 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 4128821254,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-10 07:00:00",
-            "end_date": "2025-11-10 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -28926,6 +27822,29 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 4128821254,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-10 07:00:00",
+            "end_date": "2025-11-10 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -29249,7 +28168,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -32032,7 +30951,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -32526,29 +31445,6 @@
             ]
         },
         {
-            "id": 3146906911,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-16 10:00:00",
-            "end_date": "2025-11-16 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 2487735708,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -32618,52 +31514,6 @@
             ]
         },
         {
-            "id": 52100946,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-16 11:30:00",
-            "end_date": "2025-11-16 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 3214410228,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-16 12:00:00",
-            "end_date": "2025-11-16 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 987341665,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
@@ -32684,29 +31534,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "sa",
-                "su"
-            ]
-        },
-        {
-            "id": 1317352460,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-16 13:30:00",
-            "end_date": "2025-11-16 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "su"
             ]
         },
@@ -32746,29 +31573,6 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 56206179,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-16 18:00:00",
-            "end_date": "2025-11-16 21:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -32838,29 +31642,6 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 3047993019,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-17 07:00:00",
-            "end_date": "2025-11-17 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -32953,6 +31734,29 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3047993019,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-17 07:00:00",
+            "end_date": "2025-11-17 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -33255,7 +32059,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -35802,7 +34606,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -36317,29 +35121,6 @@
             ]
         },
         {
-            "id": 4067548311,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-23 10:00:00",
-            "end_date": "2025-11-23 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 2688596637,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -36409,6 +35190,29 @@
             ]
         },
         {
+            "id": 4067548311,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-23 10:00:00",
+            "end_date": "2025-11-23 11:30:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
             "id": 3018245335,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Volleyball: UTM vs. UTSC",
@@ -36430,7 +35234,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4254774811,
+            "id": 2518421452,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
             "description": "",
@@ -36521,29 +35325,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2499445136,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-23 13:30:00",
-            "end_date": "2025-11-23 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 697911450,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -36579,6 +35360,29 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 2499445136,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fun Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-23 13:30:00",
+            "end_date": "2025-11-23 16:30:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -36630,29 +35434,6 @@
             "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 3834389542,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-23 18:00:00",
-            "end_date": "2025-11-23 21:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
         },
         {
             "id": 877689052,
@@ -36713,29 +35494,6 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 2152565060,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-24 07:00:00",
-            "end_date": "2025-11-24 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -36828,6 +35586,29 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 2152565060,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-24 07:00:00",
+            "end_date": "2025-11-24 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -37130,7 +35911,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -39746,7 +38527,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -40146,29 +38927,6 @@
             ]
         },
         {
-            "id": 3355209410,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-30 10:00:00",
-            "end_date": "2025-11-30 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 1251914314,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -40238,7 +38996,30 @@
             ]
         },
         {
-            "id": 515884225,
+            "id": 3355209410,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-30 10:00:00",
+            "end_date": "2025-11-30 11:30:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=61e77625-faa8-4f56-b0ad-0cb1eda084ee",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 4011385781,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
             "description": "",
@@ -40308,29 +39089,6 @@
             ]
         },
         {
-            "id": 3760247069,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-30 13:30:00",
-            "end_date": "2025-11-30 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 4095461316,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -40377,13 +39135,13 @@
             ]
         },
         {
-            "id": 4166434498,
+            "id": 3760247069,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Fun Swim",
+            "title": "Fun Swim",
             "description": "",
             "image": "",
-            "start_date": "2025-11-30 18:00:00",
-            "end_date": "2025-11-30 21:00:00",
+            "start_date": "2025-11-30 13:30:00",
+            "end_date": "2025-11-30 16:30:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -40469,29 +39227,6 @@
             ]
         },
         {
-            "id": 4009789397,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-01 07:00:00",
-            "end_date": "2025-12-01 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3456840578,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -40550,6 +39285,29 @@
             "ticket_url": "",
             "sortCategory": "Soccer",
             "symbol": "soccerball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 4009789397,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-01 07:00:00",
+            "end_date": "2025-12-01 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -40894,7 +39652,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -42592,7 +41350,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -43004,7 +41762,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -44016,7 +42774,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -44338,7 +43096,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -45166,7 +43924,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -45488,7 +44246,7 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
