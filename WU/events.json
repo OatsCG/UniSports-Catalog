@@ -39126,6 +39126,27 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 2764408809,
+            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
+            "title": "Event - Glow and Flow Yoga",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-10 19:00:00",
+            "end_date": "2025-12-10 22:00:00",
+            "venue": "Gymnasia",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         }
     ],
     "announcements": [
