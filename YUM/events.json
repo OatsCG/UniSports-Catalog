@@ -969,7 +969,29 @@
             "weeklyRepetitions": []
         }
     ],
-    "featured": [],
+    "featured": [
+        {
+            "id": 505227891,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Fall 2025 - Basketball (Open 3v3) Tournament - 3v3 Basketball Tournament Open Division",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-24 19:00:00",
+            "end_date": "2025-11-24 22:00:00",
+            "venue": "Gym 3",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        }
+    ],
     "announcements": [
         {
             "id": 220250925,
