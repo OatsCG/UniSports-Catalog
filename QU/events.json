@@ -85223,27 +85223,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 550164904,
-            "url": "https://getactive.gogaelsgo.com/Facility/GetSchedule",
-            "title": "Ryan Bechmanis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-06 15:00:00",
-            "end_date": "2025-12-06 19:00:00",
-            "venue": "ARC",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1990942089,
             "url": "https://getactive.gogaelsgo.com/Facility/GetSchedule",
             "title": "Varsity Basketball / Kingston Impact Community Day",
