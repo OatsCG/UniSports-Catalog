@@ -61386,27 +61386,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 4004162227,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "HOLD: Northern Karate",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-07 06:00:00",
-            "end_date": "2025-12-07 23:00:00",
-            "venue": "Main Gym (Room 212)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "figure.kickboxing",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
         }
     ],
     "announcements": [
