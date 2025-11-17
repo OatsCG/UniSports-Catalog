@@ -117,7 +117,7 @@
         {
             "title": "Recreation",
             "symbol": "figure.run",
-            "isChip": false,
+            "isChip": true,
             "isMedal": false
         },
         {
@@ -145,7 +145,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -1090,7 +1090,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -1153,7 +1153,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -1174,7 +1174,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -1405,7 +1405,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -1420,8 +1420,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -1490,7 +1490,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -2245,7 +2245,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -2392,7 +2392,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -2413,7 +2413,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -2644,7 +2644,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -2708,7 +2708,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -3505,7 +3505,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -3547,7 +3547,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -3625,8 +3625,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -3674,7 +3674,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -4429,7 +4429,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -4597,7 +4597,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -4681,7 +4681,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -4723,7 +4723,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -4786,7 +4786,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -4828,7 +4828,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -4870,7 +4870,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -4891,7 +4891,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -5899,7 +5899,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -5920,7 +5920,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -5983,7 +5983,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -6130,7 +6130,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -6145,8 +6145,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -6172,7 +6172,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -6635,7 +6635,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -7285,7 +7285,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -7348,7 +7348,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -7369,7 +7369,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -7474,7 +7474,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -7643,7 +7643,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -8650,7 +8650,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -8713,7 +8713,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -8734,7 +8734,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -8965,7 +8965,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -8980,8 +8980,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -9050,7 +9050,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -9512,7 +9512,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -10057,7 +10057,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -10078,7 +10078,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -10288,7 +10288,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -10352,7 +10352,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -11332,8 +11332,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -11381,7 +11381,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -11906,7 +11906,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -13586,7 +13586,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -14300,7 +14300,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -15371,7 +15371,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -16337,7 +16337,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -17324,7 +17324,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -17828,7 +17828,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -19276,7 +19276,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -19297,7 +19297,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -19360,7 +19360,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -19528,7 +19528,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -19543,8 +19543,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -19570,7 +19570,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -20033,7 +20033,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -20704,7 +20704,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -20767,7 +20767,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -20788,7 +20788,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -20935,7 +20935,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -21104,7 +21104,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -22132,7 +22132,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -22195,7 +22195,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -22216,7 +22216,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -22342,7 +22342,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -22447,7 +22447,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -22462,8 +22462,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -22532,7 +22532,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -23329,7 +23329,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -23497,7 +23497,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -23518,7 +23518,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -23728,7 +23728,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -23813,7 +23813,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -24757,7 +24757,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -24820,7 +24820,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -24898,8 +24898,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -24947,7 +24947,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -25297,8 +25297,8 @@
             "venue": "Alpine Tower",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
+            "sortCategory": "Recreation",
+            "symbol": "figure.ice.skating",
             "featuredDecal": "snowflake",
             "womens": false,
             "lgbt": false,
@@ -25598,7 +25598,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -25786,7 +25786,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -25933,7 +25933,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -26059,7 +26059,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -26101,7 +26101,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -26164,7 +26164,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -26206,7 +26206,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -26248,7 +26248,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -26269,7 +26269,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -27298,7 +27298,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -27319,7 +27319,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -27382,7 +27382,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -27550,7 +27550,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -27565,8 +27565,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -27592,7 +27592,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -28034,7 +28034,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -28684,7 +28684,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -28747,7 +28747,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -28768,7 +28768,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -28789,7 +28789,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -28894,7 +28894,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -29084,7 +29084,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -30112,7 +30112,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -30175,7 +30175,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -30196,7 +30196,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -30217,7 +30217,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -30427,7 +30427,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -30442,8 +30442,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -30512,7 +30512,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -31246,7 +31246,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -31414,7 +31414,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -31435,7 +31435,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -31666,7 +31666,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -31751,7 +31751,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -32548,7 +32548,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -32611,7 +32611,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -32689,8 +32689,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -32738,7 +32738,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -33326,7 +33326,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -33535,7 +33535,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -33682,7 +33682,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -33787,7 +33787,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -33829,7 +33829,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -33850,7 +33850,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -33892,7 +33892,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -33934,7 +33934,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -33976,7 +33976,7 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -33997,7 +33997,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -34984,7 +34984,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -35005,7 +35005,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -35089,7 +35089,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -35236,7 +35236,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -35251,8 +35251,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -35278,7 +35278,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -35762,7 +35762,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -36412,7 +36412,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -36433,7 +36433,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -36496,7 +36496,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -36517,7 +36517,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -36664,7 +36664,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -36812,7 +36812,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -37966,7 +37966,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -38050,7 +38050,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -38071,7 +38071,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -38239,7 +38239,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -38254,8 +38254,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -39121,7 +39121,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -39289,7 +39289,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -39310,7 +39310,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -39478,7 +39478,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -40465,7 +40465,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -40528,7 +40528,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -40585,8 +40585,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -40655,7 +40655,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -40676,7 +40676,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -40928,7 +40928,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -41200,8 +41200,8 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
-            "closure": false,
+            "intramurals": true,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -41306,7 +41306,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -41599,7 +41599,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -41683,7 +41683,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -41809,7 +41809,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -41830,7 +41830,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -41872,7 +41872,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -41914,7 +41914,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -41935,7 +41935,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -41956,7 +41956,7 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -41998,7 +41998,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -42922,7 +42922,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -42943,7 +42943,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -43027,7 +43027,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -43153,7 +43153,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -43168,8 +43168,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -43195,7 +43195,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -43637,7 +43637,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -44203,7 +44203,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -44245,7 +44245,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -44287,7 +44287,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -44308,7 +44308,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -44434,7 +44434,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -44582,7 +44582,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -45547,7 +45547,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -45631,7 +45631,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -45652,7 +45652,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -45673,7 +45673,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -45841,7 +45841,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -45856,8 +45856,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -45926,7 +45926,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -46702,7 +46702,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -46870,7 +46870,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -46891,7 +46891,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -47080,7 +47080,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -47186,7 +47186,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -48067,7 +48067,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -48130,7 +48130,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -48166,8 +48166,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -48236,7 +48236,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -48530,7 +48530,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -48676,7 +48676,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -48992,7 +48992,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -49327,7 +49327,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -49411,7 +49411,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -49537,7 +49537,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -49600,7 +49600,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -49621,7 +49621,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -49663,7 +49663,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -49705,7 +49705,7 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -49726,7 +49726,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -50776,7 +50776,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -50797,7 +50797,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -50881,7 +50881,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -50986,7 +50986,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -51001,8 +51001,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -51028,7 +51028,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -51449,7 +51449,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -52036,7 +52036,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -52099,7 +52099,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -52120,7 +52120,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -52267,7 +52267,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -52415,7 +52415,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -53401,7 +53401,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -53485,7 +53485,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -53506,7 +53506,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -53647,8 +53647,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -53738,7 +53738,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -54451,7 +54451,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -54619,7 +54619,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -54640,7 +54640,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -54872,7 +54872,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -55711,7 +55711,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -55753,7 +55753,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -55810,8 +55810,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -55880,7 +55880,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -56167,8 +56167,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -56215,7 +56215,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -56489,7 +56489,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -56824,7 +56824,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -56866,7 +56866,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -56950,7 +56950,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -56992,7 +56992,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -57034,7 +57034,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -57118,7 +57118,7 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -57139,7 +57139,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -58000,7 +58000,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -58084,7 +58084,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -58189,7 +58189,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -58204,8 +58204,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -58231,7 +58231,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -58652,7 +58652,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -59197,7 +59197,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -59281,7 +59281,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -59302,7 +59302,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -59449,7 +59449,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -59597,7 +59597,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -60499,7 +60499,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -60583,7 +60583,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -60604,7 +60604,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -60766,8 +60766,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -60857,7 +60857,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -61591,7 +61591,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -61759,7 +61759,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -62782,8 +62782,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -62852,7 +62852,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -63097,8 +63097,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -63293,7 +63293,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -63440,7 +63440,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -63775,7 +63775,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -63817,7 +63817,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -63964,7 +63964,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -64027,7 +64027,7 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -64048,7 +64048,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -64804,7 +64804,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -64951,7 +64951,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -64966,8 +64966,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -64993,7 +64993,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -65330,7 +65330,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -65917,7 +65917,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "intramurals": false,
+            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
         },
@@ -66772,8 +66772,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -66863,7 +66863,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -68144,7 +68144,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -69908,7 +69908,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -72008,7 +72008,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -73814,7 +73814,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -77510,7 +77510,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -80240,7 +80240,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -81065,48 +81065,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 789034717,
-            "url": "https://macreconline.ca/Facility/GetSchedule",
-            "title": "Intramural Sports - Thursday Open PF Flag Football Final",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-20 18:00:00",
-            "end_date": "2025-11-20 19:00:00",
-            "venue": "Les Prince Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Football",
-            "symbol": "american.football",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 1245332567,
-            "url": "https://macreconline.ca/Facility/GetSchedule",
-            "title": "Set up FH nets for morning",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-20 23:00:00",
-            "end_date": "2025-11-20 23:30:00",
-            "venue": "Alumni Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2143191582,
             "url": "https://macreconline.ca/Facility/GetSchedule",
             "title": "Make up class for Latin/Ballroom series (Heidi) ",
@@ -81180,8 +81138,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -81245,27 +81203,6 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 2595606962,
-            "url": "https://macreconline.ca/Facility/GetSchedule",
-            "title": "Intramural Sports - Fall Spikeball Playoffs",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-23 15:00:00",
-            "end_date": "2025-11-23 20:00:00",
-            "venue": "Turf Gym",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -81369,8 +81306,8 @@
             "venue": "Rose Hill Studio",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Combat",
+            "symbol": "figure.kickboxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -81394,27 +81331,6 @@
             "symbol": "volleyball",
             "featuredDecal": null,
             "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 2461980977,
-            "url": "https://macreconline.ca/Facility/GetSchedule",
-            "title": "Reset East Aux",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-29 15:30:00",
-            "end_date": "2025-11-29 16:00:00",
-            "venue": "East Aux Gym",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -81464,27 +81380,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2232932056,
-            "url": "https://macreconline.ca/Facility/GetSchedule",
-            "title": "Hold Con-Ed staff meeting",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-04 06:00:00",
-            "end_date": "2025-12-04 17:00:00",
-            "venue": "Fitzhenry Studios",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1358238238,
             "url": "https://macreconline.ca/Facility/GetSchedule",
             "title": "Healthy Workplace Yoga (booked by Heidi)  NEED TO MOVE TO FITZHENRY",
@@ -81518,27 +81413,6 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "figure.kickboxing",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 136755482,
-            "url": "https://macreconline.ca/Facility/GetSchedule",
-            "title": "HOLD: Comp Dance Clinic?",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-20 09:00:00",
-            "end_date": "2025-12-20 17:00:00",
-            "venue": "Fitzhenry Studios",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
