@@ -8135,7 +8135,7 @@
             "id": 1576838476,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
+            "description": "",
             "image": "",
             "start_date": "2025-09-30 12:10:00",
             "end_date": "2025-09-30 12:55:00",
@@ -10740,7 +10740,7 @@
             "id": 470295531,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
+            "description": "",
             "image": "",
             "start_date": "2025-10-07 12:10:00",
             "end_date": "2025-10-07 12:55:00",
@@ -13711,7 +13711,7 @@
             "id": 1324573526,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
+            "description": "",
             "image": "",
             "start_date": "2025-10-14 12:10:00",
             "end_date": "2025-10-14 12:55:00",
@@ -17373,7 +17373,7 @@
             "id": 1885292373,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
+            "description": "",
             "image": "",
             "start_date": "2025-10-21 12:10:00",
             "end_date": "2025-10-21 12:55:00",
@@ -21199,7 +21199,7 @@
             "id": 591029132,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
+            "description": "",
             "image": "",
             "start_date": "2025-10-28 12:10:00",
             "end_date": "2025-10-28 12:55:00",
@@ -23688,6 +23688,29 @@
             ]
         },
         {
+            "id": 2007544895,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-03 07:00:00",
+            "end_date": "2025-11-03 16:00:00",
+            "venue": "Multi-Purpose Room B",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 711394609,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -23780,29 +23803,6 @@
             ]
         },
         {
-            "id": 2007544895,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-03 07:00:00",
-            "end_date": "2025-11-03 16:00:00",
-            "venue": "Multi-Purpose Room B",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 2768253662,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -23826,29 +23826,6 @@
             ]
         },
         {
-            "id": 1976596377,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-03 11:00:00",
-            "end_date": "2025-11-03 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3273049609,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -23861,6 +23838,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1976596377,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-03 11:00:00",
+            "end_date": "2025-11-03 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -24793,7 +24793,7 @@
             "id": 2444751253,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
+            "description": "",
             "image": "",
             "start_date": "2025-11-04 12:10:00",
             "end_date": "2025-11-04 12:55:00",
@@ -25415,7 +25415,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-11-05 10:30:00",
-            "end_date": "2025-11-05 13:30:00",
+            "end_date": "2025-11-05 13:15:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -27695,6 +27695,29 @@
             ]
         },
         {
+            "id": 234498206,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-10 07:00:00",
+            "end_date": "2025-11-10 16:00:00",
+            "venue": "Multi-Purpose Room B",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 4128821254,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -27787,29 +27810,6 @@
             ]
         },
         {
-            "id": 234498206,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-10 07:00:00",
-            "end_date": "2025-11-10 16:00:00",
-            "venue": "Multi-Purpose Room B",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 1875869831,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -27833,29 +27833,6 @@
             ]
         },
         {
-            "id": 1301233718,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-10 11:00:00",
-            "end_date": "2025-11-10 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 1761564352,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -27868,6 +27845,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1301233718,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-10 11:00:00",
+            "end_date": "2025-11-10 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -28779,7 +28779,7 @@
             "id": 1573408961,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
+            "description": "",
             "image": "",
             "start_date": "2025-11-11 12:10:00",
             "end_date": "2025-11-11 12:55:00",
@@ -29424,7 +29424,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-11-12 10:30:00",
-            "end_date": "2025-11-12 13:30:00",
+            "end_date": "2025-11-12 13:15:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -31553,6 +31553,29 @@
             ]
         },
         {
+            "id": 3959956140,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-17 07:00:00",
+            "end_date": "2025-11-17 16:00:00",
+            "venue": "Multi-Purpose Room B",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 3047993019,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -31645,29 +31668,6 @@
             ]
         },
         {
-            "id": 3959956140,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-17 07:00:00",
-            "end_date": "2025-11-17 16:00:00",
-            "venue": "Multi-Purpose Room B",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 2307473239,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -31691,29 +31691,6 @@
             ]
         },
         {
-            "id": 927529692,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-17 11:00:00",
-            "end_date": "2025-11-17 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 1011576803,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -31726,6 +31703,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 927529692,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-17 11:00:00",
+            "end_date": "2025-11-17 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -32612,7 +32612,7 @@
             "id": 22881129,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
+            "description": "",
             "image": "",
             "start_date": "2025-11-18 12:10:00",
             "end_date": "2025-11-18 12:55:00",
@@ -33232,7 +33232,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-11-19 10:30:00",
-            "end_date": "2025-11-19 13:30:00",
+            "end_date": "2025-11-19 13:15:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -33410,12 +33410,12 @@
             ]
         },
         {
-            "id": 2768498809,
+            "id": 3283368902,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Intramurals Tournament Open Volleyball",
             "description": "",
             "image": "",
-            "start_date": "2025-11-19 13:45:00",
+            "start_date": "2025-11-19 14:00:00",
             "end_date": "2025-11-19 18:45:00",
             "venue": "Gym A/B",
             "ticket_label": "",
@@ -34117,27 +34117,6 @@
             ]
         },
         {
-            "id": 2846756629,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": " LEARN TO PLAY - Try it Series: 2SLGBTQ+ VOLLEYBALL",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-20 15:30:00",
-            "end_date": "2025-11-20 17:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4204008429,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "2SLGBTQIA+ Solidarity Swim",
@@ -34592,6 +34571,27 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 2382785693,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indoor Track CLOSED",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-21 08:00:00",
+            "end_date": "2025-11-21 18:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
         },
         {
             "id": 3112143097,
@@ -35452,6 +35452,29 @@
             ]
         },
         {
+            "id": 2256975664,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-24 07:00:00",
+            "end_date": "2025-11-24 16:00:00",
+            "venue": "Multi-Purpose Room B",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 2152565060,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -35544,29 +35567,6 @@
             ]
         },
         {
-            "id": 2256975664,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-24 07:00:00",
-            "end_date": "2025-11-24 16:00:00",
-            "venue": "Multi-Purpose Room B",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 61458769,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -35590,29 +35590,6 @@
             ]
         },
         {
-            "id": 1079876587,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-24 11:00:00",
-            "end_date": "2025-11-24 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3893195304,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -35625,6 +35602,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1079876587,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-24 11:00:00",
+            "end_date": "2025-11-24 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -36513,7 +36513,7 @@
             "id": 143489486,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
+            "description": "",
             "image": "",
             "start_date": "2025-11-25 12:10:00",
             "end_date": "2025-11-25 12:55:00",
@@ -37158,7 +37158,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-11-26 10:30:00",
-            "end_date": "2025-11-26 13:30:00",
+            "end_date": "2025-11-26 13:15:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -39409,29 +39409,6 @@
             ]
         },
         {
-            "id": 617328110,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-01 11:00:00",
-            "end_date": "2025-12-01 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 185703961,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -39444,6 +39421,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 617328110,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-01 11:00:00",
+            "end_date": "2025-12-01 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -40280,7 +40280,7 @@
             "id": 791904899,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
+            "description": "",
             "image": "",
             "start_date": "2025-12-02 12:10:00",
             "end_date": "2025-12-02 12:55:00",
@@ -42162,7 +42162,7 @@
             "id": 2140429181,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
+            "description": "",
             "image": "",
             "start_date": "2025-12-09 12:10:00",
             "end_date": "2025-12-09 12:55:00",
@@ -44802,27 +44802,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2846756629,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": " LEARN TO PLAY - Try it Series: 2SLGBTQ+ VOLLEYBALL",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-20 15:30:00",
-            "end_date": "2025-11-20 17:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 349487467,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Residence Night: Fun Swim ",
@@ -44842,6 +44821,52 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 2464293630,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-24 14:30:00",
+            "end_date": "2025-11-24 16:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1767921318,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Beginner Olympic Weightlifting",
+            "description": "This 8-week program is designed specifically for beginners who want to learn the fundamentals of Olympic weightlifting \u2014 the snatch and the clean \u2014 in a safe, progressive, and structured environment. Whether you're an athlete or general gym goer, this program will develop your technique and strength base to help you lift safely and effectively.",
+            "image": "",
+            "start_date": "2025-11-24 19:00:00",
+            "end_date": "2025-11-24 20:00:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=3cc64267-0556-4e1f-b360-1d6a0bf1b4bc",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
         },
         {
             "id": 3200506550,
@@ -44887,6 +44912,12 @@
         }
     ],
     "announcements": [
+        {
+            "id": 166077283,
+            "title": "Aquatic Programs Cancelled on Sunday, November 30, 2025.",
+            "body": "Please note that all activities in the pool are cancelled on Sunday, November 30, 2025 - including Student Night Sundays Fun Swim.\nWe appreciate your understanding.",
+            "type": 0
+        },
         {
             "id": 220250925,
             "title": "New Update",
