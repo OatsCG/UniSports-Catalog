@@ -6,7 +6,7 @@
 Each school's folder has an `events.json`, and `version.txt` embedding the event json's aggregation date.
 
 
-## Folder Schema
+## Directory Schema
 ```
 .
 ├── meta.json
