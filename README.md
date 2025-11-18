@@ -24,15 +24,72 @@ Each school's folder has an `events.json`, and `version.txt` containing the even
 
 ## events.json Schema
 ```
-.
-├── meta.json
-├── UTM
-│   ├── events.json
-│   ├── version.txt
-├── MM
-│   ├── events.json
-│   ├── version.txt
-
-...
-
+{
+    "categories": [
+        {
+            "title": String,
+            "symbol": String,
+            "isChip": Bool,
+            "isMedal": Bool
+        },
+        ...
+    ],
+    "events": [
+        {
+            "id": Int,
+            "url": String, // URL
+            "title": String,
+            "description": String,
+            "image": String, // URL
+            "start_date": String, // Date String %Y-%m-%d %H:%M:%S
+            "end_date": String, // Date String %Y-%m-%d %H:%M:%S
+            "venue": String,
+            "ticket_label": String,
+            "ticket_url": String, // URL
+            "sortCategory": String,
+            "symbol": String,
+            "featuredDecal": String,
+            "womens": Bool,
+            "lgbt": Bool,
+            "bipoc": Bool,
+            "intramurals": Bool,
+            "closure": Bool,
+            "weeklyRepetitions": [String] // su, mo, tu, we, th, fr, sa
+        },
+        ...
+    ],
+    "featured": [
+        {
+            "id": Int,
+            "url": String, // URL
+            "title": String,
+            "description": String,
+            "image": String, // URL
+            "start_date": String, // Date String %Y-%m-%d %H:%M:%S
+            "end_date": String, // Date String %Y-%m-%d %H:%M:%S
+            "venue": String,
+            "ticket_label": String,
+            "ticket_url": String, // URL
+            "sortCategory": String,
+            "symbol": String,
+            "featuredDecal": String,
+            "womens": Bool,
+            "lgbt": Bool,
+            "bipoc": Bool,
+            "intramurals": Bool,
+            "closure": Bool,
+            "weeklyRepetitions": [String] // su, mo, tu, we, th, fr, sa
+        },
+        ...
+    ],
+    "announcements": [
+        {
+            "id": Int,
+            "title": String,
+            "body": String, // Markdown decorated
+            "type": Int // 0=>normal, 1=>closure, 2=>update
+        },
+        ...
+    ]
+}
 ```
