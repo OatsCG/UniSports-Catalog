@@ -22,7 +22,7 @@ Each school's folder has an `events.json`, and `version.txt` containing the even
 ```
 
 
-## events.json Schema
+## `events.json` Schema
 ```
 {
     "categories": [
