@@ -10398,9 +10398,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2551623653,
+            "id": 3496574642,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Complete | Awesome Bounty Hunters vs Air Rakija",
+            "title": "Complete | Athletics 5 vs Athletics 6",
             "description": "",
             "image": "",
             "start_date": "2025-10-05 22:00:00",
@@ -10419,9 +10419,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3496574642,
+            "id": 2551623653,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Complete | Athletics 5 vs Athletics 6",
+            "title": "Complete | Awesome Bounty Hunters vs Air Rakija",
             "description": "",
             "image": "",
             "start_date": "2025-10-05 22:00:00",
@@ -27366,9 +27366,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3074122959,
+            "id": 3232633328,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Campus Rec Soccer - North Field - Field House - North Field",
+            "title": "Soccer- Campus Rec - South Field - Field House - South Field",
             "description": "",
             "image": "",
             "start_date": "2025-10-14 09:00:00",
@@ -27387,9 +27387,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3232633328,
+            "id": 3074122959,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Soccer- Campus Rec - South Field - Field House - South Field",
+            "title": "Campus Rec Soccer - North Field - Field House - North Field",
             "description": "",
             "image": "",
             "start_date": "2025-10-14 09:00:00",
@@ -51684,9 +51684,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2976887840,
+            "id": 290308695,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Athletics 4 vs Soccer 10",
+            "title": "Athletics 7 vs Soccer 17",
             "description": "",
             "image": "",
             "start_date": "2025-10-25 18:00:00",
@@ -51705,9 +51705,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 290308695,
+            "id": 2976887840,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Athletics 7 vs Soccer 17",
+            "title": "Athletics 4 vs Soccer 10",
             "description": "",
             "image": "",
             "start_date": "2025-10-25 18:00:00",
@@ -71781,9 +71781,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1517350898,
+            "id": 1156993255,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Soccer- Campus Rec - South Field - Field House - South Field",
+            "title": "Campus Rec Soccer - North Field - Field House - North Field",
             "description": "",
             "image": "",
             "start_date": "2025-11-03 12:00:00",
@@ -71802,9 +71802,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1156993255,
+            "id": 1517350898,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Campus Rec Soccer - North Field - Field House - North Field",
+            "title": "Soccer- Campus Rec - South Field - Field House - South Field",
             "description": "",
             "image": "",
             "start_date": "2025-11-03 12:00:00",
@@ -86817,27 +86817,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1149668887,
-            "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Soccer 51 vs Athletics 20",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-09 21:00:00",
-            "end_date": "2025-11-09 22:00:00",
-            "venue": "Field House",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Soccer",
-            "symbol": "soccerball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 585121510,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
             "title": "7 Stars vs Sunday FC",
@@ -86850,6 +86829,27 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1149668887,
+            "url": "https://rec.carleton.ca/Facility/GetSchedule",
+            "title": "Soccer 51 vs Athletics 20",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-09 21:00:00",
+            "end_date": "2025-11-09 22:00:00",
+            "venue": "Field House",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -118695,27 +118695,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2230208508,
-            "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Nathan Dunlop",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-24 19:00:00",
-            "end_date": "2025-11-24 20:00:00",
-            "venue": "Field House",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3046445901,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
             "title": "Game # 5 | Winner of 4 vs Winner of 3",
@@ -118733,6 +118712,27 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2230208508,
+            "url": "https://rec.carleton.ca/Facility/GetSchedule",
+            "title": "Nathan Dunlop",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-24 19:00:00",
+            "end_date": "2025-11-24 20:00:00",
+            "venue": "Field House",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
         },
