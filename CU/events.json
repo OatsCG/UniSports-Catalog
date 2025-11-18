@@ -152,7 +152,7 @@
         {
             "id": 1968248726,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-01 06:00:00",
@@ -2588,7 +2588,7 @@
         {
             "id": 1492166623,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-02 06:00:00",
@@ -4793,7 +4793,7 @@
         {
             "id": 1046396769,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-03 06:00:00",
@@ -6473,7 +6473,7 @@
         {
             "id": 575775433,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-04 07:45:00",
@@ -10398,9 +10398,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2551623653,
+            "id": 3496574642,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Complete | Awesome Bounty Hunters vs Air Rakija",
+            "title": "Complete | Athletics 5 vs Athletics 6",
             "description": "",
             "image": "",
             "start_date": "2025-10-05 22:00:00",
@@ -10419,9 +10419,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3496574642,
+            "id": 2551623653,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Complete | Athletics 5 vs Athletics 6",
+            "title": "Complete | Awesome Bounty Hunters vs Air Rakija",
             "description": "",
             "image": "",
             "start_date": "2025-10-05 22:00:00",
@@ -10484,7 +10484,7 @@
         {
             "id": 97612963,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-06 06:00:00",
@@ -13424,7 +13424,7 @@
         {
             "id": 783269023,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-07 06:00:00",
@@ -15902,7 +15902,7 @@
         {
             "id": 899817342,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-08 06:00:00",
@@ -18548,7 +18548,7 @@
         {
             "id": 4121146192,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-09 06:00:00",
@@ -21215,7 +21215,7 @@
         {
             "id": 494775051,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-10 06:00:00",
@@ -23189,7 +23189,7 @@
         {
             "id": 4022240014,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-11 07:45:00",
@@ -24260,7 +24260,7 @@
         {
             "id": 1276533180,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-12 07:45:00",
@@ -25268,7 +25268,7 @@
         {
             "id": 1354378700,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-13 06:00:00",
@@ -27074,7 +27074,7 @@
         {
             "id": 2364952260,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-14 06:00:00",
@@ -27366,9 +27366,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3232633328,
+            "id": 3074122959,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Soccer- Campus Rec - South Field - Field House - South Field",
+            "title": "Campus Rec Soccer - North Field - Field House - North Field",
             "description": "",
             "image": "",
             "start_date": "2025-10-14 09:00:00",
@@ -27387,9 +27387,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3074122959,
+            "id": 3232633328,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Campus Rec Soccer - North Field - Field House - North Field",
+            "title": "Soccer- Campus Rec - South Field - Field House - South Field",
             "description": "",
             "image": "",
             "start_date": "2025-10-14 09:00:00",
@@ -29300,7 +29300,7 @@
         {
             "id": 1253358913,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-15 06:00:00",
@@ -31820,7 +31820,7 @@
         {
             "id": 3375374654,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-16 06:00:00",
@@ -34634,7 +34634,7 @@
         {
             "id": 4205705535,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-17 06:00:00",
@@ -36482,7 +36482,7 @@
         {
             "id": 331431867,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-18 07:45:00",
@@ -37700,7 +37700,7 @@
         {
             "id": 402990364,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-19 07:45:00",
@@ -39107,7 +39107,7 @@
         {
             "id": 1939222066,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-20 06:00:00",
@@ -41375,7 +41375,7 @@
         {
             "id": 2772787162,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-21 06:00:00",
@@ -43811,7 +43811,7 @@
         {
             "id": 3423623980,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-22 06:00:00",
@@ -46352,7 +46352,7 @@
         {
             "id": 3919372767,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-23 06:00:00",
@@ -48872,7 +48872,7 @@
         {
             "id": 2364139105,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-24 06:00:00",
@@ -50762,7 +50762,7 @@
         {
             "id": 4237416031,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-25 07:45:00",
@@ -52085,7 +52085,7 @@
         {
             "id": 1684522454,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-26 07:45:00",
@@ -54374,7 +54374,7 @@
         {
             "id": 2500430350,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-27 06:00:00",
@@ -57125,7 +57125,7 @@
         {
             "id": 2731415200,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-28 06:00:00",
@@ -59540,7 +59540,7 @@
         {
             "id": 3368747984,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-29 06:00:00",
@@ -62291,7 +62291,7 @@
         {
             "id": 3129641051,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-30 06:00:00",
@@ -65147,7 +65147,7 @@
         {
             "id": 1233658318,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-10-31 06:00:00",
@@ -66974,7 +66974,7 @@
         {
             "id": 163263043,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-01 07:45:00",
@@ -68864,7 +68864,7 @@
         {
             "id": 2076192604,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-02 07:45:00",
@@ -71174,7 +71174,7 @@
         {
             "id": 40548455,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-03 06:00:00",
@@ -71781,9 +71781,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1156993255,
+            "id": 1517350898,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Campus Rec Soccer - North Field - Field House - North Field",
+            "title": "Soccer- Campus Rec - South Field - Field House - South Field",
             "description": "",
             "image": "",
             "start_date": "2025-11-03 12:00:00",
@@ -71802,9 +71802,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1517350898,
+            "id": 1156993255,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Soccer- Campus Rec - South Field - Field House - South Field",
+            "title": "Campus Rec Soccer - North Field - Field House - North Field",
             "description": "",
             "image": "",
             "start_date": "2025-11-03 12:00:00",
@@ -73925,7 +73925,7 @@
         {
             "id": 2062187668,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-04 06:00:00",
@@ -76338,27 +76338,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3239691715,
-            "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Registered Set Offenders vs Big Dumps",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-04 22:00:00",
-            "end_date": "2025-11-04 23:00:00",
-            "venue": "Ravens Nest",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1951534316,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
             "title": "Basketball 4 vs Basketball 2",
@@ -76371,6 +76350,27 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3239691715,
+            "url": "https://rec.carleton.ca/Facility/GetSchedule",
+            "title": "Registered Set Offenders vs Big Dumps",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-04 22:00:00",
+            "end_date": "2025-11-04 23:00:00",
+            "venue": "Ravens Nest",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -76424,7 +76424,7 @@
         {
             "id": 1404797869,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-05 06:00:00",
@@ -78965,7 +78965,7 @@
         {
             "id": 257637421,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-06 06:00:00",
@@ -81590,7 +81590,7 @@
         {
             "id": 1298551718,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-07 06:00:00",
@@ -83417,7 +83417,7 @@
         {
             "id": 3866717922,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-08 07:45:00",
@@ -84908,7 +84908,7 @@
         {
             "id": 1736109938,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-09 07:45:00",
@@ -87050,7 +87050,7 @@
         {
             "id": 64946234,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-10 06:00:00",
@@ -89780,7 +89780,7 @@
         {
             "id": 2282730038,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-11 06:00:00",
@@ -92132,7 +92132,7 @@
         {
             "id": 2293887935,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-12 06:00:00",
@@ -94610,7 +94610,7 @@
         {
             "id": 1157936037,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-13 06:00:00",
@@ -97130,7 +97130,7 @@
         {
             "id": 4223508452,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-14 06:00:00",
@@ -98999,7 +98999,7 @@
         {
             "id": 917706319,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-15 07:45:00",
@@ -100763,7 +100763,7 @@
         {
             "id": 3103587566,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-16 07:45:00",
@@ -103199,7 +103199,7 @@
         {
             "id": 4275299283,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "   Fitness Centre Membership Check - Fitness Centre",
+            "title": "   Fitness Centre Membership Check",
             "description": "",
             "image": "",
             "start_date": "2025-11-17 06:00:00",
