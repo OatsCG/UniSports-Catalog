@@ -3,7 +3,7 @@
 
 `meta.json` contains metadata for each school, including colours, logos, and their folder ID.
 
-Each school's folder has an `events.json`, and `version.txt` containing the event json's aggregation date.
+Each school's folder has an `events.json`, and `version.txt` embedding the event json's aggregation date.
 
 
 ## Folder Schema
