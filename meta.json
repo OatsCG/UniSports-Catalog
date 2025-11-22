@@ -193,16 +193,16 @@
             "schoolNameShort": "TMU",
             "location": "Toronto, Ontario, CA",
             "colourDark": {
-                "r": 205,
-                "g": 0,
-                "b": 1
+                "r": 254,
+                "g": 219,
+                "b": 2
             },
             "colourLight": {
                 "r": 255,
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWGDVGQNe6yzfeHv7R450VhhqN7mlVo4wfw&s"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_UAOyEV1yViVzAhH9pr1ADux5Brj1fyr5g&s"
         }
     ]
 }
