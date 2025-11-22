@@ -7790,7 +7790,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -21650,7 +21650,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -27446,7 +27446,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -33389,7 +33389,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -39773,7 +39773,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -45947,7 +45947,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -51806,7 +51806,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -70202,7 +70202,7 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -72119,27 +72119,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4228758711,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Set-up for DI Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-24 12:30:00",
-            "end_date": "2025-11-24 13:00:00",
-            "venue": "RAC II Gym",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2650645721,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Beginner on Weights (workshop #3)",
@@ -72152,27 +72131,6 @@
             "ticket_url": "",
             "sortCategory": "Workout",
             "symbol": "dumbbell",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 4006796768,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "RFE \u2192 YOGA CLASS GROUP FITNESS SET-UP",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-01 11:45:00",
-            "end_date": "2025-12-01 12:00:00",
-            "venue": "Studio I",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -72215,27 +72173,6 @@
             "ticket_url": "",
             "sortCategory": "Workout",
             "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 1982860242,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "REF SET/UP",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-28 15:45:00",
-            "end_date": "2025-12-28 16:00:00",
-            "venue": "Studio II",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
