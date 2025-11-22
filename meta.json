@@ -186,6 +186,23 @@
                 "b": 255
             },
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWGDVGQNe6yzfeHv7R450VhhqN7mlVo4wfw&s"
+        },
+        {
+            "schoolID": "TMU",
+            "schoolName": "Toronto Metropolitan University",
+            "schoolNameShort": "TMU",
+            "location": "Toronto, Ontario, CA",
+            "colourDark": {
+                "r": 205,
+                "g": 0,
+                "b": 1
+            },
+            "colourLight": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWGDVGQNe6yzfeHv7R450VhhqN7mlVo4wfw&s"
         }
     ]
 }
