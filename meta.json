@@ -203,23 +203,6 @@
                 "b": 255
             },
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_UAOyEV1yViVzAhH9pr1ADux5Brj1fyr5g&s"
-        },
-        {
-            "schoolID": "UT",
-            "schoolName": "University of Toronto: St. George",
-            "schoolNameShort": "UofT St. George",
-            "location": "Toronto, Ontario, CA",
-            "colourDark": {
-                "r": 0,
-                "g": 42,
-                "b": 92
-            },
-            "colourLight": {
-                "r": 255,
-                "g": 255,
-                "b": 255
-            },
-            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png"
         }
     ]
 }
