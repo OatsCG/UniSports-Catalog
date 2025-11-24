@@ -10272,9 +10272,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2826964190,
+            "id": 922486572,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Complete | Air Rakija vs Goulbourn Gangsters",
+            "title": "Forfeit | Country Gentlemen &amp; Gal vs Air Ballers",
             "description": "",
             "image": "",
             "start_date": "2025-10-05 21:00:00",
@@ -10293,9 +10293,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 922486572,
+            "id": 2826964190,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Forfeit | Country Gentlemen &amp; Gal vs Air Ballers",
+            "title": "Complete | Air Rakija vs Goulbourn Gangsters",
             "description": "",
             "image": "",
             "start_date": "2025-10-05 21:00:00",
@@ -70353,27 +70353,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2069966985,
-            "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Soccer 52 vs Soccer 49",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-02 18:00:00",
-            "end_date": "2025-11-02 19:00:00",
-            "venue": "Field House",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Soccer",
-            "symbol": "soccerball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 703175854,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
             "title": "Athletics 13 vs Halal Madrid",
@@ -70386,6 +70365,27 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2069966985,
+            "url": "https://rec.carleton.ca/Facility/GetSchedule",
+            "title": "Soccer 52 vs Soccer 49",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-02 18:00:00",
+            "end_date": "2025-11-02 19:00:00",
+            "venue": "Field House",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -73356,9 +73356,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 953437005,
+            "id": 2307446138,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Athletics 6 vs Soccer 13",
+            "title": "Soccer 27 vs Soccer 30",
             "description": "",
             "image": "",
             "start_date": "2025-11-03 20:00:00",
@@ -73377,9 +73377,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2307446138,
+            "id": 953437005,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Soccer 27 vs Soccer 30",
+            "title": "Athletics 6 vs Soccer 13",
             "description": "",
             "image": "",
             "start_date": "2025-11-03 20:00:00",
@@ -76338,27 +76338,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3239691715,
-            "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Registered Set Offenders vs Big Dumps",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-04 22:00:00",
-            "end_date": "2025-11-04 23:00:00",
-            "venue": "Ravens Nest",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1951534316,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
             "title": "Basketball 4 vs Basketball 2",
@@ -76371,6 +76350,27 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3239691715,
+            "url": "https://rec.carleton.ca/Facility/GetSchedule",
+            "title": "Registered Set Offenders vs Big Dumps",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-04 22:00:00",
+            "end_date": "2025-11-04 23:00:00",
+            "venue": "Ravens Nest",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -100173,9 +100173,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1227162387,
+            "id": 2977842842,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Athletics 4 vs Soccer 10",
+            "title": "Athletics 7 vs Soccer 21",
             "description": "",
             "image": "",
             "start_date": "2025-11-15 17:00:00",
@@ -100194,9 +100194,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2977842842,
+            "id": 1227162387,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Athletics 7 vs Soccer 21",
+            "title": "Athletics 4 vs Soccer 10",
             "description": "",
             "image": "",
             "start_date": "2025-11-15 17:00:00",
@@ -119075,7 +119075,7 @@
         {
             "id": 1450144744,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 3 | Discord Kittens vs Winner of 1",
+            "title": "Game # 3 | Discord Kittens vs Athletics 1",
             "description": "",
             "image": "",
             "start_date": "2025-11-23 17:00:00",
@@ -119096,7 +119096,7 @@
         {
             "id": 1721838895,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 4 | Air Ballers vs Winner of 2",
+            "title": "Game # 4 | Air Ballers vs Country Gentlemen &amp; Gal",
             "description": "",
             "image": "",
             "start_date": "2025-11-23 17:00:00",
@@ -119264,7 +119264,7 @@
         {
             "id": 812002592,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 3 | Winner of 2 vs Dodgeball 2",
+            "title": "Game # 3 | Bogdan's Team vs Dodgeball 2",
             "description": "",
             "image": "",
             "start_date": "2025-11-23 18:00:00",
@@ -119474,7 +119474,7 @@
         {
             "id": 543919585,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 7 | Winner of 5 vs Winner of 6",
+            "title": "Game # 7 | 2 SweetOnes FC vs October's Very Own (OVO)",
             "description": "",
             "image": "",
             "start_date": "2025-11-23 19:00:00",
@@ -119495,7 +119495,7 @@
         {
             "id": 616831184,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 7 | Winner of 6 vs Winner of 5",
+            "title": "Game # 7 | Soccer 47 vs Soccer 49",
             "description": "",
             "image": "",
             "start_date": "2025-11-23 19:00:00",
@@ -119503,8 +119503,8 @@
             "venue": "Field House",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -119579,7 +119579,7 @@
         {
             "id": 1216669620,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 3 | Brewsual Suspects vs Winner of 1",
+            "title": "Game # 3 | Brewsual Suspects vs ZATO",
             "description": "",
             "image": "",
             "start_date": "2025-11-23 19:00:00",
@@ -119600,7 +119600,7 @@
         {
             "id": 191556834,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 4 | Athletics 9 vs Winner of 2",
+            "title": "Game # 4 | Athletics 3 vs Athletics 9",
             "description": "",
             "image": "",
             "start_date": "2025-11-23 19:00:00",
@@ -119789,7 +119789,7 @@
         {
             "id": 2129090985,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 3 | FINAL LAP ME TO SLEEP \ud83c\udfc6\ud83c\udfc1 vs Winner of 1",
+            "title": "Game # 3 | Athletics 2 vs FINAL LAP ME TO SLEEP \ud83c\udfc6\ud83c\udfc1",
             "description": "",
             "image": "",
             "start_date": "2025-11-23 20:00:00",
@@ -119810,7 +119810,7 @@
         {
             "id": 2735085284,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 7 | Winner of 6 vs Winner of 5",
+            "title": "Game # 7 | Soccer 3 vs Clover FC",
             "description": "",
             "image": "",
             "start_date": "2025-11-23 21:00:00",
@@ -119818,8 +119818,8 @@
             "venue": "Field House",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -119873,7 +119873,7 @@
         {
             "id": 123830636,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 4 | Team Fowl vs Winner of 2",
+            "title": "Game # 4 | Team Fowl vs The Underrated",
             "description": "",
             "image": "",
             "start_date": "2025-11-23 21:00:00",
@@ -120459,9 +120459,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 251562009,
+            "id": 713125986,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Soccer- Campus Rec - South Field",
+            "title": "Soccer- Campus Rec - South Field - Field House - South Field",
             "description": "",
             "image": "",
             "start_date": "2025-11-24 12:00:00",
@@ -120732,9 +120732,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2527359609,
+            "id": 1182598754,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Campus Rec Soccer - North Field - Field House - North Field",
+            "title": "Soccer- Campus Rec - South Field - Field House - South Field",
             "description": "",
             "image": "",
             "start_date": "2025-11-24 13:15:00",
@@ -120753,9 +120753,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1924638940,
+            "id": 2527359609,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Soccer- Campus Rec - South Field",
+            "title": "Campus Rec Soccer - North Field - Field House - North Field",
             "description": "",
             "image": "",
             "start_date": "2025-11-24 13:15:00",
@@ -124134,9 +124134,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 556995588,
+            "id": 3349903144,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Pilates Flow (Pilates Membership Only)",
+            "title": "Pilates Membership Classes - Yoga Studio (2301)",
             "description": "",
             "image": "",
             "start_date": "2025-11-25 19:35:00",
@@ -124155,9 +124155,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 144446532,
+            "id": 556995588,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Pilates Membership Classes",
+            "title": "Pilates Flow (Pilates Membership Only)",
             "description": "",
             "image": "",
             "start_date": "2025-11-25 19:35:00",
@@ -131528,7 +131528,7 @@
         {
             "id": 4234002192,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 5 | Winner of 2 vs Winner of 1",
+            "title": "Game # 5 | Athletics 4 vs The Kickers",
             "description": "",
             "image": "",
             "start_date": "2025-11-30 17:00:00",
@@ -131549,7 +131549,7 @@
         {
             "id": 2053978311,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 5 | Winner of 1 vs Winner of 2",
+            "title": "Game # 5 | Goop Group vs Banana Blockers",
             "description": "",
             "image": "",
             "start_date": "2025-11-30 17:00:00",
@@ -131591,7 +131591,7 @@
         {
             "id": 3051912832,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 5 | Winner of 4 vs Winner of 3",
+            "title": "Game # 5 | Discord Kittens vs Air Ballers",
             "description": "",
             "image": "",
             "start_date": "2025-11-30 17:00:00",
@@ -131675,7 +131675,7 @@
         {
             "id": 833614561,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 6 | Winner of 3 vs Winner of 4",
+            "title": "Game # 6 | The Great Wall of China vs TermiNATEors",
             "description": "",
             "image": "",
             "start_date": "2025-11-30 18:00:00",
@@ -131696,7 +131696,7 @@
         {
             "id": 1603748119,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 6 | Winner of 4 vs Winner of 3",
+            "title": "Game # 6 | Megan's Roofing Service vs Volleyball 1",
             "description": "",
             "image": "",
             "start_date": "2025-11-30 18:00:00",
@@ -131704,8 +131704,8 @@
             "venue": "Norm Fenn B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -131717,7 +131717,7 @@
         {
             "id": 3137354002,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 5 | Winner of 3 vs Winner of 4",
+            "title": "Game # 5 | FINAL LAP ME TO SLEEP \ud83c\udfc6\ud83c\udfc1 vs The Underrated",
             "description": "",
             "image": "",
             "start_date": "2025-11-30 18:00:00",
@@ -131843,7 +131843,7 @@
         {
             "id": 642567862,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 5 | Winner of 3 vs Winner of 4",
+            "title": "Game # 5 | Athletics 9 vs Brewsual Suspects",
             "description": "",
             "image": "",
             "start_date": "2025-11-30 19:00:00",
@@ -154017,7 +154017,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3628200591,
+            "id": 930571519,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
             "title": "Fall Exams 2025",
             "description": "",
@@ -154038,7 +154038,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 930571519,
+            "id": 3628200591,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
             "title": "Fall Exams 2025",
             "description": "",
