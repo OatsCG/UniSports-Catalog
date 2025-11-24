@@ -55739,27 +55739,6 @@
     ],
     "featured": [
         {
-            "id": 3263856547,
-            "url": "https://macreconline.ca/Facility/GetSchedule",
-            "title": "Mac Dance Fall Booking",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-23 08:00:00",
-            "end_date": "2025-11-23 18:00:00",
-            "venue": "Fitzhenry Studios",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 611771156,
             "url": "https://macreconline.ca/Facility/GetSchedule",
             "title": "WVB HS Tounament",
