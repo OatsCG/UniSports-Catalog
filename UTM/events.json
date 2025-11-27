@@ -44336,52 +44336,6 @@
     ],
     "featured": [
         {
-            "id": 4059120756,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Flow Yoga (Low Sensory)",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-26 07:45:00",
-            "end_date": "2025-11-26 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve Your Spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=3063d124-c383-4858-a2ff-2b9c163ad968",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2190412825,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play: Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-26 17:30:00",
-            "end_date": "2025-11-26 19:00:00",
-            "venue": "Squash Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3200506550,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Puppy Yoga",
@@ -44720,6 +44674,121 @@
             "closure": false,
             "weeklyRepetitions": [
                 "tu"
+            ]
+        },
+        {
+            "id": 1808497381,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Glutes, Core & More",
+            "description": "A Pilates-inspired fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!! All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-12-03 12:10:00",
+            "end_date": "2025-12-03 12:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89c2fdbf-7626-4fcd-8bcf-31fe93f3893f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 489561220,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn To Play Pickleball with Professor Pickleball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-03 16:00:00",
+            "end_date": "2025-12-03 17:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3980737426,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": " Beginner Boxing",
+            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!- This is a non-contact class*- Hand wraps, gloves and non-slip shoes are highly reccomended!",
+            "image": "",
+            "start_date": "2025-12-03 17:10:00",
+            "end_date": "2025-12-03 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
+            "sortCategory": "Combat",
+            "symbol": "figure.boxing",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3883999184,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pride Pump",
+            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
+            "image": "",
+            "start_date": "2025-12-03 17:10:00",
+            "end_date": "2025-12-03 17:10:00",
+            "venue": "Strength & Conditioning Centre (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": true,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 92003503,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates",
+            "description": "Achieve a balanced and toned body with the ultimate core fitness workout! Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion. Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine. All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-12-03 18:10:00",
+            "end_date": "2025-12-03 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
             ]
         },
         {
