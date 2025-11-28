@@ -48639,27 +48639,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3217558755,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Women's-Only Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-27 08:30:00",
-            "end_date": "2025-11-27 10:00:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 259895643,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -49101,7 +49080,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 808795915,
+            "id": 3609133489,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -49479,7 +49458,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4144304252,
+            "id": 1601360276,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -49500,7 +49479,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3599239576,
+            "id": 2944510694,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -49584,9 +49563,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3146146930,
+            "id": 877404215,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 2",
+            "title": "Studio 2 - Studio II",
             "description": "",
             "image": "",
             "start_date": "2025-11-28 07:00:00",
@@ -49647,9 +49626,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2839494274,
+            "id": 2409379013,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 2",
+            "title": "Studio 2 - Studio II",
             "description": "",
             "image": "",
             "start_date": "2025-11-28 08:00:00",
@@ -49731,9 +49710,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2740578162,
+            "id": 500566279,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 2",
+            "title": "Studio 2 - Studio II",
             "description": "",
             "image": "",
             "start_date": "2025-11-28 09:00:00",
@@ -49878,9 +49857,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 917967512,
+            "id": 2064222223,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 2",
+            "title": "Studio 2 - Studio II",
             "description": "",
             "image": "",
             "start_date": "2025-11-28 12:00:00",
@@ -50907,7 +50886,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2492860337,
+            "id": 58476810,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -51066,27 +51045,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 879461697,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 2",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-30 09:00:00",
-            "end_date": "2025-11-30 10:00:00",
-            "venue": "Studio II",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -51348,7 +51306,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3580313289,
+            "id": 739333939,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -52482,7 +52440,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1284148060,
+            "id": 2248856018,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -52545,7 +52503,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1710016936,
+            "id": 92880236,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -72173,6 +72131,48 @@
             "ticket_url": "",
             "sortCategory": "Workout",
             "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2085161926,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Women on Weights (workshop #4)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-04 14:00:00",
+            "end_date": "2025-12-04 15:00:00",
+            "venue": "RAC Fitness Centre",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2992511868,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "KPOP - Learn To: K-POP",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-04 19:00:00",
+            "end_date": "2025-12-04 19:55:00",
+            "venue": "Studio I",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
