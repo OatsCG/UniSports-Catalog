@@ -39275,27 +39275,6 @@
     ],
     "featured": [
         {
-            "id": 62721412,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Event - Glow Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-28 19:00:00",
-            "end_date": "2025-11-28 22:00:00",
-            "venue": "Gymnasia",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 111391817,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Sport Clubs - Badminton Club",
