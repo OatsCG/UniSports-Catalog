@@ -2147,6 +2147,27 @@
     ],
     "featured": [
         {
+            "id": 3794428992,
+            "url": "https://anc.ca.apm.activecommunities.com/brocku",
+            "title": "Drop In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-11-29 08:30:00",
+            "end_date": "2025-11-29 19:00:00",
+            "venue": "Ian Beddis Court 1",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 818955315,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
             "title": "Drop in Pickleball",
