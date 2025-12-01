@@ -44336,29 +44336,6 @@
     ],
     "featured": [
         {
-            "id": 2382534484,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Students Only Night",
-            "description": "",
-            "image": "",
-            "start_date": "2025-11-30 18:00:00",
-            "end_date": "2025-11-30 21:00:00",
-            "venue": "Fitness Centre",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 3062626569,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)xxx",
