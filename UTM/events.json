@@ -44336,123 +44336,6 @@
     ],
     "featured": [
         {
-            "id": 3062626569,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC WOD (Workout of the Day)xxx",
-            "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
-            "image": "",
-            "start_date": "2025-12-01 11:10:00",
-            "end_date": "2025-12-01 11:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 2703600544,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Yogilatesxxx",
-            "description": "Yogilates blends the movements and postures of yoga with the core-focused exercises of Pilates, incorporating strength, flexibility and relaxation techniques into one 45-minute class. All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-12-01 12:10:00",
-            "end_date": "2025-12-01 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39a642fb-d656-4836-9bed-30aa2b4a5d35",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 1896914580,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Meditation & Movement",
-            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
-            "image": "",
-            "start_date": "2025-12-01 13:30:00",
-            "end_date": "2025-12-01 14:00:00",
-            "venue": "HUB - DV2207",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.mind.and.body",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 1672622976,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights (WOW)xxx",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals. ",
-            "image": "",
-            "start_date": "2025-12-01 16:10:00",
-            "end_date": "2025-12-01 16:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 3911659904,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Rainbow Rhythm",
-            "description": "ainbow Rhythm is a lively aerobics class that centers around the 2SLGBTQ+ community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rhythm is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
-            "image": "",
-            "start_date": "2025-12-01 19:10:00",
-            "end_date": "2025-12-01 19:10:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
-            "sortCategory": "Workout",
-            "symbol": "heart",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 563465768,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Hatha Yoga (Low-Sensory)",
@@ -44660,6 +44543,52 @@
             ]
         },
         {
+            "id": 2105483496,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Yogilates",
+            "description": "Yogilates blends the movements and postures of yoga with the core-focused exercises of Pilates, incorporating strength, flexibility and relaxation techniques into one 45-minute class. All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-12-08 12:10:00",
+            "end_date": "2025-12-08 12:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39a642fb-d656-4836-9bed-30aa2b4a5d35",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3386031638,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Bootcamp",
+            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-12-08 17:10:00",
+            "end_date": "2025-12-08 17:55:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
+            "sortCategory": "Swim",
+            "symbol": "figure.water.fitness",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 2143887126,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Climbs: Indoor Climbing Adventure",
@@ -44682,12 +44611,6 @@
         }
     ],
     "announcements": [
-        {
-            "id": 166077283,
-            "title": "Aquatic Programs Cancelled on Sunday, November 30, 2025.",
-            "body": "Please note that all activities in the pool are cancelled on Sunday, November 30, 2025 - including Student Night Sundays Fun Swim.\nWe appreciate your understanding.",
-            "type": 0
-        },
         {
             "id": 3905432124,
             "title": "Service Disruption: Men's Sauna",
