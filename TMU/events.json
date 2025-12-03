@@ -27282,7 +27282,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4220077933,
+            "id": 2039696203,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -27345,7 +27345,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 279538002,
+            "id": 260538761,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -27408,9 +27408,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 913286724,
+            "id": 3617103391,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 2",
+            "title": "Studio 2 - Studio II",
             "description": "",
             "image": "",
             "start_date": "2025-12-03 07:00:00",
@@ -27471,9 +27471,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1072132340,
+            "id": 1433902391,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 2",
+            "title": "Studio 2 - Studio II",
             "description": "",
             "image": "",
             "start_date": "2025-12-03 08:00:00",
@@ -27555,9 +27555,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 514546318,
+            "id": 2484697391,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 2",
+            "title": "Studio 2 - Studio II",
             "description": "",
             "image": "",
             "start_date": "2025-12-03 09:00:00",
@@ -27849,9 +27849,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2322815009,
+            "id": 4082880004,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 2",
+            "title": "Studio 2 - Studio II",
             "description": "",
             "image": "",
             "start_date": "2025-12-03 13:30:00",
@@ -27933,7 +27933,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3226452519,
+            "id": 3348658829,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -30915,7 +30915,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1307671634,
+            "id": 1752076745,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -30978,7 +30978,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3999629299,
+            "id": 399261940,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -31650,7 +31650,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1989351815,
+            "id": 3428711774,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -57081,6 +57081,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2882123509,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "National Lifeguard Recert - Jan 17, 2026",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-17 12:00:00",
+            "end_date": "2026-01-17 18:00:00",
+            "venue": "Lane 1",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "lifepreserver",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 4008346765,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -68927,48 +68948,6 @@
     ],
     "featured": [
         {
-            "id": 1903824940,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "AFRO DANCE - Learn To: AfroDance",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-02 12:00:00",
-            "end_date": "2025-12-02 12:55:00",
-            "venue": "Studio II",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 2037151804,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "KATHAK - Learn To: Kathak",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-02 18:30:00",
-            "end_date": "2025-12-02 19:25:00",
-            "venue": "Studio II",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1335195616,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Women on Weights (workshop #3)",
@@ -69116,6 +69095,48 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2385400662,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Yin Yoga",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-09 11:30:00",
+            "end_date": "2025-12-09 12:15:00",
+            "venue": "Studio I",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1894741425,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Stretch + Flex",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-09 17:00:00",
+            "end_date": "2025-12-09 17:45:00",
+            "venue": "Studio I",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 4070784131,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "LEARN TO SPORTS - Pickleball",
@@ -69170,6 +69191,27 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2882123509,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "National Lifeguard Recert - Jan 17, 2026",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-17 12:00:00",
+            "end_date": "2026-01-17 18:00:00",
+            "venue": "Lane 1",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "lifepreserver",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
