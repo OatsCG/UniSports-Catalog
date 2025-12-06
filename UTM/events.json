@@ -44090,53 +44090,6 @@
     ],
     "featured": [
         {
-            "id": 993186301,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2025-12-05 07:30:00",
-            "end_date": "2025-12-05 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 2981119817,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights!",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-05 16:10:00",
-            "end_date": "2025-12-05 16:55:00",
-            "venue": "Strength & Conditioning Centre (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "we"
-            ]
-        },
-        {
             "id": 1402367178,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
