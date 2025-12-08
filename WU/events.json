@@ -31715,6 +31715,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 803062712,
+            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
+            "title": "MYM Fitness - Cycle ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-14 17:30:00",
+            "end_date": "2025-12-14 18:15:00",
+            "venue": "Spin Area",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1848615937,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "MYM - Pilates",
