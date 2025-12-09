@@ -27561,7 +27561,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-12-10 10:00:00",
-            "end_date": "2025-12-10 14:00:00",
+            "end_date": "2025-12-10 15:30:00",
             "venue": "Upper Gym (Room 312)",
             "ticket_label": "",
             "ticket_url": "",
@@ -27618,12 +27618,12 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1886381038,
+            "id": 3256225815,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Drop-In Basketball",
             "description": "",
             "image": "",
-            "start_date": "2025-12-10 19:00:00",
+            "start_date": "2025-12-10 18:30:00",
             "end_date": "2025-12-10 22:00:00",
             "venue": "Upper Gym (Room 312)",
             "ticket_label": "",
