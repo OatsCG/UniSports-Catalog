@@ -28878,27 +28878,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3075060449,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Open Rec Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-12 11:00:00",
-            "end_date": "2025-12-12 15:00:00",
-            "venue": "Dennis Fairall Fieldhouse",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1475423264,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Fit Lanes (1 hour)",
