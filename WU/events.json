@@ -34235,27 +34235,6 @@
     ],
     "featured": [
         {
-            "id": 2784862323,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Basketball Rim Repair - FM",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-12 06:30:00",
-            "end_date": "2025-12-12 11:00:00",
-            "venue": "Gymnasia",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4149471755,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "WSRC staff Yoga",
