@@ -33351,9 +33351,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2977842842,
+            "id": 1227162387,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Athletics 7 vs Soccer 21",
+            "title": "Athletics 4 vs Soccer 10",
             "description": "",
             "image": "",
             "start_date": "2025-11-15 17:00:00",
@@ -33372,9 +33372,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1227162387,
+            "id": 2977842842,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Athletics 4 vs Soccer 10",
+            "title": "Athletics 7 vs Soccer 21",
             "description": "",
             "image": "",
             "start_date": "2025-11-15 17:00:00",
@@ -37278,9 +37278,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1346096256,
+            "id": 3038580482,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Basketball- Campus Rec  - Ravens Nest A",
+            "title": "Basketball- Campus Rec  - Ravens Nest B",
             "description": "",
             "image": "",
             "start_date": "2025-11-17 13:00:00",
@@ -37299,9 +37299,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3038580482,
+            "id": 1346096256,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Basketball- Campus Rec  - Ravens Nest B",
+            "title": "Basketball- Campus Rec  - Ravens Nest A",
             "description": "",
             "image": "",
             "start_date": "2025-11-17 13:00:00",
@@ -54729,9 +54729,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2583003002,
+            "id": 3736497152,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 3 | Soccer 26 vs Soccer 87",
+            "title": "Game # 6 | Soccer 13 vs Soccer 85",
             "description": "",
             "image": "",
             "start_date": "2025-11-24 18:00:00",
@@ -54750,9 +54750,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3736497152,
+            "id": 2583003002,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Game # 6 | Soccer 13 vs Soccer 85",
+            "title": "Game # 3 | Soccer 26 vs Soccer 87",
             "description": "",
             "image": "",
             "start_date": "2025-11-24 18:00:00",
@@ -87888,7 +87888,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1461546118,
+            "id": 3506953205,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
             "title": "   Fitness Centre Membership Check",
             "description": "",
@@ -88152,27 +88152,6 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 832685120,
-            "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Pilates Membership Classes - Yoga Studio (2301)",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-13 10:00:00",
-            "end_date": "2025-12-13 11:00:00",
-            "venue": "Fitness Studios",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -89232,9 +89211,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 824321279,
+            "id": 3532234630,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Pilates Flow (Pilates Membership Only)",
+            "title": "Pilates Membership Classes - Yoga Studio (2301)",
             "description": "",
             "image": "",
             "start_date": "2025-12-14 10:00:00",
@@ -89253,9 +89232,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2205332041,
+            "id": 824321279,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Pilates Membership Classes",
+            "title": "Pilates Flow (Pilates Membership Only)",
             "description": "",
             "image": "",
             "start_date": "2025-12-14 10:00:00",
@@ -92382,9 +92361,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1680115378,
+            "id": 2576394203,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Pilates Membership Classes",
+            "title": "Pilates Membership Classes - Yoga Studio (2301)",
             "description": "",
             "image": "",
             "start_date": "2025-12-17 09:30:00",
@@ -94335,9 +94314,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3680244314,
+            "id": 2040907039,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Pilates Sculpt + Beats (Pilates Membership Only)",
+            "title": "Pilates Membership Classes - Yoga Studio (2301)",
             "description": "",
             "image": "",
             "start_date": "2025-12-18 17:30:00",
@@ -94356,9 +94335,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3209605834,
+            "id": 3680244314,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Pilates Membership Classes",
+            "title": "Pilates Sculpt + Beats (Pilates Membership Only)",
             "description": "",
             "image": "",
             "start_date": "2025-12-18 17:30:00",
