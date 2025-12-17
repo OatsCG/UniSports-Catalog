@@ -235,29 +235,6 @@
             ]
         },
         {
-            "id": 2759637910,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2025-12-02 12:10:00",
-            "end_date": "2025-12-02 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3059916556,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Strength 101",
@@ -470,6 +447,52 @@
             "symbol": "figure.run",
             "featuredDecal": null,
             "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 863820019,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Salsa & Bachata",
+            "description": "Learn the basics of Salsa and Bachata, the most popular Latin club dances. This group class puts the focus on social interaction, teaching you to lead, follow, and develop a sense of musicality for a smooth dancing experience. Please bring clean smooth-soled shoes for dancing; partners are not required",
+            "image": "",
+            "start_date": "2025-12-04 19:10:00",
+            "end_date": "2025-12-04 20:00:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=3c46e800-7c58-433f-bc29-ae0f59c4aa60",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1976065492,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Swing & Chacha",
+            "description": "Learn the basics of Swing and Cha Cha and have fun dancing to Top 40\u2019s and timeless classics. Stay on your toes with these energetic rhythmic dances. Learn to lead, follow, and feel the rhythm of the music. Please bring clean smooth-soled shoes for dancing; partners are not required.",
+            "image": "",
+            "start_date": "2025-12-04 20:00:00",
+            "end_date": "2025-12-04 20:50:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9d4d2555-af4c-4e5f-8661-523e3a202b6f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -893,6 +916,29 @@
             ]
         },
         {
+            "id": 1914733198,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Yogilates",
+            "description": "Yogilates blends the movements and postures of yoga with the core-focused exercises of Pilates, incorporating strength, flexibility and relaxation techniques into one 45-minute class. All fitness levels welcom",
+            "image": "",
+            "start_date": "2025-12-08 12:10:00",
+            "end_date": "2025-12-08 12:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39a642fb-d656-4836-9bed-30aa2b4a5d35",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 2853930940,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Track Level Open",
@@ -915,29 +961,6 @@
                 "fr",
                 "mo",
                 "th"
-            ]
-        },
-        {
-            "id": 1914733198,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Yogilates",
-            "description": "Yogilates blends the movements and postures of yoga with the core-focused exercises of Pilates, incorporating strength, flexibility and relaxation techniques into one 45-minute class. All fitness levels welcom",
-            "image": "",
-            "start_date": "2025-12-08 12:10:00",
-            "end_date": "2025-12-08 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39a642fb-d656-4836-9bed-30aa2b4a5d35",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
             ]
         },
         {
@@ -1149,29 +1172,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 191447576,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2025-12-09 12:10:00",
-            "end_date": "2025-12-09 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
             ]
         },
         {
@@ -1642,6 +1642,29 @@
             ]
         },
         {
+            "id": 1419719694,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Hatha Yoga",
+            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45 minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided. Modifications are offered for postures to ensure all levels are welcome.   If you have additional requests, please connect with our instructors.",
+            "image": "",
+            "start_date": "2025-12-11 12:10:00",
+            "end_date": "2025-12-11 12:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 1266870636,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Track Level Open",
@@ -1663,29 +1686,6 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
-                "th"
-            ]
-        },
-        {
-            "id": 1419719694,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Hatha Yoga",
-            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45 minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided. Modifications are offered for postures to ensure all levels are welcome.   If you have additional requests, please connect with our instructors.",
-            "image": "",
-            "start_date": "2025-12-11 12:10:00",
-            "end_date": "2025-12-11 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "th"
             ]
         },
@@ -1764,6 +1764,52 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 253718693,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Salsa & Bachata",
+            "description": "Learn the basics of Salsa and Bachata, the most popular Latin club dances. This group class puts the focus on social interaction, teaching you to lead, follow, and develop a sense of musicality for a smooth dancing experience. Please bring clean smooth-soled shoes for dancing; partners are not required",
+            "image": "",
+            "start_date": "2025-12-11 19:10:00",
+            "end_date": "2025-12-11 20:00:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=3c46e800-7c58-433f-bc29-ae0f59c4aa60",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1743455045,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Swing & Chacha",
+            "description": "Learn the basics of Swing and Cha Cha and have fun dancing to Top 40\u2019s and timeless classics. Stay on your toes with these energetic rhythmic dances. Learn to lead, follow, and feel the rhythm of the music. Please bring clean smooth-soled shoes for dancing; partners are not required.",
+            "image": "",
+            "start_date": "2025-12-11 20:00:00",
+            "end_date": "2025-12-11 20:50:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9d4d2555-af4c-4e5f-8661-523e3a202b6f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -2574,29 +2620,6 @@
             ]
         },
         {
-            "id": 2049596333,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2025-12-16 12:10:00",
-            "end_date": "2025-12-16 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4460416,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Track Level Open",
@@ -3178,6 +3201,29 @@
             ]
         },
         {
+            "id": 30524070,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Salsa & Bachata",
+            "description": "Learn the basics of Salsa and Bachata, the most popular Latin club dances. This group class puts the focus on social interaction, teaching you to lead, follow, and develop a sense of musicality for a smooth dancing experience. Please bring clean smooth-soled shoes for dancing; partners are not required",
+            "image": "",
+            "start_date": "2025-12-18 19:10:00",
+            "end_date": "2025-12-18 20:00:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=3c46e800-7c58-433f-bc29-ae0f59c4aa60",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 4061345700,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Salsa & Bachata",
@@ -3217,7 +3263,32 @@
             "bipoc": false,
             "intramurals": false,
             "closure": false,
-            "weeklyRepetitions": []
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 3301285903,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Swing & Chacha",
+            "description": "Learn the basics of Swing and Cha Cha and have fun dancing to Top 40\u2019s and timeless classics. Stay on your toes with these energetic rhythmic dances. Learn to lead, follow, and feel the rhythm of the music. Please bring clean smooth-soled shoes for dancing; partners are not required.",
+            "image": "",
+            "start_date": "2025-12-18 20:00:00",
+            "end_date": "2025-12-18 20:50:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9d4d2555-af4c-4e5f-8661-523e3a202b6f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
         },
         {
             "id": 391775053,
@@ -60340,27 +60411,6 @@
             "weeklyRepetitions": [
                 "th"
             ]
-        },
-        {
-            "id": 535786690,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Swing & Chacha",
-            "description": "Learn the basics of Swing and Cha Cha and have fun dancing to Top 40\u2019s and timeless classics. Stay on your toes with these energetic rhythmic dances. Learn to lead, follow, and feel the rhythm of the music. Please bring clean smooth-soled shoes for dancing; partners are not required.",
-            "image": "",
-            "start_date": "2025-12-18 20:00:00",
-            "end_date": "2025-12-18 20:50:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9d4d2555-af4c-4e5f-8661-523e3a202b6f",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 74793052,
