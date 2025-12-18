@@ -529,29 +529,6 @@
             ]
         },
         {
-            "id": 2463049516,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre ",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2025-12-05 07:30:00",
-            "end_date": "2025-12-05 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2400244340,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout Of the Day)",
@@ -1430,6 +1407,31 @@
             ]
         },
         {
+            "id": 168238293,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights (WOW)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-10 16:10:00",
+            "end_date": "2025-12-10 16:55:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 1960215920,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Track Level Open",
@@ -1453,31 +1455,6 @@
                 "mo",
                 "th",
                 "tu",
-                "we"
-            ]
-        },
-        {
-            "id": 168238293,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights (WOW)",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-10 16:10:00",
-            "end_date": "2025-12-10 16:55:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -1690,6 +1667,29 @@
             ]
         },
         {
+            "id": 3903458399,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Hypertrophy 101",
+            "description": "Our hypertrophy class is designed to build muscle size. This tailored program will combine an educational piece and a targeted workout where you will learn how to efficiently build body mass and build confidence in your body's capabilities. We will focus on proper form, technique, and tempo of specific exercises and muscle groups to safely help you get to your fitness goals. Embrace the challenge, push your limits, and see results, as you sculpt a stronger, more powerful you! The class is suitable for all levels of fitness.",
+            "image": "",
+            "start_date": "2025-12-11 16:10:00",
+            "end_date": "2025-12-11 16:55:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=81ecd9bc-e525-4bb1-ac6d-535cf5fc646f",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 88372097,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Track Level Open",
@@ -1714,29 +1714,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 3903458399,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Hypertrophy 101",
-            "description": "Our hypertrophy class is designed to build muscle size. This tailored program will combine an educational piece and a targeted workout where you will learn how to efficiently build body mass and build confidence in your body's capabilities. We will focus on proper form, technique, and tempo of specific exercises and muscle groups to safely help you get to your fitness goals. Embrace the challenge, push your limits, and see results, as you sculpt a stronger, more powerful you! The class is suitable for all levels of fitness.",
-            "image": "",
-            "start_date": "2025-12-11 16:10:00",
-            "end_date": "2025-12-11 16:55:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=81ecd9bc-e525-4bb1-ac6d-535cf5fc646f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
             ]
         },
         {
@@ -1894,29 +1871,6 @@
             ]
         },
         {
-            "id": 35187571,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre ",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2025-12-12 07:30:00",
-            "end_date": "2025-12-12 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1563675759,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout Of the Day)",
@@ -1971,6 +1925,31 @@
             ]
         },
         {
+            "id": 1191666957,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights (WOW)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-12 16:10:00",
+            "end_date": "2025-12-12 16:55:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 1185702136,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Track Level Open",
@@ -1994,31 +1973,6 @@
                 "mo",
                 "th",
                 "tu",
-                "we"
-            ]
-        },
-        {
-            "id": 1191666957,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights (WOW)",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-12 16:10:00",
-            "end_date": "2025-12-12 16:55:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -2431,6 +2385,31 @@
             ]
         },
         {
+            "id": 2371572279,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights (WOW)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-15 16:10:00",
+            "end_date": "2025-12-15 16:55:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 3960709097,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Track Level Open",
@@ -2454,31 +2433,6 @@
                 "mo",
                 "th",
                 "tu",
-                "we"
-            ]
-        },
-        {
-            "id": 2371572279,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights (WOW)",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-15 16:10:00",
-            "end_date": "2025-12-15 16:55:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -2901,6 +2855,31 @@
             ]
         },
         {
+            "id": 2079899443,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights (WOW)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-17 16:10:00",
+            "end_date": "2025-12-17 16:55:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 25002014,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Track Level Open",
@@ -2928,29 +2907,25 @@
             ]
         },
         {
-            "id": 2079899443,
+            "id": 3132165424,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights (WOW)",
+            "title": "Learn to Play: Table Tennis",
             "description": "",
             "image": "",
-            "start_date": "2025-12-17 16:10:00",
-            "end_date": "2025-12-17 16:55:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
+            "start_date": "2025-12-17 17:01:00",
+            "end_date": "2025-12-17 18:01:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
             "featuredDecal": null,
-            "womens": true,
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
+            "weeklyRepetitions": []
         },
         {
             "id": 1268104243,
@@ -3384,29 +3359,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 481495209,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre ",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2025-12-19 07:30:00",
-            "end_date": "2025-12-19 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -12671,6 +12623,29 @@
             ]
         },
         {
+            "id": 2851706106,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-19 16:30:00",
+            "end_date": "2026-01-19 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 2262655617,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Intramurals: Mixed Volleyball",
@@ -12953,8 +12928,8 @@
             "description": "",
             "image": "",
             "start_date": "2026-01-19 20:00:00",
-            "end_date": "2026-01-19 21:30:00",
-            "venue": "Multi-Purpose Room B",
+            "end_date": "2026-01-19 22:00:00",
+            "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
@@ -14160,6 +14135,29 @@
             ]
         },
         {
+            "id": 3015346697,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Intramurals: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-21 16:30:00",
+            "end_date": "2026-01-21 19:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 2797862534,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pilates Reformer Circuit",
@@ -14287,6 +14285,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
             "sortCategory": "Workout",
             "symbol": "figure.indoor.cycle",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3457290789,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-21 19:30:00",
+            "end_date": "2026-01-21 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -15302,6 +15323,27 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 3985229985,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Walks: Move for your Mood",
+            "description": "A wellness walk exploring the science of movement and mood, including the effects of nature, physical activity, and fresh air on mental well-being. This walk encourages students to engage meaningfully with their environment and with one another, fostering a sense of community and shared experience.\u00a0",
+            "image": "",
+            "start_date": "2026-01-23 12:00:00",
+            "end_date": "2026-01-23 13:00:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.walk",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 2503065610,
@@ -16728,6 +16770,29 @@
             ]
         },
         {
+            "id": 3048039730,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-26 16:30:00",
+            "end_date": "2026-01-26 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 1517919498,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Intramurals: Mixed Volleyball",
@@ -17010,8 +17075,8 @@
             "description": "",
             "image": "",
             "start_date": "2026-01-26 20:00:00",
-            "end_date": "2026-01-26 21:30:00",
-            "venue": "Multi-Purpose Room B",
+            "end_date": "2026-01-26 22:00:00",
+            "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
@@ -18384,6 +18449,52 @@
             ]
         },
         {
+            "id": 3888649808,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Intramurals: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-28 16:30:00",
+            "end_date": "2026-01-28 19:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3432156950,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-28 16:30:00",
+            "end_date": "2026-01-28 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 2111697364,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pilates Reformer Circuit",
@@ -18522,6 +18633,29 @@
             ]
         },
         {
+            "id": 718069908,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-28 19:30:00",
+            "end_date": "2026-01-28 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 1867565012,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": " Learn to Play Futsal",
@@ -18534,6 +18668,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9b4a61f1-06a3-4695-b1fe-38386b067a78",
             "sortCategory": "Other",
             "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1936263770,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-28 20:00:00",
+            "end_date": "2026-01-28 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -18871,8 +19028,8 @@
             "start_date": "2026-01-29 11:00:00",
             "end_date": "2026-01-29 14:00:00",
             "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
+            "ticket_label": "Register now",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=a3d881b0-b6a0-4f15-b4a8-8163488f6753",
             "sortCategory": "Other",
             "symbol": "sportscourt",
             "featuredDecal": null,
@@ -20718,6 +20875,27 @@
             ]
         },
         {
+            "id": 4115510435,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Walks: Learn About Resources for International Students",
+            "description": "A wellness walk exploring the science of movement and mood, including the effects of nature, physical activity, and fresh air on mental well-being. This walk encourages students to engage meaningfully with their environment and with one another, fostering a sense of community and shared experience.\u00a0",
+            "image": "",
+            "start_date": "2026-02-02 12:00:00",
+            "end_date": "2026-02-02 13:00:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.walk",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1878602256,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Drop-In",
@@ -20964,6 +21142,29 @@
             "symbol": "dumbbell",
             "featuredDecal": null,
             "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 2067837987,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-02 16:30:00",
+            "end_date": "2026-02-02 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -21255,8 +21456,8 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-02 20:00:00",
-            "end_date": "2026-02-02 21:30:00",
-            "venue": "Multi-Purpose Room B",
+            "end_date": "2026-02-02 22:00:00",
+            "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
@@ -22629,6 +22830,52 @@
             ]
         },
         {
+            "id": 554855651,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Intramurals: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-04 16:30:00",
+            "end_date": "2026-02-04 19:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1163101470,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-04 16:30:00",
+            "end_date": "2026-02-04 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 2363150810,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pilates Reformer Circuit",
@@ -22767,6 +23014,29 @@
             ]
         },
         {
+            "id": 2909124735,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-04 19:30:00",
+            "end_date": "2026-02-04 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 3034248701,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": " Learn to Play Futsal",
@@ -22779,6 +23049,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9b4a61f1-06a3-4695-b1fe-38386b067a78",
             "sortCategory": "Other",
             "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3028966717,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-04 20:00:00",
+            "end_date": "2026-02-04 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -25285,6 +25578,29 @@
             ]
         },
         {
+            "id": 4187082043,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-09 16:30:00",
+            "end_date": "2026-02-09 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 1127503676,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Intramurals: Mixed Volleyball",
@@ -25567,8 +25883,8 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-09 20:00:00",
-            "end_date": "2026-02-09 21:30:00",
-            "venue": "Multi-Purpose Room B",
+            "end_date": "2026-02-09 22:00:00",
+            "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
@@ -26941,6 +27257,52 @@
             ]
         },
         {
+            "id": 2824702785,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Intramurals: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-11 16:30:00",
+            "end_date": "2026-02-11 19:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 493821463,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-11 16:30:00",
+            "end_date": "2026-02-11 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 1694235995,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pilates Reformer Circuit",
@@ -27079,6 +27441,29 @@
             ]
         },
         {
+            "id": 1849945418,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-11 19:30:00",
+            "end_date": "2026-02-11 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 330220635,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": " Learn to Play Futsal",
@@ -27091,6 +27476,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9b4a61f1-06a3-4695-b1fe-38386b067a78",
             "sortCategory": "Other",
             "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1199534596,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-11 20:00:00",
+            "end_date": "2026-02-11 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -30197,6 +30605,27 @@
             ]
         },
         {
+            "id": 2249466398,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-18 18:30:00",
+            "end_date": "2026-02-18 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3876724624,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
@@ -30561,6 +30990,27 @@
             "weeklyRepetitions": [
                 "th"
             ]
+        },
+        {
+            "id": 235641859,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Intramurals Tournaments: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-19 13:00:00",
+            "end_date": "2026-02-19 18:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 570874931,
@@ -32527,6 +32977,27 @@
             ]
         },
         {
+            "id": 69641796,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-23 16:30:00",
+            "end_date": "2026-02-23 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1078599209,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Intramurals: Mixed Volleyball",
@@ -32763,8 +33234,8 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-23 20:00:00",
-            "end_date": "2026-02-23 21:30:00",
-            "venue": "Multi-Purpose Room B",
+            "end_date": "2026-02-23 22:00:00",
+            "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
@@ -34068,6 +34539,29 @@
             ]
         },
         {
+            "id": 1610593042,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Intramurals: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-25 16:30:00",
+            "end_date": "2026-02-25 19:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 945935665,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pilates Reformer Circuit ",
@@ -34172,6 +34666,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
             "sortCategory": "Workout",
             "symbol": "figure.indoor.cycle",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3070567786,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-25 19:30:00",
+            "end_date": "2026-02-25 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -34676,6 +35193,29 @@
             "symbol": "figure.run",
             "featuredDecal": null,
             "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1877908101,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-26 16:30:00",
+            "end_date": "2026-02-26 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -35412,6 +35952,29 @@
             "bipoc": false,
             "intramurals": false,
             "closure": true,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 2503097171,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-27 20:00:00",
+            "end_date": "2026-02-27 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
             "weeklyRepetitions": [
                 "fr"
             ]
@@ -36521,6 +37084,29 @@
             ]
         },
         {
+            "id": 1264015978,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-02 16:30:00",
+            "end_date": "2026-03-02 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn more and register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 2653101670,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Intramurals: Mixed Volleyball",
@@ -36757,8 +37343,8 @@
             "description": "",
             "image": "",
             "start_date": "2026-03-02 20:00:00",
-            "end_date": "2026-03-02 21:30:00",
-            "venue": "Multi-Purpose Room B",
+            "end_date": "2026-03-02 22:00:00",
+            "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
@@ -38108,6 +38694,29 @@
             ]
         },
         {
+            "id": 672010681,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Intramurals: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-04 16:30:00",
+            "end_date": "2026-03-04 19:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 161499028,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pilates Reformer Circuit ",
@@ -38235,6 +38844,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
             "sortCategory": "Workout",
             "symbol": "figure.indoor.cycle",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2175079605,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-04 19:30:00",
+            "end_date": "2026-03-04 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -38787,6 +39419,29 @@
             "symbol": "figure.run",
             "featuredDecal": null,
             "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 730687847,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-05 16:30:00",
+            "end_date": "2026-03-05 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -39619,6 +40274,29 @@
             "bipoc": false,
             "intramurals": false,
             "closure": true,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 432605327,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-06 20:00:00",
+            "end_date": "2026-03-06 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
             "weeklyRepetitions": [
                 "fr"
             ]
@@ -40778,6 +41456,29 @@
             ]
         },
         {
+            "id": 3991663415,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-09 16:30:00",
+            "end_date": "2026-03-09 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn more and register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 3215294670,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Intramurals: Mixed Volleyball",
@@ -41014,8 +41715,8 @@
             "description": "",
             "image": "",
             "start_date": "2026-03-09 20:00:00",
-            "end_date": "2026-03-09 21:30:00",
-            "venue": "Multi-Purpose Room B",
+            "end_date": "2026-03-09 22:00:00",
+            "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
@@ -43053,6 +43754,29 @@
             ]
         },
         {
+            "id": 1340603634,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-12 16:30:00",
+            "end_date": "2026-03-12 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 105476586,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -43876,6 +44600,29 @@
             "bipoc": false,
             "intramurals": false,
             "closure": true,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 3961120457,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-13 20:00:00",
+            "end_date": "2026-03-13 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
             "weeklyRepetitions": [
                 "fr"
             ]
@@ -45166,6 +45913,32 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 3256030193,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-16 18:30:00",
+            "end_date": "2026-03-16 21:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "th",
+                "we"
             ]
         },
         {
@@ -46543,6 +47316,32 @@
             ]
         },
         {
+            "id": 1733861702,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-18 18:30:00",
+            "end_date": "2026-03-18 21:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "th",
+                "we"
+            ]
+        },
+        {
             "id": 2858000634,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
@@ -47161,6 +47960,32 @@
             "closure": false,
             "weeklyRepetitions": [
                 "th"
+            ]
+        },
+        {
+            "id": 2798166122,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-19 18:30:00",
+            "end_date": "2026-03-19 21:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "th",
+                "we"
             ]
         },
         {
@@ -47847,6 +48672,32 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 3028829168,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-20 18:30:00",
+            "end_date": "2026-03-20 21:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "th",
+                "we"
             ]
         },
         {
@@ -49023,6 +49874,27 @@
             ]
         },
         {
+            "id": 1831202497,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-23 16:30:00",
+            "end_date": "2026-03-23 19:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 712258478,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Indoor Soccer",
@@ -49237,7 +50109,7 @@
             "image": "",
             "start_date": "2026-03-23 20:00:00",
             "end_date": "2026-03-23 22:00:00",
-            "venue": "Multi-Purpose Room B",
+            "venue": "Multi-Purpose Room A",
             "ticket_label": "Book a court",
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
@@ -50560,6 +51432,27 @@
             ]
         },
         {
+            "id": 1607973120,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Intramurals Tournament: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-25 16:30:00",
+            "end_date": "2026-03-25 21:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 644119585,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -51315,6 +52208,27 @@
             "weeklyRepetitions": [
                 "th"
             ]
+        },
+        {
+            "id": 806267363,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-26 16:30:00",
+            "end_date": "2026-03-26 19:45:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Learn More and Register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 2073717846,
@@ -60344,29 +61258,6 @@
     ],
     "featured": [
         {
-            "id": 1255761549,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Glutes, Core & More",
-            "description": "A Pilates-inspired fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-12-17 12:10:00",
-            "end_date": "2025-12-17 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89c2fdbf-7626-4fcd-8bcf-31fe93f3893f",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.core.training",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2473080271,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Hatha Yoga",
@@ -60518,6 +61409,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3985229985,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Walks: Move for your Mood",
+            "description": "A wellness walk exploring the science of movement and mood, including the effects of nature, physical activity, and fresh air on mental well-being. This walk encourages students to engage meaningfully with their environment and with one another, fostering a sense of community and shared experience.\u00a0",
+            "image": "",
+            "start_date": "2026-01-23 12:00:00",
+            "end_date": "2026-01-23 13:00:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.walk",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 99049076,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn To Play Try Women's Only Cricket",
@@ -60547,8 +61459,8 @@
             "start_date": "2026-01-29 11:00:00",
             "end_date": "2026-01-29 14:00:00",
             "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
+            "ticket_label": "Register now",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=a3d881b0-b6a0-4f15-b4a8-8163488f6753",
             "sortCategory": "Other",
             "symbol": "sportscourt",
             "featuredDecal": null,
@@ -60574,6 +61486,27 @@
             "symbol": "cricket.ball",
             "featuredDecal": null,
             "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 4115510435,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Walks: Learn About Resources for International Students",
+            "description": "A wellness walk exploring the science of movement and mood, including the effects of nature, physical activity, and fresh air on mental well-being. This walk encourages students to engage meaningfully with their environment and with one another, fostering a sense of community and shared experience.\u00a0",
+            "image": "",
+            "start_date": "2026-02-02 12:00:00",
+            "end_date": "2026-02-02 13:00:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.walk",
+            "featuredDecal": null,
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
