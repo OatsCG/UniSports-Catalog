@@ -547,9 +547,52 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 3511851482,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Volleyball (Coed 3v3) Champion of the Court - Champion of the Court (Coed 3v3)",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-26 19:00:00",
+            "end_date": "2026-01-26 22:00:00",
+            "venue": "Gym 3",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         }
     ],
-    "featured": [],
+    "featured": [
+        {
+            "id": 3511851482,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Volleyball (Coed 3v3) Champion of the Court - Champion of the Court (Coed 3v3)",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-26 19:00:00",
+            "end_date": "2026-01-26 22:00:00",
+            "venue": "Gym 3",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        }
+    ],
     "announcements": [
         {
             "id": 220250925,
