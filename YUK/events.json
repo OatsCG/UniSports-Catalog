@@ -1935,9 +1935,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4002895483,
+            "id": 563675511,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "67 Elite vs Red team",
+            "title": "Eagles NC vs Super67",
             "description": "",
             "image": "",
             "start_date": "2025-11-03 16:40:00",
@@ -1956,9 +1956,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 563675511,
+            "id": 4002895483,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Eagles NC vs Super67",
+            "title": "67 Elite vs Red team",
             "description": "",
             "image": "",
             "start_date": "2025-11-03 16:40:00",
@@ -47653,6 +47653,27 @@
         }
     ],
     "featured": [
+        {
+            "id": 3104241790,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Exams",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-22 06:00:00",
+            "end_date": "2025-12-22 22:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
         {
             "id": 2138408918,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
