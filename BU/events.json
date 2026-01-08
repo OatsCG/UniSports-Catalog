@@ -843,27 +843,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3801894870,
-            "url": "https://anc.ca.apm.activecommunities.com/brocku",
-            "title": "Drop in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-09 13:15:00",
-            "end_date": "2026-01-09 15:45:00",
-            "venue": "Bob Davis Gymnasium",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4133816220,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
             "title": "Drop in Badminton",
@@ -1704,29 +1683,7 @@
             "weeklyRepetitions": []
         }
     ],
-    "featured": [
-        {
-            "id": 403921048,
-            "url": "https://anc.ca.apm.activecommunities.com/brocku",
-            "title": "Drop in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-07 20:30:00",
-            "end_date": "2026-01-07 22:30:00",
-            "venue": "Ian Beddis Court 4",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        }
-    ],
+    "featured": [],
     "announcements": [
         {
             "id": 220250925,
