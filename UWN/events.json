@@ -47171,27 +47171,6 @@
     ],
     "featured": [
         {
-            "id": 899895704,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Aquatic Staff Training",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-11 09:00:00",
-            "end_date": "2026-01-11 13:00:00",
-            "venue": "Pool (Entire)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3259203474,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Track Meet Tear Down",
