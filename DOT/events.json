@@ -1851,6 +1851,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3398464215,
+            "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
+            "title": "Open Gym Time - Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-25 18:00:00",
+            "end_date": "2026-01-25 19:30:00",
+            "venue": "Gym 4",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1671889221,
             "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
             "title": "Open Gym Time - Basketball",
