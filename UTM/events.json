@@ -4491,7 +4491,7 @@
         {
             "id": 3609366947,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Facilitated Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2026-01-05 10:30:00",
@@ -5179,52 +5179,6 @@
             ]
         },
         {
-            "id": 553492487,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-06 10:30:00",
-            "end_date": "2026-01-06 13:30:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3388834112,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket**",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-06 10:30:00",
-            "end_date": "2026-01-06 13:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3753937582,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -5392,7 +5346,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-01-06 13:30:00",
-            "end_date": "2026-01-06 15:30:00",
+            "end_date": "2026-01-06 15:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -6020,7 +5974,7 @@
         {
             "id": 3239716117,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Facilitated Indoor Soccer",
+            "title": "Drop-in Indoor Soccer",
             "description": "",
             "image": "",
             "start_date": "2026-01-07 10:30:00",
@@ -6882,6 +6836,29 @@
             ]
         },
         {
+            "id": 3882679785,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Volleyball & Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-08 13:30:00",
+            "end_date": "2026-01-08 15:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 892347396,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Intramurals: Mix & Mingle Welcome Back",
@@ -7671,27 +7648,6 @@
             ]
         },
         {
-            "id": 15972179,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-09 19:30:00",
-            "end_date": "2026-01-09 21:45:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1229698399,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Games, Play and Nets ",
@@ -7713,6 +7669,27 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 15972179,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-09 19:30:00",
+            "end_date": "2026-01-09 21:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 1684251424,
@@ -7748,29 +7725,6 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "sa"
-            ]
-        },
-        {
-            "id": 939034901,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-10 10:00:00",
-            "end_date": "2026-01-10 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -8294,7 +8248,7 @@
         {
             "id": 3865072416,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Facilitated Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2026-01-12 10:30:00",
@@ -8427,6 +8381,31 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 2449919028,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-01-12 13:00:00",
+            "end_date": "2026-01-12 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
@@ -9032,52 +9011,6 @@
             ]
         },
         {
-            "id": 1970737326,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-13 10:30:00",
-            "end_date": "2026-01-13 13:30:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2587211877,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket**",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-13 10:30:00",
-            "end_date": "2026-01-13 13:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3191785077,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -9245,7 +9178,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-01-13 13:30:00",
-            "end_date": "2026-01-13 15:30:00",
+            "end_date": "2026-01-13 15:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -9839,7 +9772,7 @@
         {
             "id": 2056746404,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Facilitated Indoor Soccer",
+            "title": "Drop-in Indoor Soccer",
             "description": "",
             "image": "",
             "start_date": "2026-01-14 10:30:00",
@@ -9975,6 +9908,31 @@
             ]
         },
         {
+            "id": 2592541251,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-01-14 13:00:00",
+            "end_date": "2026-01-14 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 2820886314,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -9987,29 +9945,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624",
             "sortCategory": "Workout",
             "symbol": "heart",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2714065447,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Women's Only Volleyball & Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-14 13:30:00",
-            "end_date": "2026-01-14 15:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -10690,6 +10625,29 @@
             ]
         },
         {
+            "id": 2146887631,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Volleyball & Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-15 13:30:00",
+            "end_date": "2026-01-15 15:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 2588211210,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Cricket",
@@ -11242,6 +11200,31 @@
             ]
         },
         {
+            "id": 1148828982,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-01-16 13:00:00",
+            "end_date": "2026-01-16 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 81090350,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -11357,27 +11340,6 @@
             ]
         },
         {
-            "id": 3960257889,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in PRIDE Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-16 18:30:00",
-            "end_date": "2026-01-16 20:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3853799155,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Games, Play and Nets ",
@@ -11399,27 +11361,6 @@
             "weeklyRepetitions": [
                 "fr"
             ]
-        },
-        {
-            "id": 4141129485,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in BIPOC Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-16 20:00:00",
-            "end_date": "2026-01-16 21:45:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 2271684225,
@@ -11464,50 +11405,6 @@
             "weeklyRepetitions": [
                 "sa"
             ]
-        },
-        {
-            "id": 1361664333,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-17 10:00:00",
-            "end_date": "2026-01-17 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "sa"
-            ]
-        },
-        {
-            "id": 3473337912,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball**",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-17 10:00:00",
-            "end_date": "2026-01-17 13:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 3064427050,
@@ -11621,48 +11518,6 @@
             "weeklyRepetitions": [
                 "sa"
             ]
-        },
-        {
-            "id": 783341657,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball**",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-17 14:00:00",
-            "end_date": "2026-01-17 16:45:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 2322309018,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton**",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-17 14:00:00",
-            "end_date": "2026-01-17 16:45:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 2752367569,
@@ -12150,7 +12005,7 @@
         {
             "id": 3983594139,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Facilitated Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 10:30:00",
@@ -12325,6 +12180,31 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 1186328502,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-01-19 13:00:00",
+            "end_date": "2026-01-19 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
@@ -13185,7 +13065,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-01-20 13:30:00",
-            "end_date": "2026-01-20 15:30:00",
+            "end_date": "2026-01-20 15:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -13836,6 +13716,31 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2267135662,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-01-21 13:00:00",
+            "end_date": "2026-01-21 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
                 "we"
             ]
         },
@@ -15166,6 +15071,31 @@
             ]
         },
         {
+            "id": 784012228,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-01-23 13:00:00",
+            "end_date": "2026-01-23 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 1275456858,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -16107,7 +16037,7 @@
         {
             "id": 1907777207,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Facilitated Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2026-01-26 10:30:00",
@@ -16240,6 +16170,31 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 47607893,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-01-26 13:00:00",
+            "end_date": "2026-01-26 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
@@ -17217,7 +17172,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-01-27 13:30:00",
-            "end_date": "2026-01-27 15:30:00",
+            "end_date": "2026-01-27 15:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -17943,6 +17898,31 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2493958150,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-01-28 13:00:00",
+            "end_date": "2026-01-28 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
                 "we"
             ]
         },
@@ -19386,6 +19366,31 @@
             ]
         },
         {
+            "id": 3041175012,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-01-30 13:00:00",
+            "end_date": "2026-01-30 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 830954385,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -20283,7 +20288,7 @@
         {
             "id": 252043724,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Facilitated Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 10:30:00",
@@ -20437,6 +20442,31 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 3972862706,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-02-02 13:00:00",
+            "end_date": "2026-02-02 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
@@ -21414,7 +21444,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-03 13:30:00",
-            "end_date": "2026-02-03 15:30:00",
+            "end_date": "2026-02-03 15:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -22117,6 +22147,31 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2151364700,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-02-04 13:00:00",
+            "end_date": "2026-02-04 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
                 "we"
             ]
         },
@@ -23587,6 +23642,31 @@
             ]
         },
         {
+            "id": 1638952794,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-02-06 13:00:00",
+            "end_date": "2026-02-06 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 2740611370,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -24524,7 +24604,7 @@
         {
             "id": 888952496,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Facilitated Basketball",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2026-02-09 10:30:00",
@@ -24657,6 +24737,31 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 3298701211,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-02-09 13:00:00",
+            "end_date": "2026-02-09 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
@@ -25634,7 +25739,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-10 13:30:00",
-            "end_date": "2026-02-10 15:30:00",
+            "end_date": "2026-02-10 15:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -26337,6 +26442,31 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 402329294,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-02-11 13:00:00",
+            "end_date": "2026-02-11 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
                 "we"
             ]
         },
@@ -27832,6 +27962,31 @@
             ]
         },
         {
+            "id": 2296377270,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-02-13 13:00:00",
+            "end_date": "2026-02-13 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 2375296398,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -28698,6 +28853,31 @@
             ]
         },
         {
+            "id": 285882177,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-02-16 13:00:00",
+            "end_date": "2026-02-16 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 2300883583,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball**",
@@ -29543,6 +29723,31 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3316906235,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-02-18 13:00:00",
+            "end_date": "2026-02-18 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
                 "we"
             ]
         },
@@ -30754,6 +30959,31 @@
             ]
         },
         {
+            "id": 3589124035,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-02-20 13:00:00",
+            "end_date": "2026-02-20 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 1012603382,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -31799,6 +32029,31 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 3037667213,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-02-23 13:00:00",
+            "end_date": "2026-02-23 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
@@ -33339,6 +33594,31 @@
             ]
         },
         {
+            "id": 1499606160,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-02-25 13:00:00",
+            "end_date": "2026-02-25 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 1267656547,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -34642,6 +34922,31 @@
             ]
         },
         {
+            "id": 3216529613,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-02-27 13:00:00",
+            "end_date": "2026-02-27 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 3412484494,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -35762,6 +36067,31 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 2194686888,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-02 13:00:00",
+            "end_date": "2026-03-02 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
@@ -37283,6 +37613,31 @@
             ]
         },
         {
+            "id": 2426465704,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-04 13:00:00",
+            "end_date": "2026-03-04 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 4018191787,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -38707,6 +39062,31 @@
             ]
         },
         {
+            "id": 210140212,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-06 13:00:00",
+            "end_date": "2026-03-06 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 1241836053,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -39902,6 +40282,31 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 1967457673,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-09 13:00:00",
+            "end_date": "2026-03-09 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
@@ -41425,6 +41830,31 @@
             ]
         },
         {
+            "id": 2125940832,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-11 13:00:00",
+            "end_date": "2026-03-11 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 2581112206,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -42803,6 +43233,31 @@
             ]
         },
         {
+            "id": 2369842375,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-13 13:00:00",
+            "end_date": "2026-03-13 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 976810540,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -43950,6 +44405,31 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 1437456513,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-16 13:00:00",
+            "end_date": "2026-03-16 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
@@ -45371,6 +45851,31 @@
             ]
         },
         {
+            "id": 3722296491,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-18 13:00:00",
+            "end_date": "2026-03-18 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 1500267898,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -46704,6 +47209,31 @@
             ]
         },
         {
+            "id": 2765222260,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-20 13:00:00",
+            "end_date": "2026-03-20 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 325634523,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -47871,6 +48401,31 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 304267033,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-23 13:00:00",
+            "end_date": "2026-03-23 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
@@ -49384,6 +49939,31 @@
             ]
         },
         {
+            "id": 818838261,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-25 13:00:00",
+            "end_date": "2026-03-25 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 477507879,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -50844,6 +51424,31 @@
             ]
         },
         {
+            "id": 4099323839,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-27 13:00:00",
+            "end_date": "2026-03-27 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 3470492223,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -51966,6 +52571,31 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 4135860086,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-03-30 13:00:00",
+            "end_date": "2026-03-30 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
@@ -53462,6 +54092,31 @@
             ]
         },
         {
+            "id": 2433292751,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-04-01 13:00:00",
+            "end_date": "2026-04-01 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 350662374,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -54739,6 +55394,31 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 2965098795,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-04-03 13:00:00",
+            "end_date": "2026-04-03 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
