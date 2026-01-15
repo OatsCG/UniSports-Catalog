@@ -278,7 +278,7 @@
         {
             "id": 3659611221,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-01 09:00:00",
@@ -299,7 +299,7 @@
         {
             "id": 3908401139,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-01 10:00:00",
@@ -1265,7 +1265,7 @@
         {
             "id": 3179976339,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-02 09:00:00",
@@ -1286,7 +1286,7 @@
         {
             "id": 1960570017,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-02 10:00:00",
@@ -1620,27 +1620,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2661391354,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Open Rec Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-02 20:00:00",
-            "end_date": "2025-12-02 22:30:00",
-            "venue": "Dennis Fairall Fieldhouse",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2155918130,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Open Rec Basketball",
@@ -1653,6 +1632,27 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2661391354,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Open Rec Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-02 20:00:00",
+            "end_date": "2025-12-02 22:30:00",
+            "venue": "Dennis Fairall Fieldhouse",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -1853,7 +1853,7 @@
         {
             "id": 3490631174,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-03 09:00:00",
@@ -1916,7 +1916,7 @@
         {
             "id": 2013802508,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-03 10:00:00",
@@ -2567,7 +2567,7 @@
         {
             "id": 3389191373,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-04 09:00:00",
@@ -2609,7 +2609,7 @@
         {
             "id": 2040390364,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-04 10:00:00",
@@ -3113,7 +3113,7 @@
         {
             "id": 2159316027,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-05 09:00:00",
@@ -3155,7 +3155,7 @@
         {
             "id": 503701440,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-05 10:00:00",
@@ -3764,7 +3764,7 @@
         {
             "id": 1274772467,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-06 09:30:00",
@@ -4436,7 +4436,7 @@
         {
             "id": 2414601291,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-07 09:30:00",
@@ -4772,7 +4772,7 @@
         {
             "id": 3810336082,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-08 09:00:00",
@@ -4793,7 +4793,7 @@
         {
             "id": 3147365989,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-08 10:00:00",
@@ -4833,27 +4833,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4148367911,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Open Rec Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-12-08 11:00:00",
-            "end_date": "2025-12-08 15:00:00",
-            "venue": "Dennis Fairall Fieldhouse",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1222640840,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Open Rec Volleyball",
@@ -4866,6 +4845,27 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 4148367911,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Open Rec Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-12-08 11:00:00",
+            "end_date": "2025-12-08 15:00:00",
+            "venue": "Dennis Fairall Fieldhouse",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -5402,7 +5402,7 @@
         {
             "id": 1477068911,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-09 09:00:00",
@@ -5423,7 +5423,7 @@
         {
             "id": 3729819539,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-09 10:00:00",
@@ -5822,7 +5822,7 @@
         {
             "id": 313888508,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-10 09:00:00",
@@ -5885,7 +5885,7 @@
         {
             "id": 953128988,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-10 10:00:00",
@@ -6326,7 +6326,7 @@
         {
             "id": 133557230,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-11 09:00:00",
@@ -6368,7 +6368,7 @@
         {
             "id": 1290905539,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-11 10:00:00",
@@ -6767,7 +6767,7 @@
         {
             "id": 2327258823,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-12 09:00:00",
@@ -6809,7 +6809,7 @@
         {
             "id": 3442147908,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-12 10:00:00",
@@ -7082,7 +7082,7 @@
         {
             "id": 1458480196,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-13 09:30:00",
@@ -7187,7 +7187,7 @@
         {
             "id": 3681824519,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-14 09:30:00",
@@ -7418,7 +7418,7 @@
         {
             "id": 3832750971,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-15 09:00:00",
@@ -7439,7 +7439,7 @@
         {
             "id": 2106596723,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-15 10:00:00",
@@ -8027,7 +8027,7 @@
         {
             "id": 939628251,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-16 09:00:00",
@@ -8048,7 +8048,7 @@
         {
             "id": 218209822,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-16 10:00:00",
@@ -8552,7 +8552,7 @@
         {
             "id": 4232840526,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-17 09:00:00",
@@ -8615,7 +8615,7 @@
         {
             "id": 2602307116,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-17 10:00:00",
@@ -9056,7 +9056,7 @@
         {
             "id": 439391502,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-18 09:00:00",
@@ -9098,7 +9098,7 @@
         {
             "id": 3414192260,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-18 10:00:00",
@@ -9497,7 +9497,7 @@
         {
             "id": 4235205401,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-19 09:00:00",
@@ -9539,7 +9539,7 @@
         {
             "id": 1266521911,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-19 10:00:00",
@@ -9875,7 +9875,7 @@
         {
             "id": 3702899332,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-20 09:30:00",
@@ -10001,7 +10001,7 @@
         {
             "id": 3483212608,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-21 09:30:00",
@@ -10316,7 +10316,7 @@
         {
             "id": 3423529743,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-22 09:00:00",
@@ -10337,7 +10337,7 @@
         {
             "id": 958706358,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-22 10:00:00",
@@ -10673,7 +10673,7 @@
         {
             "id": 3635390688,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-23 09:00:00",
@@ -10694,7 +10694,7 @@
         {
             "id": 224722624,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2025-12-23 10:00:00",
@@ -11114,7 +11114,7 @@
         {
             "id": 2823344924,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-03 09:30:00",
@@ -11198,7 +11198,7 @@
         {
             "id": 1296321792,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-04 09:30:00",
@@ -11366,7 +11366,7 @@
         {
             "id": 1998230073,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-05 09:00:00",
@@ -11387,7 +11387,7 @@
         {
             "id": 1015564078,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-05 10:00:00",
@@ -11723,7 +11723,7 @@
         {
             "id": 3410818131,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-06 09:00:00",
@@ -11744,7 +11744,7 @@
         {
             "id": 3014539132,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-06 10:00:00",
@@ -11996,7 +11996,7 @@
         {
             "id": 1820332486,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-07 09:00:00",
@@ -12017,7 +12017,7 @@
         {
             "id": 1102534492,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-07 10:00:00",
@@ -12332,7 +12332,7 @@
         {
             "id": 2321347696,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-08 09:00:00",
@@ -12353,7 +12353,7 @@
         {
             "id": 3181647628,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-08 10:00:00",
@@ -12563,7 +12563,7 @@
         {
             "id": 1817109898,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-09 09:00:00",
@@ -12584,7 +12584,7 @@
         {
             "id": 492892640,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-09 10:00:00",
@@ -12710,7 +12710,7 @@
         {
             "id": 2551608825,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-10 09:30:00",
@@ -13046,7 +13046,7 @@
         {
             "id": 3949775093,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-12 09:00:00",
@@ -13067,7 +13067,7 @@
         {
             "id": 877642942,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-12 10:00:00",
@@ -13718,7 +13718,7 @@
         {
             "id": 2872268886,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-13 09:00:00",
@@ -13760,7 +13760,7 @@
         {
             "id": 566878096,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-13 10:00:00",
@@ -14369,7 +14369,7 @@
         {
             "id": 2078741629,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-14 09:00:00",
@@ -14390,7 +14390,7 @@
         {
             "id": 2761951259,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-14 10:00:00",
@@ -14999,7 +14999,7 @@
         {
             "id": 1409010560,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-15 09:00:00",
@@ -15041,7 +15041,7 @@
         {
             "id": 3313698230,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-15 10:00:00",
@@ -15545,7 +15545,7 @@
         {
             "id": 3896134501,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-16 09:00:00",
@@ -15566,7 +15566,7 @@
         {
             "id": 1994641713,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-16 10:00:00",
@@ -15965,7 +15965,7 @@
         {
             "id": 571559551,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-17 09:30:00",
@@ -15984,9 +15984,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2190177815,
+            "id": 2525118583,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
+            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-01-17 09:30:00",
@@ -16005,9 +16005,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2525118583,
+            "id": 2190177815,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
+            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-01-17 09:30:00",
@@ -16341,9 +16341,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1358428292,
+            "id": 1923472604,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
+            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-17 11:30:00",
@@ -16362,9 +16362,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1923472604,
+            "id": 1358428292,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
+            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-17 11:30:00",
@@ -16446,27 +16446,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3410905100,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-17 12:00:00",
-            "end_date": "2026-01-17 12:30:00",
-            "venue": "Pool (Entire)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1051327430,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
@@ -16491,6 +16470,27 @@
             "id": 1801686090,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-17 12:00:00",
+            "end_date": "2026-01-17 12:30:00",
+            "venue": "Pool (Entire)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3410905100,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-17 12:00:00",
@@ -16658,7 +16658,7 @@
         {
             "id": 1658935465,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-18 09:30:00",
@@ -17267,7 +17267,7 @@
         {
             "id": 1243042678,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 09:00:00",
@@ -17288,7 +17288,7 @@
         {
             "id": 1334418626,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 10:00:00",
@@ -17853,6 +17853,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2265941452,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Set-Up ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-19 17:45:00",
+            "end_date": "2026-01-19 18:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3668534271,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Kickboxing (Lancer Fit)",
@@ -18033,6 +18054,27 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3018125699,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Tear Down",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-19 18:45:00",
+            "end_date": "2026-01-19 19:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -18275,7 +18317,7 @@
         {
             "id": 4094398859,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-20 09:00:00",
@@ -18317,7 +18359,7 @@
         {
             "id": 2769101861,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-20 10:00:00",
@@ -18840,9 +18882,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2981079566,
+            "id": 1528811128,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Tuesday 6:30-7:00pm",
+            "title": "Youth Private Lessons - Tuesday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-20 18:30:00",
@@ -18861,9 +18903,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1528811128,
+            "id": 2981079566,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Tuesday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Tuesday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-20 18:30:00",
@@ -19199,7 +19241,7 @@
         {
             "id": 1902825756,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 09:00:00",
@@ -19220,7 +19262,7 @@
         {
             "id": 1046693382,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 10:00:00",
@@ -19617,9 +19659,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3258594578,
+            "id": 3126563586,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 3 1:10 Ratio - Wednesday 5:00-5:30pm",
+            "title": "Adult Private Lessons - Wednesday 5:00-5:30pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 17:00:00",
@@ -19638,9 +19680,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3126563586,
+            "id": 3258594578,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Wednesday 5:00-5:30pm ",
+            "title": "Swimmer 3 1:10 Ratio - Wednesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 17:00:00",
@@ -19761,6 +19803,27 @@
             "bipoc": false,
             "intramurals": false,
             "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3586755887,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Set-Up ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-21 17:45:00",
+            "end_date": "2026-01-21 18:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -19923,6 +19986,27 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 4034850334,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Tear Down",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-21 18:45:00",
+            "end_date": "2026-01-21 19:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -20165,7 +20249,7 @@
         {
             "id": 2689999479,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 09:00:00",
@@ -20207,7 +20291,7 @@
         {
             "id": 4250045556,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 10:00:00",
@@ -20436,9 +20520,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2179106445,
+            "id": 1082891894,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 4:30-5:00pm",
+            "title": "Youth Private Lessons - Thursday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 16:30:00",
@@ -20457,9 +20541,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1082891894,
+            "id": 2179106445,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 4:30-5:00pm",
+            "title": "Adult Private Lessons - Thursday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 16:30:00",
@@ -20646,9 +20730,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 434438441,
+            "id": 793484336,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 6:00-6:30pm",
+            "title": "Youth Private Lessons - Thursday 6:00-6:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 18:00:00",
@@ -20667,9 +20751,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 793484336,
+            "id": 434438441,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 6:00-6:30pm",
+            "title": "Adult Private Lessons - Thursday 6:00-6:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 18:00:00",
@@ -20730,9 +20814,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 176127285,
+            "id": 2400015901,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Thursday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 18:30:00",
@@ -20751,9 +20835,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2400015901,
+            "id": 176127285,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 6:30-7:00pm",
+            "title": "Youth Private Lessons - Thursday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 18:30:00",
@@ -20984,7 +21068,7 @@
         {
             "id": 1429611823,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-23 09:00:00",
@@ -21005,7 +21089,7 @@
         {
             "id": 4259290554,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-23 10:00:00",
@@ -21698,7 +21782,7 @@
         {
             "id": 1842550857,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-24 09:30:00",
@@ -21717,9 +21801,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2085609058,
+            "id": 4018884580,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
+            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-01-24 09:30:00",
@@ -21738,9 +21822,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4018884580,
+            "id": 2085609058,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
+            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-01-24 09:30:00",
@@ -22053,9 +22137,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2250793970,
+            "id": 3615637846,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
+            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-24 11:30:00",
@@ -22074,9 +22158,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3615637846,
+            "id": 2250793970,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
+            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-24 11:30:00",
@@ -22158,27 +22242,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 24991918,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-24 12:00:00",
-            "end_date": "2026-01-24 12:30:00",
-            "venue": "Pool (Entire)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 587651091,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
@@ -22203,6 +22266,27 @@
             "id": 785782837,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-24 12:00:00",
+            "end_date": "2026-01-24 12:30:00",
+            "venue": "Pool (Entire)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 24991918,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-24 12:00:00",
@@ -22284,18 +22368,18 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2639469681,
+            "id": 846203473,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Open Recreation - Badminton",
+            "title": "Practice for Lance's Softball Team - Francine Stadler",
             "description": "",
             "image": "",
-            "start_date": "2026-01-24 15:30:00",
-            "end_date": "2026-01-24 21:30:00",
+            "start_date": "2026-01-24 16:30:00",
+            "end_date": "2026-01-24 18:30:00",
             "venue": "Court #1",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
+            "sortCategory": "Baseball",
+            "symbol": "baseball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -22305,18 +22389,18 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2744871230,
+            "id": 4189807423,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Practice for Lance's Softball Team - Francine Stadler",
+            "title": "Open Recreation - Basketball",
             "description": "",
             "image": "",
-            "start_date": "2026-01-24 15:30:00",
-            "end_date": "2026-01-24 17:30:00",
+            "start_date": "2026-01-24 19:00:00",
+            "end_date": "2026-01-24 21:30:00",
             "venue": "Court #1",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Baseball",
-            "symbol": "baseball",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -22370,7 +22454,7 @@
         {
             "id": 4259035642,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-25 09:30:00",
@@ -23042,7 +23126,7 @@
         {
             "id": 1039147387,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-26 09:00:00",
@@ -23063,7 +23147,7 @@
         {
             "id": 3948942247,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-26 10:00:00",
@@ -23628,6 +23712,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3660466567,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Set-Up ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-26 17:45:00",
+            "end_date": "2026-01-26 18:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2130053022,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Kickboxing (Lancer Fit)",
@@ -23808,6 +23913,27 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1210016659,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Tear Down",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-26 18:45:00",
+            "end_date": "2026-01-26 19:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -24071,7 +24197,7 @@
         {
             "id": 3461221986,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-27 09:00:00",
@@ -24113,7 +24239,7 @@
         {
             "id": 559924029,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-27 10:00:00",
@@ -24615,9 +24741,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3665076211,
+            "id": 549940183,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Tuesday 6:30-7:00pm",
+            "title": "Youth Private Lessons - Tuesday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-27 18:30:00",
@@ -24636,9 +24762,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 549940183,
+            "id": 3665076211,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Tuesday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Tuesday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-27 18:30:00",
@@ -24953,7 +25079,7 @@
         {
             "id": 3876026586,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-28 09:00:00",
@@ -24974,7 +25100,7 @@
         {
             "id": 1183351754,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-28 10:00:00",
@@ -25371,9 +25497,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1068643535,
+            "id": 4276664404,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 3 1:10 Ratio - Wednesday 5:00-5:30pm",
+            "title": "Adult Private Lessons - Wednesday 5:00-5:30pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-28 17:00:00",
@@ -25392,9 +25518,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4276664404,
+            "id": 1068643535,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Wednesday 5:00-5:30pm ",
+            "title": "Swimmer 3 1:10 Ratio - Wednesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-28 17:00:00",
@@ -25515,6 +25641,27 @@
             "bipoc": false,
             "intramurals": false,
             "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3791223188,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Set-Up ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-28 17:45:00",
+            "end_date": "2026-01-28 18:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -25677,6 +25824,27 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 66848484,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Tear Down",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-28 18:45:00",
+            "end_date": "2026-01-28 19:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -25919,7 +26087,7 @@
         {
             "id": 804716205,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 09:00:00",
@@ -25961,7 +26129,7 @@
         {
             "id": 1293210169,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 10:00:00",
@@ -26190,9 +26358,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 382501404,
+            "id": 1067933680,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 4:30-5:00pm",
+            "title": "Youth Private Lessons - Thursday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 16:30:00",
@@ -26211,9 +26379,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1067933680,
+            "id": 382501404,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 4:30-5:00pm",
+            "title": "Adult Private Lessons - Thursday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 16:30:00",
@@ -26379,9 +26547,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1851340333,
+            "id": 383053097,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 6:00-6:30pm",
+            "title": "Youth Private Lessons - Thursday 6:00-6:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 18:00:00",
@@ -26400,9 +26568,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 383053097,
+            "id": 1851340333,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 6:00-6:30pm",
+            "title": "Adult Private Lessons - Thursday 6:00-6:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 18:00:00",
@@ -26442,9 +26610,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 419197179,
+            "id": 2332366078,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Thursday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 18:30:00",
@@ -26463,9 +26631,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2332366078,
+            "id": 419197179,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 6:30-7:00pm",
+            "title": "Youth Private Lessons - Thursday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 18:30:00",
@@ -26696,7 +26864,7 @@
         {
             "id": 3163344130,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-30 09:00:00",
@@ -26717,7 +26885,7 @@
         {
             "id": 953538864,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-30 10:00:00",
@@ -27389,7 +27557,7 @@
         {
             "id": 1679682512,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-01-31 09:30:00",
@@ -27408,9 +27576,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4008120409,
+            "id": 834466105,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
+            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-01-31 09:30:00",
@@ -27429,9 +27597,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 834466105,
+            "id": 4008120409,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
+            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-01-31 09:30:00",
@@ -27744,9 +27912,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 504530040,
+            "id": 3696954661,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
+            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-31 11:30:00",
@@ -27765,9 +27933,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3696954661,
+            "id": 504530040,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
+            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-31 11:30:00",
@@ -27849,27 +28017,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 592168034,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-31 12:00:00",
-            "end_date": "2026-01-31 12:30:00",
-            "venue": "Pool (Entire)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2067264341,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
@@ -27894,6 +28041,27 @@
             "id": 3312991142,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-31 12:00:00",
+            "end_date": "2026-01-31 12:30:00",
+            "venue": "Pool (Entire)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 592168034,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-31 12:00:00",
@@ -27996,27 +28164,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1613756461,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Practice for Lance's Softball Team - Francine Stadler",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-31 19:00:00",
-            "end_date": "2026-01-31 21:30:00",
-            "venue": "Court #1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Baseball",
-            "symbol": "baseball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1879871248,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Intermediate MMA 6 Weeks (Jan 15 - Feb 21) - Winter 2026 Jan 17-Feb21 (Saturdays)",
@@ -28061,7 +28208,7 @@
         {
             "id": 1747302025,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-01 09:30:00",
@@ -28733,7 +28880,7 @@
         {
             "id": 3017218909,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 09:00:00",
@@ -28754,7 +28901,7 @@
         {
             "id": 1817511785,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 10:00:00",
@@ -29277,6 +29424,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3182798541,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Set-Up ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-02 17:45:00",
+            "end_date": "2026-02-02 18:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2764989807,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Kickboxing (Lancer Fit)",
@@ -29466,6 +29634,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3760936628,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Tear Down",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-02 18:45:00",
+            "end_date": "2026-02-02 19:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3573109105,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Hyrox Workout",
@@ -29615,7 +29804,7 @@
         {
             "id": 3206894487,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-03 09:00:00",
@@ -29657,7 +29846,7 @@
         {
             "id": 2057984961,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-03 10:00:00",
@@ -30117,9 +30306,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 136743407,
+            "id": 2167315723,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Tuesday 6:30-7:00pm",
+            "title": "Youth Private Lessons - Tuesday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-03 18:30:00",
@@ -30138,9 +30327,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2167315723,
+            "id": 136743407,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Tuesday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Tuesday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-03 18:30:00",
@@ -30434,7 +30623,7 @@
         {
             "id": 3183750397,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 09:00:00",
@@ -30455,7 +30644,7 @@
         {
             "id": 858474671,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 10:00:00",
@@ -30789,9 +30978,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1122402972,
+            "id": 3926053948,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 3 1:10 Ratio - Wednesday 5:00-5:30pm",
+            "title": "Adult Private Lessons - Wednesday 5:00-5:30pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 17:00:00",
@@ -30810,9 +30999,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3926053948,
+            "id": 1122402972,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Wednesday 5:00-5:30pm ",
+            "title": "Swimmer 3 1:10 Ratio - Wednesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 17:00:00",
@@ -30933,6 +31122,27 @@
             "bipoc": false,
             "intramurals": false,
             "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2642006770,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Set-Up ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-04 17:45:00",
+            "end_date": "2026-02-04 18:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -31104,6 +31314,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 178387079,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Tear Down",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-04 18:45:00",
+            "end_date": "2026-02-04 19:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2655899102,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Hyrox Workout",
@@ -31253,7 +31484,7 @@
         {
             "id": 3399643615,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 09:00:00",
@@ -31295,7 +31526,7 @@
         {
             "id": 2004947233,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 10:00:00",
@@ -31482,9 +31713,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2833601277,
+            "id": 1817963267,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 4:30-5:00pm",
+            "title": "Youth Private Lessons - Thursday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 16:30:00",
@@ -31503,9 +31734,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1817963267,
+            "id": 2833601277,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 4:30-5:00pm",
+            "title": "Adult Private Lessons - Thursday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 16:30:00",
@@ -31671,9 +31902,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3668756795,
+            "id": 2274088258,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 6:00-6:30pm",
+            "title": "Youth Private Lessons - Thursday 6:00-6:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 18:00:00",
@@ -31692,9 +31923,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2274088258,
+            "id": 3668756795,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 6:00-6:30pm",
+            "title": "Adult Private Lessons - Thursday 6:00-6:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 18:00:00",
@@ -31734,9 +31965,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1374979096,
+            "id": 641970290,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Thursday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 18:30:00",
@@ -31755,9 +31986,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 641970290,
+            "id": 1374979096,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 6:30-7:00pm",
+            "title": "Youth Private Lessons - Thursday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 18:30:00",
@@ -31925,7 +32156,7 @@
         {
             "id": 1416802462,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-06 09:00:00",
@@ -31946,7 +32177,7 @@
         {
             "id": 3848343635,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-06 10:00:00",
@@ -32576,7 +32807,7 @@
         {
             "id": 2531154931,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-07 09:30:00",
@@ -32595,9 +32826,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1405906767,
+            "id": 135511625,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
+            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-02-07 09:30:00",
@@ -32616,9 +32847,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 135511625,
+            "id": 1405906767,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
+            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-02-07 09:30:00",
@@ -32931,9 +33162,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4153289411,
+            "id": 1170722876,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
+            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-07 11:30:00",
@@ -32952,9 +33183,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1170722876,
+            "id": 4153289411,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
+            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-07 11:30:00",
@@ -33036,27 +33267,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2357959513,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-07 12:00:00",
-            "end_date": "2026-02-07 12:30:00",
-            "venue": "Pool (Entire)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 231374115,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
@@ -33081,6 +33291,27 @@
             "id": 3176679155,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-07 12:00:00",
+            "end_date": "2026-02-07 12:30:00",
+            "venue": "Pool (Entire)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2357959513,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-07 12:00:00",
@@ -33206,7 +33437,7 @@
         {
             "id": 2617479150,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-08 09:30:00",
@@ -33878,7 +34109,7 @@
         {
             "id": 2511755147,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-09 09:00:00",
@@ -33899,7 +34130,7 @@
         {
             "id": 2494998247,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-09 10:00:00",
@@ -34422,6 +34653,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 82209252,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Set-Up ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-09 17:45:00",
+            "end_date": "2026-02-09 18:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2522158962,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Kickboxing (Lancer Fit)",
@@ -34611,6 +34863,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3300796676,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Tear Down",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-09 18:45:00",
+            "end_date": "2026-02-09 19:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2183478716,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Hyrox Workout",
@@ -34760,7 +35033,7 @@
         {
             "id": 2198441913,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-10 09:00:00",
@@ -34802,7 +35075,7 @@
         {
             "id": 1590134633,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-10 10:00:00",
@@ -35283,9 +35556,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 205064232,
+            "id": 3377030312,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Tuesday 6:30-7:00pm",
+            "title": "Youth Private Lessons - Tuesday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-10 18:30:00",
@@ -35304,9 +35577,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3377030312,
+            "id": 205064232,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Tuesday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Tuesday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-10 18:30:00",
@@ -35558,7 +35831,7 @@
         {
             "id": 1959785422,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 09:00:00",
@@ -35579,7 +35852,7 @@
         {
             "id": 567572256,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 10:00:00",
@@ -35913,9 +36186,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 601508095,
+            "id": 3014215270,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 3 1:10 Ratio - Wednesday 5:00-5:30pm",
+            "title": "Adult Private Lessons - Wednesday 5:00-5:30pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 17:00:00",
@@ -35934,9 +36207,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3014215270,
+            "id": 601508095,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Wednesday 5:00-5:30pm ",
+            "title": "Swimmer 3 1:10 Ratio - Wednesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 17:00:00",
@@ -36057,6 +36330,27 @@
             "bipoc": false,
             "intramurals": false,
             "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3238254738,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Set-Up ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-11 17:45:00",
+            "end_date": "2026-02-11 18:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -36219,6 +36513,27 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2442471080,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Tear Down",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-11 18:45:00",
+            "end_date": "2026-02-11 19:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -36398,7 +36713,7 @@
         {
             "id": 3308466140,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 09:00:00",
@@ -36440,7 +36755,7 @@
         {
             "id": 3364845288,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 10:00:00",
@@ -36627,9 +36942,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1546380962,
+            "id": 1969963738,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 4:30-5:00pm",
+            "title": "Youth Private Lessons - Thursday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 16:30:00",
@@ -36648,9 +36963,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1969963738,
+            "id": 1546380962,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 4:30-5:00pm",
+            "title": "Adult Private Lessons - Thursday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 16:30:00",
@@ -36816,9 +37131,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4285146193,
+            "id": 1702930853,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 6:00-6:30pm",
+            "title": "Youth Private Lessons - Thursday 6:00-6:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 18:00:00",
@@ -36837,9 +37152,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1702930853,
+            "id": 4285146193,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 6:00-6:30pm",
+            "title": "Adult Private Lessons - Thursday 6:00-6:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 18:00:00",
@@ -36900,9 +37215,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2983071822,
+            "id": 1437050822,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Thursday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 18:30:00",
@@ -36921,9 +37236,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1437050822,
+            "id": 2983071822,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 6:30-7:00pm",
+            "title": "Youth Private Lessons - Thursday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 18:30:00",
@@ -37112,7 +37427,7 @@
         {
             "id": 4019838145,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-13 09:00:00",
@@ -37133,7 +37448,7 @@
         {
             "id": 586383399,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-13 10:00:00",
@@ -37826,7 +38141,7 @@
         {
             "id": 1916829847,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-14 09:30:00",
@@ -37845,9 +38160,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 84453931,
+            "id": 3573283942,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
+            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-02-14 09:30:00",
@@ -37866,9 +38181,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3573283942,
+            "id": 84453931,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
+            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-02-14 09:30:00",
@@ -38181,9 +38496,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1182378066,
+            "id": 3581684865,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
+            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-14 11:30:00",
@@ -38202,9 +38517,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3581684865,
+            "id": 1182378066,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
+            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-14 11:30:00",
@@ -38286,27 +38601,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 484747004,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-14 12:00:00",
-            "end_date": "2026-02-14 12:30:00",
-            "venue": "Pool (Entire)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3460218601,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
@@ -38331,6 +38625,27 @@
             "id": 2334044660,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-14 12:00:00",
+            "end_date": "2026-02-14 12:30:00",
+            "venue": "Pool (Entire)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 484747004,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-14 12:00:00",
@@ -38477,7 +38792,7 @@
         {
             "id": 912957923,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-15 09:30:00",
@@ -39128,7 +39443,7 @@
         {
             "id": 3882327043,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-16 09:00:00",
@@ -39149,7 +39464,7 @@
         {
             "id": 1157194471,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-16 10:00:00",
@@ -39588,6 +39903,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2716537008,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Set-Up ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-16 17:45:00",
+            "end_date": "2026-02-16 18:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3393535892,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Kickboxing (Lancer Fit)",
@@ -39756,6 +40092,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2548291542,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Tear Down",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-16 18:45:00",
+            "end_date": "2026-02-16 19:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2456606756,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Hyrox Workout",
@@ -39905,7 +40262,7 @@
         {
             "id": 2409866853,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-17 09:00:00",
@@ -39926,7 +40283,7 @@
         {
             "id": 565083836,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-17 10:00:00",
@@ -40323,9 +40680,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1524473263,
+            "id": 4100070687,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Tuesday 6:30-7:00pm",
+            "title": "Youth Private Lessons - Tuesday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-17 18:30:00",
@@ -40344,9 +40701,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4100070687,
+            "id": 1524473263,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Tuesday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Tuesday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-17 18:30:00",
@@ -40577,7 +40934,7 @@
         {
             "id": 4212308068,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-18 09:00:00",
@@ -40598,7 +40955,7 @@
         {
             "id": 1854023561,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-18 10:00:00",
@@ -40869,9 +41226,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2226152316,
+            "id": 4099933927,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 3 1:10 Ratio - Wednesday 5:00-5:30pm",
+            "title": "Adult Private Lessons - Wednesday 5:00-5:30pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-18 17:00:00",
@@ -40890,9 +41247,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4099933927,
+            "id": 2226152316,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Wednesday 5:00-5:30pm ",
+            "title": "Swimmer 3 1:10 Ratio - Wednesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-18 17:00:00",
@@ -41013,6 +41370,27 @@
             "bipoc": false,
             "intramurals": false,
             "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 132132529,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Set-Up ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-18 17:45:00",
+            "end_date": "2026-02-18 18:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -41184,6 +41562,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 1308770068,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Tear Down",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-18 18:45:00",
+            "end_date": "2026-02-18 19:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1843550579,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Hyrox Workout",
@@ -41312,7 +41711,7 @@
         {
             "id": 214798896,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-19 09:00:00",
@@ -41333,7 +41732,7 @@
         {
             "id": 575165436,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-19 10:00:00",
@@ -41478,9 +41877,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2873979151,
+            "id": 1336858057,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 4:30-5:00pm",
+            "title": "Youth Private Lessons - Thursday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-19 16:30:00",
@@ -41499,9 +41898,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1336858057,
+            "id": 2873979151,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 4:30-5:00pm",
+            "title": "Adult Private Lessons - Thursday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-19 16:30:00",
@@ -41667,27 +42066,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 248689840,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 6:00-6:30pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-19 18:00:00",
-            "end_date": "2026-02-19 18:30:00",
-            "venue": "Pool (Entire)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 430483964,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Youth Private Lessons - Thursday 6:00-6:30pm",
@@ -41709,9 +42087,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3895940301,
+            "id": 248689840,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Thursday 6:00-6:30pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-19 18:00:00",
+            "end_date": "2026-02-19 18:30:00",
+            "venue": "Pool (Entire)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3157127419,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Adult Private Lessons - Thursday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-19 18:30:00",
@@ -41730,9 +42129,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3157127419,
+            "id": 3895940301,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 6:30-7:00pm",
+            "title": "Youth Private Lessons - Thursday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-19 18:30:00",
@@ -41900,7 +42299,7 @@
         {
             "id": 2081727682,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-20 09:00:00",
@@ -41921,7 +42320,7 @@
         {
             "id": 2219655853,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-20 10:00:00",
@@ -42530,7 +42929,7 @@
         {
             "id": 1347967805,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-21 09:30:00",
@@ -42549,9 +42948,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2175564205,
+            "id": 4057159450,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
+            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-02-21 09:30:00",
@@ -42570,9 +42969,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4057159450,
+            "id": 2175564205,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
+            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-02-21 09:30:00",
@@ -42885,9 +43284,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2704775910,
+            "id": 272540307,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
+            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-21 11:30:00",
@@ -42906,9 +43305,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 272540307,
+            "id": 2704775910,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
+            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-21 11:30:00",
@@ -42990,27 +43389,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2533916661,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-21 12:00:00",
-            "end_date": "2026-02-21 12:30:00",
-            "venue": "Pool (Entire)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1656211128,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
@@ -43035,6 +43413,27 @@
             "id": 370416149,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-21 12:00:00",
+            "end_date": "2026-02-21 12:30:00",
+            "venue": "Pool (Entire)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2533916661,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-21 12:00:00",
@@ -43139,7 +43538,7 @@
         {
             "id": 899737127,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-22 09:30:00",
@@ -43790,7 +44189,7 @@
         {
             "id": 1960239617,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-23 09:00:00",
@@ -43811,7 +44210,7 @@
         {
             "id": 1219672953,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-23 10:00:00",
@@ -44250,6 +44649,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2326397999,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Set-Up ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-23 17:45:00",
+            "end_date": "2026-02-23 18:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3096846405,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Kickboxing (Lancer Fit)",
@@ -44418,6 +44838,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 138579010,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Tear Down",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-23 18:45:00",
+            "end_date": "2026-02-23 19:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1035624612,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Recreational Swims",
@@ -44525,7 +44966,7 @@
         {
             "id": 3393609668,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-24 09:00:00",
@@ -44546,7 +44987,7 @@
         {
             "id": 1346657489,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-24 10:00:00",
@@ -44943,9 +45384,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1930368304,
+            "id": 1168407468,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Tuesday 6:30-7:00pm",
+            "title": "Youth Private Lessons - Tuesday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-24 18:30:00",
@@ -44964,9 +45405,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1168407468,
+            "id": 1930368304,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Tuesday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Tuesday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-24 18:30:00",
@@ -45197,7 +45638,7 @@
         {
             "id": 3382428192,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 09:00:00",
@@ -45218,7 +45659,7 @@
         {
             "id": 2687569187,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 10:00:00",
@@ -45489,9 +45930,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 388134089,
+            "id": 3183442395,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 3 1:10 Ratio - Wednesday 5:00-5:30pm",
+            "title": "Adult Private Lessons - Wednesday 5:00-5:30pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 17:00:00",
@@ -45510,9 +45951,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3183442395,
+            "id": 388134089,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Wednesday 5:00-5:30pm ",
+            "title": "Swimmer 3 1:10 Ratio - Wednesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 17:00:00",
@@ -45633,6 +46074,27 @@
             "bipoc": false,
             "intramurals": false,
             "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1406830982,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Set-Up ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-25 17:45:00",
+            "end_date": "2026-02-25 18:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -45804,6 +46266,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3522556191,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Mat Tear Down",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-25 18:45:00",
+            "end_date": "2026-02-25 19:00:00",
+            "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 4287943653,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Recreational Swims",
@@ -45911,7 +46394,7 @@
         {
             "id": 3285339730,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 09:00:00",
@@ -45932,7 +46415,7 @@
         {
             "id": 3122801858,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 10:00:00",
@@ -46077,9 +46560,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1579647468,
+            "id": 186414020,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 4:30-5:00pm",
+            "title": "Youth Private Lessons - Thursday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 16:30:00",
@@ -46098,9 +46581,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 186414020,
+            "id": 1579647468,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 4:30-5:00pm",
+            "title": "Adult Private Lessons - Thursday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 16:30:00",
@@ -46245,9 +46728,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1307721518,
+            "id": 2253033441,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 6:00-6:30pm",
+            "title": "Youth Private Lessons - Thursday 6:00-6:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 18:00:00",
@@ -46266,9 +46749,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2253033441,
+            "id": 1307721518,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 6:00-6:30pm",
+            "title": "Adult Private Lessons - Thursday 6:00-6:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 18:00:00",
@@ -46308,9 +46791,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2575977165,
+            "id": 2792584592,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Thursday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Thursday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 18:30:00",
@@ -46329,9 +46812,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2792584592,
+            "id": 2575977165,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Thursday 6:30-7:00pm",
+            "title": "Youth Private Lessons - Thursday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 18:30:00",
@@ -46478,7 +46961,7 @@
         {
             "id": 1319222957,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-27 09:00:00",
@@ -46499,7 +46982,7 @@
         {
             "id": 601774981,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Deep Aquafit (Lancer Fit)",
+            "title": "Deep Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-27 10:00:00",
@@ -47108,7 +47591,7 @@
         {
             "id": 534830095,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Shallow Aquafit (Lancer Fit)",
+            "title": "Shallow Aquafit ",
             "description": "",
             "image": "",
             "start_date": "2026-02-28 09:30:00",
@@ -47127,9 +47610,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 127780778,
+            "id": 3415343093,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
+            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-02-28 09:30:00",
@@ -47148,9 +47631,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3415343093,
+            "id": 127780778,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 9:30-10:00am",
+            "title": "Parent & Tot 1-3 - Saturday 9:30-10:00am",
             "description": "",
             "image": "",
             "start_date": "2026-02-28 09:30:00",
@@ -47463,9 +47946,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1258452735,
+            "id": 4293684200,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
+            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-28 11:30:00",
@@ -47484,9 +47967,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4293684200,
+            "id": 1258452735,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 11:30am-12:00pm",
+            "title": "Adult Private Lessons - Saturday 11:30am-12:00pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-28 11:30:00",
@@ -47568,27 +48051,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 21293180,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-28 12:00:00",
-            "end_date": "2026-02-28 12:30:00",
-            "venue": "Pool (Entire)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1056455215,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
@@ -47613,6 +48075,27 @@
             "id": 1494965392,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-28 12:00:00",
+            "end_date": "2026-02-28 12:30:00",
+            "venue": "Pool (Entire)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 21293180,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Swimmer 6 1:10 Ratio - Saturday 12:00-12:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-28 12:00:00",
