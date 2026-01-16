@@ -17874,6 +17874,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3274927859,
+            "url": "https://macreconline.ca/Facility/GetSchedule",
+            "title": "Reset Burridge from Intramurals last night",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-15 07:00:00",
+            "end_date": "2026-01-15 09:00:00",
+            "venue": "Burridge Gym",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": true,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2166764425,
             "url": "https://macreconline.ca/Facility/GetSchedule",
             "title": "Badminton ",
