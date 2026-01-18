@@ -59731,27 +59731,6 @@
     ],
     "featured": [
         {
-            "id": 3064427050,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Tri-Campus Tournament: Open Indoor Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-17 10:00:00",
-            "end_date": "2026-01-17 16:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3985229985,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Walks: Move for your Mood",
