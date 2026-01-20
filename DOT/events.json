@@ -1473,6 +1473,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3596937504,
+            "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
+            "title": "Open Gym Time - Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-19 07:00:00",
+            "end_date": "2026-01-19 19:00:00",
+            "venue": "Gym 5",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3212842226,
             "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
             "title": "Open Gym Time - Badminton & Table Tennis",
