@@ -4949,6 +4949,29 @@
             ]
         },
         {
+            "id": 1669703190,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-06 07:00:00",
+            "end_date": "2026-01-06 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 3812433257,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -4984,29 +5007,6 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 1669703190,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-06 07:00:00",
-            "end_date": "2026-01-06 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -5886,7 +5886,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-01-07 07:30:00",
-            "end_date": "2026-01-07 08:00:00",
+            "end_date": "2026-01-07 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -5972,12 +5972,12 @@
             ]
         },
         {
-            "id": 3833676383,
+            "id": 2714320200,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
-            "start_date": "2026-01-07 11:00:00",
+            "start_date": "2026-01-07 11:10:00",
             "end_date": "2026-01-07 12:00:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
@@ -8246,31 +8246,6 @@
             ]
         },
         {
-            "id": 2449919028,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-01-12 13:00:00",
-            "end_date": "2026-01-12 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 861982853,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -8662,6 +8637,29 @@
             ]
         },
         {
+            "id": 1600048467,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-13 07:00:00",
+            "end_date": "2026-01-13 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1947224533,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -8697,29 +8695,6 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 1600048467,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-13 07:00:00",
-            "end_date": "2026-01-13 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -9607,7 +9582,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-01-14 07:30:00",
-            "end_date": "2026-01-14 08:00:00",
+            "end_date": "2026-01-14 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -9720,12 +9695,12 @@
             ]
         },
         {
-            "id": 597900531,
+            "id": 2262754510,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
-            "start_date": "2026-01-14 11:00:00",
+            "start_date": "2026-01-14 11:10:00",
             "end_date": "2026-01-14 12:00:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
@@ -9785,31 +9760,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2592541251,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-01-14 13:00:00",
-            "end_date": "2026-01-14 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -11100,31 +11050,6 @@
             ]
         },
         {
-            "id": 1148828982,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-01-16 13:00:00",
-            "end_date": "2026-01-16 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 81090350,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -12079,31 +12004,6 @@
             ]
         },
         {
-            "id": 1186328502,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-01-19 13:00:00",
-            "end_date": "2026-01-19 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2863212156,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -12539,6 +12439,29 @@
             ]
         },
         {
+            "id": 2022409915,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-20 07:00:00",
+            "end_date": "2026-01-20 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1295734491,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -12574,29 +12497,6 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2022409915,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-20 07:00:00",
-            "end_date": "2026-01-20 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -13434,7 +13334,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-01-21 07:30:00",
-            "end_date": "2026-01-21 08:00:00",
+            "end_date": "2026-01-21 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -13497,12 +13397,12 @@
             ]
         },
         {
-            "id": 2927206995,
+            "id": 470046692,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
-            "start_date": "2026-01-21 11:00:00",
+            "start_date": "2026-01-21 11:10:00",
             "end_date": "2026-01-21 12:00:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
@@ -13587,7 +13487,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2267135662,
+            "id": 3938730803,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bodybuilding 101",
             "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
@@ -13595,7 +13495,7 @@
             "start_date": "2026-01-21 13:00:00",
             "end_date": "2026-01-21 14:00:00",
             "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
             "sortCategory": "Other",
             "symbol": "sportscourt",
@@ -13606,8 +13506,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -13626,29 +13524,6 @@
             "symbol": "heart",
             "featuredDecal": null,
             "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 992977325,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-01-21 13:10:00",
-            "end_date": "2026-01-21 14:10:00",
-            "venue": "Fitness Center",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -13756,7 +13631,7 @@
             "description": "Elevate your Pilates practice with our dynamic Pilates Circuit class! This energizing, full-body workout moves you through a series of stations using a variety of specialized equipment including the Reformer, Chair, Arc Barrel, Mat, and small props like Pilates rings and toning balls. Each station targets different muscle groups, blending strength, balance, flexibility, and core stability for a complete workout. The circuit format keeps things fresh and engaging, while the small group setting ensures personalized attention and proper form. Perfect for all levels, this class will leave you feeling strong, aligned, and revitalized! This class offers modified exercises and supportive techniques to ensure comfort and accessibility",
             "image": "",
             "start_date": "2026-01-21 17:00:00",
-            "end_date": "2026-01-21 17:00:00",
+            "end_date": "2026-01-21 18:00:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89475c69-58cb-4de3-a6f1-8b46538fce9d",
@@ -14936,31 +14811,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 784012228,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-01-23 13:00:00",
-            "end_date": "2026-01-23 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1275456858,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -16055,31 +15905,6 @@
             ]
         },
         {
-            "id": 47607893,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-01-26 13:00:00",
-            "end_date": "2026-01-26 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2152344033,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -16565,6 +16390,29 @@
             ]
         },
         {
+            "id": 3321511064,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-27 07:00:00",
+            "end_date": "2026-01-27 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 422121317,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -16600,29 +16448,6 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3321511064,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-27 07:00:00",
-            "end_date": "2026-01-27 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -17468,7 +17293,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-01-28 07:30:00",
-            "end_date": "2026-01-28 08:00:00",
+            "end_date": "2026-01-28 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -17577,12 +17402,12 @@
             ]
         },
         {
-            "id": 1953207693,
+            "id": 2196506557,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
-            "start_date": "2026-01-28 11:00:00",
+            "start_date": "2026-01-28 11:10:00",
             "end_date": "2026-01-28 12:00:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
@@ -17646,7 +17471,7 @@
             ]
         },
         {
-            "id": 2493958150,
+            "id": 3360633620,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bodybuilding 101",
             "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
@@ -17654,7 +17479,7 @@
             "start_date": "2026-01-28 13:00:00",
             "end_date": "2026-01-28 14:00:00",
             "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
             "sortCategory": "Other",
             "symbol": "sportscourt",
@@ -17665,8 +17490,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -17685,29 +17508,6 @@
             "symbol": "heart",
             "featuredDecal": null,
             "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 953371234,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-01-28 13:10:00",
-            "end_date": "2026-01-28 14:10:00",
-            "venue": "Fitness Center",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -17838,7 +17638,7 @@
             "description": "Elevate your Pilates practice with our dynamic Pilates Circuit class! This energizing, full-body workout moves you through a series of stations using a variety of specialized equipment including the Reformer, Chair, Arc Barrel, Mat, and small props like Pilates rings and toning balls. Each station targets different muscle groups, blending strength, balance, flexibility, and core stability for a complete workout. The circuit format keeps things fresh and engaging, while the small group setting ensures personalized attention and proper form. Perfect for all levels, this class will leave you feeling strong, aligned, and revitalized! This class offers modified exercises and supportive techniques to ensure comfort and accessibility",
             "image": "",
             "start_date": "2026-01-28 17:00:00",
-            "end_date": "2026-01-28 17:00:00",
+            "end_date": "2026-01-28 18:00:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89475c69-58cb-4de3-a6f1-8b46538fce9d",
@@ -19041,31 +18841,6 @@
             ]
         },
         {
-            "id": 3041175012,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-01-30 13:00:00",
-            "end_date": "2026-01-30 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 830954385,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -20160,31 +19935,6 @@
             ]
         },
         {
-            "id": 3972862706,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-02-02 13:00:00",
-            "end_date": "2026-02-02 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 4067189830,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -20670,6 +20420,29 @@
             ]
         },
         {
+            "id": 2925169423,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-03 07:00:00",
+            "end_date": "2026-02-03 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 149233460,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -20705,29 +20478,6 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2925169423,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-03 07:00:00",
-            "end_date": "2026-02-03 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -21573,7 +21323,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-04 07:30:00",
-            "end_date": "2026-02-04 08:00:00",
+            "end_date": "2026-02-04 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -21682,12 +21432,12 @@
             ]
         },
         {
-            "id": 3831609194,
+            "id": 1581706866,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
-            "start_date": "2026-02-04 11:00:00",
+            "start_date": "2026-02-04 11:10:00",
             "end_date": "2026-02-04 12:00:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
@@ -21751,7 +21501,7 @@
             ]
         },
         {
-            "id": 2151364700,
+            "id": 935599447,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bodybuilding 101",
             "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
@@ -21759,7 +21509,7 @@
             "start_date": "2026-02-04 13:00:00",
             "end_date": "2026-02-04 14:00:00",
             "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
             "sortCategory": "Other",
             "symbol": "sportscourt",
@@ -21770,8 +21520,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -21790,29 +21538,6 @@
             "symbol": "heart",
             "featuredDecal": null,
             "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3530951239,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-02-04 13:10:00",
-            "end_date": "2026-02-04 14:10:00",
-            "venue": "Fitness Center",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -21943,7 +21668,7 @@
             "description": "Elevate your Pilates practice with our dynamic Pilates Circuit class! This energizing, full-body workout moves you through a series of stations using a variety of specialized equipment including the Reformer, Chair, Arc Barrel, Mat, and small props like Pilates rings and toning balls. Each station targets different muscle groups, blending strength, balance, flexibility, and core stability for a complete workout. The circuit format keeps things fresh and engaging, while the small group setting ensures personalized attention and proper form. Perfect for all levels, this class will leave you feeling strong, aligned, and revitalized! This class offers modified exercises and supportive techniques to ensure comfort and accessibility",
             "image": "",
             "start_date": "2026-02-04 17:00:00",
-            "end_date": "2026-02-04 17:00:00",
+            "end_date": "2026-02-04 18:00:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89475c69-58cb-4de3-a6f1-8b46538fce9d",
@@ -23173,31 +22898,6 @@
             ]
         },
         {
-            "id": 1638952794,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-02-06 13:00:00",
-            "end_date": "2026-02-06 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2740611370,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -24248,31 +23948,6 @@
             ]
         },
         {
-            "id": 3298701211,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-02-09 13:00:00",
-            "end_date": "2026-02-09 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1277615975,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -24758,6 +24433,29 @@
             ]
         },
         {
+            "id": 1699901434,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-10 07:00:00",
+            "end_date": "2026-02-10 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 4073586920,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -24793,29 +24491,6 @@
             "ticket_url": "",
             "sortCategory": "Badminton",
             "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 1699901434,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-10 07:00:00",
-            "end_date": "2026-02-10 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -25661,7 +25336,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-11 07:30:00",
-            "end_date": "2026-02-11 08:00:00",
+            "end_date": "2026-02-11 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -25770,12 +25445,12 @@
             ]
         },
         {
-            "id": 871507384,
+            "id": 4241665436,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
-            "start_date": "2026-02-11 11:00:00",
+            "start_date": "2026-02-11 11:10:00",
             "end_date": "2026-02-11 12:00:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
@@ -25839,7 +25514,7 @@
             ]
         },
         {
-            "id": 402329294,
+            "id": 1815736479,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bodybuilding 101",
             "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
@@ -25847,7 +25522,7 @@
             "start_date": "2026-02-11 13:00:00",
             "end_date": "2026-02-11 14:00:00",
             "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
             "sortCategory": "Other",
             "symbol": "sportscourt",
@@ -25858,8 +25533,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -25878,29 +25551,6 @@
             "symbol": "heart",
             "featuredDecal": null,
             "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 1821256084,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-02-11 13:10:00",
-            "end_date": "2026-02-11 14:10:00",
-            "venue": "Fitness Center",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -26031,7 +25681,7 @@
             "description": "Elevate your Pilates practice with our dynamic Pilates Circuit class! This energizing, full-body workout moves you through a series of stations using a variety of specialized equipment including the Reformer, Chair, Arc Barrel, Mat, and small props like Pilates rings and toning balls. Each station targets different muscle groups, blending strength, balance, flexibility, and core stability for a complete workout. The circuit format keeps things fresh and engaging, while the small group setting ensures personalized attention and proper form. Perfect for all levels, this class will leave you feeling strong, aligned, and revitalized! This class offers modified exercises and supportive techniques to ensure comfort and accessibility",
             "image": "",
             "start_date": "2026-02-11 17:00:00",
-            "end_date": "2026-02-11 17:00:00",
+            "end_date": "2026-02-11 18:00:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89475c69-58cb-4de3-a6f1-8b46538fce9d",
@@ -27263,31 +26913,6 @@
             ]
         },
         {
-            "id": 2296377270,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-02-13 13:00:00",
-            "end_date": "2026-02-13 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2375296398,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -28131,31 +27756,6 @@
             ]
         },
         {
-            "id": 285882177,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-02-16 13:00:00",
-            "end_date": "2026-02-16 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2300883583,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball**",
@@ -28852,7 +28452,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-18 07:30:00",
-            "end_date": "2026-02-18 08:00:00",
+            "end_date": "2026-02-18 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -28913,12 +28513,12 @@
             ]
         },
         {
-            "id": 2049809616,
+            "id": 4291418028,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
-            "start_date": "2026-02-18 11:00:00",
+            "start_date": "2026-02-18 11:10:00",
             "end_date": "2026-02-18 12:00:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
@@ -28982,7 +28582,7 @@
             ]
         },
         {
-            "id": 3316906235,
+            "id": 1141325659,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bodybuilding 101",
             "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
@@ -28990,7 +28590,7 @@
             "start_date": "2026-02-18 13:00:00",
             "end_date": "2026-02-18 14:00:00",
             "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
             "sortCategory": "Other",
             "symbol": "sportscourt",
@@ -29001,8 +28601,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -30214,31 +29812,6 @@
             ]
         },
         {
-            "id": 3589124035,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-02-20 13:00:00",
-            "end_date": "2026-02-20 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1012603382,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -30921,6 +30494,29 @@
             ]
         },
         {
+            "id": 175784333,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-23 07:00:00",
+            "end_date": "2026-02-23 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 2420108795,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -30979,29 +30575,6 @@
             "ticket_url": "",
             "sortCategory": "Soccer",
             "symbol": "soccerball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 175784333,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-23 07:00:00",
-            "end_date": "2026-02-23 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -31238,31 +30811,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
-            ]
-        },
-        {
-            "id": 3037667213,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-02-23 13:00:00",
-            "end_date": "2026-02-23 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
             ]
         },
         {
@@ -32623,7 +32171,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-25 07:30:00",
-            "end_date": "2026-02-25 08:00:00",
+            "end_date": "2026-02-25 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -32709,29 +32257,6 @@
             ]
         },
         {
-            "id": 4279033076,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC WOD (Workout of the Day)",
-            "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
-            "image": "",
-            "start_date": "2026-02-25 11:00:00",
-            "end_date": "2026-02-25 12:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 860188892,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -32744,6 +32269,29 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 795121743,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "RAWC WOD (Workout of the Day)",
+            "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
+            "image": "",
+            "start_date": "2026-02-25 11:10:00",
+            "end_date": "2026-02-25 12:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -32801,7 +32349,7 @@
             ]
         },
         {
-            "id": 1499606160,
+            "id": 2763101846,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bodybuilding 101",
             "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
@@ -32809,7 +32357,7 @@
             "start_date": "2026-02-25 13:00:00",
             "end_date": "2026-02-25 14:00:00",
             "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
             "sortCategory": "Other",
             "symbol": "sportscourt",
@@ -32820,8 +32368,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -34129,31 +33675,6 @@
             ]
         },
         {
-            "id": 3216529613,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-02-27 13:00:00",
-            "end_date": "2026-02-27 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 3412484494,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -34978,6 +34499,29 @@
             ]
         },
         {
+            "id": 1796700654,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-02 07:00:00",
+            "end_date": "2026-03-02 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 4211034865,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -35036,29 +34580,6 @@
             "ticket_url": "",
             "sortCategory": "Soccer",
             "symbol": "soccerball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 1796700654,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-02 07:00:00",
-            "end_date": "2026-03-02 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -35295,31 +34816,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
-            ]
-        },
-        {
-            "id": 2194686888,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-03-02 13:00:00",
-            "end_date": "2026-03-02 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
             ]
         },
         {
@@ -36663,7 +36159,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-03-04 07:30:00",
-            "end_date": "2026-03-04 08:00:00",
+            "end_date": "2026-03-04 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -36749,29 +36245,6 @@
             ]
         },
         {
-            "id": 1888170004,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC WOD (Workout of the Day)",
-            "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
-            "image": "",
-            "start_date": "2026-03-04 11:00:00",
-            "end_date": "2026-03-04 12:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2474078009,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -36784,6 +36257,29 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2769128670,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "RAWC WOD (Workout of the Day)",
+            "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
+            "image": "",
+            "start_date": "2026-03-04 11:10:00",
+            "end_date": "2026-03-04 12:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -36841,7 +36337,7 @@
             ]
         },
         {
-            "id": 2426465704,
+            "id": 2224784714,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bodybuilding 101",
             "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
@@ -36849,7 +36345,7 @@
             "start_date": "2026-03-04 13:00:00",
             "end_date": "2026-03-04 14:00:00",
             "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
             "sortCategory": "Other",
             "symbol": "sportscourt",
@@ -36860,8 +36356,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -38290,31 +37784,6 @@
             ]
         },
         {
-            "id": 210140212,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-03-06 13:00:00",
-            "end_date": "2026-03-06 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1241836053,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -39212,6 +38681,29 @@
             ]
         },
         {
+            "id": 390245041,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-09 07:00:00",
+            "end_date": "2026-03-09 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 3472833489,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -39270,29 +38762,6 @@
             "ticket_url": "",
             "sortCategory": "Soccer",
             "symbol": "soccerball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 390245041,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-09 07:00:00",
-            "end_date": "2026-03-09 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -39531,31 +39000,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
-            ]
-        },
-        {
-            "id": 1967457673,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-03-09 13:00:00",
-            "end_date": "2026-03-09 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
             ]
         },
         {
@@ -40901,7 +40345,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-03-11 07:30:00",
-            "end_date": "2026-03-11 08:00:00",
+            "end_date": "2026-03-11 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -40987,29 +40431,6 @@
             ]
         },
         {
-            "id": 977078106,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC WOD (Workout of the Day)",
-            "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
-            "image": "",
-            "start_date": "2026-03-11 11:00:00",
-            "end_date": "2026-03-11 12:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2736069896,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -41022,6 +40443,29 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3555053645,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "RAWC WOD (Workout of the Day)",
+            "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
+            "image": "",
+            "start_date": "2026-03-11 11:10:00",
+            "end_date": "2026-03-11 12:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -41079,7 +40523,7 @@
             ]
         },
         {
-            "id": 2125940832,
+            "id": 3482374318,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bodybuilding 101",
             "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
@@ -41087,7 +40531,7 @@
             "start_date": "2026-03-11 13:00:00",
             "end_date": "2026-03-11 14:00:00",
             "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
             "sortCategory": "Other",
             "symbol": "sportscourt",
@@ -41098,8 +40542,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -42482,31 +41924,6 @@
             ]
         },
         {
-            "id": 2369842375,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-03-13 13:00:00",
-            "end_date": "2026-03-13 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 976810540,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -43404,6 +42821,29 @@
             ]
         },
         {
+            "id": 2871793838,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-16 07:00:00",
+            "end_date": "2026-03-16 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 779139402,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -43469,29 +42909,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 2871793838,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-16 07:00:00",
-            "end_date": "2026-03-16 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
         },
         {
             "id": 4100639706,
@@ -43675,31 +43092,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
-            ]
-        },
-        {
-            "id": 1437456513,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-03-16 13:00:00",
-            "end_date": "2026-03-16 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
             ]
         },
         {
@@ -44989,7 +44381,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-03-18 07:30:00",
-            "end_date": "2026-03-18 08:00:00",
+            "end_date": "2026-03-18 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -45052,12 +44444,12 @@
             ]
         },
         {
-            "id": 461449483,
+            "id": 922434482,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
-            "start_date": "2026-03-18 11:00:00",
+            "start_date": "2026-03-18 11:10:00",
             "end_date": "2026-03-18 12:00:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
@@ -45121,7 +44513,7 @@
             ]
         },
         {
-            "id": 3722296491,
+            "id": 4097854790,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bodybuilding 101",
             "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
@@ -45129,7 +44521,7 @@
             "start_date": "2026-03-18 13:00:00",
             "end_date": "2026-03-18 14:00:00",
             "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
             "sortCategory": "Other",
             "symbol": "sportscourt",
@@ -45140,8 +44532,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -46479,31 +45869,6 @@
             ]
         },
         {
-            "id": 2765222260,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-03-20 13:00:00",
-            "end_date": "2026-03-20 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 325634523,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -47375,6 +46740,29 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3930365901,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-23 07:00:00",
+            "end_date": "2026-03-23 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 3950216970,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -47433,29 +46821,6 @@
             "ticket_url": "",
             "sortCategory": "Soccer",
             "symbol": "soccerball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 3930365901,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-23 07:00:00",
-            "end_date": "2026-03-23 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -47692,31 +47057,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
-            ]
-        },
-        {
-            "id": 304267033,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-03-23 13:00:00",
-            "end_date": "2026-03-23 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
             ]
         },
         {
@@ -49096,7 +48436,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-03-25 07:30:00",
-            "end_date": "2026-03-25 08:00:00",
+            "end_date": "2026-03-25 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -49159,29 +48499,6 @@
             ]
         },
         {
-            "id": 1745828711,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC WOD (Workout of the Day)",
-            "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
-            "image": "",
-            "start_date": "2026-03-25 11:00:00",
-            "end_date": "2026-03-25 12:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2508317818,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -49194,6 +48511,29 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3330212367,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "RAWC WOD (Workout of the Day)",
+            "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
+            "image": "",
+            "start_date": "2026-03-25 11:10:00",
+            "end_date": "2026-03-25 12:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -49251,7 +48591,7 @@
             ]
         },
         {
-            "id": 818838261,
+            "id": 2923631871,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bodybuilding 101",
             "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
@@ -49259,7 +48599,7 @@
             "start_date": "2026-03-25 13:00:00",
             "end_date": "2026-03-25 14:00:00",
             "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
             "sortCategory": "Other",
             "symbol": "sportscourt",
@@ -49270,8 +48610,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -50736,31 +50074,6 @@
             ]
         },
         {
-            "id": 4099323839,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-03-27 13:00:00",
-            "end_date": "2026-03-27 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 3470492223,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -51585,6 +50898,29 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3030213188,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-30 07:00:00",
+            "end_date": "2026-03-30 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 3324631640,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -51643,29 +50979,6 @@
             "ticket_url": "",
             "sortCategory": "Soccer",
             "symbol": "soccerball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 3030213188,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-30 07:00:00",
-            "end_date": "2026-03-30 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -51904,31 +51217,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
-            ]
-        },
-        {
-            "id": 4135860086,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-03-30 13:00:00",
-            "end_date": "2026-03-30 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
             ]
         },
         {
@@ -53247,7 +52535,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-04-01 07:30:00",
-            "end_date": "2026-04-01 08:00:00",
+            "end_date": "2026-04-01 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -53333,29 +52621,6 @@
             ]
         },
         {
-            "id": 1209434788,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC WOD (Workout of the Day)",
-            "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
-            "image": "",
-            "start_date": "2026-04-01 11:00:00",
-            "end_date": "2026-04-01 12:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3088050173,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -53368,6 +52633,29 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2000131558,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "RAWC WOD (Workout of the Day)",
+            "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
+            "image": "",
+            "start_date": "2026-04-01 11:10:00",
+            "end_date": "2026-04-01 12:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -53425,7 +52713,7 @@
             ]
         },
         {
-            "id": 2433292751,
+            "id": 3079309095,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bodybuilding 101",
             "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
@@ -53433,7 +52721,7 @@
             "start_date": "2026-04-01 13:00:00",
             "end_date": "2026-04-01 14:00:00",
             "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
+            "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
             "sortCategory": "Other",
             "symbol": "sportscourt",
@@ -53444,8 +52732,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -54730,31 +54016,6 @@
             ]
         },
         {
-            "id": 2965098795,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bodybuilding 101",
-            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
-            "image": "",
-            "start_date": "2026-04-03 13:00:00",
-            "end_date": "2026-04-03 14:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "RESERVE YOUR SPOT",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1501899163,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -55353,6 +54614,29 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2673517219,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-06 07:00:00",
+            "end_date": "2026-04-06 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 2621125207,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -55411,29 +54695,6 @@
             "ticket_url": "",
             "sortCategory": "Soccer",
             "symbol": "soccerball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 2673517219,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-06 07:00:00",
-            "end_date": "2026-04-06 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -56302,7 +55563,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-04-08 07:30:00",
-            "end_date": "2026-04-08 08:00:00",
+            "end_date": "2026-04-08 08:15:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
@@ -56342,12 +55603,12 @@
             ]
         },
         {
-            "id": 1352927520,
+            "id": 2730726533,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
             "description": "Are you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a Workout Of the Day (WOD) led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!",
             "image": "",
-            "start_date": "2026-04-08 11:00:00",
+            "start_date": "2026-04-08 11:10:00",
             "end_date": "2026-04-08 12:00:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
@@ -56400,6 +55661,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=c1cb56b1-b67c-4fcf-92f4-78930c310815",
             "sortCategory": "Workout",
             "symbol": "heart",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2624751869,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bodybuilding 101",
+            "description": "Ready to transform your body and mindset? Bodybuilding 101 is your ultimate starting point for building muscle, boosting strength, and unlocking the physique you\u2019ve always wanted. Proven strategies, expert guidance, and experienced coaching. No more excuses, only gains!",
+            "image": "",
+            "start_date": "2026-04-08 13:00:00",
+            "end_date": "2026-04-08 14:00:00",
+            "venue": "Fitness Center",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=91dfea05-4a02-46f0-acb3-1043dfbd513b",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
