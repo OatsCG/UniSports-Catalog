@@ -25371,7 +25371,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 234283688,
+            "id": 70621785,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -25959,7 +25959,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2474691219,
+            "id": 2921127,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -25980,7 +25980,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2053729065,
+            "id": 2039627498,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -26190,7 +26190,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3328288313,
+            "id": 1558934754,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -26211,7 +26211,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2905486282,
+            "id": 819017729,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -26253,7 +26253,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1760900859,
+            "id": 3568256268,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -26358,7 +26358,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3619035969,
+            "id": 2291258026,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -26631,7 +26631,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 521518781,
+            "id": 3205184501,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -28122,7 +28122,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1932400678,
+            "id": 140117843,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -28143,7 +28143,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 151724048,
+            "id": 506664942,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -29697,7 +29697,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1613993222,
+            "id": 3213586456,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -31020,7 +31020,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3714031254,
+            "id": 2874418519,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -44040,7 +44040,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 549846124,
+            "id": 3836936807,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -45111,27 +45111,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1824976160,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Sports Med (HOLD)",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-10 13:15:00",
-            "end_date": "2026-02-10 15:30:00",
-            "venue": "Studio 1 (LL1)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3654064147,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Rec Swim ",
@@ -45216,6 +45195,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2564372495,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Sports Med Pilates class",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-10 14:00:00",
+            "end_date": "2026-02-10 15:00:00",
+            "venue": "Studio 1 (LL1)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2636514109,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "LEARN TO SPORTS - Pickleball",
@@ -45228,6 +45228,27 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3042028629,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "RFE STRIKE - DOWN",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-10 15:00:00",
+            "end_date": "2026-02-10 15:15:00",
+            "venue": "Studio 1 (LL1)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -56367,7 +56388,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 333279788,
+            "id": 1741804971,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -61598,48 +61619,6 @@
     ],
     "featured": [
         {
-            "id": 2651074671,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "LEARN TO: AFRO DANCE FREE DEMO CLASS",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-20 12:00:00",
-            "end_date": "2026-01-20 12:55:00",
-            "venue": "Studio 1 (LL1)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 3188360274,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "LEARN TO KATHAK FREE DEMO CLASS",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-20 18:15:00",
-            "end_date": "2026-01-20 19:10:00",
-            "venue": "Studio 1 (LL1)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3200419575,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "LEARN TO: KICKBOX FREE DEMO CLASS",
@@ -61829,6 +61808,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2564372495,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Sports Med Pilates class",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-10 14:00:00",
+            "end_date": "2026-02-10 15:00:00",
+            "venue": "Studio 1 (LL1)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2636514109,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "LEARN TO SPORTS - Pickleball",
@@ -61841,6 +61841,27 @@
             "ticket_url": "",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3042028629,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "RFE STRIKE - DOWN",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-10 15:00:00",
+            "end_date": "2026-02-10 15:15:00",
+            "venue": "Studio 1 (LL1)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
