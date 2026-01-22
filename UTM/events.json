@@ -5156,29 +5156,6 @@
             ]
         },
         {
-            "id": 3207996537,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-06 11:00:00",
-            "end_date": "2026-01-06 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4269432282,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -5195,6 +5172,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3207996537,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-06 11:00:00",
+            "end_date": "2026-01-06 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -8871,29 +8871,6 @@
             ]
         },
         {
-            "id": 4066841555,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-13 11:00:00",
-            "end_date": "2026-01-13 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 189574750,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -8910,6 +8887,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 4066841555,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-13 11:00:00",
+            "end_date": "2026-01-13 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -12669,29 +12669,6 @@
             ]
         },
         {
-            "id": 193603463,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-20 11:00:00",
-            "end_date": "2026-01-20 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4195872700,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -12708,6 +12685,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 193603463,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-20 11:00:00",
+            "end_date": "2026-01-20 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -14085,6 +14085,29 @@
             ]
         },
         {
+            "id": 774055712,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Volleyball & Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-22 12:30:00",
+            "end_date": "2026-01-22 14:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 3854230690,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights (WOW)",
@@ -14108,22 +14131,45 @@
             ]
         },
         {
-            "id": 3438784436,
+            "id": 703303437,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Women's Only Volleyball & Badminton",
+            "title": "Drop-in Pride Basketball",
             "description": "",
             "image": "",
-            "start_date": "2026-01-22 13:30:00",
+            "start_date": "2026-01-22 14:30:00",
+            "end_date": "2026-01-22 15:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": true,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2496439308,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in BIPOC Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-22 15:45:00",
             "end_date": "2026-01-22 17:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "featuredDecal": null,
-            "womens": true,
+            "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -15035,6 +15081,27 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 783580871,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-23 21:00:00",
+            "end_date": "2026-01-23 21:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 1928251197,
@@ -16620,29 +16687,6 @@
             ]
         },
         {
-            "id": 412432876,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-27 11:00:00",
-            "end_date": "2026-01-27 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3948168899,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -16659,6 +16703,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 412432876,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-27 11:00:00",
+            "end_date": "2026-01-27 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -18155,6 +18222,29 @@
             ]
         },
         {
+            "id": 4114742526,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Volleyball & Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-29 12:30:00",
+            "end_date": "2026-01-29 14:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 2893630970,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights (WOW)",
@@ -18178,21 +18268,21 @@
             ]
         },
         {
-            "id": 820014961,
+            "id": 749189642,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Women's Only Volleyball & Badminton",
+            "title": "Drop-in Pride Basketball",
             "description": "",
             "image": "",
-            "start_date": "2026-01-29 13:30:00",
-            "end_date": "2026-01-29 17:00:00",
+            "start_date": "2026-01-29 14:30:00",
+            "end_date": "2026-01-29 15:45:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
+            "womens": false,
+            "lgbt": true,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -18220,6 +18310,29 @@
             "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 3828144526,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in BIPOC Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-29 15:45:00",
+            "end_date": "2026-01-29 17:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
         },
         {
             "id": 3937790448,
@@ -20650,29 +20763,6 @@
             ]
         },
         {
-            "id": 2257963739,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-03 11:00:00",
-            "end_date": "2026-02-03 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3471361039,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -20689,6 +20779,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2257963739,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-03 11:00:00",
+            "end_date": "2026-02-03 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -22164,6 +22277,29 @@
             ]
         },
         {
+            "id": 2666741643,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Volleyball & Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-05 12:30:00",
+            "end_date": "2026-02-05 14:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 2044315080,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Intramurals: Open Basketball",
@@ -22208,22 +22344,45 @@
             ]
         },
         {
-            "id": 2800961478,
+            "id": 1767647273,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Women's Only Volleyball & Badminton",
+            "title": "Drop-in Pride Basketball",
             "description": "",
             "image": "",
-            "start_date": "2026-02-05 13:30:00",
+            "start_date": "2026-02-05 14:30:00",
+            "end_date": "2026-02-05 15:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": true,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 977006292,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in BIPOC Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-05 15:45:00",
             "end_date": "2026-02-05 17:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "featuredDecal": null,
-            "womens": true,
+            "womens": false,
             "lgbt": false,
-            "bipoc": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -24663,29 +24822,6 @@
             ]
         },
         {
-            "id": 698017361,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-10 11:00:00",
-            "end_date": "2026-02-10 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1086506417,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -24702,6 +24838,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 698017361,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-10 11:00:00",
+            "end_date": "2026-02-10 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -26202,6 +26361,29 @@
             ]
         },
         {
+            "id": 1248151005,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Volleyball & Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-12 12:30:00",
+            "end_date": "2026-02-12 14:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 1590087722,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights (WOW)",
@@ -26225,21 +26407,21 @@
             ]
         },
         {
-            "id": 2504853615,
+            "id": 1184856406,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Women's Only Volleyball & Badminton",
+            "title": "Drop-in Pride Basketball",
             "description": "",
             "image": "",
-            "start_date": "2026-02-12 13:30:00",
-            "end_date": "2026-02-12 17:00:00",
+            "start_date": "2026-02-12 14:30:00",
+            "end_date": "2026-02-12 15:45:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
+            "womens": false,
+            "lgbt": true,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -26267,6 +26449,29 @@
             "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 2920604409,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in BIPOC Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-12 15:45:00",
+            "end_date": "2026-02-12 17:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
         },
         {
             "id": 500045922,
@@ -27988,29 +28193,6 @@
             ]
         },
         {
-            "id": 2297026094,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-17 11:00:00",
-            "end_date": "2026-02-17 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 339721341,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -28027,6 +28209,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2297026094,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-17 11:00:00",
+            "end_date": "2026-02-17 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -31477,29 +31682,6 @@
             ]
         },
         {
-            "id": 3387847203,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-24 11:00:00",
-            "end_date": "2026-02-24 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 704195774,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -31516,6 +31698,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3387847203,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-24 11:00:00",
+            "end_date": "2026-02-24 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -35442,29 +35647,6 @@
             ]
         },
         {
-            "id": 3530882989,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-03 11:00:00",
-            "end_date": "2026-03-03 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2595824400,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -35481,6 +35663,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3530882989,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-03 11:00:00",
+            "end_date": "2026-03-03 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -39649,29 +39854,6 @@
             ]
         },
         {
-            "id": 377293374,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-10 11:00:00",
-            "end_date": "2026-03-10 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 416876893,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -39688,6 +39870,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 377293374,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-10 11:00:00",
+            "end_date": "2026-03-10 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -43712,29 +43917,6 @@
             ]
         },
         {
-            "id": 2559112799,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-17 11:00:00",
-            "end_date": "2026-03-17 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1635483937,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -43751,6 +43933,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2559112799,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-17 11:00:00",
+            "end_date": "2026-03-17 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -47723,29 +47928,6 @@
             ]
         },
         {
-            "id": 3932663744,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-24 11:00:00",
-            "end_date": "2026-03-24 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1810484599,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -47762,6 +47944,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3932663744,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-24 11:00:00",
+            "end_date": "2026-03-24 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -51820,29 +52025,6 @@
             ]
         },
         {
-            "id": 2008099371,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-31 11:00:00",
-            "end_date": "2026-03-31 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1234009429,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -51859,6 +52041,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2008099371,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-31 11:00:00",
+            "end_date": "2026-03-31 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
