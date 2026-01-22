@@ -7584,9 +7584,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1713105053,
+            "id": 4046406930,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2026-01-08 10:00:00",
@@ -7605,9 +7605,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4046406930,
+            "id": 1713105053,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2026-01-08 10:00:00",
@@ -10272,27 +10272,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1579851177,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Block Party vs Hit Happens BC",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-13 18:00:00",
-            "end_date": "2026-01-13 19:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1031092556,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Sets Workers BC vs Karusixseveno BC",
@@ -10305,6 +10284,27 @@
             "ticket_url": "",
             "sortCategory": "Workout",
             "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1579851177,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Block Party vs Hit Happens BC",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-13 18:00:00",
+            "end_date": "2026-01-13 19:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -11952,9 +11952,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2785515929,
+            "id": 879484766,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2026-01-15 10:00:00",
@@ -11973,9 +11973,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 879484766,
+            "id": 2785515929,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2026-01-15 10:00:00",
@@ -14304,9 +14304,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2932984530,
+            "id": 3394851501,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Pauline CC vs DR",
+            "title": "Suggestions? BC vs Ayub BC",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 16:00:00",
@@ -14325,9 +14325,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3394851501,
+            "id": 2932984530,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Suggestions? BC vs Ayub BC",
+            "title": "Pauline CC vs DR",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 16:00:00",
@@ -14640,27 +14640,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1660909086,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Player Pending SC vs Badminton 1",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-19 17:30:00",
-            "end_date": "2026-01-19 18:15:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1588476112,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Stef MC vs Another One MC",
@@ -14682,9 +14661,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3932648166,
+            "id": 1660909086,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "1-800-668-2253 CRAQUELINS SC vs Zaina BC",
+            "title": "Player Pending SC vs Badminton 1",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-19 17:30:00",
+            "end_date": "2026-01-19 18:15:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3889180630,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Ryan Best SC vs Ayub BC",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 17:30:00",
@@ -14703,9 +14703,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3889180630,
+            "id": 3932648166,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Ryan Best SC vs Ayub BC",
+            "title": "1-800-668-2253 CRAQUELINS SC vs Zaina BC",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 17:30:00",
@@ -14808,9 +14808,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3815231589,
+            "id": 2073806663,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "NC vs DR",
+            "title": "Big AP MC vs Pauline CC",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 18:15:00",
@@ -14829,9 +14829,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2073806663,
+            "id": 3815231589,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Big AP MC vs Pauline CC",
+            "title": "NC vs DR",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 18:15:00",
@@ -14871,9 +14871,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3553686080,
+            "id": 726084562,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "lamontagne vs Shuttle Shock BC",
+            "title": "Maya MC vs Jasper",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 18:15:00",
@@ -14892,9 +14892,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 726084562,
+            "id": 3553686080,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Maya MC vs Jasper",
+            "title": "lamontagne vs Shuttle Shock BC",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 18:15:00",
@@ -15018,9 +15018,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1185906099,
+            "id": 2564362751,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Toothless BC vs Big Ballerz",
+            "title": "67 Elite BC vs YCDSB Elite",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 19:15:00",
@@ -15039,9 +15039,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2564362751,
+            "id": 1185906099,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "67 Elite BC vs YCDSB Elite",
+            "title": "Toothless BC vs Big Ballerz",
             "description": "",
             "image": "",
             "start_date": "2026-01-19 19:15:00",
@@ -17349,9 +17349,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1803191442,
+            "id": 3854436451,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "The Science is There FC BC vs CHATGPT FC BC",
+            "title": "DayCare FC BC vs Mandem SC",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 13:50:00",
@@ -17370,9 +17370,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3854436451,
+            "id": 1803191442,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "DayCare FC BC vs Mandem SC",
+            "title": "The Science is There FC BC vs CHATGPT FC BC",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 13:50:00",
@@ -17727,27 +17727,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3320961806,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "ANGOCOMP vs Free Balls BC",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-21 17:00:00",
-            "end_date": "2026-01-21 18:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3862796605,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Nothing but Net SC vs Hey Baby SC",
@@ -17769,9 +17748,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1660188809,
+            "id": 3320961806,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Whiteout SC vs Blue Bawls SC",
+            "title": "ANGOCOMP vs Free Balls BC",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 17:00:00",
@@ -18168,9 +18147,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1373494666,
+            "id": 2746749407,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "CALcuim CC vs Osgoode Owls",
+            "title": "Great Wall of Blocks SC vs All You Can Ace BC",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 19:00:00",
@@ -18189,9 +18168,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2746749407,
+            "id": 1373494666,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Great Wall of Blocks SC vs All You Can Ace BC",
+            "title": "CALcuim CC vs Osgoode Owls",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 19:00:00",
@@ -18360,6 +18339,27 @@
             "id": 476103234,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "FAHH BC vs Chicken and Rice SC",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-21 20:00:00",
+            "end_date": "2026-01-21 21:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2293233464,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Whiteout SC vs Blue Bawls SC",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 20:00:00",
@@ -18672,9 +18672,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 325003796,
+            "id": 2866808885,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 10:00:00",
@@ -18693,9 +18693,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2866808885,
+            "id": 325003796,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 10:00:00",
@@ -20016,9 +20016,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3918281294,
+            "id": 2397019122,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Good Fingers BC vs Osgoode Owls",
+            "title": "Phantoms BC vs First and Param",
             "description": "",
             "image": "",
             "start_date": "2026-01-23 16:00:00",
@@ -20037,9 +20037,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2397019122,
+            "id": 3918281294,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Phantoms BC vs First and Param",
+            "title": "Good Fingers BC vs Osgoode Owls",
             "description": "",
             "image": "",
             "start_date": "2026-01-23 16:00:00",
@@ -21864,9 +21864,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2031528211,
+            "id": 3407987878,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Smash NC vs Wilma CC",
+            "title": "Player Pending SC vs Another One MC",
             "description": "",
             "image": "",
             "start_date": "2026-01-26 16:00:00",
@@ -21885,9 +21885,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3407987878,
+            "id": 2031528211,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Player Pending SC vs Another One MC",
+            "title": "Smash NC vs Wilma CC",
             "description": "",
             "image": "",
             "start_date": "2026-01-26 16:00:00",
@@ -21969,9 +21969,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3319664268,
+            "id": 1977947929,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Kung Fu Panda MC vs Jasper",
+            "title": "Mary CC vs Jalen's team",
             "description": "",
             "image": "",
             "start_date": "2026-01-26 16:45:00",
@@ -21990,9 +21990,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1977947929,
+            "id": 3319664268,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Mary CC vs Jalen's team",
+            "title": "Kung Fu Panda MC vs Jasper",
             "description": "",
             "image": "",
             "start_date": "2026-01-26 16:45:00",
@@ -25371,9 +25371,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2557582903,
+            "id": 970991201,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 10:00:00",
@@ -25392,9 +25392,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 970991201,
+            "id": 2557582903,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 10:00:00",
@@ -26610,9 +26610,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3782172803,
+            "id": 2151122794,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Hottest Wheelz SC vs LA Ram-Me BC",
+            "title": "Good Fingers BC vs Mac Flagship",
             "description": "",
             "image": "",
             "start_date": "2026-01-30 16:50:00",
@@ -26631,9 +26631,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2151122794,
+            "id": 3782172803,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Good Fingers BC vs Mac Flagship",
+            "title": "Hottest Wheelz SC vs LA Ram-Me BC",
             "description": "",
             "image": "",
             "start_date": "2026-01-30 16:50:00",
@@ -26828,27 +26828,6 @@
             "start_date": "2026-01-31 07:00:00",
             "end_date": "2026-01-31 21:00:00",
             "venue": "Pickleball",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 422574936,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "HOLD - Varsity",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-31 08:00:00",
-            "end_date": "2026-01-31 21:00:00",
-            "venue": "Field House (Room 207)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Other",
@@ -28143,9 +28122,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3012305252,
+            "id": 1322519400,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Ryan Best SC vs Suggestions? BC",
+            "title": "Player Pending SC vs Time to Smash it CC",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 16:00:00",
@@ -28164,9 +28143,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1322519400,
+            "id": 3012305252,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Player Pending SC vs Time to Smash it CC",
+            "title": "Ryan Best SC vs Suggestions? BC",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 16:00:00",
@@ -28206,9 +28185,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3507207884,
+            "id": 3437228061,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Jalen's team vs Big AP MC",
+            "title": "rec vs Wilma CC",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 16:00:00",
@@ -28227,9 +28206,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3437228061,
+            "id": 3507207884,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "rec vs Wilma CC",
+            "title": "Jalen's team vs Big AP MC",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 16:00:00",
@@ -28311,9 +28290,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1856940277,
+            "id": 972520426,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Maya MC vs Ayub BC",
+            "title": "DR vs Jalen's team",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 16:45:00",
@@ -28353,30 +28332,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3867502818,
+            "id": 1856940277,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Big AP MC vs Kung Fu Panda MC",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-02 16:45:00",
-            "end_date": "2026-02-02 17:30:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 972520426,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "DR vs Jalen's team",
+            "title": "Maya MC vs Ayub BC",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 16:45:00",
@@ -28398,6 +28356,27 @@
             "id": 4138446405,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Another One MC vs Mixx",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-02 16:45:00",
+            "end_date": "2026-02-02 17:30:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3867502818,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Big AP MC vs Kung Fu Panda MC",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 16:45:00",
@@ -28500,9 +28479,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2242069983,
+            "id": 2311798462,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Time to Smash it CC vs Nick",
+            "title": "rec vs lamontagne",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 17:30:00",
@@ -28521,9 +28500,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2311798462,
+            "id": 2242069983,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "rec vs lamontagne",
+            "title": "Time to Smash it CC vs Nick",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 17:30:00",
@@ -28668,6 +28647,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 976247396,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "DR vs Butterdog",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-02 18:15:00",
+            "end_date": "2026-02-02 19:00:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2524320273,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "67 Supremecy vs Shuttle Shock BC",
@@ -28734,27 +28734,6 @@
             "id": 2662919777,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Kung Fu Panda MC vs Ayub BC",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-02 18:15:00",
-            "end_date": "2026-02-02 19:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 976247396,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "DR vs Butterdog",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 18:15:00",
@@ -28899,27 +28878,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4029090728,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "YCDSB Elite vs Ridgeway Backseat Demons BC",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-02 19:15:00",
-            "end_date": "2026-02-02 19:40:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1757080839,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Wii Sports Resort VC vs McLaughlin Fenrirs",
@@ -28932,6 +28890,27 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 4029090728,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "YCDSB Elite vs Ridgeway Backseat Demons BC",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-02 19:15:00",
+            "end_date": "2026-02-02 19:40:00",
+            "venue": "Field House (Room 207)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -29193,9 +29172,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 244192583,
+            "id": 1222545955,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "AMSA BC vs And One",
+            "title": "Big Ballerz vs 67 Elite BC",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 20:30:00",
@@ -29214,9 +29193,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1222545955,
+            "id": 244192583,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Big Ballerz vs 67 Elite BC",
+            "title": "AMSA BC vs And One",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 20:30:00",
@@ -31545,9 +31524,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1256174560,
+            "id": 1382560213,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 10:00:00",
@@ -31566,9 +31545,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1382560213,
+            "id": 1256174560,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 10:00:00",
@@ -34359,9 +34338,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3784292078,
+            "id": 2816705782,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Pauline CC vs Ryan Best SC",
+            "title": "lamontagne vs Wilma CC",
             "description": "",
             "image": "",
             "start_date": "2026-02-09 16:00:00",
@@ -34380,9 +34359,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2816705782,
+            "id": 3784292078,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "lamontagne vs Wilma CC",
+            "title": "Pauline CC vs Ryan Best SC",
             "description": "",
             "image": "",
             "start_date": "2026-02-09 16:00:00",
@@ -34611,9 +34590,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3782844320,
+            "id": 1971308210,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "rec vs Smash Not Pass CC",
+            "title": "Butterdog vs Big AP MC",
             "description": "",
             "image": "",
             "start_date": "2026-02-09 16:45:00",
@@ -34632,9 +34611,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1971308210,
+            "id": 3782844320,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Butterdog vs Big AP MC",
+            "title": "rec vs Smash Not Pass CC",
             "description": "",
             "image": "",
             "start_date": "2026-02-09 16:45:00",
@@ -37551,9 +37530,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 489435342,
+            "id": 2357103181,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 10:00:00",
@@ -37572,9 +37551,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2357103181,
+            "id": 489435342,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 10:00:00",
@@ -40764,27 +40743,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3815851637,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Intramurals",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-22 11:00:00",
-            "end_date": "2026-02-22 16:00:00",
-            "venue": "Field House (Room 207)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4119193365,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Preschool 3 Sunday 11:30 - 12:00 pm",
@@ -43578,9 +43536,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3281716707,
+            "id": 3006309821,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Persia BC vs Bethune Dragons BC",
+            "title": "Fearless United vs Ball Busters FC BC",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 14:30:00",
@@ -43599,9 +43557,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3006309821,
+            "id": 3281716707,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Fearless United vs Ball Busters FC BC",
+            "title": "Persia BC vs Bethune Dragons BC",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 14:30:00",
@@ -44376,9 +44334,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 608090425,
+            "id": 1977950678,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 10:00:00",
@@ -44397,9 +44355,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1977950678,
+            "id": 608090425,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 23",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 20",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 10:00:00",
