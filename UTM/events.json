@@ -14476,27 +14476,6 @@
             ]
         },
         {
-            "id": 803150091,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-23 07:00:00",
-            "end_date": "2026-01-23 10:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1627919642,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -14518,6 +14497,27 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 803150091,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-23 07:00:00",
+            "end_date": "2026-01-23 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 507176530,
@@ -16733,6 +16733,29 @@
             ]
         },
         {
+            "id": 3662015173,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Drop-in Hour",
+            "description": "Adaptive Drop\u2011In Hour\u00a0is a dedicated time supervised by a certified trainer designed to make fitness more accessible, inclusive, and empowering for individuals with disabilities or accessibility needs. During these open hours, participants can receive personalized guidance on:Machine and equipment setup\u00a0Exercise instruction and form checkingModifications and alternative movementsGeneral support for unique needsThis is a judgment\u2011free, welcoming space where every individual can feel supported, capable, and empowered in their fitness journey. No appointments required, just show up, and our trainer will help you move in the way that works best for you.",
+            "image": "",
+            "start_date": "2026-01-27 12:00:00",
+            "end_date": "2026-01-27 13:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 2032749485,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -16975,6 +16998,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2097088899,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-01-27 17:00:00",
+            "end_date": "2026-01-27 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -19912,29 +19958,6 @@
             ]
         },
         {
-            "id": 1690199376,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-02 11:00:00",
-            "end_date": "2026-02-02 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 4292825006,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Fitness Swim",
@@ -20809,6 +20832,29 @@
             ]
         },
         {
+            "id": 2214286771,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Drop-in Hour",
+            "description": "Adaptive Drop\u2011In Hour\u00a0is a dedicated time supervised by a certified trainer designed to make fitness more accessible, inclusive, and empowering for individuals with disabilities or accessibility needs. During these open hours, participants can receive personalized guidance on:Machine and equipment setup\u00a0Exercise instruction and form checkingModifications and alternative movementsGeneral support for unique needsThis is a judgment\u2011free, welcoming space where every individual can feel supported, capable, and empowered in their fitness journey. No appointments required, just show up, and our trainer will help you move in the way that works best for you.",
+            "image": "",
+            "start_date": "2026-02-03 12:00:00",
+            "end_date": "2026-02-03 13:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 2702620336,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -21051,6 +21097,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1752285832,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-02-03 17:00:00",
+            "end_date": "2026-02-03 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -23992,29 +24061,6 @@
             ]
         },
         {
-            "id": 1660316767,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-09 11:00:00",
-            "end_date": "2026-02-09 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 1747204543,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Fitness Swim",
@@ -24059,6 +24105,27 @@
             "weeklyRepetitions": [
                 "mo"
             ]
+        },
+        {
+            "id": 932228943,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-09 11:00:00",
+            "end_date": "2026-02-09 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 2043084448,
@@ -24868,6 +24935,29 @@
             ]
         },
         {
+            "id": 1419604177,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Drop-in Hour",
+            "description": "Adaptive Drop\u2011In Hour\u00a0is a dedicated time supervised by a certified trainer designed to make fitness more accessible, inclusive, and empowering for individuals with disabilities or accessibility needs. During these open hours, participants can receive personalized guidance on:Machine and equipment setup\u00a0Exercise instruction and form checkingModifications and alternative movementsGeneral support for unique needsThis is a judgment\u2011free, welcoming space where every individual can feel supported, capable, and empowered in their fitness journey. No appointments required, just show up, and our trainer will help you move in the way that works best for you.",
+            "image": "",
+            "start_date": "2026-02-10 12:00:00",
+            "end_date": "2026-02-10 13:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 2480945953,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -25110,6 +25200,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 506157692,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-02-10 17:00:00",
+            "end_date": "2026-02-10 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -28239,6 +28352,29 @@
             ]
         },
         {
+            "id": 3932408952,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Drop-in Hour",
+            "description": "Adaptive Drop\u2011In Hour\u00a0is a dedicated time supervised by a certified trainer designed to make fitness more accessible, inclusive, and empowering for individuals with disabilities or accessibility needs. During these open hours, participants can receive personalized guidance on:Machine and equipment setup\u00a0Exercise instruction and form checkingModifications and alternative movementsGeneral support for unique needsThis is a judgment\u2011free, welcoming space where every individual can feel supported, capable, and empowered in their fitness journey. No appointments required, just show up, and our trainer will help you move in the way that works best for you.",
+            "image": "",
+            "start_date": "2026-02-17 12:00:00",
+            "end_date": "2026-02-17 13:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 3419680981,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -28389,6 +28525,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 270736720,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-02-17 17:00:00",
+            "end_date": "2026-02-17 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -31728,6 +31887,29 @@
             ]
         },
         {
+            "id": 2493189597,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Drop-in Hour",
+            "description": "Adaptive Drop\u2011In Hour\u00a0is a dedicated time supervised by a certified trainer designed to make fitness more accessible, inclusive, and empowering for individuals with disabilities or accessibility needs. During these open hours, participants can receive personalized guidance on:Machine and equipment setup\u00a0Exercise instruction and form checkingModifications and alternative movementsGeneral support for unique needsThis is a judgment\u2011free, welcoming space where every individual can feel supported, capable, and empowered in their fitness journey. No appointments required, just show up, and our trainer will help you move in the way that works best for you.",
+            "image": "",
+            "start_date": "2026-02-24 12:00:00",
+            "end_date": "2026-02-24 13:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 2160324461,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -31970,6 +32152,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2736208179,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-02-24 17:00:00",
+            "end_date": "2026-02-24 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -35693,6 +35898,29 @@
             ]
         },
         {
+            "id": 1055402681,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Drop-in Hour",
+            "description": "Adaptive Drop\u2011In Hour\u00a0is a dedicated time supervised by a certified trainer designed to make fitness more accessible, inclusive, and empowering for individuals with disabilities or accessibility needs. During these open hours, participants can receive personalized guidance on:Machine and equipment setup\u00a0Exercise instruction and form checkingModifications and alternative movementsGeneral support for unique needsThis is a judgment\u2011free, welcoming space where every individual can feel supported, capable, and empowered in their fitness journey. No appointments required, just show up, and our trainer will help you move in the way that works best for you.",
+            "image": "",
+            "start_date": "2026-03-03 12:00:00",
+            "end_date": "2026-03-03 13:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 3238715095,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -35935,6 +36163,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1140057423,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-03-03 17:00:00",
+            "end_date": "2026-03-03 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -39900,6 +40151,29 @@
             ]
         },
         {
+            "id": 2281852000,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Drop-in Hour",
+            "description": "Adaptive Drop\u2011In Hour\u00a0is a dedicated time supervised by a certified trainer designed to make fitness more accessible, inclusive, and empowering for individuals with disabilities or accessibility needs. During these open hours, participants can receive personalized guidance on:Machine and equipment setup\u00a0Exercise instruction and form checkingModifications and alternative movementsGeneral support for unique needsThis is a judgment\u2011free, welcoming space where every individual can feel supported, capable, and empowered in their fitness journey. No appointments required, just show up, and our trainer will help you move in the way that works best for you.",
+            "image": "",
+            "start_date": "2026-03-10 12:00:00",
+            "end_date": "2026-03-10 13:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 2130874650,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -40142,6 +40416,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2394572435,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-03-10 17:00:00",
+            "end_date": "2026-03-10 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -43940,6 +44237,29 @@
             ]
         },
         {
+            "id": 1285096836,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Drop-in Hour",
+            "description": "Adaptive Drop\u2011In Hour\u00a0is a dedicated time supervised by a certified trainer designed to make fitness more accessible, inclusive, and empowering for individuals with disabilities or accessibility needs. During these open hours, participants can receive personalized guidance on:Machine and equipment setup\u00a0Exercise instruction and form checkingModifications and alternative movementsGeneral support for unique needsThis is a judgment\u2011free, welcoming space where every individual can feel supported, capable, and empowered in their fitness journey. No appointments required, just show up, and our trainer will help you move in the way that works best for you.",
+            "image": "",
+            "start_date": "2026-03-17 12:00:00",
+            "end_date": "2026-03-17 13:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 3035799040,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -44182,6 +44502,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2786831122,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-03-17 17:00:00",
+            "end_date": "2026-03-17 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -48020,6 +48363,29 @@
             ]
         },
         {
+            "id": 1036737969,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Drop-in Hour",
+            "description": "Adaptive Drop\u2011In Hour\u00a0is a dedicated time supervised by a certified trainer designed to make fitness more accessible, inclusive, and empowering for individuals with disabilities or accessibility needs. During these open hours, participants can receive personalized guidance on:Machine and equipment setup\u00a0Exercise instruction and form checkingModifications and alternative movementsGeneral support for unique needsThis is a judgment\u2011free, welcoming space where every individual can feel supported, capable, and empowered in their fitness journey. No appointments required, just show up, and our trainer will help you move in the way that works best for you.",
+            "image": "",
+            "start_date": "2026-03-24 12:00:00",
+            "end_date": "2026-03-24 13:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1435714079,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -48292,6 +48658,29 @@
             "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 2378947420,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-03-24 17:00:00",
+            "end_date": "2026-03-24 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
         },
         {
             "id": 1978558511,
@@ -52163,6 +52552,29 @@
             ]
         },
         {
+            "id": 204340445,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Drop-in Hour",
+            "description": "Adaptive Drop\u2011In Hour\u00a0is a dedicated time supervised by a certified trainer designed to make fitness more accessible, inclusive, and empowering for individuals with disabilities or accessibility needs. During these open hours, participants can receive personalized guidance on:Machine and equipment setup\u00a0Exercise instruction and form checkingModifications and alternative movementsGeneral support for unique needsThis is a judgment\u2011free, welcoming space where every individual can feel supported, capable, and empowered in their fitness journey. No appointments required, just show up, and our trainer will help you move in the way that works best for you.",
+            "image": "",
+            "start_date": "2026-03-31 12:00:00",
+            "end_date": "2026-03-31 13:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1746242639,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -52435,6 +52847,29 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 499089839,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-03-31 17:00:00",
+            "end_date": "2026-03-31 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
         },
         {
             "id": 1707515917,
@@ -55532,6 +55967,29 @@
             ]
         },
         {
+            "id": 1414460166,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Drop-in Hour",
+            "description": "Adaptive Drop\u2011In Hour\u00a0is a dedicated time supervised by a certified trainer designed to make fitness more accessible, inclusive, and empowering for individuals with disabilities or accessibility needs. During these open hours, participants can receive personalized guidance on:Machine and equipment setup\u00a0Exercise instruction and form checkingModifications and alternative movementsGeneral support for unique needsThis is a judgment\u2011free, welcoming space where every individual can feel supported, capable, and empowered in their fitness journey. No appointments required, just show up, and our trainer will help you move in the way that works best for you.",
+            "image": "",
+            "start_date": "2026-04-07 12:00:00",
+            "end_date": "2026-04-07 13:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 3777472539,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -55638,6 +56096,29 @@
             "symbol": "figure.run",
             "featuredDecal": null,
             "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3993781299,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-04-07 17:00:00",
+            "end_date": "2026-04-07 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -58454,48 +58935,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 3985229985,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Walks: Move for your Mood",
-            "description": "A wellness walk exploring the science of movement and mood, including the effects of nature, physical activity, and fresh air on mental well-being. This walk encourages students to engage meaningfully with their environment and with one another, fostering a sense of community and shared experience.\u00a0",
-            "image": "",
-            "start_date": "2026-01-23 12:00:00",
-            "end_date": "2026-01-23 13:00:00",
-            "venue": "RAWC Lobby",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.walk",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 99049076,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn To Play Try Women's Only Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-23 14:30:00",
-            "end_date": "2026-01-23 16:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 1747689525,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
