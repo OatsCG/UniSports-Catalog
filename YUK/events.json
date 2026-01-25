@@ -11490,9 +11490,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3894746635,
+            "id": 2739486391,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 8 - Child 7/8 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 7 - Child 7/8 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-14 18:00:00",
@@ -11511,9 +11511,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2739486391,
+            "id": 3894746635,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 7 - Child 7/8 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 8 - Child 7/8 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-14 18:00:00",
@@ -11574,27 +11574,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3922120617,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 3 - Child 3/4 Wednesday 6:30 - 7:15 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-14 18:30:00",
-            "end_date": "2026-01-14 19:15:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 325997743,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 4 - Child 3/4 Wednesday 6:30 - 7:15 pm ",
@@ -11616,9 +11595,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4245031373,
+            "id": 3922120617,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 45 min - Private 5 Wednesday 7:15 - 8:00 pm",
+            "title": "Child/Youth 3 - Child 3/4 Wednesday 6:30 - 7:15 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-14 18:30:00",
+            "end_date": "2026-01-14 19:15:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 568423611,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Adult 2 Wednesday 7:15 - 8:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-14 19:15:00",
@@ -11637,9 +11637,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 568423611,
+            "id": 4245031373,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Adult 2 Wednesday 7:15 - 8:00 pm",
+            "title": "Lions 1-on-1 - 45 min - Private 5 Wednesday 7:15 - 8:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-14 19:15:00",
@@ -11700,9 +11700,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 892221616,
+            "id": 2803224473,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 45 min - Private 7 Wednesday 8:00 - 8:45 pm",
+            "title": "Adult 3 Wednesday 8:00 - 8:45 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-14 20:00:00",
@@ -11721,9 +11721,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2803224473,
+            "id": 892221616,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Adult 3 Wednesday 8:00 - 8:45 pm",
+            "title": "Lions 1-on-1 - 45 min - Private 7 Wednesday 8:00 - 8:45 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-14 20:00:00",
@@ -12960,27 +12960,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3690361539,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 6 - Child 5/6 Saturday 11:30 - 12:15 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-17 11:30:00",
-            "end_date": "2026-01-17 12:15:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2041690126,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 5 - Child 5/6 Saturday 11:30 - 12:15 pm ",
@@ -13002,9 +12981,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3191618806,
+            "id": 3690361539,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 1 - Child 1 Saturday 11:30 - 12:00 pm ",
+            "title": "Child/Youth 6 - Child 5/6 Saturday 11:30 - 12:15 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-17 11:30:00",
+            "end_date": "2026-01-17 12:15:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1850383387,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Preschool 1 Saturday 11:30 - 12:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-17 11:30:00",
@@ -13023,9 +13023,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1850383387,
+            "id": 3191618806,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Preschool 1 Saturday 11:30 - 12:00 pm",
+            "title": "Child/Youth 1 - Child 1 Saturday 11:30 - 12:00 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-17 11:30:00",
@@ -13107,27 +13107,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1325031168,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 8 - Child 7/8 Saturday 12:20 - 1:05 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-17 12:20:00",
-            "end_date": "2026-01-17 13:05:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4203444871,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 7 - Child 7/8 Saturday 12:20 - 1:05 pm",
@@ -13149,9 +13128,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1267675474,
+            "id": 1325031168,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 3 - Child 3 Saturday 12:40 - 1:25 pm ",
+            "title": "Child/Youth 8 - Child 7/8 Saturday 12:20 - 1:05 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-17 12:20:00",
+            "end_date": "2026-01-17 13:05:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3929365756,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Child/Youth 4 - Child 4 Saturday 12:40 - 1:25 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-17 12:40:00",
@@ -13170,9 +13170,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3929365756,
+            "id": 1267675474,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 4 - Child 4 Saturday 12:40 - 1:25 pm ",
+            "title": "Child/Youth 3 - Child 3 Saturday 12:40 - 1:25 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-17 12:40:00",
@@ -13653,9 +13653,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2600524980,
+            "id": 4069099583,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 30 min - Private M Sunday 1:45 - 2:15 pm",
+            "title": "Lions 1-on-1 - 30 min - Private L Sunday 1:45 - 2:15 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-18 13:45:00",
@@ -13674,9 +13674,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4069099583,
+            "id": 2600524980,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 30 min - Private L Sunday 1:45 - 2:15 pm ",
+            "title": "Lions 1-on-1 - 30 min - Private M Sunday 1:45 - 2:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-18 13:45:00",
@@ -17958,9 +17958,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1781397411,
+            "id": 1150376911,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 8 - Child 7/8 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 7 - Child 7/8 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 18:00:00",
@@ -17979,9 +17979,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1150376911,
+            "id": 1781397411,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 7 - Child 7/8 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 8 - Child 7/8 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 18:00:00",
@@ -18042,9 +18042,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2735540687,
+            "id": 2285142968,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 3 - Child 3/4 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 4 - Child 3/4 Wednesday 6:30 - 7:15 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 18:30:00",
@@ -18063,9 +18063,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2285142968,
+            "id": 2735540687,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 4 - Child 3/4 Wednesday 6:30 - 7:15 pm ",
+            "title": "Child/Youth 3 - Child 3/4 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 18:30:00",
@@ -18189,9 +18189,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 646255412,
+            "id": 1047286966,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 45 min - Private 5 Wednesday 7:15 - 8:00 pm",
+            "title": "Adult 2 Wednesday 7:15 - 8:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 19:15:00",
@@ -18210,9 +18210,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1047286966,
+            "id": 646255412,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Adult 2 Wednesday 7:15 - 8:00 pm",
+            "title": "Lions 1-on-1 - 45 min - Private 5 Wednesday 7:15 - 8:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 19:15:00",
@@ -18399,9 +18399,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 721629750,
+            "id": 3601874463,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 45 min - Private 7 Wednesday 8:00 - 8:45 pm",
+            "title": "Adult 3 Wednesday 8:00 - 8:45 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 20:00:00",
@@ -18420,9 +18420,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3601874463,
+            "id": 721629750,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Adult 3 Wednesday 8:00 - 8:45 pm",
+            "title": "Lions 1-on-1 - 45 min - Private 7 Wednesday 8:00 - 8:45 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-21 20:00:00",
@@ -20541,27 +20541,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4039077266,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 6 - Child 5/6 Saturday 11:30 - 12:15 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-24 11:30:00",
-            "end_date": "2026-01-24 12:15:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2644078820,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 5 - Child 5/6 Saturday 11:30 - 12:15 pm ",
@@ -20583,9 +20562,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3938766264,
+            "id": 4039077266,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 1 - Child 1 Saturday 11:30 - 12:00 pm ",
+            "title": "Child/Youth 6 - Child 5/6 Saturday 11:30 - 12:15 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-24 11:30:00",
+            "end_date": "2026-01-24 12:15:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1731683428,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Preschool 1 Saturday 11:30 - 12:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-24 11:30:00",
@@ -20604,9 +20604,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1731683428,
+            "id": 3938766264,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Preschool 1 Saturday 11:30 - 12:00 pm",
+            "title": "Child/Youth 1 - Child 1 Saturday 11:30 - 12:00 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-24 11:30:00",
@@ -20688,27 +20688,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1358263174,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 8 - Child 7/8 Saturday 12:20 - 1:05 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-24 12:20:00",
-            "end_date": "2026-01-24 13:05:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3228436197,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 7 - Child 7/8 Saturday 12:20 - 1:05 pm",
@@ -20730,9 +20709,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3321019973,
+            "id": 1358263174,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 3 - Child 3 Saturday 12:40 - 1:25 pm ",
+            "title": "Child/Youth 8 - Child 7/8 Saturday 12:20 - 1:05 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-24 12:20:00",
+            "end_date": "2026-01-24 13:05:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 521240274,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Child/Youth 4 - Child 4 Saturday 12:40 - 1:25 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-24 12:40:00",
@@ -20751,9 +20751,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 521240274,
+            "id": 3321019973,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 4 - Child 4 Saturday 12:40 - 1:25 pm ",
+            "title": "Child/Youth 3 - Child 3 Saturday 12:40 - 1:25 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-24 12:40:00",
@@ -21486,9 +21486,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1302886622,
+            "id": 992054741,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 30 min - Private M Sunday 1:45 - 2:15 pm",
+            "title": "Lions 1-on-1 - 30 min - Private L Sunday 1:45 - 2:15 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-25 13:45:00",
@@ -21507,9 +21507,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 992054741,
+            "id": 1302886622,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 30 min - Private L Sunday 1:45 - 2:15 pm ",
+            "title": "Lions 1-on-1 - 30 min - Private M Sunday 1:45 - 2:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-25 13:45:00",
@@ -22704,9 +22704,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4126845228,
+            "id": 2921306873,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Wilma CC vs Shuttle Shock BC",
+            "title": "Zaina BC vs Suggestions? BC",
             "description": "",
             "image": "",
             "start_date": "2026-01-26 17:30:00",
@@ -22725,9 +22725,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2921306873,
+            "id": 4126845228,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Zaina BC vs Suggestions? BC",
+            "title": "Wilma CC vs Shuttle Shock BC",
             "description": "",
             "image": "",
             "start_date": "2026-01-26 17:30:00",
@@ -25959,9 +25959,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2376495299,
+            "id": 2626524003,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 8 - Child 7/8 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 7 - Child 7/8 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-28 18:00:00",
@@ -25980,9 +25980,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2626524003,
+            "id": 2376495299,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 7 - Child 7/8 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 8 - Child 7/8 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-28 18:00:00",
@@ -26043,9 +26043,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1800824779,
+            "id": 3680455012,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 3 - Child 3/4 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 4 - Child 3/4 Wednesday 6:30 - 7:15 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-28 18:30:00",
@@ -26064,9 +26064,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3680455012,
+            "id": 1800824779,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 4 - Child 3/4 Wednesday 6:30 - 7:15 pm ",
+            "title": "Child/Youth 3 - Child 3/4 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-28 18:30:00",
@@ -26211,9 +26211,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2638644232,
+            "id": 3853612323,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 45 min - Private 5 Wednesday 7:15 - 8:00 pm",
+            "title": "Adult 2 Wednesday 7:15 - 8:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-28 19:15:00",
@@ -26232,9 +26232,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3853612323,
+            "id": 2638644232,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Adult 2 Wednesday 7:15 - 8:00 pm",
+            "title": "Lions 1-on-1 - 45 min - Private 5 Wednesday 7:15 - 8:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-28 19:15:00",
@@ -26421,9 +26421,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3116009528,
+            "id": 285055679,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 45 min - Private 7 Wednesday 8:00 - 8:45 pm",
+            "title": "Adult 3 Wednesday 8:00 - 8:45 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-28 20:00:00",
@@ -26442,9 +26442,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 285055679,
+            "id": 3116009528,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Adult 3 Wednesday 8:00 - 8:45 pm",
+            "title": "Lions 1-on-1 - 45 min - Private 7 Wednesday 8:00 - 8:45 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-28 20:00:00",
@@ -28395,27 +28395,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1079300308,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 6 - Child 5/6 Saturday 11:30 - 12:15 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-31 11:30:00",
-            "end_date": "2026-01-31 12:15:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1502671687,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 5 - Child 5/6 Saturday 11:30 - 12:15 pm ",
@@ -28437,9 +28416,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3416523521,
+            "id": 1079300308,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 1 - Child 1 Saturday 11:30 - 12:00 pm ",
+            "title": "Child/Youth 6 - Child 5/6 Saturday 11:30 - 12:15 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-31 11:30:00",
+            "end_date": "2026-01-31 12:15:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1435180419,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Preschool 1 Saturday 11:30 - 12:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-01-31 11:30:00",
@@ -28458,9 +28458,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1435180419,
+            "id": 3416523521,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Preschool 1 Saturday 11:30 - 12:00 pm",
+            "title": "Child/Youth 1 - Child 1 Saturday 11:30 - 12:00 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-31 11:30:00",
@@ -28542,27 +28542,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2294065532,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 8 - Child 7/8 Saturday 12:20 - 1:05 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-31 12:20:00",
-            "end_date": "2026-01-31 13:05:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4013544163,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 7 - Child 7/8 Saturday 12:20 - 1:05 pm",
@@ -28584,9 +28563,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2197915773,
+            "id": 2294065532,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 3 - Child 3 Saturday 12:40 - 1:25 pm ",
+            "title": "Child/Youth 8 - Child 7/8 Saturday 12:20 - 1:05 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-31 12:20:00",
+            "end_date": "2026-01-31 13:05:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 75640648,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Child/Youth 4 - Child 4 Saturday 12:40 - 1:25 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-31 12:40:00",
@@ -28605,9 +28605,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 75640648,
+            "id": 2197915773,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 4 - Child 4 Saturday 12:40 - 1:25 pm ",
+            "title": "Child/Youth 3 - Child 3 Saturday 12:40 - 1:25 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-01-31 12:40:00",
@@ -29256,9 +29256,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4239486259,
+            "id": 3781368534,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 30 min - Private M Sunday 1:45 - 2:15 pm",
+            "title": "Lions 1-on-1 - 30 min - Private L Sunday 1:45 - 2:15 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-01 13:45:00",
@@ -29277,9 +29277,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3781368534,
+            "id": 4239486259,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 30 min - Private L Sunday 1:45 - 2:15 pm ",
+            "title": "Lions 1-on-1 - 30 min - Private M Sunday 1:45 - 2:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-01 13:45:00",
@@ -30411,9 +30411,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1611830247,
+            "id": 4151634727,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "1-800-668-2253 CRAQUELINS SC vs Mixx",
+            "title": "Wilma CC vs Rachel CC",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 17:30:00",
@@ -30432,9 +30432,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4151634727,
+            "id": 1611830247,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Wilma CC vs Rachel CC",
+            "title": "1-800-668-2253 CRAQUELINS SC vs Mixx",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 17:30:00",
@@ -33729,9 +33729,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1153506370,
+            "id": 3659624992,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 8 - Child 7/8 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 7 - Child 7/8 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 18:00:00",
@@ -33750,9 +33750,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3659624992,
+            "id": 1153506370,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 7 - Child 7/8 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 8 - Child 7/8 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 18:00:00",
@@ -33813,9 +33813,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3113135142,
+            "id": 4140001098,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 3 - Child 3/4 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 4 - Child 3/4 Wednesday 6:30 - 7:15 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 18:30:00",
@@ -33834,9 +33834,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4140001098,
+            "id": 3113135142,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 4 - Child 3/4 Wednesday 6:30 - 7:15 pm ",
+            "title": "Child/Youth 3 - Child 3/4 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 18:30:00",
@@ -33981,9 +33981,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 254678125,
+            "id": 1467061354,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 45 min - Private 5 Wednesday 7:15 - 8:00 pm",
+            "title": "Adult 2 Wednesday 7:15 - 8:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 19:15:00",
@@ -34002,9 +34002,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1467061354,
+            "id": 254678125,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Adult 2 Wednesday 7:15 - 8:00 pm",
+            "title": "Lions 1-on-1 - 45 min - Private 5 Wednesday 7:15 - 8:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 19:15:00",
@@ -34191,9 +34191,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 902558767,
+            "id": 935231836,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 45 min - Private 7 Wednesday 8:00 - 8:45 pm",
+            "title": "Adult 3 Wednesday 8:00 - 8:45 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 20:00:00",
@@ -34212,9 +34212,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 935231836,
+            "id": 902558767,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Adult 3 Wednesday 8:00 - 8:45 pm",
+            "title": "Lions 1-on-1 - 45 min - Private 7 Wednesday 8:00 - 8:45 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 20:00:00",
@@ -34317,9 +34317,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1523565621,
+            "id": 2823663419,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Deep Receivers BC vs AMSA BC",
+            "title": "Chicken and Rice SC vs Servivors BC",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 21:00:00",
@@ -34338,9 +34338,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2823663419,
+            "id": 1523565621,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Chicken and Rice SC vs Servivors BC",
+            "title": "Deep Receivers BC vs AMSA BC",
             "description": "",
             "image": "",
             "start_date": "2026-02-04 21:00:00",
@@ -36144,27 +36144,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1527604075,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 6 - Child 5/6 Saturday 11:30 - 12:15 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-07 11:30:00",
-            "end_date": "2026-02-07 12:15:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2452756222,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 5 - Child 5/6 Saturday 11:30 - 12:15 pm ",
@@ -36186,9 +36165,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2178815369,
+            "id": 1527604075,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 1 - Child 1 Saturday 11:30 - 12:00 pm ",
+            "title": "Child/Youth 6 - Child 5/6 Saturday 11:30 - 12:15 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-07 11:30:00",
+            "end_date": "2026-02-07 12:15:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 33363944,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Preschool 1 Saturday 11:30 - 12:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-07 11:30:00",
@@ -36207,9 +36207,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 33363944,
+            "id": 2178815369,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Preschool 1 Saturday 11:30 - 12:00 pm",
+            "title": "Child/Youth 1 - Child 1 Saturday 11:30 - 12:00 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-07 11:30:00",
@@ -36291,27 +36291,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2456270324,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 8 - Child 7/8 Saturday 12:20 - 1:05 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-07 12:20:00",
-            "end_date": "2026-02-07 13:05:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3460316140,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 7 - Child 7/8 Saturday 12:20 - 1:05 pm",
@@ -36333,9 +36312,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3717320071,
+            "id": 2456270324,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 3 - Child 3 Saturday 12:40 - 1:25 pm ",
+            "title": "Child/Youth 8 - Child 7/8 Saturday 12:20 - 1:05 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-07 12:20:00",
+            "end_date": "2026-02-07 13:05:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 4193055469,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Child/Youth 4 - Child 4 Saturday 12:40 - 1:25 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-07 12:40:00",
@@ -36354,9 +36354,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4193055469,
+            "id": 3717320071,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 4 - Child 4 Saturday 12:40 - 1:25 pm ",
+            "title": "Child/Youth 3 - Child 3 Saturday 12:40 - 1:25 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-07 12:40:00",
@@ -37026,9 +37026,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4089435877,
+            "id": 1738710320,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 30 min - Private M Sunday 1:45 - 2:15 pm",
+            "title": "Lions 1-on-1 - 30 min - Private L Sunday 1:45 - 2:15 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-08 13:45:00",
@@ -37047,9 +37047,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1738710320,
+            "id": 4089435877,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 30 min - Private L Sunday 1:45 - 2:15 pm ",
+            "title": "Lions 1-on-1 - 30 min - Private M Sunday 1:45 - 2:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-08 13:45:00",
@@ -40806,9 +40806,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 128791975,
+            "id": 2417174870,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 8 - Child 7/8 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 7 - Child 7/8 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 18:00:00",
@@ -40827,9 +40827,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2417174870,
+            "id": 128791975,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 7 - Child 7/8 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 8 - Child 7/8 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 18:00:00",
@@ -40890,9 +40890,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 703109740,
+            "id": 3750311692,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 3 - Child 3/4 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 4 - Child 3/4 Wednesday 6:30 - 7:15 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 18:30:00",
@@ -40911,9 +40911,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3750311692,
+            "id": 703109740,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 4 - Child 3/4 Wednesday 6:30 - 7:15 pm ",
+            "title": "Child/Youth 3 - Child 3/4 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 18:30:00",
@@ -41037,9 +41037,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1288374035,
+            "id": 686594625,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 45 min - Private 5 Wednesday 7:15 - 8:00 pm",
+            "title": "Adult 2 Wednesday 7:15 - 8:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 19:15:00",
@@ -41058,9 +41058,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 686594625,
+            "id": 1288374035,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Adult 2 Wednesday 7:15 - 8:00 pm",
+            "title": "Lions 1-on-1 - 45 min - Private 5 Wednesday 7:15 - 8:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 19:15:00",
@@ -41247,9 +41247,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2330060673,
+            "id": 3032858951,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 45 min - Private 7 Wednesday 8:00 - 8:45 pm",
+            "title": "Adult 3 Wednesday 8:00 - 8:45 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 20:00:00",
@@ -41268,9 +41268,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3032858951,
+            "id": 2330060673,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Adult 3 Wednesday 8:00 - 8:45 pm",
+            "title": "Lions 1-on-1 - 45 min - Private 7 Wednesday 8:00 - 8:45 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 20:00:00",
@@ -44397,27 +44397,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3266740263,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 6 - Child 5/6 Saturday 11:30 - 12:15 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-21 11:30:00",
-            "end_date": "2026-02-21 12:15:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1228114592,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 5 - Child 5/6 Saturday 11:30 - 12:15 pm ",
@@ -44439,9 +44418,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3904903660,
+            "id": 3266740263,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 1 - Child 1 Saturday 11:30 - 12:00 pm ",
+            "title": "Child/Youth 6 - Child 5/6 Saturday 11:30 - 12:15 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-21 11:30:00",
+            "end_date": "2026-02-21 12:15:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3586249545,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Preschool 1 Saturday 11:30 - 12:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-21 11:30:00",
@@ -44460,9 +44460,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3586249545,
+            "id": 3904903660,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Preschool 1 Saturday 11:30 - 12:00 pm",
+            "title": "Child/Youth 1 - Child 1 Saturday 11:30 - 12:00 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-21 11:30:00",
@@ -44544,27 +44544,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1361055970,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 8 - Child 7/8 Saturday 12:20 - 1:05 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-21 12:20:00",
-            "end_date": "2026-02-21 13:05:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3634949529,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 7 - Child 7/8 Saturday 12:20 - 1:05 pm",
@@ -44586,9 +44565,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 487095746,
+            "id": 1361055970,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 3 - Child 3 Saturday 12:40 - 1:25 pm ",
+            "title": "Child/Youth 8 - Child 7/8 Saturday 12:20 - 1:05 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-21 12:20:00",
+            "end_date": "2026-02-21 13:05:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3100209028,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Child/Youth 4 - Child 4 Saturday 12:40 - 1:25 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-21 12:40:00",
@@ -44607,9 +44607,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3100209028,
+            "id": 487095746,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 4 - Child 4 Saturday 12:40 - 1:25 pm ",
+            "title": "Child/Youth 3 - Child 3 Saturday 12:40 - 1:25 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-21 12:40:00",
@@ -45300,9 +45300,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 73805492,
+            "id": 3198400775,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 30 min - Private M Sunday 1:45 - 2:15 pm",
+            "title": "Lions 1-on-1 - 30 min - Private L Sunday 1:45 - 2:15 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-22 13:45:00",
@@ -45321,9 +45321,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3198400775,
+            "id": 73805492,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 30 min - Private L Sunday 1:45 - 2:15 pm ",
+            "title": "Lions 1-on-1 - 30 min - Private M Sunday 1:45 - 2:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-22 13:45:00",
@@ -48954,9 +48954,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3519429996,
+            "id": 2681422460,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 8 - Child 7/8 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 7 - Child 7/8 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 18:00:00",
@@ -48975,9 +48975,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2681422460,
+            "id": 3519429996,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 7 - Child 7/8 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 8 - Child 7/8 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 18:00:00",
@@ -49038,9 +49038,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1631926883,
+            "id": 4085683169,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 3 - Child 3/4 Wednesday 6:30 - 7:15 pm",
+            "title": "Child/Youth 4 - Child 3/4 Wednesday 6:30 - 7:15 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 18:30:00",
@@ -49059,9 +49059,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4085683169,
+            "id": 1631926883,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 4 - Child 3/4 Wednesday 6:30 - 7:15 pm ",
+            "title": "Child/Youth 3 - Child 3/4 Wednesday 6:30 - 7:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 18:30:00",
@@ -49185,9 +49185,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1083804295,
+            "id": 3021779745,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 45 min - Private 5 Wednesday 7:15 - 8:00 pm",
+            "title": "Adult 2 Wednesday 7:15 - 8:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 19:15:00",
@@ -49206,9 +49206,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3021779745,
+            "id": 1083804295,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Adult 2 Wednesday 7:15 - 8:00 pm",
+            "title": "Lions 1-on-1 - 45 min - Private 5 Wednesday 7:15 - 8:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 19:15:00",
@@ -49332,9 +49332,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 913390409,
+            "id": 2896601029,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "CALcuim CC vs Hey Baby SC",
+            "title": "Glazers SC vs Way of Zaids BC",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 20:00:00",
@@ -49353,9 +49353,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2896601029,
+            "id": 913390409,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Glazers SC vs Way of Zaids BC",
+            "title": "CALcuim CC vs Hey Baby SC",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 20:00:00",
@@ -49395,9 +49395,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 999976226,
+            "id": 2653977942,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Lions 1-on-1 - 45 min - Private 7 Wednesday 8:00 - 8:45 pm",
+            "title": "Adult 3 Wednesday 8:00 - 8:45 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 20:00:00",
@@ -49416,9 +49416,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2653977942,
+            "id": 999976226,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Adult 3 Wednesday 8:00 - 8:45 pm",
+            "title": "Lions 1-on-1 - 45 min - Private 7 Wednesday 8:00 - 8:45 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-25 20:00:00",
@@ -51369,27 +51369,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 814840382,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 6 - Child 5/6 Saturday 11:30 - 12:15 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-28 11:30:00",
-            "end_date": "2026-02-28 12:15:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 662187770,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 5 - Child 5/6 Saturday 11:30 - 12:15 pm ",
@@ -51411,9 +51390,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1948559592,
+            "id": 814840382,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 1 - Child 1 Saturday 11:30 - 12:00 pm ",
+            "title": "Child/Youth 6 - Child 5/6 Saturday 11:30 - 12:15 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-28 11:30:00",
+            "end_date": "2026-02-28 12:15:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 37388943,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Preschool 1 Saturday 11:30 - 12:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-02-28 11:30:00",
@@ -51432,9 +51432,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 37388943,
+            "id": 1948559592,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Preschool 1 Saturday 11:30 - 12:00 pm",
+            "title": "Child/Youth 1 - Child 1 Saturday 11:30 - 12:00 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-28 11:30:00",
@@ -51516,27 +51516,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3789888698,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 8 - Child 7/8 Saturday 12:20 - 1:05 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-28 12:20:00",
-            "end_date": "2026-02-28 13:05:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1112505772,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Child/Youth 7 - Child 7/8 Saturday 12:20 - 1:05 pm",
@@ -51558,9 +51537,30 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2174173889,
+            "id": 3789888698,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 3 - Child 3 Saturday 12:40 - 1:25 pm ",
+            "title": "Child/Youth 8 - Child 7/8 Saturday 12:20 - 1:05 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-28 12:20:00",
+            "end_date": "2026-02-28 13:05:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 24668210,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Child/Youth 4 - Child 4 Saturday 12:40 - 1:25 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-28 12:40:00",
@@ -51579,9 +51579,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 24668210,
+            "id": 2174173889,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Child/Youth 4 - Child 4 Saturday 12:40 - 1:25 pm ",
+            "title": "Child/Youth 3 - Child 3 Saturday 12:40 - 1:25 pm ",
             "description": "",
             "image": "",
             "start_date": "2026-02-28 12:40:00",
