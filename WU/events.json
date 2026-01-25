@@ -39317,27 +39317,6 @@
     ],
     "featured": [
         {
-            "id": 604446622,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-24 01:00:00",
-            "end_date": "2026-01-24 03:00:00",
-            "venue": "Gymnasia",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 929314724,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Event- Glow Pickleball",
