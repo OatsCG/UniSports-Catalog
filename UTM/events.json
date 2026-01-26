@@ -7943,29 +7943,6 @@
             ]
         },
         {
-            "id": 1656541909,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Student Night Sundays",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-11 18:00:00",
-            "end_date": "2026-01-11 20:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 2724650066,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Indoor Soccer",
@@ -11642,29 +11619,6 @@
             ]
         },
         {
-            "id": 3438438932,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Student Night Sundays",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-18 18:00:00",
-            "end_date": "2026-01-18 20:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 1912899828,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Facilitated Basketball",
@@ -14947,27 +14901,6 @@
             ]
         },
         {
-            "id": 1781868089,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals: Open Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-23 16:30:00",
-            "end_date": "2026-01-23 20:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1592930448,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Basketball",
@@ -14989,6 +14922,27 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 1781868089,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Intramurals: Open Cricket",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-23 16:30:00",
+            "end_date": "2026-01-23 20:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Cricket",
+            "symbol": "cricket.ball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 1058632596,
@@ -15125,27 +15079,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1017199972,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball ",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-24 10:00:00",
-            "end_date": "2026-01-24 12:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 370166845,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -15167,6 +15100,27 @@
             "weeklyRepetitions": [
                 "sa"
             ]
+        },
+        {
+            "id": 1017199972,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-24 10:00:00",
+            "end_date": "2026-01-24 12:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 130433692,
@@ -15350,6 +15304,27 @@
             "bipoc": false,
             "intramurals": false,
             "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3062144343,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "RAWC closed due to inclement weather",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-25 08:04:00",
+            "end_date": "2026-01-25 09:04:00",
+            "venue": "",
+            "ticket_label": "UTM Campus Status",
+            "ticket_url": "https://www.utm.utoronto.ca/visitors/campus-status",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -15629,50 +15604,6 @@
             ]
         },
         {
-            "id": 3532284100,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Student Night Sundays",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-25 18:00:00",
-            "end_date": "2026-01-25 20:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 1467059666,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Facilitated Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-25 18:00:00",
-            "end_date": "2026-01-25 20:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3350515198,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Indoor Soccer",
@@ -15832,6 +15763,27 @@
             "weeklyRepetitions": [
                 "mo"
             ]
+        },
+        {
+            "id": 1157051620,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "RAWC closed due to winter storm conditions",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-26 08:04:00",
+            "end_date": "2026-01-26 08:04:00",
+            "venue": "",
+            "ticket_label": "UTM Campus Status",
+            "ticket_url": "https://www.utm.utoronto.ca/visitors/campus-status",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
         },
         {
             "id": 1907777207,
