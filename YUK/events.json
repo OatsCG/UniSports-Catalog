@@ -21318,27 +21318,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2755910894,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Drop-In Lane and Leisure Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-25 13:00:00",
-            "end_date": "2026-01-25 16:00:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2072120837,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Leadership - Bronze Star - Bronze Star Sunday 1:00 - 2:30 pm ",
@@ -51874,27 +51853,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 1046093755,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Leadership - National Lifeguard Pool Recert - NL Recert Sunday January 25 9:00 - 1:00 ",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-25 09:00:00",
-            "end_date": "2026-01-25 13:00:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "lifepreserver",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 3814182634,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
