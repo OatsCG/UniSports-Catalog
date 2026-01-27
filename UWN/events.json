@@ -48347,27 +48347,6 @@
     ],
     "featured": [
         {
-            "id": 2599925642,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "PAC to Shoot Video",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-26 12:30:00",
-            "end_date": "2026-01-26 14:30:00",
-            "venue": "Court 1 - Lancer Gym",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3760080555,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Open Recreation - Volleyball",
