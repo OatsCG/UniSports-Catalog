@@ -843,29 +843,7 @@
             "weeklyRepetitions": []
         }
     ],
-    "featured": [
-        {
-            "id": 4124225829,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Badminton Tournaments - Badminton Doubles (Open) Tournament",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-26 19:00:00",
-            "end_date": "2026-01-26 22:00:00",
-            "venue": "Gym 3",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        }
-    ],
+    "featured": [],
     "announcements": [
         {
             "id": 220250925,
