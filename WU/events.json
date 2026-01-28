@@ -39359,27 +39359,6 @@
     ],
     "featured": [
         {
-            "id": 1470534685,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "W Football",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-27 06:30:00",
-            "end_date": "2026-01-27 08:30:00",
-            "venue": "Gymnasia",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Football",
-            "symbol": "american.football",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1663832667,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Glow Pickleball",
