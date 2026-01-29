@@ -5202,29 +5202,6 @@
             ]
         },
         {
-            "id": 1882577877,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-01-06 12:00:00",
-            "end_date": "2026-01-06 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2109556020,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -5555,29 +5532,6 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3039663063,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-01-06 18:10:00",
-            "end_date": "2026-01-06 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -8894,29 +8848,6 @@
             ]
         },
         {
-            "id": 823587434,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-01-13 12:00:00",
-            "end_date": "2026-01-13 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2194824895,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -9268,29 +9199,6 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 1112343844,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-01-13 18:10:00",
-            "end_date": "2026-01-13 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -12646,29 +12554,6 @@
             ]
         },
         {
-            "id": 155520209,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-01-20 12:00:00",
-            "end_date": "2026-01-20 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4280776648,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -12983,29 +12868,6 @@
             "intramurals": true,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 3520558679,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-01-20 18:10:00",
-            "end_date": "2026-01-20 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
         },
         {
             "id": 514079603,
@@ -16662,29 +16524,6 @@
             ]
         },
         {
-            "id": 2032749485,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-01-27 12:00:00",
-            "end_date": "2026-01-27 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3263566240,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -16777,12 +16616,12 @@
             ]
         },
         {
-            "id": 4254629201,
+            "id": 2674817963,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball ",
             "description": "",
             "image": "",
-            "start_date": "2026-01-27 16:00:00",
+            "start_date": "2026-01-27 15:30:00",
             "end_date": "2026-01-27 18:30:00",
             "venue": "Gym C",
             "ticket_label": "",
@@ -17005,18 +16844,18 @@
             ]
         },
         {
-            "id": 3554342613,
+            "id": 2412630722,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
+            "title": "Learn to Play: Squash",
+            "description": "",
             "image": "",
-            "start_date": "2026-01-27 18:10:00",
-            "end_date": "2026-01-27 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
+            "start_date": "2026-01-27 19:00:00",
+            "end_date": "2026-01-27 20:30:00",
+            "venue": "Squash Court",
+            "ticket_label": "Learn more & register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89d907fe-8a54-4c8f-b4c8-266054b8c5c1",
+            "sortCategory": "Other",
+            "symbol": "flag",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -17047,29 +16886,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 2412630722,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play: Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-27 19:00:00",
-            "end_date": "2026-01-27 20:30:00",
-            "venue": "Squash Court",
-            "ticket_label": "Learn more & register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89d907fe-8a54-4c8f-b4c8-266054b8c5c1",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
         },
         {
             "id": 2007902824,
@@ -17187,29 +17003,6 @@
             ]
         },
         {
-            "id": 2062966050,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-28 07:00:00",
-            "end_date": "2026-01-28 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1155337652,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -17256,6 +17049,29 @@
             ]
         },
         {
+            "id": 2062966050,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-28 07:00:00",
+            "end_date": "2026-01-28 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 1611530376,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -17268,6 +17084,29 @@
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3517198813,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-28 07:30:00",
+            "end_date": "2026-01-28 21:30:00",
+            "venue": "Multi-Purpose Room B",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -17314,29 +17153,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3517198813,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-28 07:30:00",
-            "end_date": "2026-01-28 21:30:00",
-            "venue": "Multi-Purpose Room B",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -19063,6 +18879,27 @@
             ]
         },
         {
+            "id": 4115834212,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-30 18:30:00",
+            "end_date": "2026-01-30 21:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1256719051,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Games, Play and Nets ",
@@ -19098,27 +18935,6 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 346973844,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-30 21:00:00",
-            "end_date": "2026-01-30 21:45:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -20757,29 +20573,6 @@
             ]
         },
         {
-            "id": 2702620336,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-02-03 12:00:00",
-            "end_date": "2026-02-03 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3896179780,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -21102,6 +20895,29 @@
             ]
         },
         {
+            "id": 1430705980,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates Reformer Circuit",
+            "description": "Elevate your Pilates practice with our dynamic Pilates Circuit class! This energizing, full-body workout moves you through a series of stations using a variety of specialized equipment including the Reformer, Chair, Arc Barrel, Mat, and small props like Pilates rings and toning balls. Each station targets different muscle groups, blending strength, balance, flexibility, and core stability for a complete workout. The circuit format keeps things fresh and engaging, while the small group setting ensures personalized attention and proper form. Perfect for all levels, this class will leave you feeling strong, aligned, and revitalized! This class offers modified exercises and supportive techniques to ensure comfort and accessibility",
+            "image": "",
+            "start_date": "2026-02-03 18:00:00",
+            "end_date": "2026-02-03 19:00:00",
+            "venue": "Fitness Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89475c69-58cb-4de3-a6f1-8b46538fce9d",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 245186817,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Stand-Up Paddleboard (SUP)",
@@ -21114,29 +20930,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=aff0b1e4-a13c-448f-aa1f-8cb1afa12e93",
             "sortCategory": "Swim",
             "symbol": "water.waves",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2843249457,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-02-03 18:10:00",
-            "end_date": "2026-02-03 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -21286,29 +21079,6 @@
             ]
         },
         {
-            "id": 1284133879,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-04 07:00:00",
-            "end_date": "2026-02-04 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 85255428,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -21355,6 +21125,29 @@
             ]
         },
         {
+            "id": 1284133879,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-04 07:00:00",
+            "end_date": "2026-02-04 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 2431867073,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -21367,6 +21160,29 @@
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 959350365,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-04 07:30:00",
+            "end_date": "2026-02-04 21:30:00",
+            "venue": "Multi-Purpose Room B",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -21413,29 +21229,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 959350365,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-04 07:30:00",
-            "end_date": "2026-02-04 21:30:00",
-            "venue": "Multi-Purpose Room B",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -24860,29 +24653,6 @@
             ]
         },
         {
-            "id": 2480945953,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-02-10 12:00:00",
-            "end_date": "2026-02-10 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2808626686,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -25205,6 +24975,29 @@
             ]
         },
         {
+            "id": 3632756914,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates Reformer Circuit",
+            "description": "Elevate your Pilates practice with our dynamic Pilates Circuit class! This energizing, full-body workout moves you through a series of stations using a variety of specialized equipment including the Reformer, Chair, Arc Barrel, Mat, and small props like Pilates rings and toning balls. Each station targets different muscle groups, blending strength, balance, flexibility, and core stability for a complete workout. The circuit format keeps things fresh and engaging, while the small group setting ensures personalized attention and proper form. Perfect for all levels, this class will leave you feeling strong, aligned, and revitalized! This class offers modified exercises and supportive techniques to ensure comfort and accessibility",
+            "image": "",
+            "start_date": "2026-02-10 18:00:00",
+            "end_date": "2026-02-10 19:00:00",
+            "venue": "Fitness Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89475c69-58cb-4de3-a6f1-8b46538fce9d",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 693555001,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Stand-Up Paddleboard (SUP)",
@@ -25217,29 +25010,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=aff0b1e4-a13c-448f-aa1f-8cb1afa12e93",
             "sortCategory": "Swim",
             "symbol": "water.waves",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 129758852,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-02-10 18:10:00",
-            "end_date": "2026-02-10 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -25389,29 +25159,6 @@
             ]
         },
         {
-            "id": 1044599969,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-11 07:00:00",
-            "end_date": "2026-02-11 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3874186385,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -25458,6 +25205,29 @@
             ]
         },
         {
+            "id": 1044599969,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-11 07:00:00",
+            "end_date": "2026-02-11 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 2344850769,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -25470,6 +25240,29 @@
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3059436165,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-11 07:30:00",
+            "end_date": "2026-02-11 21:30:00",
+            "venue": "Multi-Purpose Room B",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -25516,29 +25309,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=60a61178-7629-4c21-9585-ff5f51935936",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3059436165,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-11 07:30:00",
-            "end_date": "2026-02-11 21:30:00",
-            "venue": "Multi-Purpose Room B",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -28277,29 +28047,6 @@
             ]
         },
         {
-            "id": 3419680981,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-02-17 12:00:00",
-            "end_date": "2026-02-17 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2340483495,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -28549,29 +28296,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 992500486,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-02-17 18:10:00",
-            "end_date": "2026-02-17 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
         },
         {
             "id": 3779318159,
@@ -31176,7 +30900,7 @@
         {
             "id": 1681845897,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
+            "title": "Learn to Play Volleyball ",
             "description": "",
             "image": "",
             "start_date": "2026-02-23 14:30:00",
@@ -31184,8 +30908,8 @@
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
+            "sortCategory": "Other",
+            "symbol": "flag",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -31812,29 +31536,6 @@
             ]
         },
         {
-            "id": 2160324461,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-02-24 12:00:00",
-            "end_date": "2026-02-24 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4158653485,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -32176,29 +31877,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 296249375,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-02-24 18:10:00",
-            "end_date": "2026-02-24 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
         },
         {
             "id": 890677436,
@@ -35823,29 +35501,6 @@
             ]
         },
         {
-            "id": 3238715095,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-03-03 12:00:00",
-            "end_date": "2026-03-03 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2585928802,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -36210,29 +35865,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 1934421773,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-03-03 18:10:00",
-            "end_date": "2026-03-03 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
         },
         {
             "id": 3940009073,
@@ -40076,29 +39708,6 @@
             ]
         },
         {
-            "id": 2130874650,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-03-10 12:00:00",
-            "end_date": "2026-03-10 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 568421212,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -40433,29 +40042,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=aff0b1e4-a13c-448f-aa1f-8cb1afa12e93",
             "sortCategory": "Swim",
             "symbol": "water.waves",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 1928409738,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-03-10 18:10:00",
-            "end_date": "2026-03-10 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -44162,29 +43748,6 @@
             ]
         },
         {
-            "id": 3035799040,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-03-17 12:00:00",
-            "end_date": "2026-03-17 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2829404749,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -44496,29 +44059,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f",
             "sortCategory": "Workout",
             "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3626590909,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-03-17 18:10:00",
-            "end_date": "2026-03-17 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -48288,29 +47828,6 @@
             ]
         },
         {
-            "id": 1435714079,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-03-24 12:00:00",
-            "end_date": "2026-03-24 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3347099626,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -48673,29 +48190,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 188748361,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-03-24 18:10:00",
-            "end_date": "2026-03-24 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
         },
         {
             "id": 3788490520,
@@ -52477,29 +51971,6 @@
             ]
         },
         {
-            "id": 1746242639,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-03-31 12:00:00",
-            "end_date": "2026-03-31 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1967007970,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -52885,29 +52356,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 1708156664,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-03-31 18:10:00",
-            "end_date": "2026-03-31 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
         },
         {
             "id": 4018423277,
@@ -55892,29 +55340,6 @@
             ]
         },
         {
-            "id": 3777472539,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-04-07 12:00:00",
-            "end_date": "2026-04-07 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4201393977,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in PRIDE Badminton & Volleyball",
@@ -56111,29 +55536,6 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2912948122,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-04-07 18:10:00",
-            "end_date": "2026-04-07 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -57284,29 +56686,6 @@
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 359686427,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get the heart pumping with a series of sprints, hills and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2026-04-14 12:00:00",
-            "end_date": "2026-04-14 13:00:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -58976,6 +58355,27 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-moves/utm-outdoor-adventures/utm-skis-snowboards-winter-sport-adventure",
             "sortCategory": "Other",
             "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1681845897,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play Volleyball ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-23 14:30:00",
+            "end_date": "2026-02-23 16:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
