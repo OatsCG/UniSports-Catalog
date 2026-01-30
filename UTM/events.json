@@ -58217,27 +58217,6 @@
     ],
     "featured": [
         {
-            "id": 1747689525,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM MOVES: New Year, New Moves",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-29 11:00:00",
-            "end_date": "2026-01-29 14:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "Register now",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=a3d881b0-b6a0-4f15-b4a8-8163488f6753",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2698297405,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "OCR Men's and Women's Cricket Tournament",
