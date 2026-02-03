@@ -1725,6 +1725,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3082084089,
+            "url": "https://anc.ca.apm.activecommunities.com/brocku",
+            "title": "Women's Only Drop in Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-12 18:00:00",
+            "end_date": "2026-02-12 20:00:00",
+            "venue": "Gym 2",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2008280928,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
             "title": "Drop In Volleyball",
@@ -2271,6 +2292,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 259416529,
+            "url": "https://anc.ca.apm.activecommunities.com/brocku",
+            "title": "Women's Only Drop in Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-19 18:00:00",
+            "end_date": "2026-02-19 20:00:00",
+            "venue": "Gym 2",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 4189259146,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
             "title": "Drop In Volleyball",
@@ -2419,27 +2461,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 2072212837,
-            "url": "https://anc.ca.apm.activecommunities.com/brocku",
-            "title": "Women's Only Drop in Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-05 18:00:00",
-            "end_date": "2026-02-05 20:00:00",
-            "venue": "Gym 2",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 360996717,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
