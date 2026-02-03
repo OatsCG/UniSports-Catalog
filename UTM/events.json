@@ -20659,6 +20659,27 @@
             ]
         },
         {
+            "id": 1546534505,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-03 15:30:00",
+            "end_date": "2026-02-03 18:15:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3042422592,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Fitness Swim",
@@ -20699,29 +20720,6 @@
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3942262576,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals: Tournament Tuesday",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-03 16:00:00",
-            "end_date": "2026-02-03 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
             "closure": false,
             "weeklyRepetitions": [
                 "tu"
@@ -20910,6 +20908,27 @@
             "weeklyRepetitions": [
                 "tu"
             ]
+        },
+        {
+            "id": 3769635152,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-03 18:45:00",
+            "end_date": "2026-02-03 21:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 1080429317,
@@ -58394,27 +58413,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 4115510435,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Walks: Learn About Resources for International Students",
-            "description": "A wellness walk exploring the science of movement and mood, including the effects of nature, physical activity, and fresh air on mental well-being. This walk encourages students to engage meaningfully with their environment and with one another, fostering a sense of community and shared experience.\u00a0",
-            "image": "",
-            "start_date": "2026-02-02 12:00:00",
-            "end_date": "2026-02-02 13:00:00",
-            "venue": "RAWC Lobby",
-            "ticket_label": "Register Here",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=ecbe0f57-ab91-459e-b2d0-2c1ecbc9404b",
-            "sortCategory": "Recreation",
-            "symbol": "figure.walk",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 2034992700,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
