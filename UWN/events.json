@@ -7920,9 +7920,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3569608734,
+            "id": 162620608,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-01-20 19:15:00",
@@ -9789,9 +9789,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 512295794,
+            "id": 1755907149,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 19:15:00",
@@ -13779,9 +13779,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 246318868,
+            "id": 3180206392,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-01-27 19:15:00",
@@ -15585,9 +15585,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1844203441,
+            "id": 3573089998,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 19:15:00",
@@ -19617,9 +19617,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1683825015,
+            "id": 3417354758,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-02-03 19:15:00",
@@ -21507,9 +21507,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 923156813,
+            "id": 341812647,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 19:15:00",
@@ -23481,6 +23481,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2559079605,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "GYM CLOSED FOR MAINTENANCE",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-09 07:00:00",
+            "end_date": "2026-02-09 12:00:00",
+            "venue": "Court 1 - Lancer Gym",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 4040217750,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Open Rec - Volleyball",
@@ -25308,9 +25329,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2550075611,
+            "id": 468623354,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-02-10 19:15:00",
@@ -25434,6 +25455,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 819977907,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "MPR CLOSED FOR MAINTENANCE",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-11 07:00:00",
+            "end_date": "2026-02-11 12:00:00",
+            "venue": "Multipurpose Room - St. Denis (Rm F103)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3344898088,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Fit Lanes (1 hour)",
@@ -25455,24 +25497,24 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2391195852,
+            "id": 66998739,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "The Armoury - Open Rec Workouts",
+            "title": "CLOSED FOR MAINTENANCE",
             "description": "",
             "image": "",
             "start_date": "2026-02-11 07:00:00",
-            "end_date": "2026-02-11 23:00:00",
+            "end_date": "2026-02-11 12:00:00",
             "venue": "The Armoury",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
-            "closure": false,
+            "closure": true,
             "weeklyRepetitions": []
         },
         {
@@ -25652,6 +25694,27 @@
             "start_date": "2026-02-11 12:00:00",
             "end_date": "2026-02-11 13:00:00",
             "venue": "Group Fitness Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2176432344,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "The Armoury - Open Rec Workouts",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-11 12:00:00",
+            "end_date": "2026-02-11 23:00:00",
+            "venue": "The Armoury",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Workout",
@@ -27093,9 +27156,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1504927001,
+            "id": 1318676051,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 19:15:00",
@@ -27420,27 +27483,6 @@
             "ticket_url": "",
             "sortCategory": "Soccer",
             "symbol": "soccerball",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 3354084786,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Women's Only HIIT (Lancer Fit)",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-13 12:00:00",
-            "end_date": "2026-02-13 13:00:00",
-            "venue": "Group Fitness Studio",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -30810,9 +30852,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 611997987,
+            "id": 1892999856,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-02-17 19:15:00",
@@ -32406,9 +32448,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 498952148,
+            "id": 1930687003,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-02-19 19:15:00",
@@ -36018,9 +36060,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4046009585,
+            "id": 496329195,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-02-24 19:15:00",
@@ -37677,9 +37719,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 875492412,
+            "id": 2993372337,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 19:15:00",
@@ -41163,9 +41205,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2348490456,
+            "id": 2645599137,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-03-03 19:15:00",
@@ -42654,9 +42696,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1031122076,
+            "id": 989343721,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-03-05 19:15:00",
@@ -46077,9 +46119,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1706410615,
+            "id": 1965906956,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-03-10 19:15:00",
@@ -47547,9 +47589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1050789049,
+            "id": 1580955222,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-03-12 19:15:00",
@@ -50802,9 +50844,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 901267023,
+            "id": 2652449755,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-03-17 19:15:00",
@@ -52230,9 +52272,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3042822335,
+            "id": 1835038435,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-03-19 19:15:00",
@@ -55611,9 +55653,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1046858285,
+            "id": 1969538422,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-03-24 19:15:00",
@@ -56976,9 +57018,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3582025307,
+            "id": 302045678,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-03-26 19:15:00",
@@ -58803,9 +58845,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1156698485,
+            "id": 384631552,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Leisure Swim (1 Hour)",
+            "title": "Fit Lanes (1 hour)",
             "description": "",
             "image": "",
             "start_date": "2026-03-31 19:15:00",
@@ -58846,27 +58888,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 1236340906,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Football Team - Coach Alex Penz",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-06 13:00:00",
-            "end_date": "2026-02-06 14:00:00",
-            "venue": "Strength and Conditioning Studio",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Football",
-            "symbol": "american.football",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 1879175599,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
