@@ -67436,6 +67436,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 1619554773,
+            "url": "https://macreconline.ca/Facility/GetSchedule",
+            "title": "MacPlay - David Yi Group",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-10 16:00:00",
+            "end_date": "2026-03-10 17:30:00",
+            "venue": "Indoor Lane 1",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1150212317,
             "url": "https://macreconline.ca/Facility/GetSchedule",
             "title": "MSU General Assembly",
