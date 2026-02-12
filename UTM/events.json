@@ -4995,29 +4995,6 @@
             ]
         },
         {
-            "id": 3753937582,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-06 11:00:00",
-            "end_date": "2026-01-06 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4077722120,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
@@ -5057,6 +5034,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3753937582,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-06 11:00:00",
+            "end_date": "2026-01-06 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -5798,29 +5798,6 @@
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3757558297,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-01-07 12:10:00",
-            "end_date": "2026-01-07 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
             "sortCategory": "Workout",
             "symbol": "figure.run",
             "featuredDecal": null,
@@ -8411,29 +8388,6 @@
             ]
         },
         {
-            "id": 3191785077,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-13 11:00:00",
-            "end_date": "2026-01-13 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2656581339,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
@@ -8473,6 +8427,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3191785077,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-13 11:00:00",
+            "end_date": "2026-01-13 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -9199,29 +9176,6 @@
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 1361733303,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-01-14 12:10:00",
-            "end_date": "2026-01-14 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
             "sortCategory": "Workout",
             "symbol": "figure.run",
             "featuredDecal": null,
@@ -11749,29 +11703,6 @@
             ]
         },
         {
-            "id": 1310936715,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-20 07:30:00",
-            "end_date": "2026-01-20 18:30:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://recreation.utoronto.ca/booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1994290443,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Runs",
@@ -11784,6 +11715,29 @@
             "ticket_url": "",
             "sortCategory": "Recreation",
             "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1310936715,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-20 07:30:00",
+            "end_date": "2026-01-20 18:30:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -11864,29 +11818,6 @@
             ]
         },
         {
-            "id": 1402198000,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-20 11:00:00",
-            "end_date": "2026-01-20 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 398024982,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
@@ -11926,6 +11857,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1402198000,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-20 11:00:00",
+            "end_date": "2026-01-20 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -12556,29 +12510,6 @@
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2257978695,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-01-21 12:10:00",
-            "end_date": "2026-01-21 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
             "sortCategory": "Workout",
             "symbol": "figure.run",
             "featuredDecal": null,
@@ -15397,29 +15328,6 @@
             ]
         },
         {
-            "id": 1727171037,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-27 07:30:00",
-            "end_date": "2026-01-27 18:30:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://recreation.utoronto.ca/booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 313483655,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Runs",
@@ -15432,6 +15340,29 @@
             "ticket_url": "",
             "sortCategory": "Recreation",
             "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1727171037,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-27 07:30:00",
+            "end_date": "2026-01-27 18:30:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -15512,29 +15443,6 @@
             ]
         },
         {
-            "id": 2666413011,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-27 11:00:00",
-            "end_date": "2026-01-27 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 325195141,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
@@ -15574,6 +15482,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2666413011,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-27 11:00:00",
+            "end_date": "2026-01-27 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -16323,29 +16254,6 @@
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 1776983950,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-01-28 12:10:00",
-            "end_date": "2026-01-28 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
             "sortCategory": "Workout",
             "symbol": "figure.run",
             "featuredDecal": null,
@@ -19187,29 +19095,6 @@
             ]
         },
         {
-            "id": 1180556080,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-03 07:30:00",
-            "end_date": "2026-02-03 18:30:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://recreation.utoronto.ca/booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 25108467,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Runs",
@@ -19222,6 +19107,29 @@
             "ticket_url": "",
             "sortCategory": "Recreation",
             "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1180556080,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-03 07:30:00",
+            "end_date": "2026-02-03 18:30:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -19302,29 +19210,6 @@
             ]
         },
         {
-            "id": 3111792719,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-03 11:00:00",
-            "end_date": "2026-02-03 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2318739127,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
@@ -19364,6 +19249,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3111792719,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-03 11:00:00",
+            "end_date": "2026-02-03 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -20182,29 +20090,6 @@
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 981709955,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-02-04 12:10:00",
-            "end_date": "2026-02-04 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
             "sortCategory": "Workout",
             "symbol": "figure.run",
             "featuredDecal": null,
@@ -23096,29 +22981,6 @@
             ]
         },
         {
-            "id": 482652995,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-10 07:30:00",
-            "end_date": "2026-02-10 18:30:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://recreation.utoronto.ca/booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2377572639,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Runs",
@@ -23131,6 +22993,29 @@
             "ticket_url": "",
             "sortCategory": "Recreation",
             "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 482652995,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-10 07:30:00",
+            "end_date": "2026-02-10 18:30:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -23211,29 +23096,6 @@
             ]
         },
         {
-            "id": 1164458455,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-10 11:00:00",
-            "end_date": "2026-02-10 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 96130707,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC WOD (Workout of the Day)",
@@ -23273,6 +23135,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1164458455,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-10 11:00:00",
+            "end_date": "2026-02-10 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -24091,29 +23976,6 @@
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2216930128,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-02-11 12:10:00",
-            "end_date": "2026-02-11 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
             "sortCategory": "Workout",
             "symbol": "figure.run",
             "featuredDecal": null,
@@ -27151,29 +27013,6 @@
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3110619417,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-02-18 12:10:00",
-            "end_date": "2026-02-18 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
             "sortCategory": "Workout",
             "symbol": "figure.run",
             "featuredDecal": null,
@@ -30931,29 +30770,6 @@
             ]
         },
         {
-            "id": 4018726289,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-02-25 12:10:00",
-            "end_date": "2026-02-25 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 769072382,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cardio Dance",
@@ -30966,6 +30782,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=c1cb56b1-b67c-4fcf-92f4-78930c310815",
             "sortCategory": "Workout",
             "symbol": "heart",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 4018726289,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "SUP Bootcamp",
+            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
+            "image": "",
+            "start_date": "2026-02-25 12:10:00",
+            "end_date": "2026-02-25 12:55:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -34942,29 +34781,6 @@
             ]
         },
         {
-            "id": 4082213871,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-03-04 12:10:00",
-            "end_date": "2026-03-04 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 333053752,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cardio Dance",
@@ -34977,6 +34793,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=c1cb56b1-b67c-4fcf-92f4-78930c310815",
             "sortCategory": "Workout",
             "symbol": "heart",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 4082213871,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "SUP Bootcamp",
+            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
+            "image": "",
+            "start_date": "2026-03-04 12:10:00",
+            "end_date": "2026-03-04 12:55:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -39151,29 +38990,6 @@
             ]
         },
         {
-            "id": 530614151,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-03-11 12:10:00",
-            "end_date": "2026-03-11 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2266089670,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cardio Dance",
@@ -39186,6 +39002,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=c1cb56b1-b67c-4fcf-92f4-78930c310815",
             "sortCategory": "Workout",
             "symbol": "heart",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 530614151,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "SUP Bootcamp",
+            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
+            "image": "",
+            "start_date": "2026-03-11 12:10:00",
+            "end_date": "2026-03-11 12:55:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -43164,29 +43003,6 @@
             ]
         },
         {
-            "id": 2594911236,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-03-18 12:10:00",
-            "end_date": "2026-03-18 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 865272322,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cardio Dance",
@@ -43199,6 +43015,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=c1cb56b1-b67c-4fcf-92f4-78930c310815",
             "sortCategory": "Workout",
             "symbol": "heart",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2594911236,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "SUP Bootcamp",
+            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
+            "image": "",
+            "start_date": "2026-03-18 12:10:00",
+            "end_date": "2026-03-18 12:55:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -47311,29 +47150,6 @@
             ]
         },
         {
-            "id": 1554577752,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-03-25 12:10:00",
-            "end_date": "2026-03-25 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 4152418380,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cardio Dance",
@@ -47346,6 +47162,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=c1cb56b1-b67c-4fcf-92f4-78930c310815",
             "sortCategory": "Workout",
             "symbol": "heart",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1554577752,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "SUP Bootcamp",
+            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
+            "image": "",
+            "start_date": "2026-03-25 12:10:00",
+            "end_date": "2026-03-25 12:55:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -51502,29 +51341,6 @@
             ]
         },
         {
-            "id": 4006587024,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-04-01 12:10:00",
-            "end_date": "2026-04-01 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2737081737,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cardio Dance",
@@ -51537,6 +51353,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=c1cb56b1-b67c-4fcf-92f4-78930c310815",
             "sortCategory": "Workout",
             "symbol": "heart",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 4006587024,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "SUP Bootcamp",
+            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
+            "image": "",
+            "start_date": "2026-04-01 12:10:00",
+            "end_date": "2026-04-01 12:55:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -54438,29 +54277,6 @@
             ]
         },
         {
-            "id": 2743168941,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-04-08 12:10:00",
-            "end_date": "2026-04-08 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 395790576,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cardio Dance",
@@ -54473,6 +54289,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=c1cb56b1-b67c-4fcf-92f4-78930c310815",
             "sortCategory": "Workout",
             "symbol": "heart",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2743168941,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "SUP Bootcamp",
+            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
+            "image": "",
+            "start_date": "2026-04-08 12:10:00",
+            "end_date": "2026-04-08 12:55:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -55565,29 +55404,6 @@
             ]
         },
         {
-            "id": 3213721955,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "SUP Bootcamp",
-            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-04-15 12:10:00",
-            "end_date": "2026-04-15 12:55:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1885561649,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cardio Dance",
@@ -55600,6 +55416,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=c1cb56b1-b67c-4fcf-92f4-78930c310815",
             "sortCategory": "Workout",
             "symbol": "heart",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3213721955,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "SUP Bootcamp",
+            "description": "a 40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
+            "image": "",
+            "start_date": "2026-04-15 12:10:00",
+            "end_date": "2026-04-15 12:55:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -57062,6 +56901,12 @@
         }
     ],
     "announcements": [
+        {
+            "id": 3617928035,
+            "title": "RAWC Closed: Family Day Holiday",
+            "body": "The Recreation, Athletics & Wellness Centre (RAWC) will be **CLOSED on Monday, February 16, 2026**, in observance of Family Day. Regular hours will resume on Tuesday, February 17, 2026.",
+            "type": 1
+        },
         {
             "id": 220250925,
             "title": "New Update",
