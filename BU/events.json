@@ -906,13 +906,13 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1818812255,
+            "id": 2158496209,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
             "title": "Drop in Soccer",
             "description": "",
             "image": "",
-            "start_date": "2026-02-13 21:30:00",
-            "end_date": "2026-02-13 22:45:00",
+            "start_date": "2026-02-13 20:15:00",
+            "end_date": "2026-02-13 22:30:00",
             "venue": "Gym 2",
             "ticket_label": "",
             "ticket_url": "",
@@ -2251,27 +2251,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 1818812255,
-            "url": "https://anc.ca.apm.activecommunities.com/brocku",
-            "title": "Drop in Soccer",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-13 21:30:00",
-            "end_date": "2026-02-13 22:45:00",
-            "venue": "Gym 2",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Soccer",
-            "symbol": "soccerball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 1484509813,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
