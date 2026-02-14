@@ -24435,7 +24435,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-14 10:00:00",
-            "end_date": "2026-02-14 13:30:00",
+            "end_date": "2026-02-14 12:30:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -24447,9 +24447,7 @@
             "bipoc": false,
             "intramurals": false,
             "closure": false,
-            "weeklyRepetitions": [
-                "sa"
-            ]
+            "weeklyRepetitions": []
         },
         {
             "id": 2478643982,
@@ -24550,7 +24548,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-14 15:00:00",
-            "end_date": "2026-02-14 16:45:00",
+            "end_date": "2026-02-14 16:30:00",
             "venue": "Gym A",
             "ticket_label": "",
             "ticket_url": "",
@@ -24571,7 +24569,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-14 15:00:00",
-            "end_date": "2026-02-14 16:45:00",
+            "end_date": "2026-02-14 16:30:00",
             "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
@@ -26898,7 +26896,7 @@
             ]
         },
         {
-            "id": 3705591841,
+            "id": 198221891,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
             "description": "",
@@ -30801,7 +30799,7 @@
             ]
         },
         {
-            "id": 311533129,
+            "id": 1639602222,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
             "description": "",
@@ -34910,7 +34908,7 @@
             ]
         },
         {
-            "id": 17043397,
+            "id": 530855032,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
             "description": "",
@@ -39000,7 +38998,7 @@
             ]
         },
         {
-            "id": 2716941920,
+            "id": 1208358806,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
             "description": "",
@@ -42892,7 +42890,7 @@
             ]
         },
         {
-            "id": 470873559,
+            "id": 3301082244,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
             "description": "",
@@ -47046,7 +47044,7 @@
             ]
         },
         {
-            "id": 2427441142,
+            "id": 2812529665,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
             "description": "",
@@ -50689,7 +50687,7 @@
             ]
         },
         {
-            "id": 2465399634,
+            "id": 1201781377,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
             "description": "",
@@ -54575,27 +54573,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 587453879,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play: Try Women's Only Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-13 14:30:00",
-            "end_date": "2026-02-13 16:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 3790032791,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
