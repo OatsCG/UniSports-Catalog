@@ -22032,9 +22032,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3255108747,
+            "id": 1549700000,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Osgoode Mudiwas vs McLaughlin Fenrirs",
+            "title": "AMSA BC vs LockedKin SC",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 20:00:00",
@@ -22053,9 +22053,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1549700000,
+            "id": 3255108747,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "AMSA BC vs LockedKin SC",
+            "title": "Osgoode Mudiwas vs McLaughlin Fenrirs",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 20:00:00",
@@ -41793,9 +41793,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3693631629,
+            "id": 496770126,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Sitting on BC vs Slim Shady SC",
+            "title": "Bump Sit Hit BC vs Sitting Ducks BC",
             "description": "",
             "image": "",
             "start_date": "2026-02-23 19:15:00",
@@ -42066,9 +42066,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3834495434,
+            "id": 54937698,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Bump Sit Hit BC vs Sitting Ducks BC",
+            "title": "Sitting on BC vs Slim Shady SC",
             "description": "",
             "image": "",
             "start_date": "2026-02-23 20:05:00",
