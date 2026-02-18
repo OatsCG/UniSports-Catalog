@@ -2273,6 +2273,27 @@
     ],
     "featured": [
         {
+            "id": 447547380,
+            "url": "https://anc.ca.apm.activecommunities.com/brocku",
+            "title": "Drop in 1/2 Badminton 1/2 Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-03 09:30:00",
+            "end_date": "2026-03-03 11:30:00",
+            "venue": "Gym 2",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3723496911,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
             "title": "Drop in Soccer",
