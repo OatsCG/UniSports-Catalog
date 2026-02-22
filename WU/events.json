@@ -26568,27 +26568,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4174605739,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "MYM Fitness - Sculpt & Sweat",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-21 16:00:00",
-            "end_date": "2026-02-21 16:45:00",
-            "venue": "Studio 1 (Double)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1604774952,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "IA W Soccer",
