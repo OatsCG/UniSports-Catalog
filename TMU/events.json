@@ -6177,7 +6177,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1543295027,
+            "id": 2526902220,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Wednesdays @ 3:15 - 4:00 PM | Beginner",
             "description": "",
@@ -6198,7 +6198,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2526902220,
+            "id": 1543295027,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Wednesdays @ 3:15 - 4:00 PM | Beginner",
             "description": "",
@@ -11763,7 +11763,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2320485537,
+            "id": 2646416450,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Wednesdays @ 3:15 - 4:00 PM | Beginner",
             "description": "",
@@ -11784,7 +11784,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2646416450,
+            "id": 2320485537,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Wednesdays @ 3:15 - 4:00 PM | Beginner",
             "description": "",
@@ -17853,7 +17853,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3949791298,
+            "id": 2482792769,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Wednesdays @ 3:15 - 4:00 PM | Beginner",
             "description": "",
@@ -17874,7 +17874,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2482792769,
+            "id": 3949791298,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Wednesdays @ 3:15 - 4:00 PM | Beginner",
             "description": "",
@@ -20604,27 +20604,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2518448519,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-31 11:00:00",
-            "end_date": "2026-01-31 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2985465879,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -20952,27 +20931,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 2557627973,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-01 11:00:00",
-            "end_date": "2026-02-01 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -24069,7 +24027,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1280665174,
+            "id": 3204088670,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Wednesdays @ 3:15 - 4:00 PM | Beginner",
             "description": "",
@@ -24090,7 +24048,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3204088670,
+            "id": 1280665174,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Wednesdays @ 3:15 - 4:00 PM | Beginner",
             "description": "",
@@ -26883,27 +26841,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3851711882,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-07 11:00:00",
-            "end_date": "2026-02-07 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 802333719,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -27252,27 +27189,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 2395460174,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-08 11:00:00",
-            "end_date": "2026-02-08 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -30390,7 +30306,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1200732802,
+            "id": 1216454325,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Wednesdays @ 3:15 - 4:00 PM | Beginner",
             "description": "",
@@ -30411,7 +30327,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1216454325,
+            "id": 1200732802,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Wednesdays @ 3:15 - 4:00 PM | Beginner",
             "description": "",
@@ -33099,27 +33015,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3932255383,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-14 11:00:00",
-            "end_date": "2026-02-14 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4094093982,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -33468,27 +33363,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 1082617900,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-15 11:00:00",
-            "end_date": "2026-02-15 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -37530,27 +37404,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1158791600,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-21 11:00:00",
-            "end_date": "2026-02-21 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3520339692,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -37899,27 +37752,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 28931696,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-22 11:00:00",
-            "end_date": "2026-02-22 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -38748,7 +38580,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1696084895,
+            "id": 337935389,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -38811,7 +38643,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3597119704,
+            "id": 3618124282,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -39084,7 +38916,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3601004402,
+            "id": 3655609833,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -39105,7 +38937,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 181946314,
+            "id": 260811012,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -39147,7 +38979,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2586754930,
+            "id": 1371831919,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -39168,7 +39000,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 115728405,
+            "id": 3707142065,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -39273,7 +39105,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3896263110,
+            "id": 1348711306,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -39357,7 +39189,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1525441776,
+            "id": 3077386312,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -40848,7 +40680,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 418098351,
+            "id": 1684834822,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -40932,7 +40764,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2963892610,
+            "id": 906635245,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -42591,7 +42423,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2526388862,
+            "id": 2256151270,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -43011,7 +42843,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1399561517,
+            "id": 3052093816,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -43095,7 +42927,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1625519228,
+            "id": 3635122633,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -43338,27 +43170,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 3641099536,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-28 11:00:00",
-            "end_date": "2026-02-28 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -43704,7 +43515,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3583507147,
+            "id": 1662901961,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -43716,27 +43527,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 4208065803,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-01 11:00:00",
-            "end_date": "2026-03-01 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -44754,7 +44544,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3000681326,
+            "id": 593738289,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -49185,27 +48975,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3339833170,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-07 11:00:00",
-            "end_date": "2026-03-07 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 660043270,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -49554,27 +49323,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 1924251804,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-08 11:00:00",
-            "end_date": "2026-03-08 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -55317,27 +55065,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2853791411,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-14 11:00:00",
-            "end_date": "2026-03-14 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2658494405,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -55686,27 +55413,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 1942310055,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-15 11:00:00",
-            "end_date": "2026-03-15 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -61092,27 +60798,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1379947749,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-21 11:00:00",
-            "end_date": "2026-03-21 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2575713954,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -61461,27 +61146,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 1926828836,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-22 11:00:00",
-            "end_date": "2026-03-22 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -67140,27 +66804,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2285565304,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-28 11:00:00",
-            "end_date": "2026-03-28 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1113524180,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -67509,27 +67152,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 1982998673,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD for Program Partnership",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-29 11:00:00",
-            "end_date": "2026-03-29 21:30:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
