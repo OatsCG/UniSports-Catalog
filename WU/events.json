@@ -28983,6 +28983,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 1579073847,
+            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
+            "title": "Swim team",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-24 06:00:00",
+            "end_date": "2026-02-24 09:00:00",
+            "venue": "Studio 2 (Single - 4226)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3843817785,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "IA W Rugby",
