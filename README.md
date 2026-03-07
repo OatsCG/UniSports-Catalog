@@ -1,6 +1,6 @@
 # UniSports Catalog
 #### A catalog of universities' drop-in sports schedules. Used in the UniSports app.
-#### https://unisports.openmusic.app
+#### https://unisports.cgdev.ca
 
 `meta.json` contains metadata for each school, including colours, logos, and their folder ID.
 
