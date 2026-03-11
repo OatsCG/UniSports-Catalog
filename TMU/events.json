@@ -30747,7 +30747,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2158664312,
+            "id": 538144246,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -30936,7 +30936,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 168334472,
+            "id": 2173138931,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -30999,7 +30999,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1748499993,
+            "id": 3501890984,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -31020,7 +31020,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1496019249,
+            "id": 222955930,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -31041,7 +31041,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 668192654,
+            "id": 3991718049,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -31419,7 +31419,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1424072785,
+            "id": 3431692887,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -38853,7 +38853,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1553928229,
+            "id": 3154753153,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -38916,7 +38916,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1695195602,
+            "id": 3566799993,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -38958,7 +38958,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1098496324,
+            "id": 4203101515,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -69997,27 +69997,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 3548122218,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "LEARN TO SPORTS - Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-10 15:00:00",
-            "end_date": "2026-03-10 16:30:00",
-            "venue": "RAC II Gym (LL3)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 2472364526,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
