@@ -51360,27 +51360,6 @@
     ],
     "featured": [
         {
-            "id": 3508868929,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Walks: Conversations on Men\u2019s Health",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-10 15:00:00",
-            "end_date": "2026-03-10 16:00:00",
-            "venue": "RAWC Lobby",
-            "ticket_label": "Register Here",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0b46d090-8b66-4199-b751-83f79b947d1b",
-            "sortCategory": "Recreation",
-            "symbol": "figure.walk",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2313020586,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Try It Accessible Sports",
