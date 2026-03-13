@@ -32427,7 +32427,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4038513667,
+            "id": 1978575860,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -32658,7 +32658,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2254985723,
+            "id": 2182617848,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -32763,7 +32763,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4017064066,
+            "id": 3842536378,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -32805,7 +32805,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 109748577,
+            "id": 2713110476,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -32826,7 +32826,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 553001236,
+            "id": 3496441818,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -33015,7 +33015,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3986412021,
+            "id": 911680219,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -33036,7 +33036,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2058973069,
+            "id": 869755155,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -33645,7 +33645,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3429041914,
+            "id": 3412373450,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -33666,7 +33666,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 588865751,
+            "id": 2186003682,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -34737,7 +34737,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 20290940,
+            "id": 3926004805,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -37278,7 +37278,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2480517564,
+            "id": 2554338788,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -37299,7 +37299,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 806533069,
+            "id": 3603868724,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -37863,27 +37863,6 @@
             "bipoc": false,
             "intramurals": false,
             "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 960822411,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Pool Maintenance",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-19 10:00:00",
-            "end_date": "2026-03-19 12:00:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": true,
             "weeklyRepetitions": []
         },
         {
