@@ -123,7 +123,7 @@
         {
             "title": "Other",
             "symbol": "sportscourt",
-            "isChip": false,
+            "isChip": true,
             "isMedal": false
         }
     ],
@@ -729,6 +729,27 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3845716807,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Stretch and Destress - Winter 2026",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-02 15:00:00",
+            "end_date": "2026-04-02 16:30:00",
+            "venue": "Gym 1",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
