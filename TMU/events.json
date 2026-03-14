@@ -1095,9 +1095,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 564267217,
+            "id": 744213803,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Adult Group Lessons: Beginner I & Beginner II - Mondays @ 3:15 - 4:00 PM | Beginner II",
+            "title": "Adult Group Lessons: Beginner I & Beginner II - Mondays @ 3:15 - 4:00 PM | Beginner I ",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 15:15:00",
@@ -1116,9 +1116,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 744213803,
+            "id": 564267217,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Adult Group Lessons: Beginner I & Beginner II - Mondays @ 3:15 - 4:00 PM | Beginner I ",
+            "title": "Adult Group Lessons: Beginner I & Beginner II - Mondays @ 3:15 - 4:00 PM | Beginner II",
             "description": "",
             "image": "",
             "start_date": "2026-02-02 15:15:00",
@@ -2187,7 +2187,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2915308571,
+            "id": 663097172,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Tuesdays @ 3:15 - 4:00 PM | Beginner I",
             "description": "",
@@ -2208,7 +2208,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 663097172,
+            "id": 2915308571,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Tuesdays @ 3:15 - 4:00 PM | Beginner I",
             "description": "",
@@ -4413,7 +4413,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1161124283,
+            "id": 1999233749,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Thursdays @ 3:15 - 4:00 PM | Beginner ",
             "description": "",
@@ -4434,7 +4434,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1999233749,
+            "id": 1161124283,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Thursdays @ 3:15 - 4:00 PM | Beginner ",
             "description": "",
@@ -5568,9 +5568,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3435231582,
+            "id": 382376884,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Adult Group Lessons: Beginner I & Beginner II - Fridays @ 3:15 - 4:00 PM | Beginner I ",
+            "title": "Adult Group Lessons: Beginner I & Beginner II - Fridays @ 3:15 - 4:00 PM | Beginner II",
             "description": "",
             "image": "",
             "start_date": "2026-02-06 15:15:00",
@@ -5589,9 +5589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 382376884,
+            "id": 3435231582,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Adult Group Lessons: Beginner I & Beginner II - Fridays @ 3:15 - 4:00 PM | Beginner II",
+            "title": "Adult Group Lessons: Beginner I & Beginner II - Fridays @ 3:15 - 4:00 PM | Beginner I ",
             "description": "",
             "image": "",
             "start_date": "2026-02-06 15:15:00",
@@ -7332,9 +7332,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1768092126,
+            "id": 2209711546,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Adult Group Lessons: Beginner I & Beginner II - Mondays @ 3:15 - 4:00 PM | Beginner II",
+            "title": "Adult Group Lessons: Beginner I & Beginner II - Mondays @ 3:15 - 4:00 PM | Beginner I ",
             "description": "",
             "image": "",
             "start_date": "2026-02-09 15:15:00",
@@ -7353,9 +7353,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2209711546,
+            "id": 1768092126,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Adult Group Lessons: Beginner I & Beginner II - Mondays @ 3:15 - 4:00 PM | Beginner I ",
+            "title": "Adult Group Lessons: Beginner I & Beginner II - Mondays @ 3:15 - 4:00 PM | Beginner II",
             "description": "",
             "image": "",
             "start_date": "2026-02-09 15:15:00",
@@ -8487,7 +8487,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1308344391,
+            "id": 2153125113,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Tuesdays @ 3:15 - 4:00 PM | Beginner I",
             "description": "",
@@ -8508,7 +8508,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2153125113,
+            "id": 1308344391,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Tuesdays @ 3:15 - 4:00 PM | Beginner I",
             "description": "",
@@ -10629,7 +10629,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3478648524,
+            "id": 681980444,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Thursdays @ 3:15 - 4:00 PM | Beginner ",
             "description": "",
@@ -10650,7 +10650,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 681980444,
+            "id": 3478648524,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Adult Group Lessons: Beginner I & Beginner II - Thursdays @ 3:15 - 4:00 PM | Beginner ",
             "description": "",
@@ -11742,9 +11742,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 730440733,
+            "id": 3616931400,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Adult Group Lessons: Beginner I & Beginner II - Fridays @ 3:15 - 4:00 PM | Beginner I ",
+            "title": "Adult Group Lessons: Beginner I & Beginner II - Fridays @ 3:15 - 4:00 PM | Beginner II",
             "description": "",
             "image": "",
             "start_date": "2026-02-13 15:15:00",
@@ -11763,9 +11763,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3616931400,
+            "id": 730440733,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Adult Group Lessons: Beginner I & Beginner II - Fridays @ 3:15 - 4:00 PM | Beginner II",
+            "title": "Adult Group Lessons: Beginner I & Beginner II - Fridays @ 3:15 - 4:00 PM | Beginner I ",
             "description": "",
             "image": "",
             "start_date": "2026-02-13 15:15:00",
@@ -33813,7 +33813,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 849451491,
+            "id": 964051495,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -33939,7 +33939,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 28402096,
+            "id": 1983501790,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -33960,7 +33960,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3650126583,
+            "id": 1472705404,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -34002,7 +34002,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2460712341,
+            "id": 1721468383,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -34086,7 +34086,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1348965288,
+            "id": 1921767276,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -34296,7 +34296,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2083697365,
+            "id": 1320736195,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -34716,7 +34716,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1527007870,
+            "id": 249200521,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -35493,7 +35493,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1366160814,
+            "id": 1111285388,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -36018,6 +36018,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 1647896466,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "LIFE LINE (DANCE)",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-17 10:00:00",
+            "end_date": "2026-03-17 11:00:00",
+            "venue": "Studio 2 (LL2)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3784024367,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -36333,7 +36354,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2587773644,
+            "id": 2755145563,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -37341,7 +37362,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1380085877,
+            "id": 2536085588,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -37698,7 +37719,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1313566501,
+            "id": 658930298,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -37761,7 +37782,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3490928719,
+            "id": 2591305338,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -38265,7 +38286,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3531979732,
+            "id": 52392547,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -69913,6 +69934,27 @@
         }
     ],
     "featured": [
+        {
+            "id": 1647896466,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "LIFE LINE (DANCE)",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-17 10:00:00",
+            "end_date": "2026-03-17 11:00:00",
+            "venue": "Studio 2 (LL2)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
         {
             "id": 2533767024,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
