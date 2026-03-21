@@ -42255,13 +42255,13 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 728247455,
+            "id": 1074294572,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Chole Gray - All Round Champion - Filming",
             "description": "",
             "image": "",
-            "start_date": "2026-04-26 06:00:00",
-            "end_date": "2026-04-26 20:30:00",
+            "start_date": "2026-04-26 07:00:00",
+            "end_date": "2026-04-26 22:00:00",
             "venue": "Don Wright Track",
             "ticket_label": "",
             "ticket_url": "",
@@ -42550,27 +42550,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 398085215,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Sport Western - March Break Camps",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-20 09:00:00",
-            "end_date": "2026-03-20 15:30:00",
-            "venue": "Studio 2 (Single - 4226)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 479872088,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
@@ -45512,13 +45491,13 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 728247455,
+            "id": 1074294572,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Chole Gray - All Round Champion - Filming",
             "description": "",
             "image": "",
-            "start_date": "2026-04-26 06:00:00",
-            "end_date": "2026-04-26 20:30:00",
+            "start_date": "2026-04-26 07:00:00",
+            "end_date": "2026-04-26 22:00:00",
             "venue": "Don Wright Track",
             "ticket_label": "",
             "ticket_url": "",
