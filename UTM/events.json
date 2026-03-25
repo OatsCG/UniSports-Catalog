@@ -51504,29 +51504,6 @@
     ],
     "featured": [
         {
-            "id": 3788490520,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play: Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-24 19:00:00",
-            "end_date": "2026-03-24 20:30:00",
-            "venue": "Squash Court",
-            "ticket_label": "Learn more & register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89d907fe-8a54-4c8f-b4c8-266054b8c5c1",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3603648620,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": " Learn to Play Pickleball with Professor Pickleball",
@@ -51796,6 +51773,29 @@
             "closure": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 2832602639,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Walks",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-31 15:00:00",
+            "end_date": "2026-03-31 16:00:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
+            "sortCategory": "Recreation",
+            "symbol": "figure.walk",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
