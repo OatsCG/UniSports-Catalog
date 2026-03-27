@@ -4903,29 +4903,6 @@
             ]
         },
         {
-            "id": 3207996537,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-06 11:00:00",
-            "end_date": "2026-01-06 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4269432282,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -4942,6 +4919,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3207996537,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-06 11:00:00",
+            "end_date": "2026-01-06 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -6684,29 +6684,6 @@
             ]
         },
         {
-            "id": 736218619,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-01-09 07:30:00",
-            "end_date": "2026-01-09 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1188022433,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -8020,29 +7997,6 @@
             ]
         },
         {
-            "id": 4066841555,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-13 11:00:00",
-            "end_date": "2026-01-13 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 189574750,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -8059,6 +8013,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 4066841555,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-13 11:00:00",
+            "end_date": "2026-01-13 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -9666,29 +9643,6 @@
             ]
         },
         {
-            "id": 1963670214,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-01-16 07:30:00",
-            "end_date": "2026-01-16 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3120048000,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -11128,29 +11082,6 @@
             ]
         },
         {
-            "id": 193603463,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-20 11:00:00",
-            "end_date": "2026-01-20 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4195872700,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -11167,6 +11098,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 193603463,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-20 11:00:00",
+            "end_date": "2026-01-20 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -12600,29 +12554,6 @@
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 466699052,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-01-23 07:30:00",
-            "end_date": "2026-01-23 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -14266,29 +14197,6 @@
             ]
         },
         {
-            "id": 412432876,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-27 11:00:00",
-            "end_date": "2026-01-27 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3948168899,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -14305,6 +14213,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 412432876,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-27 11:00:00",
+            "end_date": "2026-01-27 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -15952,29 +15883,6 @@
             ]
         },
         {
-            "id": 963012022,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-01-30 07:30:00",
-            "end_date": "2026-01-30 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3055510852,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Fitness Swim",
@@ -17500,29 +17408,6 @@
             ]
         },
         {
-            "id": 2257963739,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-03 11:00:00",
-            "end_date": "2026-02-03 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3471361039,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -17539,6 +17424,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2257963739,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-03 11:00:00",
+            "end_date": "2026-02-03 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -19169,29 +19077,6 @@
             ]
         },
         {
-            "id": 2719716031,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-02-06 07:30:00",
-            "end_date": "2026-02-06 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1146236929,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Fitness Swim",
@@ -20738,29 +20623,6 @@
             ]
         },
         {
-            "id": 698017361,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-10 11:00:00",
-            "end_date": "2026-02-10 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1086506417,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -20777,6 +20639,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 698017361,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-10 11:00:00",
+            "end_date": "2026-02-10 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -22363,29 +22248,6 @@
             ]
         },
         {
-            "id": 944150706,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-02-13 07:30:00",
-            "end_date": "2026-02-13 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1299211439,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Fitness Swim",
@@ -23332,29 +23194,6 @@
             ]
         },
         {
-            "id": 2297026094,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-17 11:00:00",
-            "end_date": "2026-02-17 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 339721341,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -23371,6 +23210,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2297026094,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-17 11:00:00",
+            "end_date": "2026-02-17 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -24842,29 +24704,6 @@
             ]
         },
         {
-            "id": 2143672408,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-02-20 07:30:00",
-            "end_date": "2026-02-20 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3790032791,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Skis & Snowboards: Winter Sport Adventure",
@@ -25189,7 +25028,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-21 10:00:00",
-            "end_date": "2026-02-21 13:00:00",
+            "end_date": "2026-02-21 13:30:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -26405,29 +26244,6 @@
             ]
         },
         {
-            "id": 3387847203,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-24 11:00:00",
-            "end_date": "2026-02-24 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 704195774,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -26444,6 +26260,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3387847203,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-24 11:00:00",
+            "end_date": "2026-02-24 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -28087,29 +27926,6 @@
             ]
         },
         {
-            "id": 3772226963,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Low-Sensory Drop-in Hour",
-            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
-            "image": "",
-            "start_date": "2026-02-26 17:00:00",
-            "end_date": "2026-02-26 18:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 42360527,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -28145,6 +27961,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 3772226963,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-02-26 17:00:00",
+            "end_date": "2026-02-26 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -28373,29 +28212,6 @@
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 3980713495,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-02-27 07:30:00",
-            "end_date": "2026-02-27 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -28842,7 +28658,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-02-28 10:00:00",
-            "end_date": "2026-02-28 13:00:00",
+            "end_date": "2026-02-28 13:30:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -30072,29 +29888,6 @@
             ]
         },
         {
-            "id": 3530882989,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-03 11:00:00",
-            "end_date": "2026-03-03 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2595824400,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -30111,6 +29904,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3530882989,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-03 11:00:00",
+            "end_date": "2026-03-03 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -31810,29 +31626,6 @@
             ]
         },
         {
-            "id": 1985433290,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Low-Sensory Drop-in Hour",
-            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
-            "image": "",
-            "start_date": "2026-03-05 17:00:00",
-            "end_date": "2026-03-05 18:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 1342875880,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -31868,6 +31661,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1985433290,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-03-05 17:00:00",
+            "end_date": "2026-03-05 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -32096,29 +31912,6 @@
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 462044135,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-03-06 07:30:00",
-            "end_date": "2026-03-06 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -32684,7 +32477,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-03-07 10:00:00",
-            "end_date": "2026-03-07 13:00:00",
+            "end_date": "2026-03-07 13:30:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -33939,29 +33732,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 377293374,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-10 11:00:00",
-            "end_date": "2026-03-10 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 416876893,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -33978,6 +33748,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 377293374,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-10 11:00:00",
+            "end_date": "2026-03-10 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -35696,29 +35489,6 @@
             ]
         },
         {
-            "id": 2421418276,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Low-Sensory Drop-in Hour",
-            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
-            "image": "",
-            "start_date": "2026-03-12 17:00:00",
-            "end_date": "2026-03-12 18:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 2489194607,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -35754,6 +35524,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2421418276,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-03-12 17:00:00",
+            "end_date": "2026-03-12 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -35984,29 +35777,6 @@
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 3296237461,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-03-13 07:30:00",
-            "end_date": "2026-03-13 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -36547,7 +36317,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-03-14 10:00:00",
-            "end_date": "2026-03-14 13:00:00",
+            "end_date": "2026-03-14 13:30:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -37775,29 +37545,6 @@
             ]
         },
         {
-            "id": 2559112799,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-17 11:00:00",
-            "end_date": "2026-03-17 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1635483937,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -37814,6 +37561,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2559112799,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-17 11:00:00",
+            "end_date": "2026-03-17 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -39443,29 +39213,6 @@
             ]
         },
         {
-            "id": 770155591,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Low-Sensory Drop-in Hour",
-            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
-            "image": "",
-            "start_date": "2026-03-19 17:00:00",
-            "end_date": "2026-03-19 18:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 1892955551,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -39478,6 +39225,52 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 4198154406,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-19 17:00:00",
+            "end_date": "2026-03-19 20:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 770155591,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-03-19 17:00:00",
+            "end_date": "2026-03-19 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -39508,29 +39301,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 4198154406,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-19 17:00:00",
-            "end_date": "2026-03-19 20:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
         },
         {
             "id": 280739797,
@@ -39769,29 +39539,6 @@
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 1930542265,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-03-20 07:30:00",
-            "end_date": "2026-03-20 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -40402,7 +40149,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-03-21 10:00:00",
-            "end_date": "2026-03-21 13:00:00",
+            "end_date": "2026-03-21 13:30:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -41425,27 +41172,6 @@
             ]
         },
         {
-            "id": 1902981324,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-23 18:30:00",
-            "end_date": "2026-03-23 22:00:00",
-            "venue": "Multi-Purpose Room A",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3194163381,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -41467,6 +41193,27 @@
             "weeklyRepetitions": [
                 "mo"
             ]
+        },
+        {
+            "id": 1902981324,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-23 18:30:00",
+            "end_date": "2026-03-23 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 3198008373,
@@ -41628,27 +41375,6 @@
             ]
         },
         {
-            "id": 2957709257,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Squash",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-24 07:30:00",
-            "end_date": "2026-03-24 18:30:00",
-            "venue": "Squash Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://recreation.utoronto.ca/booking",
-            "sortCategory": "Squash",
-            "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2570180510,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -41670,6 +41396,27 @@
             "weeklyRepetitions": [
                 "tu"
             ]
+        },
+        {
+            "id": 2957709257,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-24 07:30:00",
+            "end_date": "2026-03-24 18:30:00",
+            "venue": "Squash Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 2680452883,
@@ -41718,29 +41465,6 @@
             ]
         },
         {
-            "id": 3932663744,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-24 11:00:00",
-            "end_date": "2026-03-24 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1810484599,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -41757,6 +41481,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3932663744,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-24 11:00:00",
+            "end_date": "2026-03-24 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -42442,27 +42189,6 @@
             ]
         },
         {
-            "id": 2319274778,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-25 07:30:00",
-            "end_date": "2026-03-25 11:30:00",
-            "venue": "Multi-Purpose Room B",
-            "ticket_label": "Book A Court",
-            "ticket_url": "https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1102872974,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -42530,6 +42256,27 @@
             "weeklyRepetitions": [
                 "we"
             ]
+        },
+        {
+            "id": 2319274778,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-25 07:30:00",
+            "end_date": "2026-03-25 11:30:00",
+            "venue": "Multi-Purpose Room B",
+            "ticket_label": "Book A Court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 96406807,
@@ -42806,27 +42553,6 @@
             ]
         },
         {
-            "id": 1607973120,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals Tournament: Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-25 16:30:00",
-            "end_date": "2026-03-25 21:30:00",
-            "venue": "Multi-Purpose Room A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 644119585,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball**",
@@ -42848,6 +42574,27 @@
             "weeklyRepetitions": [
                 "we"
             ]
+        },
+        {
+            "id": 1607973120,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-25 16:30:00",
+            "end_date": "2026-03-25 21:30:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 4088897640,
@@ -43285,27 +43032,6 @@
             ]
         },
         {
-            "id": 2659775089,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-26 11:00:00",
-            "end_date": "2026-03-26 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1856629535,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -43446,7 +43172,7 @@
         {
             "id": 2191066615,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
+            "title": "Drop-in Indoor Soccer",
             "description": "",
             "image": "",
             "start_date": "2026-03-26 14:00:00",
@@ -43454,8 +43180,8 @@
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -43536,27 +43262,6 @@
             ]
         },
         {
-            "id": 806267363,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play: Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-26 16:30:00",
-            "end_date": "2026-03-26 18:00:00",
-            "venue": "Multi-Purpose Room A",
-            "ticket_label": "Learn More and Register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2073717846,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Intramurals Tournament",
@@ -43578,29 +43283,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2851789777,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Low-Sensory Drop-in Hour",
-            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
-            "image": "",
-            "start_date": "2026-03-26 17:00:00",
-            "end_date": "2026-03-26 18:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 2831029833,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -43613,6 +43295,52 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 536994081,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-26 17:00:00",
+            "end_date": "2026-03-26 20:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2851789777,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-03-26 17:00:00",
+            "end_date": "2026-03-26 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -43640,29 +43368,6 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 536994081,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-26 17:00:00",
-            "end_date": "2026-03-26 20:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -43906,29 +43611,6 @@
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 482417714,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-03-27 07:30:00",
-            "end_date": "2026-03-27 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -44283,27 +43965,6 @@
             ]
         },
         {
-            "id": 882058614,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play: Try It Series",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-27 16:30:00",
-            "end_date": "2026-03-27 18:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1315753266,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indigenous Learn to Swim",
@@ -44492,7 +44153,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-03-28 10:00:00",
-            "end_date": "2026-03-28 13:00:00",
+            "end_date": "2026-03-28 13:30:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -45701,29 +45362,6 @@
             ]
         },
         {
-            "id": 2008099371,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-31 11:00:00",
-            "end_date": "2026-03-31 11:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1234009429,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -45740,6 +45378,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2008099371,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-31 11:00:00",
+            "end_date": "2026-03-31 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -47345,7 +47006,7 @@
         {
             "id": 913807017,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
+            "title": "Drop-in Indoor Soccer",
             "description": "",
             "image": "",
             "start_date": "2026-04-02 14:00:00",
@@ -47353,8 +47014,8 @@
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -47456,29 +47117,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3348547285,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Low-Sensory Drop-in Hour",
-            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
-            "image": "",
-            "start_date": "2026-04-02 17:00:00",
-            "end_date": "2026-04-02 18:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 4288897397,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -47491,6 +47129,52 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 362522889,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-02 17:00:00",
+            "end_date": "2026-04-02 20:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 3348547285,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Low-Sensory Drop-in Hour",
+            "description": "Dedicated workout time designed to provide a calm, serene, and sensory\u2011friendly environment for individuals who prefer reduced stimulation. During this hour, the SCC is adjusted to create a more comfortable and grounding atmosphere:\u00a0Lights are dimmedSoft ambient music is playedOverall sensory input is minimizedWeights cannot be dropped\u00a0This space supports anyone who benefits from a quieter, gentler setting: whether due to sensory sensitivities, neurodiversity, anxiety, or simply a desire for a more peaceful workout experience.",
+            "image": "",
+            "start_date": "2026-04-02 17:00:00",
+            "end_date": "2026-04-02 18:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -47518,29 +47202,6 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 362522889,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-02 17:00:00",
-            "end_date": "2026-04-02 20:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -47876,7 +47537,7 @@
             "description": "",
             "image": "",
             "start_date": "2026-04-04 10:00:00",
-            "end_date": "2026-04-04 13:00:00",
+            "end_date": "2026-04-04 13:30:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -51504,142 +51165,6 @@
     ],
     "featured": [
         {
-            "id": 3603648620,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": " Learn to Play Pickleball with Professor Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-25 16:00:00",
-            "end_date": "2026-03-25 17:30:00",
-            "venue": "Gym C",
-            "ticket_label": "Learn more & Register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=eae55cec-e901-4756-a1cb-954cd8e343f7",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2947099428,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": " Learn to Play Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-25 18:00:00",
-            "end_date": "2026-03-25 19:30:00",
-            "venue": "Gym C",
-            "ticket_label": "Learn more & Register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=71d9756a-8d77-43aa-8860-1a8496b78b92",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3767092879,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": " Learn to Play Futsal",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-25 20:00:00",
-            "end_date": "2026-03-25 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "Learn more & Register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9b4a61f1-06a3-4695-b1fe-38386b067a78",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 806267363,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play: Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-26 16:30:00",
-            "end_date": "2026-03-26 18:00:00",
-            "venue": "Multi-Purpose Room A",
-            "ticket_label": "Learn More and Register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=2fe49cce-bdbf-4d76-b427-de530cb2ea17",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 482417714,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-03-27 07:30:00",
-            "end_date": "2026-03-27 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 3996188083,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates Reformer & Chair (Demo) ",
-            "description": "This complimentary registered program is designed specifically for beginners as an introduction to Pilates including the Reformer and Pilates Chair in a supportive, small-group setting. This circuit-style class blends strength, cardio, balance, and flexibility with accessible modifications for all levels. Feel stronger, more aligned, and energized\u2014no experience needed! This class offers modified exercises and supportive techniques to ensure comfort and accessibility. *This offering is limited to one registraion.",
-            "image": "",
-            "start_date": "2026-03-27 12:10:00",
-            "end_date": "2026-03-27 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=dca1eb10-65e2-4568-a8b7-26482eff0415",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 4060120249,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Cricket",
@@ -51707,27 +51232,6 @@
             "weeklyRepetitions": [
                 "fr"
             ]
-        },
-        {
-            "id": 882058614,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play: Try It Series",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-27 16:30:00",
-            "end_date": "2026-03-27 18:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 587451883,
@@ -51818,6 +51322,75 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 3485275394,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Hatha Yoga (Low Sensory)",
+            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45 minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided. Modifications are offered for postures to ensure all levels are welcome.\u00a0 \u00a0If you have additional requests, please connect with our instructors.",
+            "image": "",
+            "start_date": "2026-04-02 12:10:00",
+            "end_date": "2026-04-02 12:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 882246239,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "HYRAWCS",
+            "description": "Experience the global HYROX fitness phenomenon right here in our community with HYRAWCS. This progressive program blends endurance, strength, and technique while fostering teamwork, camaraderie, and mental resilience. Participants can challenge themselves or enjoy friendly competition in a supportive environment.",
+            "image": "",
+            "start_date": "2026-04-02 12:10:00",
+            "end_date": "2026-04-02 12:55:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=42012274-a566-41f7-9855-3a075b8c2f73",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1562127651,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "2SLGBTQ+ Solidarity Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-02 16:00:00",
+            "end_date": "2026-04-02 17:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.water.fitness",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": true,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
         }
     ],
     "announcements": [
