@@ -49122,7 +49122,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2226609151,
+            "id": 3704274383,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -49185,7 +49185,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4164172459,
+            "id": 425462010,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -49815,7 +49815,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4077246211,
+            "id": 659621638,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -69275,6 +69275,27 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 588473304,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Studio 2 Dance Club",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-10 18:30:00",
+            "end_date": "2026-04-10 21:30:00",
+            "venue": "Studio 1 (LL1)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
