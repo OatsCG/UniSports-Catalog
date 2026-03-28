@@ -51165,75 +51165,6 @@
     ],
     "featured": [
         {
-            "id": 4060120249,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play: Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-27 14:30:00",
-            "end_date": "2026-03-27 16:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 2236289855,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Kickbox",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-27 15:10:00",
-            "end_date": "2026-03-27 15:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b73e69cf-bc11-429e-8074-4583b285bc7c",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 4244408255,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play: Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-27 16:30:00",
-            "end_date": "2026-03-27 18:00:00",
-            "venue": "Gym C",
-            "ticket_label": "Learn more & Register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=69a15c91-65d5-4b13-bd08-c8e29ea8f518",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 587451883,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Volleyball",
@@ -51390,6 +51321,29 @@
             "closure": false,
             "weeklyRepetitions": [
                 "th"
+            ]
+        },
+        {
+            "id": 4069481302,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Lifesaving Sport",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-03 18:00:00",
+            "end_date": "2026-04-03 19:25:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "lifepreserver",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         }
     ],
