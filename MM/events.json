@@ -59183,27 +59183,6 @@
     ],
     "featured": [
         {
-            "id": 1827508768,
-            "url": "https://macreconline.ca/Facility/GetSchedule",
-            "title": "Mac Cheer Team",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-27 19:00:00",
-            "end_date": "2026-03-27 21:00:00",
-            "venue": "Padded Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 579505641,
             "url": "https://macreconline.ca/Facility/GetSchedule",
             "title": "Remove Tarp and clean",
