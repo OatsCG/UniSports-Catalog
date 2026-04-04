@@ -14052,7 +14052,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1574792242,
+            "id": 3660342957,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Open Rec - Basketball",
             "description": "",
@@ -14073,7 +14073,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3660342957,
+            "id": 1574792242,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Open Rec - Basketball",
             "description": "",
@@ -45343,48 +45343,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 3164188618,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "The Armoury - Open Rec Workouts",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-03 11:30:00",
-            "end_date": "2026-04-03 23:00:00",
-            "venue": "The Armoury",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 667262544,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Hyrox Simulation - 1/2 distance - Friday April 3rd - 1/2 Hyrox April 3rd, 2026",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-03 12:00:00",
-            "end_date": "2026-04-03 15:00:00",
-            "venue": "Group Fitness Studio",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 1339882578,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
