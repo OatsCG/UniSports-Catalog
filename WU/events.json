@@ -32156,27 +32156,6 @@
     ],
     "featured": [
         {
-            "id": 2883722440,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Thunderbirds",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-03 11:00:00",
-            "end_date": "2026-04-03 14:00:00",
-            "venue": "Don Wright Track",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1949861489,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Sport Clubs - Badminton Club",
