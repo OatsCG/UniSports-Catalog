@@ -51700,29 +51700,6 @@
     ],
     "featured": [
         {
-            "id": 2028125097,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Student Night Sundays",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-05 18:00:00",
-            "end_date": "2026-04-05 20:00:00",
-            "venue": "Fitness Center",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 1068720041,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Yogilates",
