@@ -5559,29 +5559,6 @@
             ]
         },
         {
-            "id": 3849659920,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-07 07:30:00",
-            "end_date": "2026-01-07 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2663138631,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -5594,6 +5571,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3849659920,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-07 07:30:00",
+            "end_date": "2026-01-07 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -5799,29 +5799,6 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2920303606,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-01-07 17:10:00",
-            "end_date": "2026-01-07 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -6509,9 +6486,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2528722535,
+            "id": 3652290634,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-01-08 20:15:00",
@@ -6532,9 +6509,9 @@
             ]
         },
         {
-            "id": 3652290634,
+            "id": 2528722535,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-01-08 20:15:00",
@@ -8636,29 +8613,6 @@
             ]
         },
         {
-            "id": 3471638024,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-14 07:30:00",
-            "end_date": "2026-01-14 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3651846448,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -8671,6 +8625,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3471638024,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-14 07:30:00",
+            "end_date": "2026-01-14 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -8903,29 +8880,6 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3459027735,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-01-14 17:10:00",
-            "end_date": "2026-01-14 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -9535,9 +9489,9 @@
             ]
         },
         {
-            "id": 1323198995,
+            "id": 475075293,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-01-15 20:15:00",
@@ -9558,9 +9512,9 @@
             ]
         },
         {
-            "id": 475075293,
+            "id": 1323198995,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-01-15 20:15:00",
@@ -11700,29 +11654,6 @@
             ]
         },
         {
-            "id": 3594093888,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-21 07:30:00",
-            "end_date": "2026-01-21 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 559664045,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -11735,6 +11666,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3594093888,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-21 07:30:00",
+            "end_date": "2026-01-21 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -11917,29 +11871,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89475c69-58cb-4de3-a6f1-8b46538fce9d",
             "sortCategory": "Mind & Body",
             "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3726491340,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-01-21 17:10:00",
-            "end_date": "2026-01-21 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -12503,9 +12434,9 @@
             ]
         },
         {
-            "id": 636388182,
+            "id": 1944146537,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 20:15:00",
@@ -12526,9 +12457,9 @@
             ]
         },
         {
-            "id": 1944146537,
+            "id": 636388182,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-01-22 20:15:00",
@@ -14890,29 +14821,6 @@
             ]
         },
         {
-            "id": 3078482641,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-01-28 07:30:00",
-            "end_date": "2026-01-28 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2661108769,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -14925,6 +14833,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3078482641,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-01-28 07:30:00",
+            "end_date": "2026-01-28 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -15155,29 +15086,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89475c69-58cb-4de3-a6f1-8b46538fce9d",
             "sortCategory": "Mind & Body",
             "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2839237132,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-01-28 17:10:00",
-            "end_date": "2026-01-28 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -15825,9 +15733,9 @@
             ]
         },
         {
-            "id": 354503690,
+            "id": 3270901486,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 20:15:00",
@@ -15848,9 +15756,9 @@
             ]
         },
         {
-            "id": 3270901486,
+            "id": 354503690,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-01-29 20:15:00",
@@ -18172,29 +18080,6 @@
             ]
         },
         {
-            "id": 770584068,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-04 07:30:00",
-            "end_date": "2026-02-04 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1727925675,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -18207,6 +18092,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 770584068,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-04 07:30:00",
+            "end_date": "2026-02-04 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -18437,29 +18345,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89475c69-58cb-4de3-a6f1-8b46538fce9d",
             "sortCategory": "Mind & Body",
             "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 1269178019,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-02-04 17:10:00",
-            "end_date": "2026-02-04 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -19086,9 +18971,9 @@
             ]
         },
         {
-            "id": 1927087529,
+            "id": 1974424120,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 20:15:00",
@@ -19109,9 +18994,9 @@
             ]
         },
         {
-            "id": 1974424120,
+            "id": 1927087529,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-02-05 20:15:00",
@@ -21412,29 +21297,6 @@
             ]
         },
         {
-            "id": 3527553653,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-11 07:30:00",
-            "end_date": "2026-02-11 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2476086584,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -21447,6 +21309,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3527553653,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-11 07:30:00",
+            "end_date": "2026-02-11 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -21677,29 +21562,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89475c69-58cb-4de3-a6f1-8b46538fce9d",
             "sortCategory": "Mind & Body",
             "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 956187144,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-02-11 17:10:00",
-            "end_date": "2026-02-11 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -22282,9 +22144,9 @@
             ]
         },
         {
-            "id": 1422161736,
+            "id": 143559220,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 20:15:00",
@@ -22305,9 +22167,9 @@
             ]
         },
         {
-            "id": 143559220,
+            "id": 1422161736,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-02-12 20:15:00",
@@ -23923,29 +23785,6 @@
             ]
         },
         {
-            "id": 3401080827,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-18 07:30:00",
-            "end_date": "2026-02-18 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 714658765,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -23958,6 +23797,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3401080827,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-18 07:30:00",
+            "end_date": "2026-02-18 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -24134,29 +23996,6 @@
             "symbol": "dumbbell",
             "featuredDecal": null,
             "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3879866706,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-02-18 17:10:00",
-            "end_date": "2026-02-18 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "featuredDecal": null,
-            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -24742,9 +24581,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1766029257,
+            "id": 483278942,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-02-19 20:15:00",
@@ -24765,9 +24604,9 @@
             ]
         },
         {
-            "id": 483278942,
+            "id": 1766029257,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-02-19 20:15:00",
@@ -27150,29 +26989,6 @@
             ]
         },
         {
-            "id": 1663370199,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-02-25 07:30:00",
-            "end_date": "2026-02-25 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3287893734,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -27185,6 +27001,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1663370199,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-02-25 07:30:00",
+            "end_date": "2026-02-25 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -27529,29 +27368,6 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 993536261,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-02-25 17:10:00",
-            "end_date": "2026-02-25 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -28263,9 +28079,9 @@
             ]
         },
         {
-            "id": 1090129624,
+            "id": 420934582,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 20:15:00",
@@ -28286,9 +28102,9 @@
             ]
         },
         {
-            "id": 420934582,
+            "id": 1090129624,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-02-26 20:15:00",
@@ -30842,29 +30658,6 @@
             ]
         },
         {
-            "id": 2054469846,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-04 07:30:00",
-            "end_date": "2026-03-04 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3256084217,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -30877,6 +30670,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2054469846,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-04 07:30:00",
+            "end_date": "2026-03-04 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -31248,29 +31064,6 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 948870155,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-03-04 17:10:00",
-            "end_date": "2026-03-04 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -31988,9 +31781,9 @@
             ]
         },
         {
-            "id": 3346689211,
+            "id": 790383928,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-03-05 20:15:00",
@@ -32011,9 +31804,9 @@
             ]
         },
         {
-            "id": 790383928,
+            "id": 3346689211,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-03-05 20:15:00",
@@ -33017,29 +32810,6 @@
             ]
         },
         {
-            "id": 390245041,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-09 07:00:00",
-            "end_date": "2026-03-09 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3472833489,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -33075,6 +32845,29 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 390245041,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-09 07:00:00",
+            "end_date": "2026-03-09 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -34711,29 +34504,6 @@
             ]
         },
         {
-            "id": 2333370397,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-11 07:30:00",
-            "end_date": "2026-03-11 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 182077734,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -34746,6 +34516,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2333370397,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-11 07:30:00",
+            "end_date": "2026-03-11 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -35069,29 +34862,6 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 4068737365,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-03-11 17:10:00",
-            "end_date": "2026-03-11 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -35876,9 +35646,9 @@
             ]
         },
         {
-            "id": 1088766915,
+            "id": 3499742884,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-03-12 20:15:00",
@@ -35899,9 +35669,9 @@
             ]
         },
         {
-            "id": 3499742884,
+            "id": 1088766915,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-03-12 20:15:00",
@@ -36995,29 +36765,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2871793838,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-16 07:00:00",
-            "end_date": "2026-03-16 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 779139402,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -37053,6 +36800,29 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 2871793838,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-16 07:00:00",
+            "end_date": "2026-03-16 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -38503,29 +38273,6 @@
             ]
         },
         {
-            "id": 1514343036,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-18 07:30:00",
-            "end_date": "2026-03-18 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1932690012,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -38538,6 +38285,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1514343036,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-18 07:30:00",
+            "end_date": "2026-03-18 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -38838,29 +38608,6 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 169790437,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-03-18 17:10:00",
-            "end_date": "2026-03-18 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -39644,9 +39391,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2409509516,
+            "id": 3721954830,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-03-19 20:15:00",
@@ -39667,9 +39414,9 @@
             ]
         },
         {
-            "id": 3721954830,
+            "id": 2409509516,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-03-19 20:15:00",
@@ -40854,29 +40601,6 @@
             ]
         },
         {
-            "id": 3930365901,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-23 07:00:00",
-            "end_date": "2026-03-23 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3950216970,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -40912,6 +40636,29 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3930365901,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-23 07:00:00",
+            "end_date": "2026-03-23 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -41740,6 +41487,29 @@
             ]
         },
         {
+            "id": 2553189173,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-24 11:00:00",
+            "end_date": "2026-03-24 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1810484599,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -41779,29 +41549,6 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2553189173,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-24 11:00:00",
-            "end_date": "2026-03-24 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -42488,29 +42235,6 @@
             ]
         },
         {
-            "id": 4053359438,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-25 07:30:00",
-            "end_date": "2026-03-25 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 219448021,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -42523,6 +42247,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 4053359438,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-25 07:30:00",
+            "end_date": "2026-03-25 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -42842,29 +42589,6 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 1114568970,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-03-25 17:10:00",
-            "end_date": "2026-03-25 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -43695,9 +43419,9 @@
             ]
         },
         {
-            "id": 148249603,
+            "id": 2952836105,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-03-26 20:15:00",
@@ -43718,9 +43442,9 @@
             ]
         },
         {
-            "id": 2952836105,
+            "id": 148249603,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-03-26 20:15:00",
@@ -44814,29 +44538,6 @@
             ]
         },
         {
-            "id": 3030213188,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-30 07:00:00",
-            "end_date": "2026-03-30 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3324631640,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -44872,6 +44573,29 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3030213188,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-30 07:00:00",
+            "end_date": "2026-03-30 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -45113,29 +44837,6 @@
             ]
         },
         {
-            "id": 2620718522,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Meditation & Movement",
-            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
-            "image": "",
-            "start_date": "2026-03-30 13:30:00",
-            "end_date": "2026-03-30 14:00:00",
-            "venue": "HUB - DV2207",
-            "ticket_label": "Reserve Your Spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.mind.and.body",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3011789588,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Women's Only Basketball & Volleyball",
@@ -45150,6 +44851,29 @@
             "symbol": "volleyball",
             "featuredDecal": null,
             "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 2620718522,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Meditation & Movement",
+            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
+            "image": "",
+            "start_date": "2026-03-30 13:30:00",
+            "end_date": "2026-03-30 14:00:00",
+            "venue": "HUB - DV2207",
+            "ticket_label": "Reserve Your Spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.mind.and.body",
+            "featuredDecal": null,
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -45641,6 +45365,29 @@
             ]
         },
         {
+            "id": 3647936205,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-31 11:00:00",
+            "end_date": "2026-03-31 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1234009429,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -45680,29 +45427,6 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3647936205,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-31 11:00:00",
-            "end_date": "2026-03-31 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -46005,29 +45729,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1707515917,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Black Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-03-31 17:00:00",
-            "end_date": "2026-03-31 17:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2977247266,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball ",
@@ -46044,6 +45745,29 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1707515917,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Black Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-03-31 17:00:00",
+            "end_date": "2026-03-31 17:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
@@ -46370,29 +46094,6 @@
             ]
         },
         {
-            "id": 1247526029,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-01 07:30:00",
-            "end_date": "2026-04-01 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 4266535572,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -46428,6 +46129,29 @@
             "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1247526029,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-01 07:30:00",
+            "end_date": "2026-04-01 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -46680,29 +46404,6 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 82554803,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-04-01 17:10:00",
-            "end_date": "2026-04-01 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -47510,9 +47211,9 @@
             ]
         },
         {
-            "id": 739327500,
+            "id": 422988131,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
+            "title": "Coached Swim",
             "description": "",
             "image": "",
             "start_date": "2026-04-02 20:15:00",
@@ -47533,9 +47234,9 @@
             ]
         },
         {
-            "id": 422988131,
+            "id": 739327500,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-04-02 20:15:00",
@@ -48104,29 +47805,6 @@
             ]
         },
         {
-            "id": 2673517219,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-06 07:00:00",
-            "end_date": "2026-04-06 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 2621125207,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -48162,6 +47840,29 @@
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 2673517219,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-06 07:00:00",
+            "end_date": "2026-04-06 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -48334,6 +48035,27 @@
             ]
         },
         {
+            "id": 1742426683,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-06 12:24:00",
+            "end_date": "2026-04-06 13:24:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 492030490,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -48346,6 +48068,29 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624",
             "sortCategory": "Workout",
             "symbol": "heart",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3334170085,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Basketball & Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-06 13:30:00",
+            "end_date": "2026-04-06 16:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -48380,27 +48125,46 @@
             ]
         },
         {
-            "id": 3334170085,
+            "id": 926344611,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Women's Only Basketball & Volleyball",
+            "title": "Drop-in Volleyball",
             "description": "",
             "image": "",
-            "start_date": "2026-04-06 13:30:00",
+            "start_date": "2026-04-06 14:00:00",
             "end_date": "2026-04-06 16:00:00",
-            "venue": "Gym C",
+            "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "featuredDecal": null,
-            "womens": true,
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1885975082,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Pickleball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-06 14:00:00",
+            "end_date": "2026-04-06 16:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 917395652,
@@ -48449,6 +48213,27 @@
             ]
         },
         {
+            "id": 3784811399,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-06 16:30:00",
+            "end_date": "2026-04-06 18:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1526728411,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Cricket",
@@ -48470,6 +48255,27 @@
             "weeklyRepetitions": [
                 "mo"
             ]
+        },
+        {
+            "id": 4289025484,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-06 17:00:00",
+            "end_date": "2026-04-06 22:00:00",
+            "venue": "Multi-Purpose Room A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 3646659908,
@@ -49072,6 +48878,27 @@
             ]
         },
         {
+            "id": 2072562259,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Cardio Dance",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-08 12:00:00",
+            "end_date": "2026-04-08 13:00:00",
+            "venue": "Dance Studio",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "heart",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2503360923,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -49133,29 +48960,6 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 870774639,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-04-08 17:10:00",
-            "end_date": "2026-04-08 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -50306,29 +50110,6 @@
             "featuredDecal": null,
             "womens": false,
             "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3307177154,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!",
-            "image": "",
-            "start_date": "2026-04-15 17:10:00",
-            "end_date": "2026-04-15 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
@@ -51700,52 +51481,6 @@
     ],
     "featured": [
         {
-            "id": 1068720041,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Yogilates",
-            "description": "Yogilates blends the movements and postures of yoga with the core-focused exercises of Pilates, incorporating strength, flexibility and relaxation techniques into one 45-minute class. All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-04-06 12:10:00",
-            "end_date": "2026-04-06 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39a642fb-d656-4836-9bed-30aa2b4a5d35",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 736147230,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Meditation & Movement",
-            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking. Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty!",
-            "image": "",
-            "start_date": "2026-04-06 13:30:00",
-            "end_date": "2026-04-06 14:00:00",
-            "venue": "HUB - DV2207",
-            "ticket_label": "Reserve Your Spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.mind.and.body",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 374973240,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Power Yoga",
@@ -51788,6 +51523,29 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 2451513502,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights",
+            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals.",
+            "image": "",
+            "start_date": "2026-04-13 16:10:00",
+            "end_date": "2026-04-13 16:55:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
         }
     ],
     "announcements": [
