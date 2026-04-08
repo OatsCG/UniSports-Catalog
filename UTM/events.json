@@ -51546,6 +51546,52 @@
             "weeklyRepetitions": [
                 "mo"
             ]
+        },
+        {
+            "id": 2293818985,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Hatha Yoga (Low-Sensory) ",
+            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45 minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided. Modifications are offered for postures to ensure all levels are welcome.\u00a0 \u00a0If you have additional requests, please connect with our instructors.",
+            "image": "",
+            "start_date": "2026-04-14 17:10:00",
+            "end_date": "2026-04-14 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 270001970,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Soul Sweat",
+            "description": "Soul Sweat is an energizing strength training class created for individuals in the Black, Afro, and Caribbean Communities. This empowering workout is tailored to the unique needs of Black, Afro, and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
+            "image": "",
+            "start_date": "2026-04-14 19:10:00",
+            "end_date": "2026-04-14 19:55:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
         }
     ],
     "announcements": [
