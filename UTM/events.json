@@ -51481,29 +51481,6 @@
     ],
     "featured": [
         {
-            "id": 374973240,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Power Yoga",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-08 07:30:00",
-            "end_date": "2026-04-08 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3422049222,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pilates & Barre",
@@ -51591,6 +51568,52 @@
             "closure": false,
             "weeklyRepetitions": [
                 "tu"
+            ]
+        },
+        {
+            "id": 4212372501,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pride Pump",
+            "description": "Pride Pump offers a unique fitness experience with guided support in an inclusive setting for the 2SLGBTQ+ community and allies. Join us for high-energy workout sessions that celebrate diversity and foster community. Tailored for 2SLGBTQ+ students, Pride Pump blends fitness with empowerment, encouraging everyone to embrace their identities while achieving their goals. Whether you're a fitness fan or just starting out, come energize your body and spirit with us!",
+            "image": "",
+            "start_date": "2026-04-15 17:10:00",
+            "end_date": "2026-04-15 17:55:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=13c07a0b-5cb0-4842-b7cb-c6e696f0fb03",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": true,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1436332172,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates",
+            "description": "Achieve a balanced and toned body with the ultimate core fitness workout! Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion. Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine. All fitness levels welcome.",
+            "image": "",
+            "start_date": "2026-04-15 18:10:00",
+            "end_date": "2026-04-15 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
             ]
         }
     ],
