@@ -32574,27 +32574,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 209534234,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Pay As You Run",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-10 08:00:00",
-            "end_date": "2026-05-10 11:00:00",
-            "venue": "Don Wright Track",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 307458175,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Drop-In Badminton",
