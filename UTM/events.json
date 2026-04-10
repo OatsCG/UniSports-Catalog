@@ -51615,6 +51615,52 @@
             "weeklyRepetitions": [
                 "we"
             ]
+        },
+        {
+            "id": 3760707463,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Salsa & Bachata",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-16 19:10:00",
+            "end_date": "2026-04-16 20:00:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=3c46e800-7c58-433f-bc29-ae0f59c4aa60",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 416523660,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Swing & West Coast",
+            "description": "What\u2019s the difference between East and West Coast Swing? Come find out! We\u2019ll dance along to jazz, big band, blues, and plenty of contemporary music. Whether bouncing along to the rhythm, or grooving with to the beat, you\u2019ll learn to lead, follow, and feel the flow of the music. Please bring clean smooth-soled shoes for dancing; no experience or dance partner required.",
+            "image": "",
+            "start_date": "2026-04-16 20:00:00",
+            "end_date": "2026-04-16 20:50:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=4d26a814-0e1c-437a-a12c-5c85603e2cd1",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
         }
     ],
     "announcements": [
