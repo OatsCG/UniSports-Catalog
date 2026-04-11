@@ -51481,27 +51481,6 @@
     ],
     "featured": [
         {
-            "id": 3422049222,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-04-10 07:30:00",
-            "end_date": "2026-04-10 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2451513502,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights",
@@ -51660,6 +51639,98 @@
             "closure": false,
             "weeklyRepetitions": [
                 "th"
+            ]
+        },
+        {
+            "id": 2436924883,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-17 10:00:00",
+            "end_date": "2026-04-17 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 1155297201,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-17 10:00:00",
+            "end_date": "2026-04-17 11:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 1761446179,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-17 17:00:00",
+            "end_date": "2026-04-17 17:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 3626640077,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Lifesaving Sport",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-17 18:00:00",
+            "end_date": "2026-04-17 19:25:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "lifepreserver",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         }
     ],
