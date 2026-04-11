@@ -32511,7 +32511,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1122502189,
+            "id": 4070201773,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -32574,7 +32574,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3007352072,
+            "id": 3259869787,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -32595,7 +32595,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3798380986,
+            "id": 83391482,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -32658,7 +32658,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2592519737,
+            "id": 847667919,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -32679,7 +32679,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3917124493,
+            "id": 3012539890,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -32784,7 +32784,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4084850695,
+            "id": 3649717173,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -32805,7 +32805,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1482975749,
+            "id": 2575655882,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -32826,7 +32826,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2064192396,
+            "id": 1802311083,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -32847,7 +32847,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4222338312,
+            "id": 737350199,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -32868,7 +32868,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1844476581,
+            "id": 1860111181,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -33057,7 +33057,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1580949845,
+            "id": 392544000,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -33204,7 +33204,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 562965526,
+            "id": 2271783659,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -34317,7 +34317,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1069723655,
+            "id": 2630220835,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -71951,14 +71951,35 @@
     ],
     "featured": [
         {
-            "id": 588473304,
+            "id": 2573881914,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 2 Dance Club",
+            "title": "Learn To: Salsa",
             "description": "",
             "image": "",
-            "start_date": "2026-04-10 18:30:00",
-            "end_date": "2026-04-10 21:30:00",
-            "venue": "Studio 1 (LL1)",
+            "start_date": "2026-04-17 17:30:00",
+            "end_date": "2026-04-17 18:25:00",
+            "venue": "Studio 2 (LL2)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 4203693105,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Learn To: Bachata",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-17 18:35:00",
+            "end_date": "2026-04-17 19:30:00",
+            "venue": "Studio 2 (LL2)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Dance",
