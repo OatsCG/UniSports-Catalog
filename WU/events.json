@@ -33710,27 +33710,6 @@
     ],
     "featured": [
         {
-            "id": 502392054,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Triathlon activity",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-11 14:00:00",
-            "end_date": "2026-04-11 15:30:00",
-            "venue": "Spin Area",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3191285169,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Mustangs Forest City Invitational Track Meet - Scott MacDonald",
