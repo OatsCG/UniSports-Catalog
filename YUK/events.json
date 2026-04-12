@@ -41900,6 +41900,27 @@
     ],
     "featured": [
         {
+            "id": 1834461361,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Facility Operatiosn",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-12 07:00:00",
+            "end_date": "2026-04-12 21:00:00",
+            "venue": "Pickleball",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3100376422,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Athletics & Recreation",
