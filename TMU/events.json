@@ -33834,7 +33834,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2737094759,
+            "id": 298801606,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -33939,7 +33939,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2301963330,
+            "id": 3314198235,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -33960,7 +33960,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1795072999,
+            "id": 1665418534,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -33981,7 +33981,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1488276104,
+            "id": 2291688287,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -34065,7 +34065,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4004582495,
+            "id": 1649130702,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -34086,7 +34086,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 770818792,
+            "id": 1660830277,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -34149,7 +34149,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2399953457,
+            "id": 3018497207,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -34212,7 +34212,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4179695035,
+            "id": 826373705,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -34233,7 +34233,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2754662251,
+            "id": 4055608187,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -34338,7 +34338,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 462387619,
+            "id": 2572898608,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -34380,7 +34380,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 957196258,
+            "id": 4251882531,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -34401,7 +34401,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 284290129,
+            "id": 4164555640,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -34422,7 +34422,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1456833764,
+            "id": 793869574,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -34947,7 +34947,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1084572889,
+            "id": 3098745905,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -47547,48 +47547,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1005539957,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 1 (LL1)",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-02 13:00:00",
-            "end_date": "2026-05-02 14:00:00",
-            "venue": "Studio 1 (LL1)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 364911612,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 1 (LL1)",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-02 14:00:00",
-            "end_date": "2026-05-02 15:00:00",
-            "venue": "Studio 1 (LL1)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 122032764,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -47622,27 +47580,6 @@
             "ticket_url": "",
             "sortCategory": "Squash",
             "symbol": "figure.squash",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 3467898774,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Studio 1 (LL1)",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-02 15:00:00",
-            "end_date": "2026-05-02 16:00:00",
-            "venue": "Studio 1 (LL1)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
