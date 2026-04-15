@@ -5652,9 +5652,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3079897681,
+            "id": 2899703150,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Game # 4 | NC Squirts vs Hottest Wheelz SC",
+            "title": "Game # 3 | Mac Flagship vs Phantoms BC",
             "description": "",
             "image": "",
             "start_date": "2026-03-06 16:45:00",
@@ -5673,9 +5673,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2899703150,
+            "id": 3079897681,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Game # 3 | Mac Flagship vs Phantoms BC",
+            "title": "Game # 4 | NC Squirts vs Hottest Wheelz SC",
             "description": "",
             "image": "",
             "start_date": "2026-03-06 16:45:00",
@@ -9348,9 +9348,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1558833243,
+            "id": 1238589590,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Game # 5 | Kickmen For Hire BC vs Persia BC",
+            "title": "Game # 7 | AMSA BC vs Bethune Dragons BC",
             "description": "",
             "image": "",
             "start_date": "2026-03-11 14:45:00",
@@ -9369,9 +9369,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1238589590,
+            "id": 1558833243,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Game # 7 | AMSA BC vs Bethune Dragons BC",
+            "title": "Game # 5 | Kickmen For Hire BC vs Persia BC",
             "description": "",
             "image": "",
             "start_date": "2026-03-11 14:45:00",
