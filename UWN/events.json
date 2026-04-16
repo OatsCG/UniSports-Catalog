@@ -1368,9 +1368,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3547840567,
+            "id": 3973068240,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 2 1:6 Ratio - Monday 5:30-6:00pm",
+            "title": "Youth Private Lessons - Monday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-02 17:30:00",
@@ -1389,9 +1389,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3973068240,
+            "id": 3547840567,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Monday 5:30-6:00pm",
+            "title": "Swimmer 2 1:6 Ratio - Monday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-02 17:30:00",
@@ -5085,9 +5085,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 593268713,
+            "id": 3505629238,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 3 1:10 Ratio - Friday 4:30-5:00pm",
+            "title": "Preschool C 1:6 Ratio - Friday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-06 16:30:00",
@@ -5106,9 +5106,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3505629238,
+            "id": 593268713,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Preschool C 1:6 Ratio - Friday 4:30-5:00pm",
+            "title": "Swimmer 3 1:10 Ratio - Friday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-06 16:30:00",
@@ -5400,9 +5400,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1343522472,
+            "id": 3185228043,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Preschool B 1:6 Ratio - Friday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Friday 6:30-7:00pm ",
             "description": "",
             "image": "",
             "start_date": "2026-03-06 18:30:00",
@@ -5421,9 +5421,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3185228043,
+            "id": 1343522472,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Friday 6:30-7:00pm ",
+            "title": "Preschool B 1:6 Ratio - Friday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-06 18:30:00",
@@ -6093,9 +6093,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4125076693,
+            "id": 121373674,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
+            "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
             "description": "",
             "image": "",
             "start_date": "2026-03-07 12:00:00",
@@ -6114,9 +6114,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 121373674,
+            "id": 4125076693,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
+            "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-07 12:00:00",
@@ -7479,9 +7479,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1163416433,
+            "id": 2637557579,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 2 1:6 Ratio - Monday 5:30-6:00pm",
+            "title": "Youth Private Lessons - Monday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-09 17:30:00",
@@ -7500,9 +7500,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2637557579,
+            "id": 1163416433,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Monday 5:30-6:00pm",
+            "title": "Swimmer 2 1:6 Ratio - Monday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-09 17:30:00",
@@ -10860,9 +10860,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 590853393,
+            "id": 2391051987,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 3 1:10 Ratio - Friday 4:30-5:00pm",
+            "title": "Preschool C 1:6 Ratio - Friday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-13 16:30:00",
@@ -10881,9 +10881,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2391051987,
+            "id": 590853393,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Preschool C 1:6 Ratio - Friday 4:30-5:00pm",
+            "title": "Swimmer 3 1:10 Ratio - Friday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-13 16:30:00",
@@ -11196,9 +11196,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2022610482,
+            "id": 3194696735,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Preschool B 1:6 Ratio - Friday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Friday 6:30-7:00pm ",
             "description": "",
             "image": "",
             "start_date": "2026-03-13 18:30:00",
@@ -11217,9 +11217,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3194696735,
+            "id": 2022610482,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Friday 6:30-7:00pm ",
+            "title": "Preschool B 1:6 Ratio - Friday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-13 18:30:00",
@@ -11931,9 +11931,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2836392984,
+            "id": 908683989,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
+            "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
             "description": "",
             "image": "",
             "start_date": "2026-03-14 12:00:00",
@@ -11952,9 +11952,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 908683989,
+            "id": 2836392984,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
+            "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-14 12:00:00",
@@ -13338,9 +13338,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3753167936,
+            "id": 1484771336,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 2 1:6 Ratio - Monday 5:30-6:00pm",
+            "title": "Youth Private Lessons - Monday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-16 17:30:00",
@@ -13359,9 +13359,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1484771336,
+            "id": 3753167936,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Monday 5:30-6:00pm",
+            "title": "Swimmer 2 1:6 Ratio - Monday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-16 17:30:00",
@@ -16698,9 +16698,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3158409622,
+            "id": 3071439229,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 3 1:10 Ratio - Friday 4:30-5:00pm",
+            "title": "Preschool C 1:6 Ratio - Friday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-20 16:30:00",
@@ -16719,9 +16719,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3071439229,
+            "id": 3158409622,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Preschool C 1:6 Ratio - Friday 4:30-5:00pm",
+            "title": "Swimmer 3 1:10 Ratio - Friday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-20 16:30:00",
@@ -16992,9 +16992,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2726199528,
+            "id": 4221088100,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Preschool B 1:6 Ratio - Friday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Friday 6:30-7:00pm ",
             "description": "",
             "image": "",
             "start_date": "2026-03-20 18:30:00",
@@ -17013,9 +17013,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4221088100,
+            "id": 2726199528,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Friday 6:30-7:00pm ",
+            "title": "Preschool B 1:6 Ratio - Friday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-20 18:30:00",
@@ -17706,9 +17706,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1026519922,
+            "id": 2584535292,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
+            "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
             "description": "",
             "image": "",
             "start_date": "2026-03-21 12:00:00",
@@ -17727,9 +17727,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2584535292,
+            "id": 1026519922,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Saturday 12:00-12:30pm ",
+            "title": "Youth Private Lessons - Saturday 12:00-12:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-21 12:00:00",
@@ -19302,9 +19302,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3600355499,
+            "id": 547648713,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 2 1:6 Ratio - Monday 5:30-6:00pm",
+            "title": "Youth Private Lessons - Monday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-23 17:30:00",
@@ -19323,9 +19323,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 547648713,
+            "id": 3600355499,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Youth Private Lessons - Monday 5:30-6:00pm",
+            "title": "Swimmer 2 1:6 Ratio - Monday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-23 17:30:00",
@@ -22809,9 +22809,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 848085401,
+            "id": 3583591756,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Swimmer 3 1:10 Ratio - Friday 4:30-5:00pm",
+            "title": "Preschool C 1:6 Ratio - Friday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-27 16:30:00",
@@ -22830,9 +22830,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3583591756,
+            "id": 848085401,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Preschool C 1:6 Ratio - Friday 4:30-5:00pm",
+            "title": "Swimmer 3 1:10 Ratio - Friday 4:30-5:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-27 16:30:00",
@@ -23082,9 +23082,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 253771749,
+            "id": 289313048,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Preschool B 1:6 Ratio - Friday 6:30-7:00pm",
+            "title": "Adult Private Lessons - Friday 6:30-7:00pm ",
             "description": "",
             "image": "",
             "start_date": "2026-03-27 18:30:00",
@@ -23103,9 +23103,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 289313048,
+            "id": 253771749,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Adult Private Lessons - Friday 6:30-7:00pm ",
+            "title": "Preschool B 1:6 Ratio - Friday 6:30-7:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-03-27 18:30:00",
@@ -32070,9 +32070,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 843680580,
+            "id": 3190496275,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Swimmer 3 1:10 Ratio - Monday 4:00-4:30pm",
+            "title": "Spring 2026 - Preschool B 1:6 Ratio - Monday 4:00-4:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-04 16:00:00",
@@ -32091,9 +32091,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3190496275,
+            "id": 843680580,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Preschool B 1:6 Ratio - Monday 4:00-4:30pm",
+            "title": "Spring 2026 - Swimmer 3 1:10 Ratio - Monday 4:00-4:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-04 16:00:00",
@@ -32700,9 +32700,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 61981370,
+            "id": 2263617651,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Adult Private Lessons - Tuesday 5:00-5:30pm",
+            "title": "Spring 2026 - Youth Private Lessons - Tuesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-05 17:00:00",
@@ -32721,9 +32721,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2263617651,
+            "id": 61981370,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Youth Private Lessons - Tuesday 5:00-5:30pm",
+            "title": "Spring 2026 - Adult Private Lessons - Tuesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-05 17:00:00",
@@ -33211,6 +33211,27 @@
             "image": "",
             "start_date": "2026-05-06 16:30:00",
             "end_date": "2026-05-06 17:00:00",
+            "venue": "Pool (Entire)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3038242581,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Triathlon Training Program",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-06 17:00:00",
+            "end_date": "2026-05-06 18:00:00",
             "venue": "Pool (Entire)",
             "ticket_label": "",
             "ticket_url": "",
@@ -34275,9 +34296,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 194904609,
+            "id": 42861314,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Preschool D 1:6 Ratio - Friday 5:30-6:00pm",
+            "title": "Spring 2026 - Swimmer 5 1:10 Ratio - Friday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-08 17:30:00",
@@ -34296,9 +34317,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 42861314,
+            "id": 194904609,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Swimmer 5 1:10 Ratio - Friday 5:30-6:00pm",
+            "title": "Spring 2026 - Preschool D 1:6 Ratio - Friday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-08 17:30:00",
@@ -35703,9 +35724,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 43712803,
+            "id": 2341504767,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Swimmer 3 1:10 Ratio - Monday 4:00-4:30pm",
+            "title": "Spring 2026 - Preschool B 1:6 Ratio - Monday 4:00-4:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-11 16:00:00",
@@ -35724,9 +35745,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2341504767,
+            "id": 43712803,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Preschool B 1:6 Ratio - Monday 4:00-4:30pm",
+            "title": "Spring 2026 - Swimmer 3 1:10 Ratio - Monday 4:00-4:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-11 16:00:00",
@@ -36354,9 +36375,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3882862546,
+            "id": 197962208,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Adult Private Lessons - Tuesday 5:00-5:30pm",
+            "title": "Spring 2026 - Youth Private Lessons - Tuesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-12 17:00:00",
@@ -36375,9 +36396,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 197962208,
+            "id": 3882862546,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Youth Private Lessons - Tuesday 5:00-5:30pm",
+            "title": "Spring 2026 - Adult Private Lessons - Tuesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-12 17:00:00",
@@ -36844,6 +36865,27 @@
             "image": "",
             "start_date": "2026-05-13 16:30:00",
             "end_date": "2026-05-13 17:00:00",
+            "venue": "Pool (Entire)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3736353070,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Triathlon Training Program",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-13 17:00:00",
+            "end_date": "2026-05-13 18:00:00",
             "venue": "Pool (Entire)",
             "ticket_label": "",
             "ticket_url": "",
@@ -37929,9 +37971,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3953194256,
+            "id": 713656819,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Preschool D 1:6 Ratio - Friday 5:30-6:00pm",
+            "title": "Spring 2026 - Swimmer 5 1:10 Ratio - Friday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-15 17:30:00",
@@ -37950,9 +37992,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 713656819,
+            "id": 3953194256,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Swimmer 5 1:10 Ratio - Friday 5:30-6:00pm",
+            "title": "Spring 2026 - Preschool D 1:6 Ratio - Friday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-15 17:30:00",
@@ -39504,9 +39546,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1854320967,
+            "id": 3559376863,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Adult Private Lessons - Tuesday 5:00-5:30pm",
+            "title": "Spring 2026 - Youth Private Lessons - Tuesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-19 17:00:00",
@@ -39525,9 +39567,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3559376863,
+            "id": 1854320967,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Youth Private Lessons - Tuesday 5:00-5:30pm",
+            "title": "Spring 2026 - Adult Private Lessons - Tuesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-19 17:00:00",
@@ -39726,6 +39768,27 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2723251500,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Hold- Lakeview Montessori school",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-20 08:00:00",
+            "end_date": "2026-05-20 14:00:00",
+            "venue": "Stadium",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -39994,6 +40057,27 @@
             "image": "",
             "start_date": "2026-05-20 16:30:00",
             "end_date": "2026-05-20 17:00:00",
+            "venue": "Pool (Entire)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 712630581,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Triathlon Training Program",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-20 17:00:00",
+            "end_date": "2026-05-20 18:00:00",
             "venue": "Pool (Entire)",
             "ticket_label": "",
             "ticket_url": "",
@@ -41121,9 +41205,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 560159709,
+            "id": 2133593258,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Preschool D 1:6 Ratio - Friday 5:30-6:00pm",
+            "title": "Spring 2026 - Swimmer 5 1:10 Ratio - Friday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-22 17:30:00",
@@ -41142,9 +41226,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2133593258,
+            "id": 560159709,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Swimmer 5 1:10 Ratio - Friday 5:30-6:00pm",
+            "title": "Spring 2026 - Preschool D 1:6 Ratio - Friday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-22 17:30:00",
@@ -42570,9 +42654,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3471015922,
+            "id": 2489549828,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Swimmer 3 1:10 Ratio - Monday 4:00-4:30pm",
+            "title": "Spring 2026 - Preschool B 1:6 Ratio - Monday 4:00-4:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-25 16:00:00",
@@ -42591,9 +42675,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2489549828,
+            "id": 3471015922,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Preschool B 1:6 Ratio - Monday 4:00-4:30pm",
+            "title": "Spring 2026 - Swimmer 3 1:10 Ratio - Monday 4:00-4:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-25 16:00:00",
@@ -43263,9 +43347,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 983450633,
+            "id": 91617420,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Adult Private Lessons - Tuesday 5:00-5:30pm",
+            "title": "Spring 2026 - Youth Private Lessons - Tuesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-26 17:00:00",
@@ -43284,9 +43368,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 91617420,
+            "id": 983450633,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Youth Private Lessons - Tuesday 5:00-5:30pm",
+            "title": "Spring 2026 - Adult Private Lessons - Tuesday 5:00-5:30pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-26 17:00:00",
@@ -43732,6 +43816,27 @@
             "image": "",
             "start_date": "2026-05-27 16:30:00",
             "end_date": "2026-05-27 17:00:00",
+            "venue": "Pool (Entire)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3792020092,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Triathlon Training Program",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-27 17:00:00",
+            "end_date": "2026-05-27 18:00:00",
             "venue": "Pool (Entire)",
             "ticket_label": "",
             "ticket_url": "",
@@ -44901,9 +45006,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2307296954,
+            "id": 2000695056,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Preschool D 1:6 Ratio - Friday 5:30-6:00pm",
+            "title": "Spring 2026 - Swimmer 5 1:10 Ratio - Friday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-29 17:30:00",
@@ -44922,9 +45027,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2000695056,
+            "id": 2307296954,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Spring 2026 - Swimmer 5 1:10 Ratio - Friday 5:30-6:00pm",
+            "title": "Spring 2026 - Preschool D 1:6 Ratio - Friday 5:30-6:00pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-29 17:30:00",
@@ -46205,27 +46310,6 @@
     ],
     "featured": [
         {
-            "id": 792524656,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Open Rec - Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-15 19:00:00",
-            "end_date": "2026-04-15 23:00:00",
-            "venue": "Court #1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2174639020,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Hyrox Simulation - 1/2 distance - Friday April 17 - 1/2 Hyrox April 17th",
@@ -46280,6 +46364,27 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3972213399,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "Open Rec - Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-24 07:00:00",
+            "end_date": "2026-04-24 11:30:00",
+            "venue": "Dennis Fairall Fieldhouse",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
