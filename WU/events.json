@@ -33689,27 +33689,6 @@
     ],
     "featured": [
         {
-            "id": 573936003,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Core & More",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-16 18:00:00",
-            "end_date": "2026-04-16 18:45:00",
-            "venue": "Studio 1 (Double)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 38277937,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "MYM Fitness - Pilates",
