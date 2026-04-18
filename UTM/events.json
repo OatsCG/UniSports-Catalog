@@ -6847,29 +6847,6 @@
             ]
         },
         {
-            "id": 2045933160,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: TRX",
-            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
-            "image": "",
-            "start_date": "2026-04-23 16:10:00",
-            "end_date": "2026-04-23 16:55:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 2237756392,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Track Level Open",
@@ -6891,6 +6868,29 @@
             "weeklyRepetitions": [
                 "th",
                 "we"
+            ]
+        },
+        {
+            "id": 2045933160,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: TRX",
+            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
+            "image": "",
+            "start_date": "2026-04-23 16:10:00",
+            "end_date": "2026-04-23 16:55:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
