@@ -47381,27 +47381,6 @@
     ],
     "featured": [
         {
-            "id": 1178934292,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "Lancer Football Team's annual ID camp- Coach JP",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-19 09:00:00",
-            "end_date": "2026-04-19 12:30:00",
-            "venue": "The Armoury",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Football",
-            "symbol": "american.football",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3279270034,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Open Recreation - Volleyball",
