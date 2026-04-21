@@ -33689,6 +33689,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 313578044,
+            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
+            "title": "MYM: Foundations Flow Beginner Yoga & Pilates",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-27 12:00:00",
+            "end_date": "2026-04-27 12:45:00",
+            "venue": "Studio 1 (Double)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 674534404,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Titan Bronco - Track Meet - Todd Mackay",
