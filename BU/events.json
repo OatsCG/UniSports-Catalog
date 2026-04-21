@@ -1368,6 +1368,27 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 936254045,
+            "url": "https://anc.ca.apm.activecommunities.com/brocku",
+            "title": "Drop in Volleyball - membership required",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-22 19:30:00",
+            "end_date": "2026-04-22 22:30:00",
+            "venue": "Gym 2",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         }
     ],
     "announcements": [
