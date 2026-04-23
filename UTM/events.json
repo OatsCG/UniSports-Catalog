@@ -55535,6 +55535,29 @@
     ],
     "featured": [
         {
+            "id": 1857817580,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Power Yoga",
+            "description": "Power Yoga is a dynamic, strength\u2011based yoga class that blends flowing movement with breath to build total\u2011body strength, endurance, and mobility. This energizing practice moves at a steady pace through creative sequences inspired by traditional yoga postures, with an emphasis on core stability, balance, and functional strength. Expect to work up a sweat while improving flexibility, coordination, and mental focus. Options and modifications are offered to support different fitness levels, making this class accessible while still challenging. Class typically ends with a brief cool\u2011down and relaxation to restore balance and support recovery.",
+            "image": "",
+            "start_date": "2026-04-29 07:30:00",
+            "end_date": "2026-04-29 08:15:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 487549104,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pilates Reformer & Chair (Demo)",
