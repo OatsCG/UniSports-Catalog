@@ -33626,27 +33626,6 @@
     ],
     "featured": [
         {
-            "id": 3191285169,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Mustangs Forest City Invitational Track Meet - Scott MacDonald",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-23 07:00:00",
-            "end_date": "2026-04-23 20:00:00",
-            "venue": "Don Wright Track",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 680708797,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Foundations of Flow",
