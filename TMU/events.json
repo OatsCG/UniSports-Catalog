@@ -41961,7 +41961,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3948960926,
+            "id": 3160815951,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -41982,7 +41982,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2482552353,
+            "id": 2382020508,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -42003,7 +42003,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2447372181,
+            "id": 4187415533,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -42087,7 +42087,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1869846694,
+            "id": 2919482906,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -42150,7 +42150,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 941748520,
+            "id": 3269828064,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -42234,7 +42234,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 551735914,
+            "id": 1019307408,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -42276,7 +42276,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 650041870,
+            "id": 563533257,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -42822,7 +42822,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 999083463,
+            "id": 4219510909,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -43326,7 +43326,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2205960594,
+            "id": 3878625653,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -43683,7 +43683,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 877883896,
+            "id": 280584359,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -73681,6 +73681,90 @@
             "start_date": "2026-04-29 18:15:00",
             "end_date": "2026-04-29 19:00:00",
             "venue": "Studio 2 (LL2)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3710627687,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Spin+ Sculpt",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-30 13:00:00",
+            "end_date": "2026-04-30 13:45:00",
+            "venue": "Studio 1 (LL1)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3754928764,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Women's Only Yin Yoga",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-30 16:45:00",
+            "end_date": "2026-04-30 17:30:00",
+            "venue": "Studio 1 (LL1)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3096452780,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "SALSA + BACHATA Dance Party",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-30 18:00:00",
+            "end_date": "2026-04-30 18:45:00",
+            "venue": "Studio 2 (LL2)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1615257010,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "RAINBOW Ride + Core",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-30 18:15:00",
+            "end_date": "2026-04-30 19:00:00",
+            "venue": "Studio 1 (LL1)",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Other",
