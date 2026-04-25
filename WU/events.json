@@ -30369,6 +30369,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 1897241053,
+            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
+            "title": "MYM Fitness - Sculpt & Sweat",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-24 14:00:00",
+            "end_date": "2026-04-24 14:45:00",
+            "venue": "Studio 1 (Double)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 4188385992,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Pay As You Run",
@@ -33625,27 +33646,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 680708797,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "Foundations of Flow",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-24 12:00:00",
-            "end_date": "2026-04-24 12:45:00",
-            "venue": "Studio 1 (Double)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 728247455,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
