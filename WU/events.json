@@ -33668,6 +33668,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2444686497,
+            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
+            "title": "Sport Western - Group Interviews",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-26 09:30:00",
+            "end_date": "2026-04-26 15:30:00",
+            "venue": "Gymnasia",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 313578044,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "MYM: Foundations Flow Beginner Yoga & Pilates",
