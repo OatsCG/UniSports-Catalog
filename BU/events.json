@@ -2000,6 +2000,27 @@
     ],
     "featured": [
         {
+            "id": 989134070,
+            "url": "https://anc.ca.apm.activecommunities.com/brocku",
+            "title": "Drop In Field Time - Membership Required",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-01 12:00:00",
+            "end_date": "2026-05-01 17:00:00",
+            "venue": "Alumni Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 774529877,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
             "title": "Drop In Basketball- Membership required",
