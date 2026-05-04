@@ -1977,6 +1977,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3007489030,
+            "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
+            "title": "Set-up for MGC",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-17 16:30:00",
+            "end_date": "2026-05-17 19:00:00",
+            "venue": "Gym 2",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1442655790,
             "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
             "title": "Open Gym Time - Staff Pickleball",
@@ -2167,27 +2188,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 207362414,
-            "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
-            "title": "Open Gym Time - Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-03 10:00:00",
-            "end_date": "2026-05-03 16:00:00",
-            "venue": "Gym 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 1475416751,
             "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
