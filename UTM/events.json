@@ -1452,6 +1452,29 @@
             ]
         },
         {
+            "id": 1170486075,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "2SLGBTQ+ Solidarity Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-09 16:00:00",
+            "end_date": "2026-04-09 17:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.water.fitness",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": true,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 604773713,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: SCC Open",
@@ -1476,29 +1499,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 1170486075,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "2SLGBTQ+ Solidarity Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-09 16:00:00",
-            "end_date": "2026-04-09 17:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
             ]
         },
         {
@@ -1914,6 +1914,30 @@
             ]
         },
         {
+            "id": 2629830773,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-10 16:00:00",
+            "end_date": "2026-04-10 17:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 3735233383,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: SCC Open",
@@ -1938,30 +1962,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 2629830773,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-10 16:00:00",
-            "end_date": "2026-04-10 17:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -2251,29 +2251,6 @@
             ]
         },
         {
-            "id": 2219511204,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Track Level Open",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-12 10:00:00",
-            "end_date": "2026-04-12 17:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 4178542187,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Coached Swim",
@@ -2286,6 +2263,29 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 2219511204,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Track Level Open",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-12 10:00:00",
+            "end_date": "2026-04-12 17:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -2695,6 +2695,30 @@
             ]
         },
         {
+            "id": 1207566072,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-13 16:00:00",
+            "end_date": "2026-04-13 17:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 2564354950,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: SCC Open",
@@ -2719,30 +2743,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 1207566072,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-13 16:00:00",
-            "end_date": "2026-04-13 17:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -3996,6 +3996,29 @@
             ]
         },
         {
+            "id": 755565736,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "2SLGBTQ+ Solidarity Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-16 16:00:00",
+            "end_date": "2026-04-16 17:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.water.fitness",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": true,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 1719694176,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: SCC Open",
@@ -4020,29 +4043,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 755565736,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "2SLGBTQ+ Solidarity Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-16 16:00:00",
-            "end_date": "2026-04-16 17:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
             ]
         },
         {
@@ -4466,6 +4466,30 @@
             ]
         },
         {
+            "id": 1863792234,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-17 16:00:00",
+            "end_date": "2026-04-17 17:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 2656425373,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: SCC Open",
@@ -4490,30 +4514,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 1863792234,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-17 16:00:00",
-            "end_date": "2026-04-17 17:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -4782,29 +4782,6 @@
             ]
         },
         {
-            "id": 1684340996,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Track Level Open",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-19 10:00:00",
-            "end_date": "2026-04-19 17:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 2456716017,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Coached Swim",
@@ -4817,6 +4794,29 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 1684340996,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Track Level Open",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-19 10:00:00",
+            "end_date": "2026-04-19 17:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -5223,6 +5223,30 @@
             ]
         },
         {
+            "id": 1817389420,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-20 16:00:00",
+            "end_date": "2026-04-20 17:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 1443590818,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: SCC Open",
@@ -5247,30 +5271,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 1817389420,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-20 16:00:00",
-            "end_date": "2026-04-20 17:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -6503,6 +6503,29 @@
             ]
         },
         {
+            "id": 1050806779,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "2SLGBTQ+ Solidarity Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-23 16:00:00",
+            "end_date": "2026-04-23 17:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.water.fitness",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": true,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 585452719,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: SCC Open",
@@ -6527,29 +6550,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 1050806779,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "2SLGBTQ+ Solidarity Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-23 16:00:00",
-            "end_date": "2026-04-23 17:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
             ]
         },
         {
@@ -6959,6 +6959,30 @@
             ]
         },
         {
+            "id": 3518222581,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-24 16:00:00",
+            "end_date": "2026-04-24 17:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 1737316683,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: SCC Open",
@@ -6983,30 +7007,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 3518222581,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-24 16:00:00",
-            "end_date": "2026-04-24 17:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -7269,6 +7269,29 @@
             ]
         },
         {
+            "id": 4035412265,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-26 11:30:00",
+            "end_date": "2026-04-26 13:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
             "id": 706513333,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -7309,29 +7332,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 4035412265,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-26 11:30:00",
-            "end_date": "2026-04-26 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
         },
         {
             "id": 3556178268,
@@ -7718,6 +7718,30 @@
             ]
         },
         {
+            "id": 964658871,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-27 16:00:00",
+            "end_date": "2026-04-27 17:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 3635359622,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: SCC Open",
@@ -7764,30 +7788,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 964658871,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-27 16:00:00",
-            "end_date": "2026-04-27 17:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
-            ]
         },
         {
             "id": 2551230772,
@@ -8170,33 +8170,6 @@
             ]
         },
         {
-            "id": 176995816,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: SCC Open",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-28 16:00:00",
-            "end_date": "2026-04-28 17:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "th",
-                "tu",
-                "we"
-            ]
-        },
-        {
             "id": 3723752932,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -8240,6 +8213,33 @@
             "closure": false,
             "weeklyRepetitions": [
                 "tu"
+            ]
+        },
+        {
+            "id": 176995816,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: SCC Open",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-28 16:00:00",
+            "end_date": "2026-04-28 17:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "th",
+                "tu",
+                "we"
             ]
         },
         {
@@ -8787,6 +8787,29 @@
             ]
         },
         {
+            "id": 2593798965,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Registered Lessons",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-29 16:00:00",
+            "end_date": "2026-04-29 20:45:00",
+            "venue": "Pool",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 4018776007,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: SCC Open",
@@ -8810,29 +8833,6 @@
                 "mo",
                 "th",
                 "tu",
-                "we"
-            ]
-        },
-        {
-            "id": 2593798965,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Registered Lessons",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-29 16:00:00",
-            "end_date": "2026-04-29 20:45:00",
-            "venue": "Pool",
-            "ticket_label": "Learn more",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -9171,6 +9171,29 @@
             ]
         },
         {
+            "id": 3800580463,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "2SLGBTQ+ Solidarity Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-30 16:00:00",
+            "end_date": "2026-04-30 17:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.water.fitness",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": true,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 2623922809,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: SCC Open",
@@ -9195,29 +9218,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 3800580463,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "2SLGBTQ+ Solidarity Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-30 16:00:00",
-            "end_date": "2026-04-30 17:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
             ]
         },
         {
@@ -9667,6 +9667,30 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2672493081,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-01 16:00:00",
+            "end_date": "2026-05-01 17:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 3972100070,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: SCC Open",
@@ -9713,30 +9737,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 2672493081,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-01 16:00:00",
-            "end_date": "2026-05-01 17:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
-            ]
         },
         {
             "id": 1555363653,
@@ -9898,27 +9898,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2348031944,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-02 10:30:00",
-            "end_date": "2026-05-02 16:45:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 814601572,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -9967,6 +9946,27 @@
             ]
         },
         {
+            "id": 2348031944,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-02 10:30:00",
+            "end_date": "2026-05-02 16:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3195452168,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -10011,6 +10011,29 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 942167742,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-03 10:00:00",
+            "end_date": "2026-05-03 11:30:00",
+            "venue": "Pool",
+            "ticket_label": "Membership Information",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
             "id": 3844482509,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -10051,29 +10074,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 942167742,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-03 10:00:00",
-            "end_date": "2026-05-03 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Membership Information",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
         },
         {
             "id": 2583153650,
@@ -10170,27 +10170,6 @@
             ]
         },
         {
-            "id": 227176316,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-03 13:30:00",
-            "end_date": "2026-05-03 16:45:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3655590121,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fun Swim",
@@ -10212,6 +10191,27 @@
             "weeklyRepetitions": [
                 "su"
             ]
+        },
+        {
+            "id": 227176316,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-03 13:30:00",
+            "end_date": "2026-05-03 16:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 272348655,
@@ -13665,29 +13665,6 @@
             ]
         },
         {
-            "id": 1512682220,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-11 16:00:00",
-            "end_date": "2026-05-11 20:45:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 339773907,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -13708,6 +13685,29 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo"
+            ]
+        },
+        {
+            "id": 1512682220,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-11 16:00:00",
+            "end_date": "2026-05-11 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo"
             ]
         },
@@ -15893,6 +15893,27 @@
             ]
         },
         {
+            "id": 403320050,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "RAWC CLOSED: Presidential Day",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-15 09:58:00",
+            "end_date": "2026-05-15 09:58:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1736796331,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Learn to Swim",
@@ -16425,27 +16446,6 @@
             ]
         },
         {
-            "id": 2959865264,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-17 10:00:00",
-            "end_date": "2026-05-17 13:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3854320627,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Coached Swim",
@@ -16467,6 +16467,27 @@
             "weeklyRepetitions": [
                 "su"
             ]
+        },
+        {
+            "id": 2959865264,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-17 10:00:00",
+            "end_date": "2026-05-17 13:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 4202966546,
@@ -16805,6 +16826,27 @@
             ]
         },
         {
+            "id": 3923292224,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "RAWC CLOSED: Victoria Day",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-18 09:58:00",
+            "end_date": "2026-05-18 09:58:00",
+            "venue": "",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": true,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1528233186,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -16971,29 +17013,6 @@
             ]
         },
         {
-            "id": 3964890638,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-18 16:00:00",
-            "end_date": "2026-05-18 20:45:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 2262826155,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -17014,6 +17033,29 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo"
+            ]
+        },
+        {
+            "id": 3964890638,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-18 16:00:00",
+            "end_date": "2026-05-18 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo"
             ]
         },
@@ -19390,29 +19432,6 @@
             ]
         },
         {
-            "id": 3985098391,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-22 16:00:00",
-            "end_date": "2026-05-22 19:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 4148769690,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -19434,6 +19453,29 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo"
+            ]
+        },
+        {
+            "id": 3985098391,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-22 16:00:00",
+            "end_date": "2026-05-22 19:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -20238,7 +20280,7 @@
             "end_date": "2026-05-25 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -20380,7 +20422,7 @@
             "end_date": "2026-05-25 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -20393,29 +20435,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 3550215319,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-25 16:00:00",
-            "end_date": "2026-05-25 20:45:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
             ]
         },
         {
@@ -20439,6 +20458,29 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo"
+            ]
+        },
+        {
+            "id": 3550215319,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-25 16:00:00",
+            "end_date": "2026-05-25 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo"
             ]
         },
@@ -20763,7 +20805,7 @@
             "end_date": "2026-05-26 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -21634,7 +21676,7 @@
             "end_date": "2026-05-27 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -21774,7 +21816,7 @@
             "end_date": "2026-05-27 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -22225,7 +22267,7 @@
             "end_date": "2026-05-28 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -23041,7 +23083,7 @@
             "end_date": "2026-05-29 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -23183,7 +23225,7 @@
             "end_date": "2026-05-29 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -23222,29 +23264,6 @@
             ]
         },
         {
-            "id": 2293055656,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-29 16:00:00",
-            "end_date": "2026-05-29 19:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1612971356,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -23266,6 +23285,29 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo"
+            ]
+        },
+        {
+            "id": 2293055656,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-29 16:00:00",
+            "end_date": "2026-05-29 19:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -23442,7 +23484,7 @@
             "end_date": "2026-05-30 17:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -23620,6 +23662,29 @@
             ]
         },
         {
+            "id": 2583022938,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-31 10:00:00",
+            "end_date": "2026-05-31 11:30:00",
+            "venue": "Pool",
+            "ticket_label": "Membership Information",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
             "id": 1953544580,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -23653,7 +23718,7 @@
             "end_date": "2026-05-31 17:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -23680,29 +23745,6 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 2583022938,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-31 10:00:00",
-            "end_date": "2026-05-31 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Membership Information",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -24189,7 +24231,7 @@
             "end_date": "2026-06-01 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -24331,7 +24373,7 @@
             "end_date": "2026-06-01 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -24368,29 +24410,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1579230954,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-01 16:00:00",
-            "end_date": "2026-06-01 20:45:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 1485320417,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -24411,6 +24430,29 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo"
+            ]
+        },
+        {
+            "id": 1579230954,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-01 16:00:00",
+            "end_date": "2026-06-01 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo"
             ]
         },
@@ -25697,7 +25739,7 @@
             "end_date": "2026-06-03 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -25837,7 +25879,7 @@
             "end_date": "2026-06-03 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -27193,7 +27235,7 @@
             "end_date": "2026-06-05 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -27335,7 +27377,7 @@
             "end_date": "2026-06-05 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -27374,29 +27416,6 @@
             ]
         },
         {
-            "id": 2815107771,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-05 16:00:00",
-            "end_date": "2026-06-05 19:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3588635152,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -27418,6 +27437,29 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo"
+            ]
+        },
+        {
+            "id": 2815107771,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-05 16:00:00",
+            "end_date": "2026-06-05 19:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -27594,7 +27636,7 @@
             "end_date": "2026-06-06 17:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -27772,6 +27814,29 @@
             ]
         },
         {
+            "id": 1880520156,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-07 10:00:00",
+            "end_date": "2026-06-07 11:30:00",
+            "venue": "Pool",
+            "ticket_label": "Membership Information",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
             "id": 1816268905,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -27805,7 +27870,7 @@
             "end_date": "2026-06-07 17:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -27832,29 +27897,6 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 1880520156,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-07 10:00:00",
-            "end_date": "2026-06-07 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Membership Information",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -28341,7 +28383,7 @@
             "end_date": "2026-06-08 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -28483,7 +28525,7 @@
             "end_date": "2026-06-08 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -28496,29 +28538,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 2380991645,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-08 16:00:00",
-            "end_date": "2026-06-08 20:45:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
             ]
         },
         {
@@ -28542,6 +28561,29 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo"
+            ]
+        },
+        {
+            "id": 2380991645,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-08 16:00:00",
+            "end_date": "2026-06-08 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo"
             ]
         },
@@ -29807,7 +29849,7 @@
             "end_date": "2026-06-10 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -29947,7 +29989,7 @@
             "end_date": "2026-06-10 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -31261,7 +31303,7 @@
             "end_date": "2026-06-12 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -31403,7 +31445,7 @@
             "end_date": "2026-06-12 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -31442,29 +31484,6 @@
             ]
         },
         {
-            "id": 1901293489,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-12 16:00:00",
-            "end_date": "2026-06-12 19:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 681668601,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -31486,6 +31505,29 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo"
+            ]
+        },
+        {
+            "id": 1901293489,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-12 16:00:00",
+            "end_date": "2026-06-12 19:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -31662,7 +31704,7 @@
             "end_date": "2026-06-13 17:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -31840,6 +31882,29 @@
             ]
         },
         {
+            "id": 3246060382,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-14 10:00:00",
+            "end_date": "2026-06-14 11:30:00",
+            "venue": "Pool",
+            "ticket_label": "Membership Information",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
             "id": 55856238,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -31873,7 +31938,7 @@
             "end_date": "2026-06-14 17:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -31900,29 +31965,6 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 3246060382,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-14 10:00:00",
-            "end_date": "2026-06-14 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Membership Information",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -32409,7 +32451,7 @@
             "end_date": "2026-06-15 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -32551,7 +32593,7 @@
             "end_date": "2026-06-15 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -32564,29 +32606,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 3073834542,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-15 16:00:00",
-            "end_date": "2026-06-15 20:45:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
             ]
         },
         {
@@ -32610,6 +32629,29 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo"
+            ]
+        },
+        {
+            "id": 3073834542,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-15 16:00:00",
+            "end_date": "2026-06-15 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo"
             ]
         },
@@ -33852,7 +33894,7 @@
             "end_date": "2026-06-17 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -33992,7 +34034,7 @@
             "end_date": "2026-06-17 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -35283,7 +35325,7 @@
             "end_date": "2026-06-19 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -35378,7 +35420,7 @@
             "end_date": "2026-06-19 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -35417,29 +35459,6 @@
             ]
         },
         {
-            "id": 815484088,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-19 16:00:00",
-            "end_date": "2026-06-19 19:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1155871090,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -35461,6 +35480,29 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo"
+            ]
+        },
+        {
+            "id": 815484088,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-19 16:00:00",
+            "end_date": "2026-06-19 19:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -35637,7 +35679,7 @@
             "end_date": "2026-06-20 17:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -35792,6 +35834,29 @@
             ]
         },
         {
+            "id": 2649172890,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-21 10:00:00",
+            "end_date": "2026-06-21 11:30:00",
+            "venue": "Pool",
+            "ticket_label": "Membership Information",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
             "id": 1658589294,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -35825,7 +35890,7 @@
             "end_date": "2026-06-21 17:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -35852,29 +35917,6 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 2649172890,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-21 10:00:00",
-            "end_date": "2026-06-21 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Membership Information",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -36409,7 +36451,7 @@
             "end_date": "2026-06-22 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -36527,7 +36569,7 @@
             "end_date": "2026-06-22 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -36540,29 +36582,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 1104081238,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-22 16:00:00",
-            "end_date": "2026-06-22 20:45:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo"
             ]
         },
         {
@@ -36586,6 +36605,29 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo"
+            ]
+        },
+        {
+            "id": 1104081238,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-22 16:00:00",
+            "end_date": "2026-06-22 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo"
             ]
         },
@@ -37854,7 +37896,7 @@
             "end_date": "2026-06-24 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -37971,7 +38013,7 @@
             "end_date": "2026-06-24 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -39263,7 +39305,7 @@
             "end_date": "2026-06-26 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -39358,7 +39400,7 @@
             "end_date": "2026-06-26 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -39394,6 +39436,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 3605558926,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-26 16:00:00",
+            "end_date": "2026-06-26 17:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
             ]
         },
         {
@@ -39439,30 +39505,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 3605558926,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-26 16:00:00",
-            "end_date": "2026-06-26 17:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
-            ]
         },
         {
             "id": 846269730,
@@ -39638,7 +39680,7 @@
             "end_date": "2026-06-27 17:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -39835,6 +39877,29 @@
             ]
         },
         {
+            "id": 1868519325,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Coached Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-28 10:00:00",
+            "end_date": "2026-06-28 11:30:00",
+            "venue": "Pool",
+            "ticket_label": "Membership Information",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
             "id": 963109169,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -39868,7 +39933,7 @@
             "end_date": "2026-06-28 17:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -39925,29 +39990,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 1868519325,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Coached Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-28 10:00:00",
-            "end_date": "2026-06-28 11:30:00",
-            "venue": "Pool",
-            "ticket_label": "Membership Information",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/membership/membership-types",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
         },
         {
             "id": 271833014,
@@ -40399,7 +40441,7 @@
             "end_date": "2026-06-29 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -40494,7 +40536,7 @@
             "end_date": "2026-06-29 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -41470,7 +41512,7 @@
             "end_date": "2026-07-01 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -41541,7 +41583,7 @@
             "end_date": "2026-07-01 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -42623,7 +42665,7 @@
             "end_date": "2026-07-03 13:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
             "featuredDecal": null,
@@ -42718,7 +42760,7 @@
             "end_date": "2026-07-03 19:30:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -42757,29 +42799,6 @@
             ]
         },
         {
-            "id": 2276904817,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-07-03 16:00:00",
-            "end_date": "2026-07-03 19:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 388679890,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -42801,6 +42820,29 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo"
+            ]
+        },
+        {
+            "id": 2276904817,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-03 16:00:00",
+            "end_date": "2026-07-03 19:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -42977,7 +43019,7 @@
             "end_date": "2026-07-04 17:00:00",
             "venue": "Tennis Court",
             "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
             "sortCategory": "Tennis",
             "symbol": "tennisball",
             "featuredDecal": null,
@@ -43126,6 +43168,30 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 722207957,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-05 10:00:00",
+            "end_date": "2026-07-05 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
                 "su"
             ]
         },
@@ -44730,6 +44796,30 @@
             ]
         },
         {
+            "id": 3216650829,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-11 10:00:00",
+            "end_date": "2026-07-11 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 3420262440,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -44845,6 +44935,51 @@
             "weeklyRepetitions": [
                 "sa"
             ]
+        },
+        {
+            "id": 858615367,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-12 10:00:00",
+            "end_date": "2026-07-12 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
+            "id": 2271907387,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-12 10:00:00",
+            "end_date": "2026-07-12 11:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 3601403308,
@@ -46424,6 +46559,30 @@
             ]
         },
         {
+            "id": 300556887,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-18 10:00:00",
+            "end_date": "2026-07-18 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 1776043657,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -46538,6 +46697,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 1497597763,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-19 10:00:00",
+            "end_date": "2026-07-19 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         },
         {
@@ -48118,6 +48301,30 @@
             ]
         },
         {
+            "id": 1106019382,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-25 10:00:00",
+            "end_date": "2026-07-25 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 1928633345,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -48232,6 +48439,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 3878372753,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-26 10:00:00",
+            "end_date": "2026-07-26 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         },
         {
@@ -49812,6 +50043,30 @@
             ]
         },
         {
+            "id": 3065127430,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-08-01 10:00:00",
+            "end_date": "2026-08-01 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 3335759247,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -49929,6 +50184,30 @@
             ]
         },
         {
+            "id": 2904597433,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-08-02 10:00:00",
+            "end_date": "2026-08-02 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 2538129068,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -49941,6 +50220,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 912185481,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-08-02 10:00:00",
+            "end_date": "2026-08-02 11:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -51506,6 +51808,30 @@
             ]
         },
         {
+            "id": 1790155315,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-08-08 10:00:00",
+            "end_date": "2026-08-08 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 1437605914,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -51623,6 +51949,30 @@
             ]
         },
         {
+            "id": 1943828809,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-08-09 10:00:00",
+            "end_date": "2026-08-09 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 3491732555,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -51635,6 +51985,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 828256573,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-08-09 10:00:00",
+            "end_date": "2026-08-09 11:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -53200,6 +53573,30 @@
             ]
         },
         {
+            "id": 1707608488,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-08-15 10:00:00",
+            "end_date": "2026-08-15 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 2781171434,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -53317,6 +53714,30 @@
             ]
         },
         {
+            "id": 2348017078,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-08-16 10:00:00",
+            "end_date": "2026-08-16 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 2007255900,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -53329,6 +53750,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 3552773498,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-08-16 10:00:00",
+            "end_date": "2026-08-16 11:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -54800,6 +55244,30 @@
             ]
         },
         {
+            "id": 982332083,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-08-22 10:00:00",
+            "end_date": "2026-08-22 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 615581662,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -54894,6 +55362,30 @@
             ]
         },
         {
+            "id": 2802781989,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-08-23 10:00:00",
+            "end_date": "2026-08-23 17:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://recreation.utoronto.ca/booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 2488409333,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -54906,6 +55398,29 @@
             "ticket_url": "",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 2230667416,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-08-23 10:00:00",
+            "end_date": "2026-08-23 11:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
