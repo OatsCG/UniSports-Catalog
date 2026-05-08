@@ -27282,7 +27282,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1181161938,
+            "id": 25614607,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -27534,7 +27534,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1400211684,
+            "id": 617814148,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -27576,7 +27576,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 32490892,
+            "id": 3911036747,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -27597,7 +27597,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2101591074,
+            "id": 1757597385,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -27618,7 +27618,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 678653077,
+            "id": 2122089734,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -27639,7 +27639,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2675407734,
+            "id": 2718673162,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -27660,7 +27660,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3757151842,
+            "id": 1988671189,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -27681,7 +27681,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1291029712,
+            "id": 202427977,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -27765,7 +27765,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1167880681,
+            "id": 287784361,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -27828,7 +27828,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2231313812,
+            "id": 34831133,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -27933,7 +27933,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 317637597,
+            "id": 1252274085,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -27996,7 +27996,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2657879225,
+            "id": 1221434071,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -28101,7 +28101,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 711730907,
+            "id": 776062311,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -28353,7 +28353,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 941484911,
+            "id": 1893156274,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -28374,7 +28374,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1944501680,
+            "id": 127896962,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -28416,7 +28416,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1429870145,
+            "id": 3893636434,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -29130,7 +29130,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2585107012,
+            "id": 4081238141,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -48282,27 +48282,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 676530453,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Spring / Summer 2026 - Adult Private Swim Lessons - Wednesdays @ 10:15-11:00am in June | Private 3-l",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-03 10:15:00",
-            "end_date": "2026-06-03 11:00:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2273108932,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Spring / Summer 2026 - Adult Private Swim Lessons - Wednesdays @ 11:00-11:45am in June | Private 3-l",
@@ -54288,27 +54267,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 566999319,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Spring / Summer 2026 - Adult Private Swim Lessons - Wednesdays @ 10:15-11:00am in June | Private 3-l",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-10 10:15:00",
-            "end_date": "2026-06-10 11:00:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4120078056,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Spring / Summer 2026 - Adult Private Swim Lessons - Wednesdays @ 11:00-11:45am in June | Private 3-l",
@@ -60201,27 +60159,6 @@
             "ticket_url": "",
             "sortCategory": "Other",
             "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 1919489392,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Spring / Summer 2026 - Adult Private Swim Lessons - Wednesdays @ 10:15-11:00am in June | Private 3-l",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-17 10:15:00",
-            "end_date": "2026-06-17 11:00:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -71215,27 +71152,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 628405809,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "KPOP FREE DEMO CLASS",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-07 19:00:00",
-            "end_date": "2026-05-07 19:55:00",
-            "venue": "Studio 2 (LL2)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 3634587854,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
