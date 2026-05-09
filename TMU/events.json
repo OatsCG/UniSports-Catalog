@@ -28185,7 +28185,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2821937958,
+            "id": 1290481216,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -28563,7 +28563,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 223536246,
+            "id": 4114475351,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -28584,7 +28584,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2142980961,
+            "id": 1530407396,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -28605,7 +28605,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 387454228,
+            "id": 2041286418,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -28626,7 +28626,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 256869296,
+            "id": 2020214192,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -28668,7 +28668,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4010687176,
+            "id": 3864631976,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -28983,7 +28983,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1695107178,
+            "id": 4051644347,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -29067,7 +29067,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3633373340,
+            "id": 3331485674,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -29088,7 +29088,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3280187376,
+            "id": 3779657516,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -29109,7 +29109,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2406513668,
+            "id": 1555788358,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -32238,7 +32238,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3600534480,
+            "id": 3871761187,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -71152,48 +71152,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 3634587854,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "SALSA FREE DEMO CLASS",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-08 17:30:00",
-            "end_date": "2026-05-08 18:25:00",
-            "venue": "Studio 2 (LL2)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 3616663231,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "BACHATA FREE DEMO CLASS",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-08 18:35:00",
-            "end_date": "2026-05-08 19:30:00",
-            "venue": "Studio 2 (LL2)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 1312491647,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
