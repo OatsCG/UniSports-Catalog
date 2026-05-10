@@ -29489,27 +29489,6 @@
     ],
     "featured": [
         {
-            "id": 2727821701,
-            "url": "https://macreconline.ca/Facility/GetSchedule",
-            "title": "Ontario Master Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-09 07:00:00",
-            "end_date": "2026-05-09 23:00:00",
-            "venue": "Burridge East",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 139738323,
             "url": "https://macreconline.ca/Facility/GetSchedule",
             "title": "Drop In Lane Swim",
