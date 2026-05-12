@@ -3531,7 +3531,29 @@
             "weeklyRepetitions": []
         }
     ],
-    "featured": [],
+    "featured": [
+        {
+            "id": 239326108,
+            "url": "https://anc.ca.apm.activecommunities.com/brocku",
+            "title": "Drop In 1/2 Basketball & 1/2 Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-25 19:00:00",
+            "end_date": "2026-05-25 20:30:00",
+            "venue": "Bob Davis Gymnasium",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        }
+    ],
     "announcements": [
         {
             "id": 220250925,
