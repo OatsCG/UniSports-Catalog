@@ -15,7 +15,7 @@
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png"
+            "logo": "https://unisports.cgdev.ca/assets/schools/UTM.png"
         },
         {
             "schoolID": "MM",
@@ -32,7 +32,7 @@
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/6/6f/Uni_mcmaster_logo.svg/500px-Uni_mcmaster_logo.svg.png"
+            "logo": "https://unisports.cgdev.ca/assets/schools/MM.png"
         },
         {
             "schoolID": "UW",
@@ -49,7 +49,7 @@
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"
+            "logo": "https://unisports.cgdev.ca/assets/schools/UW.png"
         },
         {
             "schoolID": "QU",
@@ -66,7 +66,7 @@
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/QueensU_Crest.svg/1280px-QueensU_Crest.svg.png"
+            "logo": "https://unisports.cgdev.ca/assets/schools/QU.png"
         },
         {
             "schoolID": "WU",
@@ -83,7 +83,7 @@
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://play-lh.googleusercontent.com/8-W6qPF9Xv1C5NzPGJH9wvdH1SxXys7IAdtXcWSI09-jg1VDi_mKqqp4o-tHi20D8i8"
+            "logo": "https://unisports.cgdev.ca/assets/schools/WU.png"
         },
         {
             "schoolID": "UWN",
@@ -100,7 +100,7 @@
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk667F-w3yNhNCbZYmOHItq1sd-te0vne_rw&s"
+            "logo": "https://unisports.cgdev.ca/assets/schools/UWN.png"
         },
         {
             "schoolID": "DOT",
@@ -117,7 +117,7 @@
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy8uHp7Ytb-ukZfNusier9PdMciKFVLpMkAQ&s"
+            "logo": "https://unisports.cgdev.ca/assets/schools/DOT.png"
         },
         {
             "schoolID": "YUK",
@@ -134,7 +134,7 @@
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/York-icon.png"
+            "logo": "https://unisports.cgdev.ca/assets/schools/YUK.png"
         },
         {
             "schoolID": "YUM",
@@ -151,7 +151,7 @@
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/York-icon.png"
+            "logo": "https://unisports.cgdev.ca/assets/schools/YUK.png"
         },
         {
             "schoolID": "CU",
@@ -168,7 +168,7 @@
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3bpaajdKNjrOgyHtoX5J2kGA-t0nVZeaYQ&s"
+            "logo": "https://unisports.cgdev.ca/assets/schools/CU.png"
         },
         {
             "schoolID": "BU",
@@ -185,7 +185,7 @@
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWGDVGQNe6yzfeHv7R450VhhqN7mlVo4wfw&s"
+            "logo": "https://unisports.cgdev.ca/assets/schools/BU.png"
         },
         {
             "schoolID": "TMU",
@@ -202,7 +202,7 @@
                 "g": 255,
                 "b": 255
             },
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_UAOyEV1yViVzAhH9pr1ADux5Brj1fyr5g&s"
+            "logo": "https://unisports.cgdev.ca/assets/schools/TMU.png"
         }
     ]
 }
