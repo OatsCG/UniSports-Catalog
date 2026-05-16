@@ -3470,6 +3470,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 2695362246,
+            "url": "https://anc.ca.apm.activecommunities.com/brocku",
+            "title": "Fun Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-23 13:00:00",
+            "end_date": "2026-05-23 15:00:00",
+            "venue": "Pool 25 M Deep Lane 1",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 239326108,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
             "title": "Drop In 1/2 Basketball & 1/2 Volleyball",
