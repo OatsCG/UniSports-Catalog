@@ -2691,27 +2691,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4232037799,
-            "url": "https://anc.ca.apm.activecommunities.com/brocku",
-            "title": "Drop in Field - MEMBERSHIP REQUIRED",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-26 15:15:00",
-            "end_date": "2026-05-26 17:30:00",
-            "venue": "Alumni Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1628800812,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
             "title": "Drop in Badminton",
