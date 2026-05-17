@@ -64536,7 +64536,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 879223295,
+            "id": 643181999,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
             "title": "Winter Exams 2026",
             "description": "",
@@ -64557,7 +64557,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 643181999,
+            "id": 879223295,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
             "title": "Winter Exams 2026",
             "description": "",
@@ -168403,48 +168403,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 580687833,
-            "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "NFL Flag Canada",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-16 07:00:00",
-            "end_date": "2026-05-16 19:00:00",
-            "venue": "TAAG Park",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 877862257,
-            "url": "https://rec.carleton.ca/Facility/GetSchedule",
-            "title": "Ontario Ringette",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-16 18:00:00",
-            "end_date": "2026-05-16 20:00:00",
-            "venue": "Arena A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 2830312166,
             "url": "https://rec.carleton.ca/Facility/GetSchedule",
