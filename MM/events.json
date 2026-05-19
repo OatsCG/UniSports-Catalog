@@ -37826,27 +37826,6 @@
     ],
     "featured": [
         {
-            "id": 1125884532,
-            "url": "https://macreconline.ca/Facility/GetSchedule",
-            "title": "Ticats",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-18 17:00:00",
-            "end_date": "2026-05-18 22:00:00",
-            "venue": "East Aux Gym",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 370303524,
             "url": "https://macreconline.ca/Facility/GetSchedule",
             "title": "CFC Camp",
