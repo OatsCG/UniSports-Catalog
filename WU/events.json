@@ -33668,6 +33668,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 440471100,
+            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
+            "title": "IA WVB",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-20 18:00:00",
+            "end_date": "2026-05-20 21:00:00",
+            "venue": "Gymnasia",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 52134413,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "MLSE Biomechanics - Kayla Fewster",
