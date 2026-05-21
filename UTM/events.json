@@ -7142,6 +7142,30 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3836024361,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-27 07:00:00",
+            "end_date": "2026-04-27 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 987507866,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -7187,30 +7211,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 3836024361,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-27 07:00:00",
-            "end_date": "2026-04-27 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -8119,6 +8119,30 @@
             ]
         },
         {
+            "id": 2447506798,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-29 07:00:00",
+            "end_date": "2026-04-29 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 453603096,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -8187,30 +8211,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 2447506798,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-29 07:00:00",
-            "end_date": "2026-04-29 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -8339,52 +8339,6 @@
                 "mo",
                 "th",
                 "tu",
-                "we"
-            ]
-        },
-        {
-            "id": 2625123797,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Accessible Sport Wheelchair Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-29 11:30:00",
-            "end_date": "2026-04-29 13:30:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": "figure.roll.runningpace",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 38340111,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Accessible Sport Wheelchair Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-29 11:30:00",
-            "end_date": "2026-04-29 13:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": "figure.roll.runningpace",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -9882,6 +9836,30 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 446896267,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-04 07:00:00",
+            "end_date": "2026-05-04 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 417233397,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -9927,30 +9905,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 446896267,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-04 07:00:00",
-            "end_date": "2026-05-04 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -11118,6 +11072,30 @@
             ]
         },
         {
+            "id": 1989894326,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-06 07:00:00",
+            "end_date": "2026-05-06 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 118894429,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -11186,30 +11164,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 1989894326,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-06 07:00:00",
-            "end_date": "2026-05-06 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -11315,52 +11269,6 @@
                 "mo",
                 "th",
                 "tu",
-                "we"
-            ]
-        },
-        {
-            "id": 2144689125,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Accessible Sport Wheelchair Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-06 11:30:00",
-            "end_date": "2026-05-06 13:30:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": "figure.roll.runningpace",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 372050171,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Accessible Sport Wheelchair Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-06 11:30:00",
-            "end_date": "2026-05-06 13:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": "figure.roll.runningpace",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -11578,7 +11486,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-05-06 18:10:00",
-            "end_date": "2026-05-06 18:10:00",
+            "end_date": "2026-05-06 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -11771,29 +11679,6 @@
         },
         {
             "id": 907238632,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-05-07 12:10:00",
-            "end_date": "2026-05-07 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 950840917,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -12823,6 +12708,30 @@
             ]
         },
         {
+            "id": 2575175707,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-11 07:00:00",
+            "end_date": "2026-05-11 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 3083923411,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -12868,30 +12777,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 2575175707,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-11 07:00:00",
-            "end_date": "2026-05-11 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -13989,6 +13874,30 @@
             ]
         },
         {
+            "id": 1202576659,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-13 07:00:00",
+            "end_date": "2026-05-13 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 2833071467,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -14057,30 +13966,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 1202576659,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-13 07:00:00",
-            "end_date": "2026-05-13 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -14186,52 +14071,6 @@
                 "mo",
                 "th",
                 "tu",
-                "we"
-            ]
-        },
-        {
-            "id": 1377980267,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Accessible Sport Wheelchair Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-13 11:30:00",
-            "end_date": "2026-05-13 13:30:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": "figure.roll.runningpace",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2953614018,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Accessible Sport Wheelchair Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-13 11:30:00",
-            "end_date": "2026-05-13 13:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": "figure.roll.runningpace",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -14537,7 +14376,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-05-13 18:10:00",
-            "end_date": "2026-05-13 18:10:00",
+            "end_date": "2026-05-13 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -14799,29 +14638,6 @@
         },
         {
             "id": 4139008853,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-05-14 12:10:00",
-            "end_date": "2026-05-14 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 4052647443,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -16008,6 +15824,30 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3297879244,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-18 07:00:00",
+            "end_date": "2026-05-18 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 3320057920,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -16053,30 +15893,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 3297879244,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-18 07:00:00",
-            "end_date": "2026-05-18 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -17195,6 +17011,30 @@
             ]
         },
         {
+            "id": 3242592044,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-20 07:00:00",
+            "end_date": "2026-05-20 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 3592401110,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -17263,30 +17103,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 3242592044,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-20 07:00:00",
-            "end_date": "2026-05-20 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -17420,9 +17236,9 @@
             ]
         },
         {
-            "id": 1482412783,
+            "id": 1016456188,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Accessible Sport Wheelchair Badminton",
+            "title": "Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2026-05-20 11:30:00",
@@ -17430,9 +17246,9 @@
             "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": "figure.roll.runningpace",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -17443,9 +17259,9 @@
             ]
         },
         {
-            "id": 343948871,
+            "id": 2828743682,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Accessible Sport Wheelchair Basketball",
+            "title": "Accessible Sports: Wheelchair Basketball & Badminton",
             "description": "",
             "image": "",
             "start_date": "2026-05-20 11:30:00",
@@ -17727,7 +17543,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-05-20 18:10:00",
-            "end_date": "2026-05-20 18:10:00",
+            "end_date": "2026-05-20 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -17989,29 +17805,6 @@
         },
         {
             "id": 4058703859,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-05-21 12:10:00",
-            "end_date": "2026-05-21 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2076701597,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -19208,6 +19001,30 @@
             ]
         },
         {
+            "id": 751884857,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-25 07:00:00",
+            "end_date": "2026-05-25 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 4193556245,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -19253,30 +19070,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 751884857,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-25 07:00:00",
-            "end_date": "2026-05-25 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -19487,30 +19280,6 @@
             ]
         },
         {
-            "id": 3900499984,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Muscle Building 101: Foundation",
-            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
-            "image": "",
-            "start_date": "2026-05-25 11:00:00",
-            "end_date": "2026-05-25 11:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Learn more and register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 3385451349,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -19531,6 +19300,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3900499984,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Muscle Building 101: Foundation",
+            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
+            "image": "",
+            "start_date": "2026-05-25 11:00:00",
+            "end_date": "2026-05-25 11:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Learn more and register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -20626,6 +20419,30 @@
             ]
         },
         {
+            "id": 729372329,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-27 07:00:00",
+            "end_date": "2026-05-27 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 933462740,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -20694,30 +20511,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 729372329,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-27 07:00:00",
-            "end_date": "2026-05-27 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -20905,30 +20698,6 @@
             ]
         },
         {
-            "id": 43587205,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Muscle Building 101: Foundation",
-            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
-            "image": "",
-            "start_date": "2026-05-27 11:00:00",
-            "end_date": "2026-05-27 11:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Learn more and register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2165243681,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -20954,9 +20723,33 @@
             ]
         },
         {
-            "id": 408055238,
+            "id": 43587205,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Accessible Sport Wheelchair Badminton",
+            "title": "Muscle Building 101: Foundation",
+            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
+            "image": "",
+            "start_date": "2026-05-27 11:00:00",
+            "end_date": "2026-05-27 11:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Learn more and register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3459519845,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2026-05-27 11:30:00",
@@ -20964,9 +20757,9 @@
             "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": "figure.roll.runningpace",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -20977,9 +20770,9 @@
             ]
         },
         {
-            "id": 1168320149,
+            "id": 3753957206,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Accessible Sport Wheelchair Basketball",
+            "title": "Accessible Sports: Wheelchair Basketball & Badminton",
             "description": "",
             "image": "",
             "start_date": "2026-05-27 11:30:00",
@@ -21286,7 +21079,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-05-27 18:10:00",
-            "end_date": "2026-05-27 18:10:00",
+            "end_date": "2026-05-27 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -21625,29 +21418,6 @@
         },
         {
             "id": 4082534342,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-05-28 12:10:00",
-            "end_date": "2026-05-28 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 3905318730,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -23088,6 +22858,30 @@
             ]
         },
         {
+            "id": 3407369760,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-01 07:00:00",
+            "end_date": "2026-06-01 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 930345514,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -23133,30 +22927,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 3407369760,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-01 07:00:00",
-            "end_date": "2026-06-01 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -23367,30 +23137,6 @@
             ]
         },
         {
-            "id": 3837108635,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Muscle Building 101: Foundation",
-            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
-            "image": "",
-            "start_date": "2026-06-01 11:00:00",
-            "end_date": "2026-06-01 11:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Learn more and register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1636197657,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -23411,6 +23157,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3837108635,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Muscle Building 101: Foundation",
+            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
+            "image": "",
+            "start_date": "2026-06-01 11:00:00",
+            "end_date": "2026-06-01 11:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Learn more and register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -24597,6 +24367,30 @@
             ]
         },
         {
+            "id": 657766556,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-03 07:00:00",
+            "end_date": "2026-06-03 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 3286362182,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -24665,30 +24459,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 657766556,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-03 07:00:00",
-            "end_date": "2026-06-03 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -24897,30 +24667,6 @@
             ]
         },
         {
-            "id": 3260264659,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Muscle Building 101: Foundation",
-            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
-            "image": "",
-            "start_date": "2026-06-03 11:00:00",
-            "end_date": "2026-06-03 11:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Learn more and register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 4253431382,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -24941,6 +24687,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3260264659,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Muscle Building 101: Foundation",
+            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
+            "image": "",
+            "start_date": "2026-06-03 11:00:00",
+            "end_date": "2026-06-03 11:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Learn more and register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -25320,7 +25090,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-06-03 18:10:00",
-            "end_date": "2026-06-03 18:10:00",
+            "end_date": "2026-06-03 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -25682,29 +25452,6 @@
         },
         {
             "id": 3064291528,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-06-04 12:10:00",
-            "end_date": "2026-06-04 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 3752447052,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -27169,6 +26916,30 @@
             ]
         },
         {
+            "id": 182019453,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-08 07:00:00",
+            "end_date": "2026-06-08 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 2271449618,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -27214,30 +26985,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 182019453,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-08 07:00:00",
-            "end_date": "2026-06-08 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -27448,30 +27195,6 @@
             ]
         },
         {
-            "id": 896484845,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Muscle Building 101: Foundation",
-            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
-            "image": "",
-            "start_date": "2026-06-08 11:00:00",
-            "end_date": "2026-06-08 11:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Learn more and register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 287403277,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -27492,6 +27215,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 896484845,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Muscle Building 101: Foundation",
+            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
+            "image": "",
+            "start_date": "2026-06-08 11:00:00",
+            "end_date": "2026-06-08 11:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Learn more and register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -28657,6 +28404,30 @@
             ]
         },
         {
+            "id": 3725590699,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-10 07:00:00",
+            "end_date": "2026-06-10 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 2712617477,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -28725,30 +28496,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 3725590699,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-10 07:00:00",
-            "end_date": "2026-06-10 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -28936,30 +28683,6 @@
             ]
         },
         {
-            "id": 966160689,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Muscle Building 101: Foundation",
-            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
-            "image": "",
-            "start_date": "2026-06-10 11:00:00",
-            "end_date": "2026-06-10 11:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Learn more and register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 4071341885,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -28980,6 +28703,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 966160689,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Muscle Building 101: Foundation",
+            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
+            "image": "",
+            "start_date": "2026-06-10 11:00:00",
+            "end_date": "2026-06-10 11:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Learn more and register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -29317,7 +29064,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-06-10 18:10:00",
-            "end_date": "2026-06-10 18:10:00",
+            "end_date": "2026-06-10 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -29679,29 +29426,6 @@
         },
         {
             "id": 843191912,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-06-11 12:10:00",
-            "end_date": "2026-06-11 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 641200306,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -31166,6 +30890,30 @@
             ]
         },
         {
+            "id": 3287004997,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-15 07:00:00",
+            "end_date": "2026-06-15 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 1870644001,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -31211,30 +30959,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 3287004997,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-15 07:00:00",
-            "end_date": "2026-06-15 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -31445,30 +31169,6 @@
             ]
         },
         {
-            "id": 2095810711,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Muscle Building 101: Foundation",
-            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
-            "image": "",
-            "start_date": "2026-06-15 11:00:00",
-            "end_date": "2026-06-15 11:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Learn more and register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2912099875,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -31489,6 +31189,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 2095810711,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Muscle Building 101: Foundation",
+            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
+            "image": "",
+            "start_date": "2026-06-15 11:00:00",
+            "end_date": "2026-06-15 11:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Learn more and register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -32631,6 +32355,30 @@
             ]
         },
         {
+            "id": 2271279031,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-17 07:00:00",
+            "end_date": "2026-06-17 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 2866427312,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -32699,30 +32447,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 2271279031,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-17 07:00:00",
-            "end_date": "2026-06-17 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -32910,30 +32634,6 @@
             ]
         },
         {
-            "id": 799904416,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Muscle Building 101: Foundation",
-            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
-            "image": "",
-            "start_date": "2026-06-17 11:00:00",
-            "end_date": "2026-06-17 11:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Learn more and register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2117738303,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -32954,6 +32654,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 799904416,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Muscle Building 101: Foundation",
+            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
+            "image": "",
+            "start_date": "2026-06-17 11:00:00",
+            "end_date": "2026-06-17 11:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Learn more and register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -33268,7 +32992,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-06-17 18:10:00",
-            "end_date": "2026-06-17 18:10:00",
+            "end_date": "2026-06-17 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -33630,29 +33354,6 @@
         },
         {
             "id": 75772208,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-06-18 12:10:00",
-            "end_date": "2026-06-18 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2961780631,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -35047,6 +34748,30 @@
             ]
         },
         {
+            "id": 2624400464,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-22 07:00:00",
+            "end_date": "2026-06-22 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 4084042517,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -35140,30 +34865,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 2624400464,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-22 07:00:00",
-            "end_date": "2026-06-22 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -35374,30 +35075,6 @@
             ]
         },
         {
-            "id": 3925780962,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Muscle Building 101: Foundation",
-            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
-            "image": "",
-            "start_date": "2026-06-22 11:00:00",
-            "end_date": "2026-06-22 11:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Learn more and register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2362487827,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -35418,6 +35095,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3925780962,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Muscle Building 101: Foundation",
+            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
+            "image": "",
+            "start_date": "2026-06-22 11:00:00",
+            "end_date": "2026-06-22 11:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Learn more and register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -36514,18 +36215,18 @@
             ]
         },
         {
-            "id": 3196170881,
+            "id": 1177090865,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
+            "title": "Fitness Swim",
             "description": "",
             "image": "",
             "start_date": "2026-06-24 07:00:00",
-            "end_date": "2026-06-24 11:00:00",
-            "venue": "Gym A/B",
+            "end_date": "2026-06-24 08:50:00",
+            "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -36533,6 +36234,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "mo",
                 "we"
             ]
         },
@@ -36585,6 +36287,29 @@
             ]
         },
         {
+            "id": 3196170881,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-24 07:00:00",
+            "end_date": "2026-06-24 11:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 4086331546,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -36630,30 +36355,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 1177090865,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-24 07:00:00",
-            "end_date": "2026-06-24 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -36841,30 +36542,6 @@
             ]
         },
         {
-            "id": 978187993,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Muscle Building 101: Foundation",
-            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
-            "image": "",
-            "start_date": "2026-06-24 11:00:00",
-            "end_date": "2026-06-24 11:00:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Learn more and register",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 3178841158,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -36885,6 +36562,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 978187993,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Muscle Building 101: Foundation",
+            "description": "Ever felt intimidated by the weight room or unsure if your form is correct? This specialized program is designed for individuals looking to build a sustainable foundation in strength and muscle growth. Led by our expert, participants will focus on mastering compound movements (Squat, Bench, and Deadlift) while following a structured progression model. Whether your goal is to \"tone up,\" build muscle, or just improve your daily life, we\u2019ll show you exactly how to get there. The program includes:\u00a0Start & End Progress Checks: Utilizing the InBody 270 for body composition analysis to see exactly how your body is changing (muscle gained vs. fat lost)\u00a0Step-by-Step Coaching: Two weekly sessions focused on safety, proper technique, and gradual progress.\u00a0Hybrid Flexibility: Custom exercise sheets provided for supplemental training or missed sessions.\u00a0Data-Driven Results: Track your strength gains and muscle mass improvements in a supportive, high-performance environment.\u00a0",
+            "image": "",
+            "start_date": "2026-06-24 11:00:00",
+            "end_date": "2026-06-24 11:00:00",
+            "venue": "Strength and Conditioning Center (SCC)",
+            "ticket_label": "Learn more and register",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=882c2add-061b-41e8-a0b3-f332adef283f",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": true,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -37153,7 +36854,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-06-24 18:10:00",
-            "end_date": "2026-06-24 18:10:00",
+            "end_date": "2026-06-24 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -37539,29 +37240,6 @@
         },
         {
             "id": 222422474,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-06-25 12:10:00",
-            "end_date": "2026-06-25 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 598156877,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -39061,6 +38739,30 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 991236928,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-29 07:00:00",
+            "end_date": "2026-06-29 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 1749727277,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -39106,30 +38808,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 991236928,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-29 07:00:00",
-            "end_date": "2026-06-29 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -40154,6 +39832,30 @@
             ]
         },
         {
+            "id": 2936168018,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-01 07:00:00",
+            "end_date": "2026-07-01 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 2861630444,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -40199,30 +39901,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 2936168018,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-07-01 07:00:00",
-            "end_date": "2026-07-01 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -40560,7 +40238,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-07-01 18:10:00",
-            "end_date": "2026-07-01 18:10:00",
+            "end_date": "2026-07-01 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -40875,29 +40553,6 @@
         },
         {
             "id": 3204847829,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-07-02 12:10:00",
-            "end_date": "2026-07-02 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2363606216,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -44342,7 +43997,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-07-08 18:10:00",
-            "end_date": "2026-07-08 18:10:00",
+            "end_date": "2026-07-08 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -44744,29 +44399,6 @@
         },
         {
             "id": 57771047,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-07-09 12:10:00",
-            "end_date": "2026-07-09 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 1300942866,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -48398,7 +48030,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-07-15 18:10:00",
-            "end_date": "2026-07-15 18:10:00",
+            "end_date": "2026-07-15 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -48800,29 +48432,6 @@
         },
         {
             "id": 1220180584,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-07-16 12:10:00",
-            "end_date": "2026-07-16 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 138052988,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -52517,7 +52126,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-07-22 18:10:00",
-            "end_date": "2026-07-22 18:10:00",
+            "end_date": "2026-07-22 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -52919,29 +52528,6 @@
         },
         {
             "id": 3693548238,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-07-23 12:10:00",
-            "end_date": "2026-07-23 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2574889702,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -56573,7 +56159,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-07-29 18:10:00",
-            "end_date": "2026-07-29 18:10:00",
+            "end_date": "2026-07-29 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -56975,29 +56561,6 @@
         },
         {
             "id": 2800130993,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-07-30 12:10:00",
-            "end_date": "2026-07-30 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 1548926279,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -60561,7 +60124,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-08-05 18:10:00",
-            "end_date": "2026-08-05 18:10:00",
+            "end_date": "2026-08-05 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -60916,29 +60479,6 @@
         },
         {
             "id": 768345706,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-08-06 12:10:00",
-            "end_date": "2026-08-06 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2240073102,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -64454,7 +63994,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-08-12 18:10:00",
-            "end_date": "2026-08-12 18:10:00",
+            "end_date": "2026-08-12 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -64809,29 +64349,6 @@
         },
         {
             "id": 3015331288,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-08-13 12:10:00",
-            "end_date": "2026-08-13 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2038478458,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -68278,7 +67795,7 @@
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
             "image": "",
             "start_date": "2026-08-19 18:10:00",
-            "end_date": "2026-08-19 18:10:00",
+            "end_date": "2026-08-19 18:55:00",
             "venue": "Fitness Studio",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
@@ -68633,29 +68150,6 @@
         },
         {
             "id": 3088181314,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2026-08-20 12:10:00",
-            "end_date": "2026-08-20 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Workout",
-            "symbol": "figure.indoor.cycle",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 4083140655,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
             "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
@@ -73775,7 +73269,31 @@
             ]
         }
     ],
-    "featured": [],
+    "featured": [
+        {
+            "id": 3753957206,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Accessible Sports: Wheelchair Basketball & Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-27 11:30:00",
+            "end_date": "2026-05-27 13:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": "figure.roll.runningpace",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        }
+    ],
     "announcements": [
         {
             "id": 1859677328,
