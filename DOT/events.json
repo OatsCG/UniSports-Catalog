@@ -2607,6 +2607,27 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 2878521842,
+            "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
+            "title": "Open Gym Time - Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-31 10:00:00",
+            "end_date": "2026-05-31 16:00:00",
+            "venue": "Gym 4",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         }
     ],
     "announcements": [
