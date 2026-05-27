@@ -2399,27 +2399,6 @@
     ],
     "featured": [
         {
-            "id": 3580595077,
-            "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
-            "title": "Open Gym Time - Student Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-26 13:00:00",
-            "end_date": "2026-05-26 15:30:00",
-            "venue": "Gym 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3152994749,
             "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
             "title": "Open Gym Time - Badminton & Table Tennis",
