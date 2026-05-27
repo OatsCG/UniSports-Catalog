@@ -507,27 +507,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1974980644,
-            "url": "https://anc.ca.apm.activecommunities.com/brocku",
-            "title": "Drop in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-26 19:00:00",
-            "end_date": "2026-05-26 20:30:00",
-            "venue": "Bob Davis Gymnasium",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4189620612,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
             "title": "Drop in Basketball",
