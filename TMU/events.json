@@ -42801,7 +42801,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1619029145,
+            "id": 1860824395,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -43074,7 +43074,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2166237876,
+            "id": 3241662886,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -43095,7 +43095,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2680795452,
+            "id": 1767326168,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -43137,7 +43137,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1719608230,
+            "id": 2145217407,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -43263,7 +43263,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 124610084,
+            "id": 2251835793,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -43347,7 +43347,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 66441763,
+            "id": 1577787787,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -43431,7 +43431,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 45842676,
+            "id": 2673033389,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -43494,7 +43494,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 607138981,
+            "id": 2394425848,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -43683,7 +43683,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2042538696,
+            "id": 4043124773,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -48786,7 +48786,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2750783993,
+            "id": 183330420,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -48807,7 +48807,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2076438947,
+            "id": 1313933801,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -48912,7 +48912,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1464485793,
+            "id": 2877976103,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -48933,7 +48933,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3029554561,
+            "id": 426968901,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -69704,6 +69704,27 @@
     ],
     "featured": [
         {
+            "id": 1501747708,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Spring / Summer 2026 - Women on Weights - Women on Weights: Wednesdays (May 6)",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-03 11:00:00",
+            "end_date": "2026-06-03 12:00:00",
+            "venue": "RAC Fitness Centre",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3105212494,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "REF- GROUP FITNESS SET- UP",
@@ -69737,6 +69758,27 @@
             "ticket_url": "",
             "sortCategory": "Workout",
             "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 335146333,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Spring / Summer 2026 - Kendo Club - Kendo Club ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-24 19:30:00",
+            "end_date": "2026-06-24 22:00:00",
+            "venue": "RAC II Gym (LL3)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
