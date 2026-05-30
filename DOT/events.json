@@ -2313,6 +2313,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 3220757524,
+            "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
+            "title": "Open Gym Time - Badminton & Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-02 07:30:00",
+            "end_date": "2026-06-02 18:30:00",
+            "venue": "Gym 5",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 600585606,
             "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
             "title": "Closed",
