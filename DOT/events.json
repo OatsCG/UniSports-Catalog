@@ -1956,7 +1956,29 @@
             "weeklyRepetitions": []
         }
     ],
-    "featured": [],
+    "featured": [
+        {
+            "id": 1574589135,
+            "url": "https://registercrwc.dc-ot.ca/Facility/GetSchedule",
+            "title": "Open Gym Time - Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-15 08:00:00",
+            "end_date": "2026-06-15 18:00:00",
+            "venue": "Gym 4",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        }
+    ],
     "announcements": [
         {
             "id": 220250925,
