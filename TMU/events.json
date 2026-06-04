@@ -26505,7 +26505,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2367022308,
+            "id": 1293279172,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -26673,7 +26673,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3959848358,
+            "id": 2607622849,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -26904,7 +26904,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 805495177,
+            "id": 1443577880,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -26925,7 +26925,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4044587530,
+            "id": 2671691033,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -26946,7 +26946,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3805643046,
+            "id": 2635008393,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -26967,7 +26967,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3966171008,
+            "id": 1601264298,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -26988,7 +26988,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1728423586,
+            "id": 755859178,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -27282,7 +27282,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4068812856,
+            "id": 3981512215,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -27345,7 +27345,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2058260169,
+            "id": 744971680,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -27555,7 +27555,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2586486880,
+            "id": 2118838205,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -31713,7 +31713,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 980213172,
+            "id": 210296704,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -31818,7 +31818,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 866641118,
+            "id": 690848946,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -70837,27 +70837,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 1501747708,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Spring / Summer 2026 - Women on Weights - Women on Weights: Wednesdays (May 6)",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-03 11:00:00",
-            "end_date": "2026-06-03 12:00:00",
-            "venue": "RAC Fitness Centre",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 3105212494,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
