@@ -3132,6 +3132,27 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 225277702,
+            "url": "https://anc.ca.apm.activecommunities.com/brocku",
+            "title": "Drop in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-17 17:30:00",
+            "end_date": "2026-06-17 20:30:00",
+            "venue": "Ian Beddis Court 3",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         }
     ],
     "announcements": [
