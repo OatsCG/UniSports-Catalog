@@ -1683,6 +1683,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 1248132022,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "York Artistic Swim Club",
+            "description": "Swim Practice ",
+            "image": "",
+            "start_date": "2026-05-03 08:30:00",
+            "end_date": "2026-05-03 11:00:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1367880572,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Drop-In Pickleball",
@@ -3216,9 +3237,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1580950945,
+            "id": 3316276390,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
+            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-06 17:30:00",
@@ -3237,9 +3258,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3316276390,
+            "id": 1580950945,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
+            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-05-06 17:30:00",
@@ -5673,27 +5694,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3173657561,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-10 13:45:00",
-            "end_date": "2026-05-10 14:30:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3743924362,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Lions 1-on-1 - Private Su4 - 45 Minute",
@@ -5739,6 +5739,27 @@
             "id": 945683036,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Adult 3 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-10 13:45:00",
+            "end_date": "2026-05-10 14:30:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3173657561,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-10 13:45:00",
@@ -7479,9 +7500,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1235608975,
+            "id": 1220700220,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
+            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-13 17:30:00",
@@ -7500,9 +7521,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1220700220,
+            "id": 1235608975,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
+            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-05-13 17:30:00",
@@ -9789,27 +9810,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 968732678,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-17 13:45:00",
-            "end_date": "2026-05-17 14:30:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 366593102,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Lions 1-on-1 - Private Su4 - 45 Minute",
@@ -9855,6 +9855,27 @@
             "id": 8000392,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Adult 3 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-17 13:45:00",
+            "end_date": "2026-05-17 14:30:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 968732678,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-17 13:45:00",
@@ -14346,9 +14367,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3137992369,
+            "id": 4110569898,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
+            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-27 17:30:00",
@@ -14367,9 +14388,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4110569898,
+            "id": 3137992369,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
+            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-05-27 17:30:00",
@@ -16887,27 +16908,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1612658127,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-31 13:45:00",
-            "end_date": "2026-05-31 14:30:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2338237782,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Lions 1-on-1 - Private Su4 - 45 Minute",
@@ -16953,6 +16953,27 @@
             "id": 3861325994,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Adult 3 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-31 13:45:00",
+            "end_date": "2026-05-31 14:30:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1612658127,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
             "description": "",
             "image": "",
             "start_date": "2026-05-31 13:45:00",
@@ -18903,9 +18924,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2153406608,
+            "id": 437422312,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
+            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-06-03 17:30:00",
@@ -18924,9 +18945,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 437422312,
+            "id": 2153406608,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
+            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-06-03 17:30:00",
@@ -20667,27 +20688,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1437571511,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Women's Only Drop-In Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-06 10:00:00",
-            "end_date": "2026-06-06 11:00:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4062490858,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Womens Only 1 -on- 1 - SP Womens Only Private S2",
@@ -20723,27 +20723,6 @@
             "symbol": "figure.run",
             "featuredDecal": null,
             "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 1623198694,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Drop-In Lane and Leisure Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-06 11:30:00",
-            "end_date": "2026-06-06 15:00:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -21444,27 +21423,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 42260057,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-07 13:45:00",
-            "end_date": "2026-06-07 14:30:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 4157210568,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Lions 1-on-1 - Private Su4 - 45 Minute",
@@ -21510,6 +21468,27 @@
             "id": 2851190296,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Adult 3 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-07 13:45:00",
+            "end_date": "2026-06-07 14:30:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 42260057,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
             "description": "",
             "image": "",
             "start_date": "2026-06-07 13:45:00",
@@ -23523,9 +23502,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1679762981,
+            "id": 3246170242,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
+            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-06-10 17:30:00",
@@ -23544,9 +23523,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3246170242,
+            "id": 1679762981,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
+            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-06-10 17:30:00",
@@ -25245,27 +25224,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4098766522,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "HOLD - Varsity",
-            "description": "HOLD - Varsity\r\nWomen's Volleyball\r\nFuture Lions \r\nTBD",
-            "image": "",
-            "start_date": "2026-06-13 09:00:00",
-            "end_date": "2026-06-13 18:00:00",
-            "venue": "Main Gym (Room 212)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 495684618,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Drop-In Pickleball",
@@ -26085,27 +26043,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2827057841,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-14 13:45:00",
-            "end_date": "2026-06-14 14:30:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3830467948,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Lions 1-on-1 - Private Su4 - 45 Minute",
@@ -26151,6 +26088,27 @@
             "id": 1840176985,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Adult 3 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-14 13:45:00",
+            "end_date": "2026-06-14 14:30:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2827057841,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
             "description": "",
             "image": "",
             "start_date": "2026-06-14 13:45:00",
@@ -27492,9 +27450,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2324906755,
+            "id": 3503511037,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
+            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-06-17 17:30:00",
@@ -27513,9 +27471,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3503511037,
+            "id": 2324906755,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
+            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-06-17 17:30:00",
@@ -29466,27 +29424,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3023754196,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-21 13:45:00",
-            "end_date": "2026-06-21 14:30:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3287281704,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Lions 1-on-1 - Private Su4 - 45 Minute",
@@ -29532,6 +29469,27 @@
             "id": 116729953,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Adult 3 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-21 13:45:00",
+            "end_date": "2026-06-21 14:30:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3023754196,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
             "description": "",
             "image": "",
             "start_date": "2026-06-21 13:45:00",
@@ -30789,9 +30747,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2455621979,
+            "id": 1593849144,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
+            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
             "description": "",
             "image": "",
             "start_date": "2026-06-24 17:30:00",
@@ -30810,9 +30768,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1593849144,
+            "id": 2455621979,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 1 - SP Child 1/2 Wednesday 5:30 - 6:00 pm",
+            "title": "Summer 2026 - Lions 1-on-1 - Private W3 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-06-24 17:30:00",
@@ -32952,27 +32910,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1828582924,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-28 13:45:00",
-            "end_date": "2026-06-28 14:30:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1481866082,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Lions 1-on-1 - Private Su4 - 45 Minute",
@@ -33018,6 +32955,27 @@
             "id": 1085826291,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Adult 3 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-28 13:45:00",
+            "end_date": "2026-06-28 14:30:00",
+            "venue": "Pool (Room 106)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1828582924,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "Summer 2026 - Adult 4 - SP Adult 3/4 Sunday 1:45 - 2:30 pm",
             "description": "",
             "image": "",
             "start_date": "2026-06-28 13:45:00",
@@ -34527,9 +34485,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3911183280,
+            "id": 2098595534,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-07-07 12:30:00",
@@ -34548,9 +34506,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2098595534,
+            "id": 3911183280,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-07-07 12:30:00",
@@ -34653,9 +34611,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2765995545,
+            "id": 2964611975,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-07-07 16:30:00",
@@ -34674,9 +34632,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2964611975,
+            "id": 2765995545,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-07-07 16:30:00",
@@ -37299,9 +37257,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 87733303,
+            "id": 3633424272,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-07-14 12:30:00",
@@ -37320,9 +37278,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3633424272,
+            "id": 87733303,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-07-14 12:30:00",
@@ -37488,9 +37446,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 200869913,
+            "id": 1864092646,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-07-14 16:30:00",
@@ -37509,9 +37467,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1864092646,
+            "id": 200869913,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-07-14 16:30:00",
@@ -40344,9 +40302,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1374341026,
+            "id": 2485253181,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-07-21 12:30:00",
@@ -40365,9 +40323,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2485253181,
+            "id": 1374341026,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-07-21 12:30:00",
@@ -40470,9 +40428,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2821275137,
+            "id": 1348733467,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-07-21 16:30:00",
@@ -40491,9 +40449,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1348733467,
+            "id": 2821275137,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-07-21 16:30:00",
@@ -43200,9 +43158,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3862795975,
+            "id": 228194642,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-07-28 12:30:00",
@@ -43221,9 +43179,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 228194642,
+            "id": 3862795975,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-07-28 12:30:00",
@@ -43326,9 +43284,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1327957911,
+            "id": 3642707270,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-07-28 16:30:00",
@@ -43347,9 +43305,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3642707270,
+            "id": 1327957911,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-07-28 16:30:00",
@@ -46224,9 +46182,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 885892874,
+            "id": 2633739935,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-08-11 12:30:00",
@@ -46245,9 +46203,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2633739935,
+            "id": 885892874,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-08-11 12:30:00",
@@ -46350,9 +46308,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1906900836,
+            "id": 1475840735,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-08-11 16:30:00",
@@ -46371,9 +46329,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1475840735,
+            "id": 1906900836,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-08-11 16:30:00",
@@ -48366,9 +48324,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2903334642,
+            "id": 2952590616,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-08-18 12:30:00",
@@ -48387,9 +48345,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2952590616,
+            "id": 2903334642,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-08-18 12:30:00",
@@ -48492,9 +48450,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1315071975,
+            "id": 719349478,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-08-18 16:30:00",
@@ -48513,9 +48471,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 719349478,
+            "id": 1315071975,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-08-18 16:30:00",
@@ -50382,9 +50340,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3197435648,
+            "id": 3609731935,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-08-25 12:30:00",
@@ -50403,9 +50361,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3609731935,
+            "id": 3197435648,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu4 - 30 Minute",
+            "title": "Summer 2026 - Lions 1-on-1 - SU Private Tu5 - 30 Minute",
             "description": "",
             "image": "",
             "start_date": "2026-08-25 12:30:00",
@@ -50508,9 +50466,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1431059065,
+            "id": 559219132,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-08-25 16:30:00",
@@ -50529,9 +50487,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 559219132,
+            "id": 1431059065,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Child 8 - SU Child 7/8 Tuesday 4:30 - 5:15 pm",
+            "title": "Summer 2026 - Child 6 - SU Child 5/6 Tuesday 4:30 - 5:15 pm",
             "description": "",
             "image": "",
             "start_date": "2026-08-25 16:30:00",
@@ -53469,9 +53427,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3868507428,
+            "id": 468797894,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-09-10 11:30:00",
@@ -53490,9 +53448,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 468797894,
+            "id": 3868507428,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-09-10 11:30:00",
@@ -53763,9 +53721,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1133899873,
+            "id": 3584465016,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-09-11 10:30:00",
@@ -53784,9 +53742,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3584465016,
+            "id": 1133899873,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-09-11 10:30:00",
@@ -55611,9 +55569,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1373392308,
+            "id": 2770771804,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-09-17 11:30:00",
@@ -55632,9 +55590,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2770771804,
+            "id": 1373392308,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-09-17 11:30:00",
@@ -55968,9 +55926,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 458154086,
+            "id": 401310232,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-09-18 10:30:00",
@@ -55989,9 +55947,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 401310232,
+            "id": 458154086,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-09-18 10:30:00",
@@ -57816,9 +57774,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1261492231,
+            "id": 785034835,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-09-24 11:30:00",
@@ -57837,9 +57795,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 785034835,
+            "id": 1261492231,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-09-24 11:30:00",
@@ -58173,9 +58131,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 50982670,
+            "id": 2809625212,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-09-25 10:30:00",
@@ -58194,9 +58152,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2809625212,
+            "id": 50982670,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-09-25 10:30:00",
@@ -60042,9 +60000,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 652665335,
+            "id": 894288175,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-01 11:30:00",
@@ -60063,9 +60021,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 894288175,
+            "id": 652665335,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-01 11:30:00",
@@ -60399,9 +60357,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1909889064,
+            "id": 2378354137,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-02 10:30:00",
@@ -60420,9 +60378,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2378354137,
+            "id": 1909889064,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-02 10:30:00",
@@ -61995,6 +61953,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 35483841,
+            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
+            "title": "HOLD - Varsity",
+            "description": "Varsity Practice",
+            "image": "",
+            "start_date": "2026-10-07 18:30:00",
+            "end_date": "2026-10-07 21:00:00",
+            "venue": "Upper Gym (Room 312)",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1277507281,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Intramurals",
@@ -62352,9 +62331,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2371547004,
+            "id": 2615148158,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-08 11:30:00",
@@ -62373,9 +62352,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2615148158,
+            "id": 2371547004,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-08 11:30:00",
@@ -62751,9 +62730,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 311586860,
+            "id": 2835444374,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-09 10:30:00",
@@ -62772,9 +62751,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2835444374,
+            "id": 311586860,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-09 10:30:00",
@@ -64200,9 +64179,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3689184297,
+            "id": 3577116113,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-15 11:30:00",
@@ -64221,9 +64200,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3577116113,
+            "id": 3689184297,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-15 11:30:00",
@@ -64557,9 +64536,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2670938535,
+            "id": 681051455,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-16 10:30:00",
@@ -64578,9 +64557,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 681051455,
+            "id": 2670938535,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-16 10:30:00",
@@ -66615,9 +66594,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 540448929,
+            "id": 1443648095,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-22 11:30:00",
@@ -66636,9 +66615,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1443648095,
+            "id": 540448929,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-22 11:30:00",
@@ -67014,9 +66993,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1808322131,
+            "id": 1877663415,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-23 10:30:00",
@@ -67035,9 +67014,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1877663415,
+            "id": 1808322131,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-23 10:30:00",
@@ -68967,9 +68946,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 470112296,
+            "id": 2103364989,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-29 11:30:00",
@@ -68988,9 +68967,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2103364989,
+            "id": 470112296,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-29 11:30:00",
@@ -69345,9 +69324,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1450124954,
+            "id": 3901543925,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-30 10:30:00",
@@ -69366,9 +69345,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3901543925,
+            "id": 1450124954,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-10-30 10:30:00",
@@ -71319,9 +71298,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1957530561,
+            "id": 896052267,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-05 11:30:00",
@@ -71340,9 +71319,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 896052267,
+            "id": 1957530561,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-05 11:30:00",
@@ -71697,9 +71676,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2258874363,
+            "id": 1645686001,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-06 10:30:00",
@@ -71718,9 +71697,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1645686001,
+            "id": 2258874363,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-06 10:30:00",
@@ -73524,9 +73503,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2145956994,
+            "id": 1957911841,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-12 11:30:00",
@@ -73545,9 +73524,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1957911841,
+            "id": 2145956994,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-12 11:30:00",
@@ -73860,9 +73839,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4083281498,
+            "id": 3230125648,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-13 10:30:00",
@@ -73881,9 +73860,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3230125648,
+            "id": 4083281498,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-13 10:30:00",
@@ -75456,9 +75435,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2071152924,
+            "id": 1032433253,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-19 11:30:00",
@@ -75477,9 +75456,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1032433253,
+            "id": 2071152924,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-19 11:30:00",
@@ -75792,9 +75771,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 950669795,
+            "id": 4263503150,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-20 10:30:00",
@@ -75813,9 +75792,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4263503150,
+            "id": 950669795,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-20 10:30:00",
@@ -77304,9 +77283,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2426908558,
+            "id": 1510521195,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-26 11:30:00",
@@ -77325,9 +77304,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1510521195,
+            "id": 2426908558,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-26 11:30:00",
@@ -77640,9 +77619,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2596614801,
+            "id": 1993675553,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-27 10:30:00",
@@ -77661,9 +77640,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1993675553,
+            "id": 2596614801,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-11-27 10:30:00",
@@ -79068,9 +79047,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1684104073,
+            "id": 771495887,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-12-03 11:30:00",
@@ -79089,9 +79068,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 771495887,
+            "id": 1684104073,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-12-03 11:30:00",
@@ -79362,9 +79341,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2903666025,
+            "id": 1117258658,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-12-04 10:30:00",
@@ -79383,9 +79362,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1117258658,
+            "id": 2903666025,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2026-12-04 10:30:00",
@@ -82596,9 +82575,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3394464336,
+            "id": 5887802,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-07 11:30:00",
@@ -82617,9 +82596,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 5887802,
+            "id": 3394464336,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-07 11:30:00",
@@ -82911,9 +82890,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 936968419,
+            "id": 2177270089,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-08 10:30:00",
@@ -82932,9 +82911,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2177270089,
+            "id": 936968419,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-08 10:30:00",
@@ -84654,9 +84633,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1076422727,
+            "id": 2256601518,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-14 11:30:00",
@@ -84675,9 +84654,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2256601518,
+            "id": 1076422727,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-14 11:30:00",
@@ -84990,9 +84969,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2612126983,
+            "id": 1541173182,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-15 10:30:00",
@@ -85011,9 +84990,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1541173182,
+            "id": 2612126983,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-15 10:30:00",
@@ -86880,9 +86859,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1432605530,
+            "id": 1058716551,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-21 11:30:00",
@@ -86901,9 +86880,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1058716551,
+            "id": 1432605530,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-21 11:30:00",
@@ -87258,9 +87237,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2462669784,
+            "id": 3041385606,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-22 10:30:00",
@@ -87279,9 +87258,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3041385606,
+            "id": 2462669784,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-22 10:30:00",
@@ -89232,9 +89211,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 595824003,
+            "id": 747903677,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-28 11:30:00",
@@ -89253,9 +89232,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 747903677,
+            "id": 595824003,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-28 11:30:00",
@@ -89610,9 +89589,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2582225427,
+            "id": 3071450473,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-29 10:30:00",
@@ -89631,9 +89610,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3071450473,
+            "id": 2582225427,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-01-29 10:30:00",
@@ -91584,9 +91563,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2707569224,
+            "id": 1633215956,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-04 11:30:00",
@@ -91605,9 +91584,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1633215956,
+            "id": 2707569224,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-04 11:30:00",
@@ -91962,9 +91941,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 152684455,
+            "id": 1561762939,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-05 10:30:00",
@@ -91983,9 +91962,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1561762939,
+            "id": 152684455,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-05 10:30:00",
@@ -93957,9 +93936,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1168376461,
+            "id": 3288295145,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-11 11:30:00",
@@ -93978,9 +93957,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3288295145,
+            "id": 1168376461,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-11 11:30:00",
@@ -94335,9 +94314,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3552455354,
+            "id": 3060994346,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-12 10:30:00",
@@ -94356,9 +94335,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3060994346,
+            "id": 3552455354,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-12 10:30:00",
@@ -96351,9 +96330,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3928229270,
+            "id": 2702169894,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-18 11:30:00",
@@ -96372,9 +96351,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2702169894,
+            "id": 3928229270,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-18 11:30:00",
@@ -96750,9 +96729,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 483533959,
+            "id": 1016228936,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-19 10:30:00",
@@ -96771,9 +96750,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1016228936,
+            "id": 483533959,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-19 10:30:00",
@@ -98724,9 +98703,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3057880944,
+            "id": 2749422559,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-25 11:30:00",
@@ -98745,9 +98724,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2749422559,
+            "id": 3057880944,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-25 11:30:00",
@@ -99102,9 +99081,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 438355789,
+            "id": 312646412,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-26 10:30:00",
@@ -99123,9 +99102,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 312646412,
+            "id": 438355789,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-02-26 10:30:00",
@@ -101076,9 +101055,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4049839288,
+            "id": 441413886,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-04 11:30:00",
@@ -101097,9 +101076,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 441413886,
+            "id": 4049839288,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-04 11:30:00",
@@ -101433,9 +101412,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2247841951,
+            "id": 1817636314,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-05 10:30:00",
@@ -101454,9 +101433,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1817636314,
+            "id": 2247841951,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-05 10:30:00",
@@ -103197,9 +103176,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1810267413,
+            "id": 2684168881,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-11 11:30:00",
@@ -103218,9 +103197,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2684168881,
+            "id": 1810267413,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-11 11:30:00",
@@ -103533,9 +103512,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 757212413,
+            "id": 4284239988,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-12 10:30:00",
@@ -103554,9 +103533,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4284239988,
+            "id": 757212413,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-12 10:30:00",
@@ -105255,9 +105234,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2326521118,
+            "id": 2928198428,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-18 11:30:00",
@@ -105276,9 +105255,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2928198428,
+            "id": 2326521118,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-18 11:30:00",
@@ -105570,9 +105549,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2969741481,
+            "id": 1290940397,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-19 10:30:00",
@@ -105591,9 +105570,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1290940397,
+            "id": 2969741481,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-19 10:30:00",
@@ -107229,9 +107208,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4109280919,
+            "id": 1752422058,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-25 11:30:00",
@@ -107250,9 +107229,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1752422058,
+            "id": 4109280919,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-25 11:30:00",
@@ -107544,9 +107523,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2389278188,
+            "id": 783938645,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-26 10:30:00",
@@ -107565,9 +107544,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 783938645,
+            "id": 2389278188,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-03-26 10:30:00",
@@ -109203,9 +109182,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1846648333,
+            "id": 3332895997,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-04-01 11:30:00",
@@ -109224,9 +109203,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3332895997,
+            "id": 1846648333,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 27",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 21",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-04-01 11:30:00",
@@ -109518,9 +109497,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2443163051,
+            "id": 3467266165,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
+            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-04-02 10:30:00",
@@ -109539,9 +109518,9 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3467266165,
+            "id": 2443163051,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "IPAL 1900 - Integrated Physical Activity for Life - Lab 32",
+            "title": "IPAL 2900 - Integrated Physical Activity for Life II - Lab 33",
             "description": "Academic Program",
             "image": "",
             "start_date": "2027-04-02 10:30:00",
