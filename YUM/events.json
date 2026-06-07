@@ -111998,27 +111998,6 @@
     ],
     "featured": [
         {
-            "id": 7557507,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Recreation",
-            "description": "Tabling - Registration/Sign-In for Event\r\nStronger Than Cancer\r\n(9:00AM - 10:00AM)",
-            "image": "",
-            "start_date": "2026-06-06 09:00:00",
-            "end_date": "2026-06-06 10:30:00",
-            "venue": "Tait McKenzie Lobby",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1125636357,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Summer 2026 - Leadership - National Lifeguard Pool Recert - NL Recert Friday June 12 1:00 - 5:00 pm",
