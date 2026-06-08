@@ -107273,27 +107273,6 @@
     ],
     "featured": [
         {
-            "id": 3810717997,
-            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
-            "title": "TLC Aquatic Staff Training",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-07 13:00:00",
-            "end_date": "2026-06-07 17:00:00",
-            "venue": "Pool (Entire)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 914670787,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Comp Karate Additional Day",
