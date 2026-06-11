@@ -31335,7 +31335,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3331922318,
+            "id": 683913599,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -31398,7 +31398,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 748957806,
+            "id": 746777843,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -31440,7 +31440,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2109637679,
+            "id": 2531183096,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -31461,7 +31461,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2115953416,
+            "id": 1609882839,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -31629,7 +31629,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 59226576,
+            "id": 3352797092,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -31734,7 +31734,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 327311713,
+            "id": 174977988,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -70600,6 +70600,48 @@
             "symbol": "figure.run",
             "featuredDecal": null,
             "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 291355037,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Spring / Summer 2026 - Beginner on Weights - Beginner on Weights: RAC Weight Room (June 3)",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-17 09:00:00",
+            "end_date": "2026-06-17 10:00:00",
+            "venue": "RAC Fitness Centre",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 4031589089,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "Spring / Summer 2026 - Adult Group Beginner Lessons - Men's-Only Beginner 1 Lessons: Wednesdays @ 10:15 \u2013 11:00 AM (MSA Partnership)",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-17 10:15:00",
+            "end_date": "2026-06-17 11:00:00",
+            "venue": "Lane 1",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
