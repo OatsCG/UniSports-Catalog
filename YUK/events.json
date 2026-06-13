@@ -117185,27 +117185,6 @@
     ],
     "featured": [
         {
-            "id": 2006366535,
-            "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
-            "title": "Summer 2026 - Leadership - National Lifeguard Pool Recert - NL Recert Friday June 12 1:00 - 5:00 pm",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-12 13:00:00",
-            "end_date": "2026-06-12 17:00:00",
-            "venue": "Pool (Room 106)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "lifepreserver",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2673358562,
             "url": "https://reconline.yorkulions.ca/Facility/GetSchedule",
             "title": "Game for the Girls",
