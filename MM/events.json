@@ -43286,6 +43286,27 @@
     ],
     "featured": [
         {
+            "id": 516061328,
+            "url": "https://macreconline.ca/Facility/GetSchedule",
+            "title": "Drop In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-14 09:00:00",
+            "end_date": "2026-06-14 16:30:00",
+            "venue": "Therese Quigley Sport Hall",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1536318260,
             "url": "https://macreconline.ca/Facility/GetSchedule",
             "title": "Spring 2026 - Pilates Beg and Int Combo, 7 classes (Spring/Sum) - Tues. May 5 - June 16, 12:00-12:55",
