@@ -109415,6 +109415,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 1441187260,
+            "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
+            "title": "WECDSB Track and Field Meet (Brian Marenchin)",
+            "description": "1000 participants each day\r\n500 spectators each day",
+            "image": "",
+            "start_date": "2026-06-15 07:00:00",
+            "end_date": "2026-06-15 17:30:00",
+            "venue": "Stadium",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1337415327,
             "url": "https://lancercentre.uwindsor.ca/Facility/GetSchedule",
             "title": "Ste. Marguerite d'Youville Challenge Course - Suzanne Rice",
