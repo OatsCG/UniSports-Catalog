@@ -1053,14 +1053,14 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3059530747,
+            "id": 1622074430,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
-            "title": "Drop in Badminton - Membership required",
+            "title": "Drop In Badminton - 1/2 Gym",
             "description": "",
             "image": "",
-            "start_date": "2026-06-20 11:15:00",
-            "end_date": "2026-06-20 12:30:00",
-            "venue": "Gym 2",
+            "start_date": "2026-06-20 11:30:00",
+            "end_date": "2026-06-20 15:30:00",
+            "venue": "Bob Davis Gymnasium",
             "ticket_label": "",
             "ticket_url": "",
             "sortCategory": "Badminton",
@@ -2272,6 +2272,27 @@
         }
     ],
     "featured": [
+        {
+            "id": 1622074430,
+            "url": "https://anc.ca.apm.activecommunities.com/brocku",
+            "title": "Drop In Badminton - 1/2 Gym",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-20 11:30:00",
+            "end_date": "2026-06-20 15:30:00",
+            "venue": "Bob Davis Gymnasium",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
         {
             "id": 1420497190,
             "url": "https://anc.ca.apm.activecommunities.com/brocku",
