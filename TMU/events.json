@@ -43998,6 +43998,27 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 4224876468,
+            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
+            "title": "HOLD: Program Partnership ",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-26 11:00:00",
+            "end_date": "2026-06-26 18:00:00",
+            "venue": "Lane 1",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "sportscourt",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2903539994,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
@@ -70963,27 +70984,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 3660590949,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Spring / Summer 2026 - Adult Group Beginner Lessons - Women's-Only Beginner 2 Lessons: Mondays @ 11:00 - 11:45 AM (MSA Partnership)",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-15 11:00:00",
-            "end_date": "2026-06-15 11:45:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 291355037,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
