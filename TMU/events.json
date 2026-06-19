@@ -37446,7 +37446,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3271186666,
+            "id": 170350536,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -37845,7 +37845,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3218850531,
+            "id": 401524622,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -37929,7 +37929,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1340741250,
+            "id": 1034198027,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -38244,7 +38244,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3983114758,
+            "id": 4239774447,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -38370,7 +38370,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1003860230,
+            "id": 412806545,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -70732,27 +70732,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 1947222243,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Trans and Gender Diverse Swim ",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-18 13:45:00",
-            "end_date": "2026-06-18 15:00:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 3844946274,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
