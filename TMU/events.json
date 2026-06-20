@@ -38601,7 +38601,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 933281431,
+            "id": 759612459,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -38643,7 +38643,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 677440799,
+            "id": 2983856205,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -38769,7 +38769,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2127157008,
+            "id": 306786405,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -38895,7 +38895,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 345382174,
+            "id": 2614304444,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -38916,7 +38916,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1557908999,
+            "id": 3214472699,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -38937,7 +38937,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 472690872,
+            "id": 3845126816,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -39882,7 +39882,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3410505172,
+            "id": 440191922,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -39903,7 +39903,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3674183131,
+            "id": 3967779237,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -40386,7 +40386,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3925429927,
+            "id": 1756923658,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -40638,7 +40638,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3534754298,
+            "id": 1855851607,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -41541,7 +41541,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2745069277,
+            "id": 2937056726,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -41814,7 +41814,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1772312401,
+            "id": 2362013500,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -41835,7 +41835,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4284413559,
+            "id": 2741402252,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -42633,7 +42633,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1186056237,
+            "id": 3843939318,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -42864,7 +42864,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2903335948,
+            "id": 1980468014,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -42885,7 +42885,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1449091294,
+            "id": 3118069135,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -43410,7 +43410,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1853119820,
+            "id": 3701580254,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 2",
             "description": "",
@@ -70732,48 +70732,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 3844946274,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Women's Only Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-19 13:45:00",
-            "end_date": "2026-06-19 15:00:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 1115179248,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "Recreational (Open) Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-19 16:30:00",
-            "end_date": "2026-06-19 18:15:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 1512538353,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
