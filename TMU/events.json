@@ -40197,7 +40197,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 422589889,
+            "id": 357156358,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -40974,7 +40974,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 415335930,
+            "id": 99457425,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -41058,7 +41058,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2792366563,
+            "id": 4011765025,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -41520,7 +41520,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 918158566,
+            "id": 1585461334,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Squash Court 1",
             "description": "",
@@ -41562,7 +41562,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 4124087803,
+            "id": 406924429,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -41646,7 +41646,7 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2857333471,
+            "id": 1332701018,
             "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
             "title": "Studio 1 (LL1)",
             "description": "",
@@ -43907,27 +43907,6 @@
             "symbol": "dumbbell",
             "featuredDecal": null,
             "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 4224876468,
-            "url": "https://recportal.torontomu.ca/Facility/GetSchedule",
-            "title": "HOLD: Program Partnership ",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-26 11:00:00",
-            "end_date": "2026-06-26 18:00:00",
-            "venue": "Lane 1",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "sportscourt",
-            "featuredDecal": null,
-            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
