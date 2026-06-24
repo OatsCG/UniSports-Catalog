@@ -7214,29 +7214,6 @@
             ]
         },
         {
-            "id": 57814635,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-28 07:00:00",
-            "end_date": "2026-04-28 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 484728030,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -7261,6 +7238,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 57814635,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-28 07:00:00",
+            "end_date": "2026-04-28 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -8410,29 +8410,6 @@
             ]
         },
         {
-            "id": 3478775348,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-01 07:00:00",
-            "end_date": "2026-05-01 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2920087038,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -8482,6 +8459,29 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 3478775348,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-01 07:00:00",
+            "end_date": "2026-05-01 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -9874,29 +9874,6 @@
             ]
         },
         {
-            "id": 629914327,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-05 07:00:00",
-            "end_date": "2026-05-05 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3375846850,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -9921,6 +9898,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 629914327,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-05 07:00:00",
+            "end_date": "2026-05-05 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -11206,29 +11206,6 @@
             ]
         },
         {
-            "id": 244199006,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-08 07:00:00",
-            "end_date": "2026-05-08 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1731167440,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -11278,6 +11255,29 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 244199006,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-08 07:00:00",
+            "end_date": "2026-05-08 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -12423,29 +12423,6 @@
             ]
         },
         {
-            "id": 2032287116,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-12 07:00:00",
-            "end_date": "2026-05-12 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1228016529,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -12470,6 +12447,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 2032287116,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-12 07:00:00",
+            "end_date": "2026-05-12 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -13489,29 +13489,6 @@
             ]
         },
         {
-            "id": 3029943103,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-14 07:00:00",
-            "end_date": "2026-05-14 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 453433559,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -13536,6 +13513,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 3029943103,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-14 07:00:00",
+            "end_date": "2026-05-14 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -13920,29 +13920,6 @@
             ]
         },
         {
-            "id": 1226259585,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-15 07:00:00",
-            "end_date": "2026-05-15 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 787612220,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -13992,6 +13969,29 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 1226259585,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-15 07:00:00",
+            "end_date": "2026-05-15 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -15267,29 +15267,6 @@
             ]
         },
         {
-            "id": 1145916510,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-19 07:00:00",
-            "end_date": "2026-05-19 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3752947207,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -15314,6 +15291,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1145916510,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-19 07:00:00",
+            "end_date": "2026-05-19 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -16339,29 +16339,6 @@
             ]
         },
         {
-            "id": 1618420911,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-21 07:00:00",
-            "end_date": "2026-05-21 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 880077710,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -16386,6 +16363,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1618420911,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-21 07:00:00",
+            "end_date": "2026-05-21 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -16770,29 +16770,6 @@
             ]
         },
         {
-            "id": 3513308769,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-22 07:00:00",
-            "end_date": "2026-05-22 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 172761500,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -16842,6 +16819,29 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 3513308769,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-22 07:00:00",
+            "end_date": "2026-05-22 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -17800,30 +17800,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 678531106,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-25 10:00:00",
-            "end_date": "2026-05-25 15:30:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2014860087,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -17845,6 +17821,30 @@
             "weeklyRepetitions": [
                 "mo",
                 "tu"
+            ]
+        },
+        {
+            "id": 678531106,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-25 10:00:00",
+            "end_date": "2026-05-25 15:30:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
             ]
         },
         {
@@ -18173,29 +18173,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3139252830,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-26 07:00:00",
-            "end_date": "2026-05-26 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4202292662,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -18220,6 +18197,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 3139252830,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-26 07:00:00",
+            "end_date": "2026-05-26 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -19438,29 +19438,6 @@
             ]
         },
         {
-            "id": 2948299674,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-28 07:00:00",
-            "end_date": "2026-05-28 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 264761144,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -19485,6 +19462,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 2948299674,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-28 07:00:00",
+            "end_date": "2026-05-28 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -19940,29 +19940,6 @@
             ]
         },
         {
-            "id": 2507895631,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-29 07:00:00",
-            "end_date": "2026-05-29 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1370743175,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -20012,6 +19989,29 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 2507895631,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-29 07:00:00",
+            "end_date": "2026-05-29 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -21297,30 +21297,6 @@
             ]
         },
         {
-            "id": 1283379141,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-01 10:00:00",
-            "end_date": "2026-06-01 15:30:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 963691822,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -21342,6 +21318,30 @@
             "weeklyRepetitions": [
                 "mo",
                 "tu"
+            ]
+        },
+        {
+            "id": 1283379141,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-01 10:00:00",
+            "end_date": "2026-06-01 15:30:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
             ]
         },
         {
@@ -21843,29 +21843,6 @@
             ]
         },
         {
-            "id": 2878401120,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-02 07:00:00",
-            "end_date": "2026-06-02 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2317180940,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -21890,6 +21867,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 2878401120,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-02 07:00:00",
+            "end_date": "2026-06-02 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -21971,6 +21971,29 @@
             ]
         },
         {
+            "id": 3694530088,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-02 07:30:00",
+            "end_date": "2026-06-02 11:30:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 935618020,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Runs",
@@ -21991,29 +22014,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 3694530088,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-02 07:30:00",
-            "end_date": "2026-06-02 11:30:00",
-            "venue": "Tennis Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Tennis",
-            "symbol": "tennisball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -23321,29 +23321,6 @@
             ]
         },
         {
-            "id": 1951637666,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-04 07:00:00",
-            "end_date": "2026-06-04 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 3088631695,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -23368,6 +23345,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1951637666,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-04 07:00:00",
+            "end_date": "2026-06-04 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -23970,29 +23970,6 @@
             ]
         },
         {
-            "id": 3220449040,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-05 07:00:00",
-            "end_date": "2026-06-05 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2022704219,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -24042,6 +24019,29 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 3220449040,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-05 07:00:00",
+            "end_date": "2026-06-05 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -25317,30 +25317,6 @@
             ]
         },
         {
-            "id": 3719902831,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-08 10:00:00",
-            "end_date": "2026-06-08 15:30:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1547157494,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -25362,6 +25338,30 @@
             "weeklyRepetitions": [
                 "mo",
                 "tu"
+            ]
+        },
+        {
+            "id": 3719902831,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-08 10:00:00",
+            "end_date": "2026-06-08 15:30:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
             ]
         },
         {
@@ -25863,29 +25863,6 @@
             ]
         },
         {
-            "id": 2719020290,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-09 07:00:00",
-            "end_date": "2026-06-09 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3726401874,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -25910,6 +25887,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 2719020290,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-09 07:00:00",
+            "end_date": "2026-06-09 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -25991,6 +25991,29 @@
             ]
         },
         {
+            "id": 265218920,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-09 07:30:00",
+            "end_date": "2026-06-09 11:30:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 2139533806,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Runs",
@@ -26011,29 +26034,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 265218920,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-09 07:30:00",
-            "end_date": "2026-06-09 11:30:00",
-            "venue": "Tennis Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Tennis",
-            "symbol": "tennisball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -27297,29 +27297,6 @@
             ]
         },
         {
-            "id": 305936918,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-11 07:00:00",
-            "end_date": "2026-06-11 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 2741341794,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -27344,6 +27321,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 305936918,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-11 07:00:00",
+            "end_date": "2026-06-11 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -27972,29 +27972,6 @@
             ]
         },
         {
-            "id": 39033690,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-12 07:00:00",
-            "end_date": "2026-06-12 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1299038128,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -28044,6 +28021,29 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 39033690,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-12 07:00:00",
+            "end_date": "2026-06-12 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -29319,30 +29319,6 @@
             ]
         },
         {
-            "id": 1942268135,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-15 10:00:00",
-            "end_date": "2026-06-15 15:30:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1292440274,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -29364,6 +29340,30 @@
             "weeklyRepetitions": [
                 "mo",
                 "tu"
+            ]
+        },
+        {
+            "id": 1942268135,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-15 10:00:00",
+            "end_date": "2026-06-15 15:30:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
             ]
         },
         {
@@ -29912,29 +29912,6 @@
             ]
         },
         {
-            "id": 446808735,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-16 07:00:00",
-            "end_date": "2026-06-16 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 850602616,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -29959,6 +29936,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 446808735,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-16 07:00:00",
+            "end_date": "2026-06-16 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -30040,6 +30040,29 @@
             ]
         },
         {
+            "id": 3533111536,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-16 07:30:00",
+            "end_date": "2026-06-16 11:30:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 4176630510,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Runs",
@@ -30060,29 +30083,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 3533111536,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-16 07:30:00",
-            "end_date": "2026-06-16 11:30:00",
-            "venue": "Tennis Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Tennis",
-            "symbol": "tennisball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -31352,29 +31352,6 @@
             ]
         },
         {
-            "id": 2704605616,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-18 07:00:00",
-            "end_date": "2026-06-18 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 1519453102,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -31399,6 +31376,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 2704605616,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-18 07:00:00",
+            "end_date": "2026-06-18 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -32066,29 +32066,6 @@
             ]
         },
         {
-            "id": 2049116436,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-19 07:00:00",
-            "end_date": "2026-06-19 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3736727094,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -32138,6 +32115,29 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 2049116436,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-19 07:00:00",
+            "end_date": "2026-06-19 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -33163,30 +33163,6 @@
             ]
         },
         {
-            "id": 4084042517,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-22 07:00:00",
-            "end_date": "2026-06-22 08:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1704079269,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -33210,6 +33186,30 @@
                 "mo",
                 "th",
                 "tu",
+                "we"
+            ]
+        },
+        {
+            "id": 4084042517,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-22 07:00:00",
+            "end_date": "2026-06-22 08:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
                 "we"
             ]
         },
@@ -33391,30 +33391,6 @@
             ]
         },
         {
-            "id": 2506116758,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-22 10:00:00",
-            "end_date": "2026-06-22 15:30:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2676836488,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -33436,6 +33412,30 @@
             "weeklyRepetitions": [
                 "mo",
                 "tu"
+            ]
+        },
+        {
+            "id": 2506116758,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-22 10:00:00",
+            "end_date": "2026-06-22 15:30:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
             ]
         },
         {
@@ -33940,18 +33940,18 @@
             ]
         },
         {
-            "id": 1106322849,
+            "id": 3686962532,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
+            "title": "Drop-in Volleyball",
             "description": "",
             "image": "",
             "start_date": "2026-06-23 07:00:00",
             "end_date": "2026-06-23 11:00:00",
-            "venue": "Gym A",
+            "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -33959,7 +33959,11 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "tu"
+                "fr",
+                "mo",
+                "th",
+                "tu",
+                "we"
             ]
         },
         {
@@ -33987,18 +33991,18 @@
             ]
         },
         {
-            "id": 3686962532,
+            "id": 1106322849,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
+            "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2026-06-23 07:00:00",
             "end_date": "2026-06-23 11:00:00",
-            "venue": "Gym B",
+            "venue": "Gym A",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "featuredDecal": null,
             "womens": false,
             "lgbt": false,
@@ -34006,11 +34010,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "th",
-                "tu",
-                "we"
+                "tu"
             ]
         },
         {
@@ -34092,6 +34092,29 @@
             ]
         },
         {
+            "id": 1272122532,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-23 07:30:00",
+            "end_date": "2026-06-23 11:30:00",
+            "venue": "Tennis Court",
+            "ticket_label": "Book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1656356882,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Runs",
@@ -34112,29 +34135,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 1272122532,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-23 07:30:00",
-            "end_date": "2026-06-23 11:30:00",
-            "venue": "Tennis Court",
-            "ticket_label": "Book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Tennis",
-            "symbol": "tennisball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -34614,30 +34614,6 @@
             ]
         },
         {
-            "id": 2792411399,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-24 07:00:00",
-            "end_date": "2026-06-24 08:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1672269426,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -34661,6 +34637,30 @@
                 "mo",
                 "th",
                 "tu",
+                "we"
+            ]
+        },
+        {
+            "id": 2792411399,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-24 07:00:00",
+            "end_date": "2026-06-24 08:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
                 "we"
             ]
         },
@@ -35218,6 +35218,27 @@
             ]
         },
         {
+            "id": 2550543116,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-24 18:30:00",
+            "end_date": "2026-06-24 20:45:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 1512821716,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -35237,6 +35258,33 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 4099485831,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-25 07:00:00",
+            "end_date": "2026-06-25 11:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "th",
+                "tu",
                 "we"
             ]
         },
@@ -35285,33 +35333,6 @@
             "closure": false,
             "weeklyRepetitions": [
                 "th"
-            ]
-        },
-        {
-            "id": 4099485831,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-25 07:00:00",
-            "end_date": "2026-06-25 11:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "th",
-                "tu",
-                "we"
             ]
         },
         {
@@ -35941,29 +35962,6 @@
             ]
         },
         {
-            "id": 2014644391,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-26 07:00:00",
-            "end_date": "2026-06-26 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3640089682,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -36013,6 +36011,29 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 2014644391,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-26 07:00:00",
+            "end_date": "2026-06-26 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -36823,29 +36844,6 @@
             ]
         },
         {
-            "id": 3936353078,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-27 13:30:00",
-            "end_date": "2026-06-27 16:45:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "sa"
-            ]
-        },
-        {
             "id": 333234995,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -37435,30 +37433,6 @@
             ]
         },
         {
-            "id": 277232416,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-29 10:00:00",
-            "end_date": "2026-06-29 15:30:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Other",
-            "symbol": "flag",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 4257061065,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -37480,6 +37454,30 @@
             "weeklyRepetitions": [
                 "mo",
                 "tu"
+            ]
+        },
+        {
+            "id": 277232416,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-29 10:00:00",
+            "end_date": "2026-06-29 15:30:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
             ]
         },
         {
@@ -38775,29 +38773,6 @@
             ]
         },
         {
-            "id": 2022870191,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-07-02 07:00:00",
-            "end_date": "2026-07-02 11:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 4162644808,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -38822,6 +38797,29 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 2022870191,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-02 07:00:00",
+            "end_date": "2026-07-02 11:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -39400,29 +39398,6 @@
             ]
         },
         {
-            "id": 601661451,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-07-03 07:00:00",
-            "end_date": "2026-07-03 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 679217479,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -39472,6 +39447,29 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 601661451,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-03 07:00:00",
+            "end_date": "2026-07-03 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -70854,75 +70852,6 @@
     ],
     "featured": [
         {
-            "id": 2579974165,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Hatha Yoga (Low Sensory)",
-            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45 minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided. Modifications are offered for postures to ensure all levels are welcome.   If you have additional requests, please connect with our instructors.",
-            "image": "",
-            "start_date": "2026-06-23 17:10:00",
-            "end_date": "2026-06-23 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 1430292036,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Community League Mixed Volleyball**",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-23 18:00:00",
-            "end_date": "2026-06-23 21:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3589291837,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates Reformer & Chair (Demo)",
-            "description": "This complimentary registered program is designed specifically for beginners as an introduction to Pilates including the Reformer and Pilates Chair in a supportive, small-group setting. This circuit-style class blends strength, cardio, balance, and flexibility with accessible modifications for all levels. Feel stronger, more aligned, and energized\u2014no experience needed! This class offers modified exercises and supportive techniques to ensure comfort and accessibility. *This offering is limited to one registration.",
-            "image": "",
-            "start_date": "2026-06-23 18:10:00",
-            "end_date": "2026-06-23 18:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "REGISTER NOW",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=dca1eb10-65e2-4568-a8b7-26482eff0415",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2214412503,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "MoveU Global Soccer Month Event",
@@ -70964,6 +70893,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "we"
+            ]
+        },
+        {
+            "id": 3316495938,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-25 17:00:00",
+            "end_date": "2026-06-25 20:15:00",
+            "venue": "Tennis Court",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Other",
+            "symbol": "flag",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
