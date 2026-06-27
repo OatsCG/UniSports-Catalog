@@ -82052,27 +82052,6 @@
     ],
     "featured": [
         {
-            "id": 3368742891,
-            "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
-            "title": "MYM Fitness- Core & More",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-26 13:00:00",
-            "end_date": "2026-06-26 13:45:00",
-            "venue": "Studio 1 (Double)",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2407180866,
             "url": "https://shop.westernmustangs.ca/Facility/GetSchedule",
             "title": "Thunderbirds - City of London",
