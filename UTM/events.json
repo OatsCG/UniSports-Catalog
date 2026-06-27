@@ -677,29 +677,6 @@
             ]
         },
         {
-            "id": 3848031809,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
-            "image": "",
-            "start_date": "2026-04-07 16:10:00",
-            "end_date": "2026-04-07 16:55:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3509194164,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Swim",
@@ -2839,29 +2816,6 @@
             "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 1590065807,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
-            "image": "",
-            "start_date": "2026-04-14 16:10:00",
-            "end_date": "2026-04-14 16:55:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -5222,29 +5176,6 @@
             ]
         },
         {
-            "id": 2724220319,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
-            "image": "",
-            "start_date": "2026-04-21 16:10:00",
-            "end_date": "2026-04-21 16:55:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1989952692,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Swim",
@@ -6830,30 +6761,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3836024361,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-27 07:00:00",
-            "end_date": "2026-04-27 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 987507866,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -6874,6 +6781,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3836024361,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-27 07:00:00",
+            "end_date": "2026-04-27 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -7480,29 +7411,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 769777033,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
-            "image": "",
-            "start_date": "2026-04-28 16:10:00",
-            "end_date": "2026-04-28 16:55:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4016296516,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Swim",
@@ -7644,30 +7552,6 @@
             ]
         },
         {
-            "id": 2447506798,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-04-29 07:00:00",
-            "end_date": "2026-04-29 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 609077586,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -7688,6 +7572,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 2447506798,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-04-29 07:00:00",
+            "end_date": "2026-04-29 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -9273,30 +9181,6 @@
             ]
         },
         {
-            "id": 446896267,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-04 07:00:00",
-            "end_date": "2026-05-04 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 417233397,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -9317,6 +9201,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 446896267,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-04 07:00:00",
+            "end_date": "2026-05-04 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -9927,30 +9835,6 @@
             ]
         },
         {
-            "id": 3191489741,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-05-05 07:30:00",
-            "end_date": "2026-05-05 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 604561653,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -9975,6 +9859,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 3191489741,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-05-05 07:30:00",
+            "end_date": "2026-05-05 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -10125,29 +10033,6 @@
             "symbol": "figure.pool.swim",
             "featuredDecal": null,
             "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 822431305,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
-            "image": "",
-            "start_date": "2026-05-05 16:10:00",
-            "end_date": "2026-05-05 16:55:00",
-            "venue": "Strength and Conditioning Center (SCC)",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
@@ -10348,30 +10233,6 @@
             ]
         },
         {
-            "id": 1989894326,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-06 07:00:00",
-            "end_date": "2026-05-06 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2503187214,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -10392,6 +10253,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 1989894326,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-06 07:00:00",
+            "end_date": "2026-05-06 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -10829,30 +10714,6 @@
             ]
         },
         {
-            "id": 1662355511,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-05-07 07:30:00",
-            "end_date": "2026-05-07 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 3201309525,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -10877,6 +10738,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1662355511,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-05-07 07:30:00",
+            "end_date": "2026-05-07 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -10969,7 +10854,8 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "th"
+                "th",
+                "tu"
             ]
         },
         {
@@ -11896,30 +11782,6 @@
             ]
         },
         {
-            "id": 2575175707,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-11 07:00:00",
-            "end_date": "2026-05-11 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 3083923411,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -11940,6 +11802,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 2575175707,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-11 07:00:00",
+            "end_date": "2026-05-11 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -12428,30 +12314,6 @@
             ]
         },
         {
-            "id": 3243888326,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-05-12 07:30:00",
-            "end_date": "2026-05-12 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 4128400365,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -12476,6 +12338,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 3243888326,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-05-12 07:30:00",
+            "end_date": "2026-05-12 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -12595,18 +12481,18 @@
             ]
         },
         {
-            "id": 3284953930,
+            "id": 1788935795,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-05-12 16:10:00",
             "end_date": "2026-05-12 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -12614,6 +12500,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -12878,30 +12765,6 @@
             ]
         },
         {
-            "id": 1202576659,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-13 07:00:00",
-            "end_date": "2026-05-13 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1952165077,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -12922,6 +12785,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 1202576659,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-13 07:00:00",
+            "end_date": "2026-05-13 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -13470,30 +13357,6 @@
             ]
         },
         {
-            "id": 819346166,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-05-14 07:30:00",
-            "end_date": "2026-05-14 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 217889521,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -13518,6 +13381,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 819346166,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-05-14 07:30:00",
+            "end_date": "2026-05-14 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -13633,7 +13520,8 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "th"
+                "th",
+                "tu"
             ]
         },
         {
@@ -14671,30 +14559,6 @@
             ]
         },
         {
-            "id": 3297879244,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-18 07:00:00",
-            "end_date": "2026-05-18 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 3320057920,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -14715,6 +14579,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3297879244,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-18 07:00:00",
+            "end_date": "2026-05-18 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -15224,30 +15112,6 @@
             ]
         },
         {
-            "id": 1216990004,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-05-19 07:30:00",
-            "end_date": "2026-05-19 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 4007708115,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -15272,6 +15136,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1216990004,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-05-19 07:30:00",
+            "end_date": "2026-05-19 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -15391,18 +15279,18 @@
             ]
         },
         {
-            "id": 3514360256,
+            "id": 4107337259,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-05-19 16:10:00",
             "end_date": "2026-05-19 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -15410,6 +15298,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -15674,30 +15563,6 @@
             ]
         },
         {
-            "id": 3242592044,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-20 07:00:00",
-            "end_date": "2026-05-20 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 3861648264,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -15718,6 +15583,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3242592044,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-20 07:00:00",
+            "end_date": "2026-05-20 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -16272,30 +16161,6 @@
             ]
         },
         {
-            "id": 1431234042,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-05-21 07:30:00",
-            "end_date": "2026-05-21 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 672960683,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -16320,6 +16185,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1431234042,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-05-21 07:30:00",
+            "end_date": "2026-05-21 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -16435,7 +16324,8 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "th"
+                "th",
+                "tu"
             ]
         },
         {
@@ -16678,6 +16568,29 @@
             ]
         },
         {
+            "id": 3873263502,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates & Barre",
+            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
+            "image": "",
+            "start_date": "2026-05-22 07:30:00",
+            "end_date": "2026-05-22 08:15:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 4097201342,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -16702,29 +16615,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 3873263502,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-05-22 07:30:00",
-            "end_date": "2026-05-22 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -17460,30 +17350,6 @@
             ]
         },
         {
-            "id": 751884857,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-25 07:00:00",
-            "end_date": "2026-05-25 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 4193556245,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -17504,6 +17370,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 751884857,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-25 07:00:00",
+            "end_date": "2026-05-25 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -18082,30 +17972,6 @@
             ]
         },
         {
-            "id": 1494521931,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-05-26 07:30:00",
-            "end_date": "2026-05-26 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 572607177,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -18130,6 +17996,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1494521931,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-05-26 07:30:00",
+            "end_date": "2026-05-26 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -18320,18 +18210,18 @@
             ]
         },
         {
-            "id": 3120248055,
+            "id": 2456697467,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-05-26 16:10:00",
             "end_date": "2026-05-26 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -18339,6 +18229,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -18603,30 +18494,6 @@
             ]
         },
         {
-            "id": 729372329,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-05-27 07:00:00",
-            "end_date": "2026-05-27 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 146247935,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -18647,6 +18514,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 729372329,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-05-27 07:00:00",
+            "end_date": "2026-05-27 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -19323,30 +19214,6 @@
             ]
         },
         {
-            "id": 3560638351,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-05-28 07:30:00",
-            "end_date": "2026-05-28 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 1156131485,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -19371,6 +19238,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 3560638351,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-05-28 07:30:00",
+            "end_date": "2026-05-28 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -19557,7 +19448,8 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "th"
+                "th",
+                "tu"
             ]
         },
         {
@@ -19800,6 +19692,29 @@
             ]
         },
         {
+            "id": 632546839,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates & Barre",
+            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
+            "image": "",
+            "start_date": "2026-05-29 07:30:00",
+            "end_date": "2026-05-29 08:15:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 995390650,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -19824,29 +19739,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 632546839,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-05-29 07:30:00",
-            "end_date": "2026-05-29 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -20905,30 +20797,6 @@
             ]
         },
         {
-            "id": 3407369760,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-01 07:00:00",
-            "end_date": "2026-06-01 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 930345514,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -20949,6 +20817,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3407369760,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-01 07:00:00",
+            "end_date": "2026-06-01 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -21153,6 +21045,30 @@
             ]
         },
         {
+            "id": 4119875925,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-01 11:30:00",
+            "end_date": "2026-06-01 16:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 2351469263,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -21176,30 +21092,6 @@
                 "mo",
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 4119875925,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-01 11:30:00",
-            "end_date": "2026-06-01 16:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -21704,30 +21596,6 @@
             ]
         },
         {
-            "id": 935618020,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-06-02 07:30:00",
-            "end_date": "2026-06-02 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 4101824262,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -21752,6 +21620,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 935618020,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-06-02 07:30:00",
+            "end_date": "2026-06-02 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -22014,18 +21906,18 @@
             ]
         },
         {
-            "id": 3395627234,
+            "id": 2489080832,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-06-02 16:10:00",
             "end_date": "2026-06-02 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -22033,6 +21925,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -22371,30 +22264,6 @@
             ]
         },
         {
-            "id": 657766556,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-03 07:00:00",
-            "end_date": "2026-06-03 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2483359632,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -22415,6 +22284,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 657766556,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-03 07:00:00",
+            "end_date": "2026-06-03 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -23158,30 +23051,6 @@
             ]
         },
         {
-            "id": 737699814,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-06-04 07:30:00",
-            "end_date": "2026-06-04 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 3634418650,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -23206,6 +23075,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 737699814,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-06-04 07:30:00",
+            "end_date": "2026-06-04 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -23441,6 +23334,30 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 20963079,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-04 17:00:00",
+            "end_date": "2026-06-04 19:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "th"
             ]
         },
@@ -23516,29 +23433,6 @@
             "weeklyRepetitions": [
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 20963079,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-04 17:00:00",
-            "end_date": "2026-06-04 19:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
             ]
         },
         {
@@ -23782,6 +23676,29 @@
             ]
         },
         {
+            "id": 1981618688,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates & Barre",
+            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
+            "image": "",
+            "start_date": "2026-06-05 07:30:00",
+            "end_date": "2026-06-05 08:15:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 1229035702,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -23806,29 +23723,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 1981618688,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-06-05 07:30:00",
-            "end_date": "2026-06-05 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -24001,6 +23895,30 @@
             ]
         },
         {
+            "id": 2587295790,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-05 11:30:00",
+            "end_date": "2026-06-05 16:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 689098909,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -24024,30 +23942,6 @@
                 "mo",
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 2587295790,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-05 11:30:00",
-            "end_date": "2026-06-05 16:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -24877,30 +24771,6 @@
             ]
         },
         {
-            "id": 182019453,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-08 07:00:00",
-            "end_date": "2026-06-08 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2271449618,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -24921,6 +24791,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 182019453,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-08 07:00:00",
+            "end_date": "2026-06-08 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -25125,6 +25019,30 @@
             ]
         },
         {
+            "id": 3449188950,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-08 11:30:00",
+            "end_date": "2026-06-08 16:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 2409400217,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -25148,30 +25066,6 @@
                 "mo",
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 3449188950,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-08 11:30:00",
-            "end_date": "2026-06-08 16:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -25676,30 +25570,6 @@
             ]
         },
         {
-            "id": 2139533806,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-06-09 07:30:00",
-            "end_date": "2026-06-09 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 1135260419,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -25724,6 +25594,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 2139533806,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-06-09 07:30:00",
+            "end_date": "2026-06-09 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -25986,18 +25880,18 @@
             ]
         },
         {
-            "id": 2045333910,
+            "id": 1661362390,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-06-09 16:10:00",
             "end_date": "2026-06-09 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -26005,6 +25899,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -26343,30 +26238,6 @@
             ]
         },
         {
-            "id": 3725590699,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-10 07:00:00",
-            "end_date": "2026-06-10 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2195602021,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -26387,6 +26258,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3725590699,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-10 07:00:00",
+            "end_date": "2026-06-10 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -27086,30 +26981,6 @@
             ]
         },
         {
-            "id": 3948436280,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-06-11 07:30:00",
-            "end_date": "2026-06-11 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 2223375230,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -27134,6 +27005,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 3948436280,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-06-11 07:30:00",
+            "end_date": "2026-06-11 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -27395,6 +27290,30 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 1359777107,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-11 17:00:00",
+            "end_date": "2026-06-11 19:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "th"
             ]
         },
@@ -27470,29 +27389,6 @@
             "weeklyRepetitions": [
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 1359777107,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-11 17:00:00",
-            "end_date": "2026-06-11 19:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
             ]
         },
         {
@@ -27736,6 +27632,29 @@
             ]
         },
         {
+            "id": 3544777479,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates & Barre",
+            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
+            "image": "",
+            "start_date": "2026-06-12 07:30:00",
+            "end_date": "2026-06-12 08:15:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 3362177455,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -27760,29 +27679,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 3544777479,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-06-12 07:30:00",
-            "end_date": "2026-06-12 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -27955,6 +27851,30 @@
             ]
         },
         {
+            "id": 1452548852,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-12 11:30:00",
+            "end_date": "2026-06-12 16:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 1090386552,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -27978,30 +27898,6 @@
                 "mo",
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 1452548852,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-12 11:30:00",
-            "end_date": "2026-06-12 16:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -28831,30 +28727,6 @@
             ]
         },
         {
-            "id": 3287004997,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-15 07:00:00",
-            "end_date": "2026-06-15 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1870644001,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -28875,6 +28747,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3287004997,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-15 07:00:00",
+            "end_date": "2026-06-15 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -29105,6 +29001,30 @@
             ]
         },
         {
+            "id": 978372925,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-15 11:30:00",
+            "end_date": "2026-06-15 16:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 3484797237,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -29128,30 +29048,6 @@
                 "mo",
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 978372925,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-15 11:30:00",
-            "end_date": "2026-06-15 16:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -29677,30 +29573,6 @@
             ]
         },
         {
-            "id": 4176630510,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-06-16 07:30:00",
-            "end_date": "2026-06-16 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 3169526603,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -29725,6 +29597,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 4176630510,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-06-16 07:30:00",
+            "end_date": "2026-06-16 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -30013,18 +29909,18 @@
             ]
         },
         {
-            "id": 1171603049,
+            "id": 1320990439,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-06-16 16:10:00",
             "end_date": "2026-06-16 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -30032,6 +29928,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -30347,30 +30244,6 @@
             ]
         },
         {
-            "id": 2271279031,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-17 07:00:00",
-            "end_date": "2026-06-17 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2929167592,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -30391,6 +30264,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 2271279031,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-17 07:00:00",
+            "end_date": "2026-06-17 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -31114,30 +31011,6 @@
             ]
         },
         {
-            "id": 1462715645,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-06-18 07:30:00",
-            "end_date": "2026-06-18 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 4164707109,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -31162,6 +31035,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1462715645,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-06-18 07:30:00",
+            "end_date": "2026-06-18 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -31441,6 +31338,30 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 2567653371,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-18 17:00:00",
+            "end_date": "2026-06-18 19:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "th"
             ]
         },
@@ -31516,29 +31437,6 @@
             "weeklyRepetitions": [
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 2567653371,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-18 17:00:00",
-            "end_date": "2026-06-18 19:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
             ]
         },
         {
@@ -31782,6 +31680,29 @@
             ]
         },
         {
+            "id": 159723224,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates & Barre",
+            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
+            "image": "",
+            "start_date": "2026-06-19 07:30:00",
+            "end_date": "2026-06-19 08:15:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 2026012,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -31806,29 +31727,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 159723224,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-06-19 07:30:00",
-            "end_date": "2026-06-19 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -32001,6 +31899,30 @@
             ]
         },
         {
+            "id": 1629168510,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-19 11:30:00",
+            "end_date": "2026-06-19 16:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 2474748298,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -32024,30 +31946,6 @@
                 "mo",
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 1629168510,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-19 11:30:00",
-            "end_date": "2026-06-19 16:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -32831,6 +32729,31 @@
             ]
         },
         {
+            "id": 1494610143,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-22 07:00:00",
+            "end_date": "2026-06-22 11:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 4084042517,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -32874,31 +32797,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 1494610143,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-22 07:00:00",
-            "end_date": "2026-06-22 11:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
                 "mo",
                 "we"
             ]
@@ -33129,6 +33027,30 @@
             ]
         },
         {
+            "id": 277370190,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-22 11:30:00",
+            "end_date": "2026-06-22 16:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 105606333,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -33152,30 +33074,6 @@
                 "mo",
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 277370190,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-22 11:30:00",
-            "end_date": "2026-06-22 16:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -33681,30 +33579,6 @@
             ]
         },
         {
-            "id": 1656356882,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-06-23 07:30:00",
-            "end_date": "2026-06-23 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 2100437497,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -33729,6 +33603,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1656356882,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-06-23 07:30:00",
+            "end_date": "2026-06-23 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -33947,18 +33845,18 @@
             ]
         },
         {
-            "id": 1027821894,
+            "id": 1701262021,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-06-23 16:10:00",
             "end_date": "2026-06-23 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -33966,6 +33864,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -34258,6 +34157,31 @@
             ]
         },
         {
+            "id": 4086331546,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-24 07:00:00",
+            "end_date": "2026-06-24 11:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 2792411399,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -34301,31 +34225,6 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 4086331546,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-24 07:00:00",
-            "end_date": "2026-06-24 11:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
                 "mo",
                 "we"
             ]
@@ -34979,30 +34878,6 @@
             ]
         },
         {
-            "id": 2134024838,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-06-25 07:30:00",
-            "end_date": "2026-06-25 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 1306865849,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -35027,6 +34902,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 2134024838,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-06-25 07:30:00",
+            "end_date": "2026-06-25 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -35264,6 +35163,30 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 2725064205,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-25 17:00:00",
+            "end_date": "2026-06-25 19:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "th"
             ]
         },
@@ -35339,29 +35262,6 @@
             "weeklyRepetitions": [
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 2725064205,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-25 17:00:00",
-            "end_date": "2026-06-25 19:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
             ]
         },
         {
@@ -35651,6 +35551,29 @@
             ]
         },
         {
+            "id": 3743713865,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates & Barre",
+            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
+            "image": "",
+            "start_date": "2026-06-26 07:30:00",
+            "end_date": "2026-06-26 08:15:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 414524099,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -35675,29 +35598,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 3743713865,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-06-26 07:30:00",
-            "end_date": "2026-06-26 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -35870,6 +35770,30 @@
             ]
         },
         {
+            "id": 6783826,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-26 11:30:00",
+            "end_date": "2026-06-26 16:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 2976106562,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -35893,30 +35817,6 @@
                 "mo",
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 6783826,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-26 11:30:00",
-            "end_date": "2026-06-26 16:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -36870,30 +36770,6 @@
             ]
         },
         {
-            "id": 991236928,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-29 07:00:00",
-            "end_date": "2026-06-29 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1749727277,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -36914,6 +36790,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 991236928,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-29 07:00:00",
+            "end_date": "2026-06-29 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -37144,6 +37044,30 @@
             ]
         },
         {
+            "id": 2776132928,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-06-29 11:30:00",
+            "end_date": "2026-06-29 16:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 3650677758,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -37167,30 +37091,6 @@
                 "mo",
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 2776132928,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-06-29 11:30:00",
-            "end_date": "2026-06-29 16:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -37577,30 +37477,6 @@
             ]
         },
         {
-            "id": 4026438389,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-06-30 07:30:00",
-            "end_date": "2026-06-30 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 3626530779,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -37625,6 +37501,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 4026438389,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-06-30 07:30:00",
+            "end_date": "2026-06-30 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -37774,18 +37674,18 @@
             ]
         },
         {
-            "id": 3880842138,
+            "id": 963004046,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-06-30 16:10:00",
             "end_date": "2026-06-30 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -37793,6 +37693,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -37970,30 +37871,6 @@
             ]
         },
         {
-            "id": 2936168018,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-07-01 07:00:00",
-            "end_date": "2026-07-01 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 2861630444,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -38014,6 +37891,30 @@
             "closure": false,
             "weeklyRepetitions": [
                 "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 2936168018,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-01 07:00:00",
+            "end_date": "2026-07-01 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "mo",
                 "we"
             ]
@@ -38463,30 +38364,6 @@
             ]
         },
         {
-            "id": 1375458446,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs",
-            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
-            "image": "",
-            "start_date": "2026-07-02 07:30:00",
-            "end_date": "2026-07-02 08:00:00",
-            "venue": "Track Level",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Recreation",
-            "symbol": "figure.run",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
-        },
-        {
             "id": 528127439,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -38511,6 +38388,30 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1375458446,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs",
+            "description": "This program is open to all students, RAWC staff, faculty members and community members regardless of experience level. Looking for a fun and social way to stay active while connecting with the UTM community? Running is not only a great way to boost your fitness, but it also has amazing mental and physical health benefits. Our group runs offer the perfect opportunity to meet new friends, explore campus, and crush your fitness goals\u2014together!",
+            "image": "",
+            "start_date": "2026-07-02 07:30:00",
+            "end_date": "2026-07-02 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Recreation",
+            "symbol": "figure.run",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -38769,6 +38670,30 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 1409368823,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-02 17:00:00",
+            "end_date": "2026-07-02 19:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
                 "th"
             ]
         },
@@ -38820,29 +38745,6 @@
                 "mo",
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 1409368823,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2026-07-02 17:00:00",
-            "end_date": "2026-07-02 19:00:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "th"
             ]
         },
         {
@@ -39087,6 +38989,29 @@
             ]
         },
         {
+            "id": 1145921266,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates & Barre",
+            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
+            "image": "",
+            "start_date": "2026-07-03 07:30:00",
+            "end_date": "2026-07-03 08:15:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 3280827274,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Squash",
@@ -39112,50 +39037,6 @@
                 "tu",
                 "we"
             ]
-        },
-        {
-            "id": 1145921266,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates & Barre",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2026-07-03 07:30:00",
-            "end_date": "2026-07-03 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 3729529741,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2026-07-03 07:30:00",
-            "end_date": "2026-07-03 10:00:00",
-            "venue": "Tennis Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Tennis",
-            "symbol": "tennisball",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 1339891480,
@@ -39208,6 +39089,27 @@
                 "mo",
                 "we"
             ]
+        },
+        {
+            "id": 3729529741,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-03 07:30:00",
+            "end_date": "2026-07-03 10:00:00",
+            "venue": "Tennis Court",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 3300112807,
@@ -39348,6 +39250,30 @@
             ]
         },
         {
+            "id": 1991599924,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-03 11:30:00",
+            "end_date": "2026-07-03 16:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo"
+            ]
+        },
+        {
             "id": 3860977625,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -39371,30 +39297,6 @@
                 "mo",
                 "th",
                 "tu"
-            ]
-        },
-        {
-            "id": 1991599924,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2026-07-03 11:30:00",
-            "end_date": "2026-07-03 16:30:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "featuredDecal": null,
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -41347,18 +41249,18 @@
             ]
         },
         {
-            "id": 2469932321,
+            "id": 3285429435,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-07-07 16:10:00",
             "end_date": "2026-07-07 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -41366,6 +41268,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -42691,7 +42594,8 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "th"
+                "th",
+                "tu"
             ]
         },
         {
@@ -45332,18 +45236,18 @@
             ]
         },
         {
-            "id": 3191099990,
+            "id": 3271935097,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-07-14 16:10:00",
             "end_date": "2026-07-14 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -45351,6 +45255,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -46724,7 +46629,8 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "th"
+                "th",
+                "tu"
             ]
         },
         {
@@ -49428,18 +49334,18 @@
             ]
         },
         {
-            "id": 457239719,
+            "id": 1454707443,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-07-21 16:10:00",
             "end_date": "2026-07-21 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -49447,6 +49353,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -50820,7 +50727,8 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "th"
+                "th",
+                "tu"
             ]
         },
         {
@@ -53461,18 +53369,18 @@
             ]
         },
         {
-            "id": 1398659572,
+            "id": 2681948131,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-07-28 16:10:00",
             "end_date": "2026-07-28 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -53480,6 +53388,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -54853,7 +54762,8 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "th"
+                "th",
+                "tu"
             ]
         },
         {
@@ -57472,18 +57382,18 @@
             ]
         },
         {
-            "id": 2106959434,
+            "id": 3624428539,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-08-04 16:10:00",
             "end_date": "2026-08-04 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -57491,6 +57401,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -58771,7 +58682,8 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "th"
+                "th",
+                "tu"
             ]
         },
         {
@@ -61365,18 +61277,18 @@
             ]
         },
         {
-            "id": 2664577589,
+            "id": 3779647523,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-08-11 16:10:00",
             "end_date": "2026-08-11 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -61384,6 +61296,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -62618,7 +62531,8 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "th"
+                "th",
+                "tu"
             ]
         },
         {
@@ -65166,18 +65080,18 @@
             ]
         },
         {
-            "id": 3905662172,
+            "id": 211936287,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts. We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center. Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class. No matter your fitness level, this is a perfect class to learn the proper technique, fine tune your strength training program, or take it to the next level as an experienced lifter.",
+            "title": "Women's Only: Glutes, Core & More",
+            "description": "A Pilates-inspired women's only fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles. Join us and get the strength back in your glutes and core!",
             "image": "",
             "start_date": "2026-08-18 16:10:00",
             "end_date": "2026-08-18 16:55:00",
             "venue": "Strength and Conditioning Center (SCC)",
             "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f14ca664-53fc-48a4-8247-bd9fe8af729f",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
             "featuredDecal": null,
             "womens": true,
             "lgbt": false,
@@ -65185,6 +65099,7 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -66302,7 +66217,8 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "th"
+                "th",
+                "tu"
             ]
         },
         {
@@ -71277,15 +71193,78 @@
             "weeklyRepetitions": [
                 "th"
             ]
+        },
+        {
+            "id": 1815193982,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-03 10:00:00",
+            "end_date": "2026-07-03 11:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 3230329586,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-03 17:00:00",
+            "end_date": "2026-07-03 17:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 2116868677,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Lifesaving Sport",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-03 18:00:00",
+            "end_date": "2026-07-03 19:25:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "lifepreserver",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
         }
     ],
     "announcements": [
-        {
-            "id": 755542972,
-            "title": "Service Disruption: Pool Closed from June 23 - 24, 2026",
-            "body": "Please be advised that the **Pool will be closed from Tuesday, June 23 to Wednesday June, 24** due to maintenance and repairs. The pool will reopen on Thursday, June 25.",
-            "type": 1
-        },
         {
             "id": 874347407,
             "title": "Closure Notice: June 29 - July 1, 2026",
