@@ -71262,6 +71262,29 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 877221286,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Stroke Development",
+            "description": "",
+            "image": "",
+            "start_date": "2026-07-05 12:00:00",
+            "end_date": "2026-07-05 13:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "featuredDecal": null,
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
         }
     ],
     "announcements": [
