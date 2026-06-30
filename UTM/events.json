@@ -71149,13 +71149,13 @@
     ],
     "featured": [
         {
-            "id": 2652610926,
+            "id": 1764203525,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Adaptive Fitness Swim",
+            "title": "Intro to Coached Swim",
             "description": "",
             "image": "",
-            "start_date": "2026-06-29 11:00:00",
-            "end_date": "2026-06-29 14:00:00",
+            "start_date": "2026-07-01 07:15:00",
+            "end_date": "2026-07-01 08:15:00",
             "venue": "Pool",
             "ticket_label": "",
             "ticket_url": "",
@@ -71168,7 +71168,8 @@
             "intramurals": false,
             "closure": false,
             "weeklyRepetitions": [
-                "mo"
+                "mo",
+                "we"
             ]
         },
         {
